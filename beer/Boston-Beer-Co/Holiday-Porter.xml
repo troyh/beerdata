@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Holiday-Porter" brewery_id="Boston-Beer-Co" calories_per_ml="0.594563223711655" abv="5.80" og="16Plato">
+  <name>Holiday Porter</name>
+  <description>Introduced as a member of the Winter Classics Mix Pack in 2004, Samuel AdamsÂ® Holiday Porter with its rich malt complexity has become a favorite among our winter seasonal brews. In total, five varieties of malted barley are used in the brewing process including a variety of German malt called CarafaÂ®. The CarafaÂ® gives our Holiday Porter its smooth, roasted malt character. Add generous portions of imported hops to the mix and one has a brew that is both robust and high in drinkability.
+CarafaÂ® is a registered trademark of Weyermann Malt, Bamburg, Germany.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description/>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

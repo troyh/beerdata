@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dempseys-Restaurant-and-Brewery">
+  <name>Dempsey's Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>50 E Washington St</street>
+    <city>Petaluma</city>
+    <state>CA</state>
+    <zip>94952-3115</zip>
+    <latitude>38.236070</latitude>
+    <longitude>-122.639467</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 765-9694</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Laughing-Buddha-Brewing">
+  <name>Laughing Buddha Brewing‎</name>
+  <address>
+    <street>9320 15th Ave S</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98108-5104</zip>
+    <latitude>47.519316</latitude>
+    <longitude>-122.313433</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 762-3642</phone>
+</brewery>

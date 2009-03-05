@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="DL-Geary-Brewing-Co">
+  <name>DL Geary Brewing Co‎</name>
+  <address>
+    <street>38 Evergreen Dr</street>
+    <city>Portland</city>
+    <state>ME</state>
+    <zip>04103-1066</zip>
+    <latitude>43.707668</latitude>
+    <longitude>-70.314508</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 878-2337</phone>
+</brewery>

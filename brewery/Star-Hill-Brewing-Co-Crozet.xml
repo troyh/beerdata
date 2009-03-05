@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Star-Hill-Brewing-Co-Crozet">
+  <name>Star Hill Brewing Co‎</name>
+  <address>
+    <street>5391 Three Notched Rd</street>
+    <city>Crozet</city>
+    <state>VA</state>
+    <zip>US</zip>
+    <latitude>38.069655</latitude>
+    <longitude>-78.700689</longitude>
+    <country/>
+  </address>
+  <phone>(434) 823-5671</phone>
+</brewery>

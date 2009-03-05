@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bayern-Brewing-Inc">
+  <name>Bayern Brewing Inc‎</name>
+  <address>
+    <street>1507 Montana St</street>
+    <city>Missoula</city>
+    <state>MT</state>
+    <zip>59801-1409</zip>
+    <latitude>46.872723</latitude>
+    <longitude>-114.018785</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 721-1482</phone>
+</brewery>

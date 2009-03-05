@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Walking-Man-Brewing">
+  <name>Walking Man Brewing‎</name>
+  <address>
+    <street>240 SW 1st St</street>
+    <city>Stevenson</city>
+    <state>WA</state>
+    <zip>98648</zip>
+    <latitude>45.693946</latitude>
+    <longitude>-121.881074</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 427-5520</phone>
+</brewery>

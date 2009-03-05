@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sebago-Brewing-Co-Gorham">
+  <name>Sebago Brewing Co‎</name>
+  <address>
+    <street>29 Elm St</street>
+    <city>Gorham</city>
+    <state>ME</state>
+    <zip>04038-1524</zip>
+    <latitude>43.679185</latitude>
+    <longitude>-70.439736</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 839-2337</phone>
+</brewery>

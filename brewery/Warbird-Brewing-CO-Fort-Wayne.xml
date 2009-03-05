@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Warbird-Brewing-CO-Fort-Wayne">
+  <name>Warbird Brewing CO‎</name>
+  <address>
+    <street>10510 Majic Port Ln</street>
+    <city>Fort Wayne</city>
+    <state>IN</state>
+    <zip>46819</zip>
+    <latitude>40.988132</latitude>
+    <longitude>-85.167177</longitude>
+    <country>US</country>
+  </address>
+  <phone>(260) 459-2400</phone>
+</brewery>

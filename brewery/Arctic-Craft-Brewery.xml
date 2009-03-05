@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Arctic-Craft-Brewery">
+  <name>Arctic Craft Brewery‎</name>
+  <address>
+    <street>2506 Platte Pl</street>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+    <zip>80909-6134</zip>
+    <latitude>38.836905</latitude>
+    <longitude>-104.780939</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 477-1340</phone>
+</brewery>

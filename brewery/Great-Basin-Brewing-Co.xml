@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Basin-Brewing-Co">
+  <name>Great Basin Brewing Co‎</name>
+  <address>
+    <street>846 Victorian Ave</street>
+    <city>Sparks</city>
+    <state>NV</state>
+    <zip>89431-5077</zip>
+    <latitude>39.534890</latitude>
+    <longitude>-119.754039</longitude>
+    <country>US</country>
+  </address>
+  <phone>(775) 355-7711</phone>
+</brewery>

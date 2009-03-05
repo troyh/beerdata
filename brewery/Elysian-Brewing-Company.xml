@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elysian-Brewing-Company">
+  <name>Elysian Brewing Company‎</name>
+  <address>
+    <street>1221 E. Pike St.</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98122-3917</zip>
+    <latitude>47.613981</latitude>
+    <longitude>-122.316476</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 860-1920</phone>
+</brewery>

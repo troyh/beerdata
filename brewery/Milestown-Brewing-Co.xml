@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Milestown-Brewing-Co">
+  <name>Milestown Brewing Co‎</name>
+  <address>
+    <street>1014 S Haynes Ave</street>
+    <city>Miles City</city>
+    <state>MT</state>
+    <zip>59301-5726</zip>
+    <latitude>46.398999</latitude>
+    <longitude>-105.822422</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 232-3898</phone>
+</brewery>

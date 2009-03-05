@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bear-Republic-Brewing-Co">
+  <name>Bear Republic Brewing Co‎</name>
+  <address>
+    <street>110 Sandholm Ln</street>
+    <city>Cloverdale</city>
+    <state>CA</state>
+    <zip>95425-4439</zip>
+    <latitude>38.781558</latitude>
+    <longitude>-123.010710</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 433-2337</phone>
+</brewery>

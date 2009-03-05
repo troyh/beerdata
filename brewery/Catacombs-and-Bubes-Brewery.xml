@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Catacombs-and-Bubes-Brewery">
+  <name>Catacombs &amp; Bube's Brewery‎</name>
+  <address>
+    <street>102 N Market St</street>
+    <city>Mt Joy</city>
+    <state>PA</state>
+    <zip>17552-1306</zip>
+    <latitude>40.111860</latitude>
+    <longitude>-76.502936</longitude>
+    <country>US</country>
+  </address>
+  <phone>(717) 653-2056</phone>
+</brewery>

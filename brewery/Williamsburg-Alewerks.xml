@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Williamsburg-Alewerks">
+  <name>Williamsburg Alewerks‎</name>
+  <address>
+    <street>189 Ewell Rd</street>
+    <city>Williamsburg</city>
+    <state>VA</state>
+    <zip>23188-2185</zip>
+    <latitude>37.320628</latitude>
+    <longitude>-76.732306</longitude>
+    <country>US</country>
+  </address>
+  <phone>(757) 220-3670</phone>
+</brewery>

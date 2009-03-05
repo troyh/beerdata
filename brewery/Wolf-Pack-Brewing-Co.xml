@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wolf-Pack-Brewing-Co">
+  <name>Wolf Pack Brewing Co‎</name>
+  <address>
+    <street>139 N Canyon St</street>
+    <city>West Yellowstone</city>
+    <state>MT</state>
+    <zip>59758</zip>
+    <latitude>44.661602</latitude>
+    <longitude>-111.099544</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 646-7225</phone>
+</brewery>

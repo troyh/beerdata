@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Golden-City-Brewery">
+  <name>Golden City Brewery‎</name>
+  <address>
+    <street>920 12th St</street>
+    <city>Golden</city>
+    <state>CO</state>
+    <zip>80401-1223</zip>
+    <latitude>39.754765</latitude>
+    <longitude>-105.222807</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 279-8092</phone>
+</brewery>

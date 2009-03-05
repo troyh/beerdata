@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Two-Brothers-Brewing-Company">
+  <name>Two Brothers Brewing Company‎</name>
+  <address>
+    <street>30w315 Calumet Ave.</street>
+    <city>Warrenville</city>
+    <state>IL</state>
+    <zip>60555</zip>
+    <latitude>41.824780</latitude>
+    <longitude>-88.211227</longitude>
+    <country>US</country>
+  </address>
+  <phone>(630) 393-4800</phone>
+</brewery>

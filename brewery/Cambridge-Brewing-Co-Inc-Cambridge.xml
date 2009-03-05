@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cambridge-Brewing-Co-Inc-Cambridge">
+  <name>Cambridge Brewing Co Inc‎</name>
+  <address>
+    <street>1 Kendall Sq # 100</street>
+    <city>Cambridge</city>
+    <state>MA</state>
+    <zip>02139-1561</zip>
+    <latitude>42.365425</latitude>
+    <longitude>-71.090930</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 494-1994</phone>
+</brewery>

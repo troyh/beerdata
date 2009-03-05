@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Moylans-Brewery-and-Restaurant/HOPSICKLE-IMPERIAL-ALE" brewery_id="Moylans-Brewery-and-Restaurant">
+  <name>HOPSICKLE IMPERIAL ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-22499-00030-6">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>735002</item>
+        <reg_price>88.68</reg_price>
+        <post_off>88.68</post_off>
+        <net_case_price/>
+        <unit_price>7.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

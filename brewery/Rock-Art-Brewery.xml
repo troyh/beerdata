@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Art-Brewery">
+  <name>Rock Art Brewery‎</name>
+  <address>
+    <street>254 Wilkins St</street>
+    <city>Morrisville</city>
+    <state>VT</state>
+    <zip>05661-6117</zip>
+    <latitude>44.569313</latitude>
+    <longitude>-72.602984</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 888-9400</phone>
+</brewery>

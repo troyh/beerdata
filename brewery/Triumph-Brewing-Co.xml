@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triumph-Brewing-Co">
+  <name>Triumph Brewing Co‎</name>
+  <address>
+    <street>138 Nassau St</street>
+    <city>Princeton</city>
+    <state>NJ</state>
+    <zip>08542-7006</zip>
+    <latitude>40.350289</latitude>
+    <longitude>-74.658111</longitude>
+    <country>US</country>
+  </address>
+  <phone>(609) 924-7855</phone>
+</brewery>

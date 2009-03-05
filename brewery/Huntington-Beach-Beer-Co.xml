@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Huntington-Beach-Beer-Co">
+  <name>Huntington Beach Beer Co‎</name>
+  <address>
+    <street>201 Main St</street>
+    <city>Huntington Beach</city>
+    <state>CA</state>
+    <zip>92648-5127</zip>
+    <latitude>33.658205</latitude>
+    <longitude>-118.001102</longitude>
+    <country>US</country>
+  </address>
+  <phone>(714) 960-5343</phone>
+</brewery>

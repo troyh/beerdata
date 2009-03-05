@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boundary-Bay-Brewery-and-Bistro">
+  <name>Boundary Bay Brewery &amp; Bistro‎</name>
+  <address>
+    <street>1107 Railroad Ave</street>
+    <city>Bellingham</city>
+    <state>WA</state>
+    <zip>98225-5007</zip>
+    <latitude>48.747345</latitude>
+    <longitude>-122.481148</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 647-5593</phone>
+</brewery>

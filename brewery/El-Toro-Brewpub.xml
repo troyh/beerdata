@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="El-Toro-Brewpub">
+  <name>El Toro Brewpub‎</name>
+  <address>
+    <street>17605 Monterey Rd</street>
+    <city>Morgan Hill</city>
+    <state>CA</state>
+    <zip>95037-3620</zip>
+    <latitude>37.130793</latitude>
+    <longitude>-121.655165</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 782-2739</phone>
+</brewery>

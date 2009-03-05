@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Milwaukee-Ale-House">
+  <name>Milwaukee Ale House‎</name>
+  <address>
+    <street>233 N Water St # 1</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53202-5707</zip>
+    <latitude>43.032952</latitude>
+    <longitude>-87.909387</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 226-2337</phone>
+</brewery>

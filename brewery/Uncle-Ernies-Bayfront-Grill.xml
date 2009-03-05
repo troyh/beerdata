@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Uncle-Ernies-Bayfront-Grill">
+  <name>Uncle Ernie's Bayfront Grill‎</name>
+  <address>
+    <street>1151 Bayview Ave</street>
+    <city>Panama City</city>
+    <state>FL</state>
+    <zip>32401-1452</zip>
+    <latitude>30.169356</latitude>
+    <longitude>-85.702698</longitude>
+    <country>US</country>
+  </address>
+  <phone>(850) 763-8427</phone>
+</brewery>

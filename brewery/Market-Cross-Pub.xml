@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Market-Cross-Pub">
+  <name>Market Cross Pub‎</name>
+  <address>
+    <street>113 N Hanover St</street>
+    <city>Carlisle</city>
+    <state>PA</state>
+    <zip>17013-2422</zip>
+    <latitude>40.203329</latitude>
+    <longitude>-77.188649</longitude>
+    <country>US</country>
+  </address>
+  <phone>(717) 258-1234</phone>
+</brewery>

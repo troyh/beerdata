@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-Broomfield-2">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>1 Flatiron Cir # 428</street>
+    <city>Broomfield</city>
+    <state>CO</state>
+    <zip>80021</zip>
+    <latitude>39.929806</latitude>
+    <longitude>-105.131244</longitude>
+    <country>US</country>
+  </address>
+  <phone>(720) 887-2991</phone>
+</brewery>

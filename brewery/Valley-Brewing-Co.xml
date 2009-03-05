@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Valley-Brewing-Co">
+  <name>Valley Brewing Co‎</name>
+  <address>
+    <street>157 W Adams St</street>
+    <city>Stockton</city>
+    <state>CA</state>
+    <zip>95204-5337</zip>
+    <latitude>37.972762</latitude>
+    <longitude>-121.300107</longitude>
+    <country>US</country>
+  </address>
+  <phone>(209) 464-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Climax-Brewing-Co-Roselle-Park">
+  <name>Climax Brewing Co‎</name>
+  <address>
+    <street>112 Valley Rd</street>
+    <city>Roselle Park</city>
+    <state>NJ</state>
+    <zip>07204-1402</zip>
+    <latitude>40.659585</latitude>
+    <longitude>-74.282606</longitude>
+    <country>US</country>
+  </address>
+  <phone>(908) 620-9585</phone>
+</brewery>

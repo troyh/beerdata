@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fiftyfifty-Brewing-Co">
+  <name>Fiftyfifty Brewing Co‎</name>
+  <address>
+    <street>11197 Brockway Rd # 1</street>
+    <city>Truckee</city>
+    <state>CA</state>
+    <zip>96161-2106</zip>
+    <latitude>39.322560</latitude>
+    <longitude>-120.165025</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 587-2337</phone>
+</brewery>

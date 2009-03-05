@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Breckenridge-Brewery">
+  <name>Breckenridge Brewery‎</name>
+  <address>
+    <street>600 S Main St</street>
+    <city>Breckenridge</city>
+    <state>CO</state>
+    <zip>80424</zip>
+    <latitude>39.476224</latitude>
+    <longitude>-106.044318</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 453-1550</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dale-Brothers-Brewery">
+  <name>Dale Brothers Brewery‎</name>
+  <address>
+    <street>1495 W 9th St</street>
+    <city>Upland</city>
+    <state>CA</state>
+    <zip>91786-5635</zip>
+    <latitude>34.096118</latitude>
+    <longitude>-117.678309</longitude>
+    <country>US</country>
+  </address>
+  <phone>(909) 579-0032</phone>
+</brewery>

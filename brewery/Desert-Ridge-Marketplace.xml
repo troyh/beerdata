@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Desert-Ridge-Marketplace">
+  <name>Desert Ridge Marketplace‎</name>
+  <address>
+    <street>21001 N Tatum Blvd # 1515</street>
+    <city>Phoenix</city>
+    <state>AZ</state>
+    <zip>85050-4203</zip>
+    <latitude>33.677189</latitude>
+    <longitude>-111.977184</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 513-7586</phone>
+</brewery>

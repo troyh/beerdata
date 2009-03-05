@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-and-Brewery-Gainesville-2">
+  <name>Hops Restaurant Bar &amp; Brewery‎</name>
+  <address>
+    <street>3770 SW Archer Rd</street>
+    <city>Gainesville</city>
+    <state>FL</state>
+    <zip>32608-2338</zip>
+    <latitude>29.621099</latitude>
+    <longitude>-82.379523</longitude>
+    <country>US</country>
+  </address>
+  <phone>(352) 373-2223</phone>
+</brewery>

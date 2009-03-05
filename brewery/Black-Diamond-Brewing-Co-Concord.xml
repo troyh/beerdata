@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Black-Diamond-Brewing-Co-Concord">
+  <name>Black Diamond Brewing Co‎</name>
+  <address>
+    <street>2470 Bates Ave # C</street>
+    <city>Concord</city>
+    <state>CA</state>
+    <zip>94520-1206</zip>
+    <latitude>38.013969</latitude>
+    <longitude>-122.032027</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 356-0120</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bards-Tale-Beer-Co-Llc">
+  <name>Bard's Tale Beer Co Llc‎</name>
+  <address>
+    <street>25 Van Zant St # 8</street>
+    <city>Norwalk</city>
+    <state>CT</state>
+    <zip>06855-1702</zip>
+    <latitude>41.101373</latitude>
+    <longitude>-73.408108</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 831-8899</phone>
+</brewery>

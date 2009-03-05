@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fox-River-Brewing-Co">
+  <name>Fox River Brewing Co‎</name>
+  <address>
+    <street>4301 W Wisconsin Ave</street>
+    <city>Appleton</city>
+    <state>WI</state>
+    <zip>54913-8632</zip>
+    <latitude>44.272901</latitude>
+    <longitude>-88.469745</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 991-0000</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tug-Boat-Brewing-Co">
+  <name>Tug Boat Brewing Co‎</name>
+  <address>
+    <street>711 SW Ankeny St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97205-3703</zip>
+    <latitude>45.522760</latitude>
+    <longitude>-122.678174</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 226-2508</phone>
+</brewery>

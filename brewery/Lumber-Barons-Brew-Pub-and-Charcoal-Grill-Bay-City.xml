@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lumber-Barons-Brew-Pub-and-Charcoal-Grill-Bay-City">
+  <name>Lumber Barons Brew Pub &amp; Charcoal Grill‎</name>
+  <address>
+    <street>804 E Midland St</street>
+    <city>Bay City</city>
+    <state>MI</state>
+    <zip>48706-4953</zip>
+    <latitude>43.601856</latitude>
+    <longitude>-83.898048</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 891-0100</phone>
+</brewery>

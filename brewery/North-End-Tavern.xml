@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-End-Tavern">
+  <name>North End Tavern‎</name>
+  <address>
+    <street>3500 Emerson Ave</street>
+    <city>Parkersburg</city>
+    <state>WV</state>
+    <zip>26104-1806</zip>
+    <latitude>39.287567</latitude>
+    <longitude>-81.532982</longitude>
+    <country>US</country>
+  </address>
+  <phone>(304) 428-5854</phone>
+</brewery>

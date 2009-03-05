@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Three-Barrel-Brewing-Co">
+  <name>Three Barrel Brewing Co‎</name>
+  <address>
+    <street>586 Columbia Ave</street>
+    <city>Del Norte</city>
+    <state>CO</state>
+    <zip>81132-2200</zip>
+    <latitude>37.678100</latitude>
+    <longitude>-106.354585</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 852-3314</phone>
+</brewery>

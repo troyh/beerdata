@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="King-Brewing-Company">
+  <name>King Brewing Company‎</name>
+  <address>
+    <street>895 Oakland Avenue</street>
+    <city>Pontiac</city>
+    <state>MI</state>
+    <zip>48342-2044</zip>
+    <latitude>42.642970</latitude>
+    <longitude>-83.296559</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 745-5900</phone>
+</brewery>

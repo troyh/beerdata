@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Long-Beach-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>1 Pine Ave</street>
+    <city>Long Beach</city>
+    <state>CA</state>
+    <zip>90802-4723</zip>
+    <latitude>33.767205</latitude>
+    <longitude>-118.192502</longitude>
+    <country>US</country>
+  </address>
+  <phone>(562) 308-2255</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triple-Rock-Brewery-Berkeley">
+  <name>Triple Rock Brewery‎</name>
+  <address>
+    <street>1920 Shattuck Ave</street>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94704-1022</zip>
+    <latitude>37.873467</latitude>
+    <longitude>-122.268716</longitude>
+    <country>US</country>
+  </address>
+  <phone>(510) 843-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Red-Rock-Brewing-Co-Salt-Lake-City">
+  <name>Red Rock Brewing Co‎</name>
+  <address>
+    <street>254 S 200 W</street>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84101-1801</zip>
+    <latitude>40.763613</latitude>
+    <longitude>-111.896974</longitude>
+    <country>US</country>
+  </address>
+  <phone>(801) 521-7446</phone>
+</brewery>

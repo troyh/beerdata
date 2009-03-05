@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hereford-and-Hops-Steakhouse-and-Brew-Pub">
+  <name>Hereford &amp; Hops Steakhouse &amp; Brew Pub‎</name>
+  <address>
+    <street>624 Ludington St</street>
+    <city>Escanaba</city>
+    <state>MI</state>
+    <zip>49829-3830</zip>
+    <latitude>45.745857</latitude>
+    <longitude>-87.055614</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 789-1945</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="BrewDog-Brewery/RIP-TIDE-STOUT" brewery_id="BrewDog-Brewery">
+  <name>RIP TIDE STOUT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-60154-91023-0">
+      <description>12/22.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>40001</item>
+        <reg_price>67.08</reg_price>
+        <post_off>58.68</post_off>
+        <net_case_price/>
+        <unit_price>5.59</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

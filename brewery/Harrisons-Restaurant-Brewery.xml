@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Harrisons-Restaurant-Brewery">
+  <name>Harrisons Restaurant Brewery‎</name>
+  <address>
+    <street>15845 S La Grange Rd</street>
+    <city>Orland Park</city>
+    <state>IL</state>
+    <zip>60462-4701</zip>
+    <latitude>41.602658</latitude>
+    <longitude>-87.852778</longitude>
+    <country>US</country>
+  </address>
+  <phone>(708) 226-0200</phone>
+</brewery>

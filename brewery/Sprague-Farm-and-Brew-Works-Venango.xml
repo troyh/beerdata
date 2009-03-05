@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sprague-Farm-and-Brew-Works-Venango">
+  <name>Sprague Farm &amp; Brew Works‎</name>
+  <address>
+    <street>22113 Highway 6 and 19</street>
+    <city>Venango</city>
+    <state>PA</state>
+    <zip>16433</zip>
+    <latitude>41.765930</latitude>
+    <longitude>-80.115789</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 398-2885</phone>
+</brewery>

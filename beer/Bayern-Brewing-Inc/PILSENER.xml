@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Bayern-Brewing-Inc/PILSENER" brewery_id="Bayern-Brewing-Inc">
+  <name>PILSENER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-35779-10102-5">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>790005</item>
+        <reg_price>25.17</reg_price>
+        <post_off>22.48</post_off>
+        <net_case_price/>
+        <unit_price>6.29</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

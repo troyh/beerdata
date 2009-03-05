@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sweetwater-Brewing-Co">
+  <name>Sweetwater Brewing Co‎</name>
+  <address>
+    <street>195 Ottley Drive</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30324-3924</zip>
+    <latitude>33.808831</latitude>
+    <longitude>-84.380860</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 691-2537</phone>
+</brewery>

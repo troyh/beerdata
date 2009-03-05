@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mt-Shasta-Brewing-Co-Weed">
+  <name>Mt Shasta Brewing Co‎</name>
+  <address>
+    <street>360 College Ave</street>
+    <city>Weed</city>
+    <state>CA</state>
+    <zip>96094-2706</zip>
+    <latitude>41.415571</latitude>
+    <longitude>-122.389413</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 938-2394</phone>
+</brewery>

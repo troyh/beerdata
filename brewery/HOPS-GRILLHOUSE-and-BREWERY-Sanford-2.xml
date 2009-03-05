@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="HOPS-GRILLHOUSE-and-BREWERY-Sanford-2">
+  <name>HOPS GRILLHOUSE &amp; BREWERY‎</name>
+  <address>
+    <street>111 S Oregon Ave</street>
+    <city>Sanford</city>
+    <state>FL</state>
+    <zip>32771-8858</zip>
+    <latitude>28.810815</latitude>
+    <longitude>-81.335572</longitude>
+    <country>US</country>
+  </address>
+  <phone>(407) 320-8158</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Rest-Bolingbrook">
+  <name>Gordon Biersch Brewery Rest‎</name>
+  <address>
+    <street>639 E Boughton Rd</street>
+    <city>Bolingbrook</city>
+    <state>IL</state>
+    <zip>60440-2256</zip>
+    <latitude>41.720239</latitude>
+    <longitude>-88.044415</longitude>
+    <country>US</country>
+  </address>
+  <phone>(630) 739-6036</phone>
+</brewery>

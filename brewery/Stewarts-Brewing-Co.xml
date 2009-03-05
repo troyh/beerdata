@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stewarts-Brewing-Co">
+  <name>Stewarts Brewing Co‎</name>
+  <address>
+    <street>219 Governors Pl</street>
+    <city>Bear</city>
+    <state>DE</state>
+    <zip>19701</zip>
+    <latitude>39.631737</latitude>
+    <longitude>-75.662736</longitude>
+    <country>US</country>
+  </address>
+  <phone>(302) 836-2739</phone>
+</brewery>

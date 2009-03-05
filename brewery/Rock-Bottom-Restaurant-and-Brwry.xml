@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brwry">
+  <name>Rock Bottom Restaurant &amp; Brwry‎</name>
+  <address>
+    <street>115 Stuart St</street>
+    <city>Boston</city>
+    <state>MA</state>
+    <zip>02116-5609</zip>
+    <latitude>42.351194</latitude>
+    <longitude>-71.065357</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 742-2739</phone>
+</brewery>

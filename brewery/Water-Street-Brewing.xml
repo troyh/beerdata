@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Water-Street-Brewing">
+  <name>Water Street Brewing‎</name>
+  <address>
+    <street>639 Water St</street>
+    <city>Port Townsend</city>
+    <state>WA</state>
+    <zip>98368-5726</zip>
+    <latitude>48.115396</latitude>
+    <longitude>-122.753760</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 379-6438</phone>
+</brewery>

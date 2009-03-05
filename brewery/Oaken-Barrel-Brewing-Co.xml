@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oaken-Barrel-Brewing-Co">
+  <name>Oaken Barrel Brewing Co‎</name>
+  <address>
+    <street>50 Airport Pkwy # L</street>
+    <city>Greenwood</city>
+    <state>IN</state>
+    <zip>46143-1432</zip>
+    <latitude>39.614939</latitude>
+    <longitude>-86.090439</longitude>
+    <country>US</country>
+  </address>
+  <phone>(317) 887-2287</phone>
+</brewery>

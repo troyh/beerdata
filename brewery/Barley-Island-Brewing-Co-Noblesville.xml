@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barley-Island-Brewing-Co-Noblesville">
+  <name>Barley Island Brewing Co‎</name>
+  <address>
+    <street>639 Conner St</street>
+    <city>Noblesville</city>
+    <state>IN</state>
+    <zip>46060-2532</zip>
+    <latitude>40.045444</latitude>
+    <longitude>-86.015665</longitude>
+    <country>US</country>
+  </address>
+  <phone>(317) 770-5280</phone>
+</brewery>

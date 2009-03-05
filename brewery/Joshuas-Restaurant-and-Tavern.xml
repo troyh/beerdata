@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Joshuas-Restaurant-and-Tavern">
+  <name>Joshua's Restaurant &amp; Tavern‎</name>
+  <address>
+    <street>123 Maine St # A</street>
+    <city>Brunswick</city>
+    <state>ME</state>
+    <zip>04011-2009</zip>
+    <latitude>43.915383</latitude>
+    <longitude>-69.965036</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 725-7981</phone>
+</brewery>

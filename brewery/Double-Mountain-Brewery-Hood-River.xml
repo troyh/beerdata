@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Double-Mountain-Brewery-Hood-River">
+  <name>Double Mountain Brewery‎</name>
+  <address>
+    <street>8 4th St # 204</street>
+    <city>Hood River</city>
+    <state>OR</state>
+    <zip>97031-2014</zip>
+    <latitude>45.710190</latitude>
+    <longitude>-121.514397</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 387-0042</phone>
+</brewery>

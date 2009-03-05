@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ironworks-Brewery-and-Pub">
+  <name>Ironworks Brewery &amp; Pub‎</name>
+  <address>
+    <street>12354 W Alameda Pkwy</street>
+    <city>Lakewood</city>
+    <state>CO</state>
+    <zip>80228-2823</zip>
+    <latitude>39.709675</latitude>
+    <longitude>-105.137954</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 985-5818</phone>
+</brewery>

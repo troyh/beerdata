@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Miller-Brewing-Co/LN" brewery_id="Miller-Brewing-Co">
+  <name>LN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-34100-57256-3">
+      <description>BOTTLE 1-18/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>12712</item>
+        <reg_price>$12.72</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$12.72</net_case_price>
+        <unit_price>$0.90</unit_price>
+        <deposit>$15.89</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

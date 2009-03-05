@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rockyard-Brewing-Co">
+  <name>Rockyard Brewing Co‎</name>
+  <address>
+    <street>880 Castleton Rd</street>
+    <city>Castle Rock</city>
+    <state>CO</state>
+    <zip>80109-7512</zip>
+    <latitude>39.409402</latitude>
+    <longitude>-104.869279</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 814-9273</phone>
+</brewery>

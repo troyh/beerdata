@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Great-Divide-Brewing-Co/Hercules-Double-IPA" brewery_id="Great-Divide-Brewing-Co">
+  <name>Hercules Double IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="790586412150">
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11032</item>
+        <reg_price>67.14</reg_price>
+        <post_off>$62.94</post_off>
+        <net_case_price/>
+        <unit_price>$11.19</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Karl-Strauss-Associated-Micro-Breweries">
+  <name>Karl Strauss Associated Micro Breweries‎</name>
+  <address>
+    <street>1000 Universal Studios Blvd</street>
+    <city>Universal City</city>
+    <state>CA</state>
+    <zip>91608-1007</zip>
+    <latitude>34.135500</latitude>
+    <longitude>-118.351373</longitude>
+    <country>US</country>
+  </address>
+  <phone>(818) 753-2739</phone>
+</brewery>

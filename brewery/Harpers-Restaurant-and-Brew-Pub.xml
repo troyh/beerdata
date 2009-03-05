@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Harpers-Restaurant-and-Brew-Pub">
+  <name>Harper's Restaurant &amp; Brew Pub‎</name>
+  <address>
+    <street>131 Albert Ave</street>
+    <city>East Lansing</city>
+    <state>MI</state>
+    <zip>48823-4315</zip>
+    <latitude>42.736213</latitude>
+    <longitude>-84.483331</longitude>
+    <country>US</country>
+  </address>
+  <phone>(517) 333-4040</phone>
+</brewery>

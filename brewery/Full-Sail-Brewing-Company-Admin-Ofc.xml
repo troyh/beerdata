@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Full-Sail-Brewing-Company-Admin-Ofc">
+  <name>Full Sail Brewing Company: Admin Ofc‎</name>
+  <address>
+    <street>506 Columbia St</street>
+    <city>Hood River</city>
+    <state>OR</state>
+    <zip>97031-2000</zip>
+    <latitude>45.710448</latitude>
+    <longitude>-121.515582</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 386-2281</phone>
+</brewery>

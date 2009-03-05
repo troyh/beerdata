@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Park-Tavern-Brewery">
+  <name>Park Tavern Brewery‎</name>
+  <address>
+    <street>500 10th St. N.</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30309-4272</zip>
+    <latitude>33.781909</latitude>
+    <longitude>-84.371194</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 249-0001</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Helmar-Brewing-Co">
+  <name>Helmar Brewing Co‎</name>
+  <address>
+    <street>87 Oakdale Blvd</street>
+    <city>Pleasant Ridge</city>
+    <state>MI</state>
+    <zip>48069-1039</zip>
+    <latitude>42.468942</latitude>
+    <longitude>-83.153037</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 882-0834</phone>
+</brewery>

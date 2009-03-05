@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Spoetzl-Brewery">
+  <name>Spoetzl Brewery‎</name>
+  <address>
+    <street>Brewery NO1 St</street>
+    <city>Shiner</city>
+    <state>TX</state>
+    <zip>77984</zip>
+    <latitude>29.436225</latitude>
+    <longitude>-97.166059</longitude>
+    <country>US</country>
+  </address>
+  <phone>(361) 594-3383</phone>
+</brewery>

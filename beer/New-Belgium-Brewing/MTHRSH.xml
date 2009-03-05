@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="New-Belgium-Brewing/MTHRSH" brewery_id="New-Belgium-Brewing">
+  <name>MTHRSH</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-54527-00090-5">
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name>columbia</name>
+        <item>34574</item>
+        <reg_price>$25.15</reg_price>
+        <post_off>-$2.65</post_off>
+        <net_case_price>$22.50</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$2.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

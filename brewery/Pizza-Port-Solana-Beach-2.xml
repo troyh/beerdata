@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pizza-Port-Solana-Beach-2">
+  <name>Pizza Port‎</name>
+  <address>
+    <street>135 N Highway 101</street>
+    <city>Solana Beach</city>
+    <state>CA</state>
+    <zip>92075-1128</zip>
+    <latitude>32.993257</latitude>
+    <longitude>-117.272241</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 481-7448</phone>
+</brewery>

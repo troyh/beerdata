@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ellis-Island-Casino-and-Brewery">
+  <name>Ellis Island Casino &amp; Brewery‎</name>
+  <address>
+    <street>4178 Koval Ln</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89109-4568</zip>
+    <latitude>36.113064</latitude>
+    <longitude>-115.163809</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 733-8901</phone>
+</brewery>

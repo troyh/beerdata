@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Two-Rows-Restaurant-and-Brew-Pub-Houston-2">
+  <name>Two Rows Restaurant &amp; Brew Pub‎</name>
+  <address>
+    <street>2400 University Blvd # 200</street>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>77005-3227</zip>
+    <latitude>29.715206</latitude>
+    <longitude>-95.415097</longitude>
+    <country>US</country>
+  </address>
+  <phone>(713) 529-2739</phone>
+</brewery>

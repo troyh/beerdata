@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dogfish-Head-Brewings-and-Eats">
+  <name>Dogfish Head Brewings &amp; Eats‎</name>
+  <address>
+    <street>320 Rehoboth Ave</street>
+    <city>Rehoboth Beach</city>
+    <state>DE</state>
+    <zip>19971-3108</zip>
+    <latitude>38.715236</latitude>
+    <longitude>-75.086891</longitude>
+    <country>US</country>
+  </address>
+  <phone>(302) 226-2739</phone>
+</brewery>

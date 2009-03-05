@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Laurelwood-Public-House">
+  <name>Laurelwood Public House‎</name>
+  <address>
+    <street>5115 NE Sandy Blvd</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97213-2525</zip>
+    <latitude>45.539924</latitude>
+    <longitude>-122.610840</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 282-0622</phone>
+</brewery>

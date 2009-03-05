@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Cream-Stout" brewery_id="Boston-Beer-Co" calories_per_ml="0.535388684858836" abv="4.90" og="13Plato">
+  <name>Cream Stout</name>
+  <description>Samuel AdamsÂ® Cream Stout is a true cream stout, balancing body and sweetness with the natural spiciness of grain and hand selected English hops. Our Brewers use generous portions of roasted chocolate and caramel malts as well as unroasted barley to impart a fullness of body, a roasty malt character and rich, creamy head. Its dark mahogany color make it almost as easy on the eyes as it is on the palate.</description>
+  <availability>Year round</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Malted Wheat, Roasted Unmalted Barley, Chocolate Malt, Caramel 60</grains>
+  <hops>East Kent Goldings, English Fuggies</hops>
+  <yeast>Top-fermenting ale yeast</yeast>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="6A">Cream Ale</style>
+  </styles>
+  <sizes>
+    <size upc="0-87692-40020-2">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32420</item>
+        <reg_price>$25.36</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.36</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

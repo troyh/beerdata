@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kern-River-Brewing-Co">
+  <name>Kern River Brewing Co‎</name>
+  <address>
+    <street>13415 Sierra Way</street>
+    <city>Kernville</city>
+    <state>CA</state>
+    <zip>93238-9714</zip>
+    <latitude>35.757174</latitude>
+    <longitude>-118.418914</longitude>
+    <country>US</country>
+  </address>
+  <phone>(760) 376-2337</phone>
+</brewery>

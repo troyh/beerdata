@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Dogs-Brewing-Co">
+  <name>Big Dog's Brewing Co‎</name>
+  <address>
+    <street>4543 N Rancho Dr</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89130-3403</zip>
+    <latitude>36.242808</latitude>
+    <longitude>-115.235853</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 645-1404</phone>
+</brewery>

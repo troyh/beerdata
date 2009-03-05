@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pike-Brewing-Co">
+  <name>Pike Brewing Co‎</name>
+  <address>
+    <street>1415 1st Ave</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98101-2017</zip>
+    <latitude>47.607962</latitude>
+    <longitude>-122.339517</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 622-6044</phone>
+</brewery>

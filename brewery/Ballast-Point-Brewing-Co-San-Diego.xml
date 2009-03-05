@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ballast-Point-Brewing-Co-San-Diego">
+  <name>Ballast Point Brewing Co‎</name>
+  <address>
+    <street>10051 Old Grove Rd # B</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92131-1641</zip>
+    <latitude>32.898732</latitude>
+    <longitude>-117.110884</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 695-2739</phone>
+</brewery>

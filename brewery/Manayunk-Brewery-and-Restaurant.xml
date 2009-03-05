@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Manayunk-Brewery-and-Restaurant">
+  <name>Manayunk Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>4120 Main St</street>
+    <city>Philadelphia</city>
+    <state>PA</state>
+    <zip>19127-1618</zip>
+    <latitude>40.022497</latitude>
+    <longitude>-75.218896</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 482-8220</phone>
+</brewery>

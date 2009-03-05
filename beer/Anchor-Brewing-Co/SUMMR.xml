@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Anchor-Brewing-Co/SUMMR" brewery_id="Anchor-Brewing-Co">
+  <name>SUMMR</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-72783-00600-5">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>50014</item>
+        <reg_price>$26.98</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$26.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$8.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

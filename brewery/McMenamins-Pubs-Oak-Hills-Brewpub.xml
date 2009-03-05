@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Pubs-Oak-Hills-Brewpub">
+  <name>McMenamins Pubs: Oak Hills Brewpub‎</name>
+  <address>
+    <street>14740 NW Cornell Rd # 80</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97229-5440</zip>
+    <latitude>45.531146</latitude>
+    <longitude>-122.827693</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 645-0286</phone>
+</brewery>

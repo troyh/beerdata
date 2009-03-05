@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Guinness-Brewery/9-DFT" brewery_id="Guinness-Brewery">
+  <name>9 DFT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-83820-12360-9">
+      <description>CAN 6-4/14</description>
+      <distributor>
+        <name>columbia</name>
+        <item>55550</item>
+        <reg_price>$35.65</reg_price>
+        <post_off>-$5.25</post_off>
+        <net_case_price>$30.40</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

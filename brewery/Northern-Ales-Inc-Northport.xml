@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Northern-Ales-Inc-Northport">
+  <name>Northern Ale's Inc‎</name>
+  <address>
+    <street>118 Center Ave</street>
+    <city>Northport</city>
+    <state>WA</state>
+    <zip>99157-9740</zip>
+    <latitude>48.917617</latitude>
+    <longitude>-117.777921</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 732-6200</phone>
+</brewery>

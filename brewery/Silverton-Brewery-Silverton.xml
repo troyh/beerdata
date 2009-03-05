@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silverton-Brewery-Silverton">
+  <name>Silverton Brewery‎</name>
+  <address>
+    <street>1333 Greene St</street>
+    <city>Silverton</city>
+    <state>CO</state>
+    <zip>81433</zip>
+    <latitude>37.812849</latitude>
+    <longitude>-107.663466</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 387-5033</phone>
+</brewery>

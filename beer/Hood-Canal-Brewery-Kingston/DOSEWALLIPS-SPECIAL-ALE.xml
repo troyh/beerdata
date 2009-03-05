@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Hood-Canal-Brewery-Kingston/DOSEWALLIPS-SPECIAL-ALE" brewery_id="Hood-Canal-Brewery-Kingston">
+  <name>DOSEWALLIPS SPECIAL ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-14861-01022-3">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>733008</item>
+        <reg_price>36.00</reg_price>
+        <post_off>36.00</post_off>
+        <net_case_price/>
+        <unit_price>3.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dock-Street-Brewing-Co">
+  <name>Dock Street Brewing Co‎</name>
+  <address>
+    <street>701 S. 50th Street</street>
+    <city>Philadelphia</city>
+    <state>PA</state>
+    <zip>19143-1658</zip>
+    <latitude>39.947687</latitude>
+    <longitude>-75.222858</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 726-2337</phone>
+</brewery>

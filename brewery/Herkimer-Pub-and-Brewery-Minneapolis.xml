@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Herkimer-Pub-and-Brewery-Minneapolis">
+  <name>Herkimer Pub &amp; Brewery‎</name>
+  <address>
+    <street>2922 Lyndale Ave S</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55408-2110</zip>
+    <latitude>44.949566</latitude>
+    <longitude>-93.288224</longitude>
+    <country>US</country>
+  </address>
+  <phone>(612) 821-0101</phone>
+</brewery>

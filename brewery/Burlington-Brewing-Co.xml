@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Burlington-Brewing-Co">
+  <name>Burlington Brewing Co‎</name>
+  <address>
+    <street>217 N Pine St</street>
+    <city>Burlington</city>
+    <state>WI</state>
+    <zip>53105-1935</zip>
+    <latitude>42.677726</latitude>
+    <longitude>-88.275059</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 767-0300</phone>
+</brewery>

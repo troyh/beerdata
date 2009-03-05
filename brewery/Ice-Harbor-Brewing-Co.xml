@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ice-Harbor-Brewing-Co">
+  <name>Ice Harbor Brewing Co‎</name>
+  <address>
+    <street>206 N Benton St # C</street>
+    <city>Kennewick</city>
+    <state>WA</state>
+    <zip>99336-3665</zip>
+    <latitude>46.210812</latitude>
+    <longitude>-119.119846</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 582-5340</phone>
+</brewery>

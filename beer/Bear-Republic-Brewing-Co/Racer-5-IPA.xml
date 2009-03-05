@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Bear-Republic-Brewing-Co/Racer-5-IPA" brewery_id="Bear-Republic-Brewing-Co">
+  <name>Racer 5 IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="722130555051">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10400</item>
+        <reg_price>33.56</reg_price>
+        <post_off>$30.76</post_off>
+        <net_case_price/>
+        <unit_price>$8.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size>
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10400</item>
+        <reg_price>$839</reg_price>
+        <post_off>$769</post_off>
+        <net_case_price/>
+        <unit_price>$3,076</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

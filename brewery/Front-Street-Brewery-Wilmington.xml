@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Front-Street-Brewery-Wilmington">
+  <name>Front Street Brewery‎</name>
+  <address>
+    <street>9 N Front St</street>
+    <city>Wilmington</city>
+    <state>NC</state>
+    <zip>28401-4436</zip>
+    <latitude>34.235798</latitude>
+    <longitude>-77.948822</longitude>
+    <country>US</country>
+  </address>
+  <phone>(910) 251-1935</phone>
+</brewery>

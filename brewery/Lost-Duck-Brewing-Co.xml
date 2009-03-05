@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lost-Duck-Brewing-Co">
+  <name>Lost Duck Brewing Co‎</name>
+  <address>
+    <street>725 Avenue H</street>
+    <city>Fort Madison</city>
+    <state>IA</state>
+    <zip>52627-2935</zip>
+    <latitude>40.630134</latitude>
+    <longitude>-91.310380</longitude>
+    <country>US</country>
+  </address>
+  <phone>(319) 372-8255</phone>
+</brewery>

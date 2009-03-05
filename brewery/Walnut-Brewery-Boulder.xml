@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Walnut-Brewery-Boulder">
+  <name>Walnut Brewery‎</name>
+  <address>
+    <street>1123 Walnut St</street>
+    <city>Boulder</city>
+    <state>CO</state>
+    <zip>80302-5116</zip>
+    <latitude>40.016819</latitude>
+    <longitude>-105.280624</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 447-1345</phone>
+</brewery>

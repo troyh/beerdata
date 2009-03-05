@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Glenwood-Canyon-Brewing-Co">
+  <name>Glenwood Canyon Brewing Co‎</name>
+  <address>
+    <street>402 7th St</street>
+    <city>Glenwood Springs</city>
+    <state>CO</state>
+    <zip>81601-3406</zip>
+    <latitude>39.547718</latitude>
+    <longitude>-107.323553</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 945-1276</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bellows-Brew-Pub-Watertown">
+  <name>Bellows Brew Pub‎</name>
+  <address>
+    <street>201 E Main St</street>
+    <city>Watertown</city>
+    <state>WI</state>
+    <zip>53094-3707</zip>
+    <latitude>43.194136</latitude>
+    <longitude>-88.723055</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 206-9505</phone>
+</brewery>

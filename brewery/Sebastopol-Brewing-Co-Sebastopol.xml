@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sebastopol-Brewing-Co-Sebastopol">
+  <name>Sebastopol Brewing Co‎</name>
+  <address>
+    <street>268 Petaluma Ave</street>
+    <city>Sebastopol</city>
+    <state>CA</state>
+    <zip>95472-4222</zip>
+    <latitude>38.400808</latitude>
+    <longitude>-122.822460</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 829-7300</phone>
+</brewery>

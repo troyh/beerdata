@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="OHaras-Brew-Pub-and-Restaurant">
+  <name>O'Hara's Brew Pub &amp; Restaurant‎</name>
+  <address>
+    <street>1406 6th Avenue North</street>
+    <city>Saint Cloud</city>
+    <state>MN</state>
+    <zip>56303-1900</zip>
+    <latitude>45.575087</latitude>
+    <longitude>-94.170097</longitude>
+    <country>US</country>
+  </address>
+  <phone>(320) 251-9877</phone>
+</brewery>

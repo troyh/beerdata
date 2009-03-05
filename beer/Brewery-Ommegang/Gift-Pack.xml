@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-Ommegang/Gift-Pack" brewery_id="Brewery-Ommegang">
+  <name>Gift Pack</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>3/3/25.4 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10840</item>
+        <reg_price>$53.16</reg_price>
+        <post_off>    </post_off>
+        <net_case_price/>
+        <unit_price>$17.72</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

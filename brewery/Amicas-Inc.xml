@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Amicas-Inc">
+  <name>Amicas Inc‎</name>
+  <address>
+    <street>20 Guest St # 400</street>
+    <city>Brighton</city>
+    <state>CO</state>
+    <zip>02135-2017</zip>
+    <latitude>42.357377</latitude>
+    <longitude>-71.146977</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 779-7878</phone>
+</brewery>

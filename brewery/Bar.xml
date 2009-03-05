@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bar">
+  <name>Bar‎</name>
+  <address>
+    <street>254 Crown St</street>
+    <city>New Haven</city>
+    <state>CT</state>
+    <zip>06511-6610</zip>
+    <latitude>41.306661</latitude>
+    <longitude>-72.931580</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 495-1111</phone>
+</brewery>

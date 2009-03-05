@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Olde-Towne-Brewing-Co">
+  <name>Olde Towne Brewing Co‎</name>
+  <address>
+    <street>228 Holmes Ave NE # 500</street>
+    <city>Huntsville</city>
+    <state>AL</state>
+    <zip>35801-4837</zip>
+    <latitude>34.731116</latitude>
+    <longitude>-86.589825</longitude>
+    <country>US</country>
+  </address>
+  <phone>(256) 564-7442</phone>
+</brewery>

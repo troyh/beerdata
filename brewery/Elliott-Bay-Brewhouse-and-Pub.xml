@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elliott-Bay-Brewhouse-and-Pub">
+  <name>Elliott Bay Brewhouse &amp; Pub‎</name>
+  <address>
+    <street>255 SW 152nd St</street>
+    <city>Burien</city>
+    <state>WA</state>
+    <zip>98166-2307</zip>
+    <latitude>47.466715</latitude>
+    <longitude>-122.337942</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 246-4211</phone>
+</brewery>

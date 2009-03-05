@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Cherry-Wheat" brewery_id="Boston-Beer-Co" calories_per_ml="0.50721033302416" abv="5.40" og="13Plato">
+  <name>Cherry Wheat</name>
+  <description>Samuel Adams Cherry WheatÂ® follows the centuries old American tradition of brewing beer with native ingredients, in this case Michigan cherries as well as a touch of honey. The sweet fruitiness of the cherries is balanced against the crisp, cereal note from the malted wheat and the subtle citrus flavor from the Noble hops. The end result is a sweet, refreshing beer that is light on the palate but long on complexity.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains>two row Pale, malted wheat, munich</grains>
+  <hops>Tettnang Tettnager Noble</hops>
+  <yeast>Top-fermenting ale yeast</yeast>
+  <otherings/>
+  <sizes>
+    <size upc="0-87692-27102-4">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32424</item>
+        <reg_price>$25.36</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.36</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

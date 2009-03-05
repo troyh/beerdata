@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Guinness-Brewery/2-DRAFT" brewery_id="Guinness-Brewery">
+  <name>2 DRAFT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-83820-10403-5">
+      <description>BOTTLE 2/11</description>
+      <distributor>
+        <name>columbia</name>
+        <item>55566</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$4.50</post_off>
+        <net_case_price>$20.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$13.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

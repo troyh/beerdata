@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Canoe-Livery-Products">
+  <name>Canoe Livery Products‎</name>
+  <address>
+    <street>196 S Quarterline Rd</street>
+    <city>Scottville</city>
+    <state>MI</state>
+    <zip>49454-9607</zip>
+    <latitude>43.952296</latitude>
+    <longitude>-86.329384</longitude>
+    <country>US</country>
+  </address>
+  <phone>(231) 834-5559</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hillsdale-Brewery-and-Public-House">
+  <name>Hillsdale Brewery &amp; Public House‎</name>
+  <address>
+    <street>1505 SW Sunset Blvd</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97239-2625</zip>
+    <latitude>45.478951</latitude>
+    <longitude>-122.693462</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 246-3938</phone>
+</brewery>

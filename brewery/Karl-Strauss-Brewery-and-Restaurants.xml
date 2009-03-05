@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Karl-Strauss-Brewery-and-Restaurants">
+  <name>Karl Strauss Brewery &amp; Restaurants‎</name>
+  <address>
+    <street>901 S Coast Dr # A</street>
+    <city>Costa Mesa</city>
+    <state>CA</state>
+    <zip>92626-1705</zip>
+    <latitude>33.690109</latitude>
+    <longitude>-117.893677</longitude>
+    <country>US</country>
+  </address>
+  <phone>(714) 546-2739</phone>
+</brewery>

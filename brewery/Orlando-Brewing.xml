@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Orlando-Brewing">
+  <name>Orlando Brewing‎</name>
+  <address>
+    <street>1301 Atlanta Avenue</street>
+    <city>Orlando</city>
+    <state>FL</state>
+    <zip>32806-3914</zip>
+    <latitude>28.526220</latitude>
+    <longitude>-81.382983</longitude>
+    <country>US</country>
+  </address>
+  <phone>(407) 872-1117</phone>
+</brewery>

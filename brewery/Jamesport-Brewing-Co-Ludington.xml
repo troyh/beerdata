@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jamesport-Brewing-Co-Ludington">
+  <name>Jamesport Brewing Co‎</name>
+  <address>
+    <street>410 S James St</street>
+    <city>Ludington</city>
+    <state>MI</state>
+    <zip>49431-2159</zip>
+    <latitude>43.952338</latitude>
+    <longitude>-86.447914</longitude>
+    <country>US</country>
+  </address>
+  <phone>(231) 845-2522</phone>
+</brewery>

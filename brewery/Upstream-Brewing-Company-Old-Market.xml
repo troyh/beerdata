@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Upstream-Brewing-Company-Old-Market">
+  <name>Upstream Brewing Company: Old Market‎</name>
+  <address>
+    <street>514 S 11th St</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68102-2808</zip>
+    <latitude>41.255217</latitude>
+    <longitude>-95.930664</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 344-0200</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Atomic-Ale-Brewpub-and-Eatery">
+  <name>Atomic Ale Brewpub &amp; Eatery‎</name>
+  <address>
+    <street>1015 Lee Blvd</street>
+    <city>Richland</city>
+    <state>WA</state>
+    <zip>99352-4226</zip>
+    <latitude>46.274707</latitude>
+    <longitude>-119.276653</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 946-5465</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Real-Ale-Brewing">
+  <name>Real Ale Brewing‎</name>
+  <address>
+    <street>231 San Saba Ct</street>
+    <city>Blanco</city>
+    <state>TX</state>
+    <zip>78606-4810</zip>
+    <latitude>30.112934</latitude>
+    <longitude>-98.413628</longitude>
+    <country>US</country>
+  </address>
+  <phone>(830) 833-2534</phone>
+</brewery>

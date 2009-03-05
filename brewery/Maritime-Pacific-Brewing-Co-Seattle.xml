@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Maritime-Pacific-Brewing-Co-Seattle">
+  <name>Maritime Pacific Brewing Co‎</name>
+  <address>
+    <street>1514 NW Leary Way</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98107-4739</zip>
+    <latitude>47.663768</latitude>
+    <longitude>-122.376847</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 782-6181</phone>
+</brewery>

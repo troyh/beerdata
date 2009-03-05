@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sam-Choys-Big-Aloha-Brewery">
+  <name>Sam Choy's Big Aloha Brewery‎</name>
+  <address>
+    <street>580 N Nimitz Hwy</street>
+    <city>Hon</city>
+    <state>HI</state>
+    <zip>96817-5030</zip>
+    <latitude>21.313872</latitude>
+    <longitude>-157.869270</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 545-7999</phone>
+</brewery>

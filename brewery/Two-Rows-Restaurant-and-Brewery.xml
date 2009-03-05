@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Two-Rows-Restaurant-and-Brewery">
+  <name>Two Rows Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>17225 Dallas Pkwy</street>
+    <city>Addison</city>
+    <state>TX</state>
+    <zip>75254</zip>
+    <latitude>32.953710</latitude>
+    <longitude>-96.822319</longitude>
+    <country>US</country>
+  </address>
+  <phone>(972) 267-2739</phone>
+</brewery>

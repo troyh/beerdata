@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Moylans-Brewery-and-Restaurant/XMAS-SPICED-WINTER-LAGER" brewery_id="Moylans-Brewery-and-Restaurant">
+  <name>XMAS SPICED WINTER LAGER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-42499-00050-4">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>735026</item>
+        <reg_price>56.28</reg_price>
+        <post_off>56.28</post_off>
+        <net_case_price/>
+        <unit_price>4.69</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

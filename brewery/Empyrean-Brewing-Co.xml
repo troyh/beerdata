@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Empyrean-Brewing-Co">
+  <name>Empyrean Brewing Co‎</name>
+  <address>
+    <street>729 Q St</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508-1331</zip>
+    <latitude>40.815702</latitude>
+    <longitude>-96.710613</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 434-5959</phone>
+</brewery>

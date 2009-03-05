@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-de-Koningshoeven/QUADRUPEL" brewery_id="Brouwerij-de-Koningshoeven">
+  <name>QUADRUPEL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-81986-00182-3">
+      <description>6/4/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621019</item>
+        <reg_price>82.57</reg_price>
+        <post_off>82.57</post_off>
+        <net_case_price/>
+        <unit_price>13.76</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

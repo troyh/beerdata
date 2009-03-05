@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="AMF-Keglers-Lanes">
+  <name>AMF Kegler's Lanes‎</name>
+  <address>
+    <street>2000 Seminole Trl</street>
+    <city>Charlottesville</city>
+    <state>VA</state>
+    <zip>22901-8381</zip>
+    <latitude>38.090971</latitude>
+    <longitude>-78.468917</longitude>
+    <country>US</country>
+  </address>
+  <phone>(434) 978-3999</phone>
+</brewery>

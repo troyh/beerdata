@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Falls-Church-News-Press">
+  <name>Falls Church News-Press‎</name>
+  <address>
+    <street>450 W Broad St # 321</street>
+    <city>Falls Church</city>
+    <state>MD</state>
+    <zip>US</zip>
+    <latitude>39.140435</latitude>
+    <longitude>-75.982889</longitude>
+    <country/>
+  </address>
+  <phone>(703) 532-3267</phone>
+</brewery>

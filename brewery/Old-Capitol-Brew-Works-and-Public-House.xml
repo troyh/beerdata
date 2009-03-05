@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-Capitol-Brew-Works-and-Public-House">
+  <name>Old Capitol Brew Works and Public House‎</name>
+  <address>
+    <street>525 S Gilbert St</street>
+    <city>Iowa City</city>
+    <state>IA</state>
+    <zip>52240-4919</zip>
+    <latitude>41.654814</latitude>
+    <longitude>-91.530455</longitude>
+    <country>US</country>
+  </address>
+  <phone>(319) 337-3422</phone>
+</brewery>

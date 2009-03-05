@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Roots-Organic-Brewing-Co/EXCALIBUR-STOUT" brewery_id="Roots-Organic-Brewing-Co">
+  <name>EXCALIBUR STOUT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="2-11003-11111-1">
+      <description>1/6 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>211003</item>
+        <reg_price>75.00</reg_price>
+        <post_off>75.00</post_off>
+        <net_case_price/>
+        <unit_price>75.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

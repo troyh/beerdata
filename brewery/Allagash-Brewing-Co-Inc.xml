@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Allagash-Brewing-Co-Inc">
+  <name>Allagash Brewing Co Inc‎</name>
+  <address>
+    <street>50 Industrial Way</street>
+    <city>Portland</city>
+    <state>ME</state>
+    <zip>04103-1042</zip>
+    <latitude>43.702813</latitude>
+    <longitude>-70.317911</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 878-5385</phone>
+</brewery>

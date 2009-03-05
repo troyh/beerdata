@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Green-Bay-Brewing-Co">
+  <name>Green Bay Brewing Co‎</name>
+  <address>
+    <street>313 Dousman St</street>
+    <city>Green Bay</city>
+    <state>WI</state>
+    <zip>54303-2713</zip>
+    <latitude>44.518836</latitude>
+    <longitude>-88.019061</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 438-8050</phone>
+</brewery>

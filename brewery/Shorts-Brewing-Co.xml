@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shorts-Brewing-Co">
+  <name>Short's Brewing Co‎</name>
+  <address>
+    <street>121 N Bridge St</street>
+    <city>Bellaire</city>
+    <state>MI</state>
+    <zip>49615-9509</zip>
+    <latitude>44.975698</latitude>
+    <longitude>-85.210167</longitude>
+    <country>US</country>
+  </address>
+  <phone>(231) 533-6622</phone>
+</brewery>

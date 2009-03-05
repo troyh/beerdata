@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="South-Street-Brewery">
+  <name>South Street Brewery‎</name>
+  <address>
+    <street>106 W South St</street>
+    <city>Charlottesville</city>
+    <state>VA</state>
+    <zip>22902-5039</zip>
+    <latitude>38.029309</latitude>
+    <longitude>-78.482282</longitude>
+    <country>US</country>
+  </address>
+  <phone>(434) 293-6550</phone>
+</brewery>

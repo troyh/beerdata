@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mc-Kenzie-Brew-House-Concord">
+  <name>Mc Kenzie Brew House‎</name>
+  <address>
+    <street>451 Wilmington W Chester</street>
+    <city>Concord</city>
+    <state>PA</state>
+    <zip>19342-1249</zip>
+    <latitude>39.861631</latitude>
+    <longitude>-75.542880</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 361-9800</phone>
+</brewery>

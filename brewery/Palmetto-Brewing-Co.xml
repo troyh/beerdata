@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Palmetto-Brewing-Co">
+  <name>Palmetto Brewing Co‎</name>
+  <address>
+    <street>289 Huger St</street>
+    <city>Charleston</city>
+    <state>SC</state>
+    <zip>29403-4522</zip>
+    <latitude>32.801404</latitude>
+    <longitude>-79.945840</longitude>
+    <country>US</country>
+  </address>
+  <phone>(843) 937-0903</phone>
+</brewery>

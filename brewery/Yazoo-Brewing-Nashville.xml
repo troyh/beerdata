@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Yazoo-Brewing-Nashville">
+  <name>Yazoo Brewing‎</name>
+  <address>
+    <street>1200 Clinton St # 110</street>
+    <city>Nashville</city>
+    <state>TN</state>
+    <zip>37203-2804</zip>
+    <latitude>36.165429</latitude>
+    <longitude>-86.793948</longitude>
+    <country>US</country>
+  </address>
+  <phone>(615) 320-0290</phone>
+</brewery>

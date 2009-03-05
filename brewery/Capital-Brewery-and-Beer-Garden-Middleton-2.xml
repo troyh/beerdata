@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Capital-Brewery-and-Beer-Garden-Middleton-2">
+  <name>Capital Brewery &amp; Beer Garden‎</name>
+  <address>
+    <street>7734 Terrace Ave</street>
+    <city>Middleton</city>
+    <state>WI</state>
+    <zip>53562-3163</zip>
+    <latitude>43.094696</latitude>
+    <longitude>-89.515710</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 836-7100</phone>
+</brewery>

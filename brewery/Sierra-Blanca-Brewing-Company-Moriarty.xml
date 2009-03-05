@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sierra-Blanca-Brewing-Company-Moriarty">
+  <name>Sierra Blanca Brewing Company‎</name>
+  <address>
+    <street>Industrial Loop</street>
+    <city>Moriarty</city>
+    <state>NM</state>
+    <zip>87035</zip>
+    <latitude>35.000889</latitude>
+    <longitude>-106.023887</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 832-2337</phone>
+</brewery>

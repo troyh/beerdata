@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grand-Rapids-Brewing-Co">
+  <name>Grand Rapids Brewing Co‎</name>
+  <address>
+    <street>3689 28th St SE</street>
+    <city>Grand Rapids</city>
+    <state>MI</state>
+    <zip>49512-1605</zip>
+    <latitude>42.912669</latitude>
+    <longitude>-85.575989</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 285-5970</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Crabby-Larrys-Brew-Pub-Steak">
+  <name>Crabby Larry's Brew Pub Steak‎</name>
+  <address>
+    <street>237 W Butler Ave</street>
+    <city>Chalfont</city>
+    <state>PA</state>
+    <zip>18914-3020</zip>
+    <latitude>40.279875</latitude>
+    <longitude>-75.214115</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 822-8788</phone>
+</brewery>

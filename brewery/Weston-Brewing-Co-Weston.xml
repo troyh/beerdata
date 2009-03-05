@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Weston-Brewing-Co-Weston">
+  <name>Weston Brewing Co‎</name>
+  <address>
+    <street>500 Welt St</street>
+    <city>Weston</city>
+    <state>MO</state>
+    <zip>64098-1242</zip>
+    <latitude>39.411228</latitude>
+    <longitude>-94.900149</longitude>
+    <country>US</country>
+  </address>
+  <phone>(816) 640-5235</phone>
+</brewery>

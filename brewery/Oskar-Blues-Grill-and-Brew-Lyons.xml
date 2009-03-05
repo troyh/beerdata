@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oskar-Blues-Grill-and-Brew-Lyons">
+  <name>Oskar Blues Grill &amp; Brew‎</name>
+  <address>
+    <street>303 Main St</street>
+    <city>Lyons</city>
+    <state>CO</state>
+    <zip>80540-8975</zip>
+    <latitude>40.224508</latitude>
+    <longitude>-105.267743</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 823-6685</phone>
+</brewery>

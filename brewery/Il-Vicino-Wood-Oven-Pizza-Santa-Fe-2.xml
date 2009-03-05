@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Il-Vicino-Wood-Oven-Pizza-Santa-Fe-2">
+  <name>Il Vicino Wood-Oven Pizza‎</name>
+  <address>
+    <street>321 W San Francisco St</street>
+    <city>Santa Fe</city>
+    <state>NM</state>
+    <zip>87501-2115</zip>
+    <latitude>35.688115</latitude>
+    <longitude>-105.942168</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 986-8700</phone>
+</brewery>

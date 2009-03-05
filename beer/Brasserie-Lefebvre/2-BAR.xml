@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brasserie-Lefebvre/2-BAR" brewery_id="Brasserie-Lefebvre">
+  <name>2 BAR</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-10774-30246-2">
+      <description>BOTTLE 6-4/11</description>
+      <distributor>
+        <name>columbia</name>
+        <item>84910</item>
+        <reg_price>$67.08</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$67.08</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$13.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

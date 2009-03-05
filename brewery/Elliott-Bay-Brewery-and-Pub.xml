@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elliott-Bay-Brewery-and-Pub">
+  <name>Elliott Bay Brewery &amp; Pub‎</name>
+  <address>
+    <street>4720 California Ave SW</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98116-4413</zip>
+    <latitude>47.560626</latitude>
+    <longitude>-122.386611</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 932-8695</phone>
+</brewery>

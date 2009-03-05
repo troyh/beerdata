@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Lighthouse-Brewpub">
+  <name>McMenamins Lighthouse Brewpub‎</name>
+  <address>
+    <street>4157 NW Highway 101</street>
+    <city>Lincoln City</city>
+    <state>OR</state>
+    <zip>97367-5006</zip>
+    <latitude>44.997286</latitude>
+    <longitude>-124.001230</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 994-7238</phone>
+</brewery>

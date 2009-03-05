@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="San-Diego-Brewing-Co">
+  <name>San Diego Brewing Co‎</name>
+  <address>
+    <street>10450 Friars Rd</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92120-2305</zip>
+    <latitude>32.791621</latitude>
+    <longitude>-117.098267</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 284-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cashmere-Brewing-Company">
+  <name>Cashmere Brewing Company‎</name>
+  <address>
+    <street>215 Mission Ave</street>
+    <city>Cashmere</city>
+    <state>WA</state>
+    <zip>98815-1008</zip>
+    <latitude>47.521039</latitude>
+    <longitude>-120.467276</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 782-4677</phone>
+</brewery>

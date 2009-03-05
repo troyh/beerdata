@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sports-Brew-Pub">
+  <name>Sports Brew Pub‎</name>
+  <address>
+    <street>166 Maple St</street>
+    <city>Wyandotte</city>
+    <state>MI</state>
+    <zip>48192-5928</zip>
+    <latitude>42.202253</latitude>
+    <longitude>-83.150992</longitude>
+    <country>US</country>
+  </address>
+  <phone>(734) 285-5060</phone>
+</brewery>

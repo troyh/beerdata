@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jaxons-Restaurant-and-Brewing-Co-El-Paso">
+  <name>Jaxons Restaurant &amp; Brewing Co‎</name>
+  <address>
+    <street>7410 Remcon Cir</street>
+    <city>El Paso</city>
+    <state>TX</state>
+    <zip>79912-3508</zip>
+    <latitude>31.836623</latitude>
+    <longitude>-106.561967</longitude>
+    <country>US</country>
+  </address>
+  <phone>(915) 845-6557</phone>
+</brewery>

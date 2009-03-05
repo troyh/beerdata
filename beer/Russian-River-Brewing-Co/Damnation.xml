@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Russian-River-Brewing-Co/Damnation" brewery_id="Russian-River-Brewing-Co">
+  <name>Damnation</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="892543000025">
+      <description>12/750 ml</description>
+      <distributor>
+        <name>click</name>
+        <item>11908</item>
+        <reg_price>92.28</reg_price>
+        <post_off>$83.88</post_off>
+        <net_case_price/>
+        <unit_price>$7.69</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size>
+      <description>15.5 gal</description>
+      <distributor>
+        <name>click</name>
+        <item>62516</item>
+        <reg_price>$179.00</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="St-Peters-Brewery/IPA" brewery_id="St-Peters-Brewery">
+  <name>IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-88444-50032-6">
+      <description>12/16.9 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>695006</item>
+        <reg_price>37.71</reg_price>
+        <post_off>33.50</post_off>
+        <net_case_price/>
+        <unit_price>3.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

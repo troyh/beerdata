@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Baron-Brewing">
+  <name>Baron Brewing‎</name>
+  <address>
+    <street>1605 S 93RD St</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98108-5109</zip>
+    <latitude>47.520152</latitude>
+    <longitude>-122.312338</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 764-1213</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Millstream-Brewing-Co">
+  <name>Millstream Brewing Co‎</name>
+  <address>
+    <street>835 48th Ave</street>
+    <city>Amana</city>
+    <state>IA</state>
+    <zip>52203-8122</zip>
+    <latitude>41.796507</latitude>
+    <longitude>-91.865352</longitude>
+    <country>US</country>
+  </address>
+  <phone>(319) 622-3672</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brasserie-Souffleur">
+  <name>Brasserie Souffleur‎</name>
+  <address>
+    <street>Vlamingstraat 58</street>
+    <city>8000</city>
+    <state>Brugge</state>
+    <zip>BE</zip>
+    <latitude>51.210613</latitude>
+    <longitude>3.224490</longitude>
+    <country/>
+  </address>
+  <phone>050 34 82 92</phone>
+</brewery>

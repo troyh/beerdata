@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>2 Harrison St</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94105-1603</zip>
+    <latitude>37.789491</latitude>
+    <longitude>-122.388705</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 243-8246</phone>
+</brewery>

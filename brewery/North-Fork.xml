@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-Fork">
+  <name>North Fork‎</name>
+  <address>
+    <street>6186 Mt Baker Hwy</street>
+    <city>Deming</city>
+    <state>WA</state>
+    <zip>98244-9501</zip>
+    <latitude>48.891380</latitude>
+    <longitude>-122.150724</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 599-2337</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Oskar-Blues-Grill-and-Brew-Lyons/DALE-S-PALE-ALE" brewery_id="Oskar-Blues-Grill-and-Brew-Lyons">
+  <name>DALE'S PALE ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-61994-20000-3">
+      <description>4/6/12 CAN</description>
+      <distributor>
+        <name>odom</name>
+        <item>862000</item>
+        <reg_price>26.96</reg_price>
+        <post_off>25.18</post_off>
+        <net_case_price/>
+        <unit_price>6.74</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

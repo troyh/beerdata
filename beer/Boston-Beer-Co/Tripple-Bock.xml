@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Tripple-Bock" brewery_id="Boston-Beer-Co" calories_per_ml="1.72451513228215" abv="18" og="40Plato">
+  <name>Tripple Bock</name>
+  <description>Samuel AdamsÂ® Triple BockÂ® is the beer that truly started our odyssey into extreme brewing. Its deep, full flavor explodes with notes of maple, vanilla, oak and toffee. This flavor, along with its heavy, still mouthfeel has drawn comparisons to a vintage port, sherry and cognac. And Samuel AdamsÂ® Triple BockÂ® should be enjoyed in much the same way. We recommend serving it at room temperature in a snifter a few ounces at a time - one bottle should generously serve two to three.  Its warming malt character and fruit esters make it an ideal after dinner aperitif. Samuel AdamsÂ® Triple BockÂ® is brewed like any other beer using the four classic ingredients - two row malted barley, water, Noble hops and yeast- along with maple syrup. It is then aged several months in oak whiskey barrels. This extra step adds flavor layers of vanilla, oak, and tannins to push this already complex brew into the realm of a fine port or sherry.
+Due to legal restrictions, Samuel AdamsÂ® Triple BockÂ® can not be sold in the states of Alabama, Arkansas, Florida, Georgia, Idaho, Iowa, Missouri, New Hampshire, North Carolina, Ohio, Oregon, South Carolina, Washington, and West Virginia.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains>Two row pale, caramel 60</grains>
+  <hops>Tettnang Hallertauer Nobel</hops>
+  <yeast>two top-ermenting ale yeasts</yeast>
+  <otherings/>
+  <sizes>
+    <size>
+      <description/>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

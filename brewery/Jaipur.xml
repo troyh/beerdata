@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jaipur">
+  <name>Jaipur‎</name>
+  <address>
+    <street>10922 Elm St</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68144-4822</zip>
+    <latitude>41.232833</latitude>
+    <longitude>-96.082913</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 392-7331</phone>
+</brewery>

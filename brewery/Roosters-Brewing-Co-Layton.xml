@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Roosters-Brewing-Co-Layton">
+  <name>Roosters Brewing Co‎</name>
+  <address>
+    <street>748 w Heritage Park Blvd</street>
+    <city>Layton</city>
+    <state>UT</state>
+    <zip>84041-5719</zip>
+    <latitude>41.083236</latitude>
+    <longitude>-111.979556</longitude>
+    <country>US</country>
+  </address>
+  <phone>(801) 774-9330</phone>
+</brewery>

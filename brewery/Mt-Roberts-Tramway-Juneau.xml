@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mt-Roberts-Tramway-Juneau">
+  <name>Mt. Roberts Tramway‎</name>
+  <address>
+    <street>490 S Franklin St</street>
+    <city>Juneau</city>
+    <state>AK</state>
+    <zip>99801-1328</zip>
+    <latitude>58.296202</latitude>
+    <longitude>-134.399848</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 463-3412</phone>
+</brewery>

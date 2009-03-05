@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="River-Tracks-Cafe-Inc-DBA-Little-River-Brewing-Co">
+  <name>River Tracks Cafe Inc DBA: Little River Brewing Co‎</name>
+  <address>
+    <street>345 E Main Street</street>
+    <city>Laurens</city>
+    <state>SC</state>
+    <zip>29360-2926</zip>
+    <latitude>34.498707</latitude>
+    <longitude>-82.008350</longitude>
+    <country>US</country>
+  </address>
+  <phone>(864) 984-9149</phone>
+</brewery>

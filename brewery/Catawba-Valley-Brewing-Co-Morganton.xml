@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Catawba-Valley-Brewing-Co-Morganton">
+  <name>Catawba Valley Brewing Co‎</name>
+  <address>
+    <street>212 S Green St</street>
+    <city>Morganton</city>
+    <state>NC</state>
+    <zip>28655-3525</zip>
+    <latitude>35.745220</latitude>
+    <longitude>-81.686245</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 430-6883</phone>
+</brewery>

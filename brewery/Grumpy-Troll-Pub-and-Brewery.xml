@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grumpy-Troll-Pub-and-Brewery">
+  <name>Grumpy Troll Pub &amp; Brewery‎</name>
+  <address>
+    <street>105 S 2nd St</street>
+    <city>Mt Horeb</city>
+    <state>WI</state>
+    <zip>53572-2105</zip>
+    <latitude>43.008141</latitude>
+    <longitude>-89.738262</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 437-2739</phone>
+</brewery>

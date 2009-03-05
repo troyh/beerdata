@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Lost-Coast-Brewery-and-Cafe/8-BALL" brewery_id="Lost-Coast-Brewery-and-Cafe">
+  <name>8 BALL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-51249-24106-7">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>59521</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.48</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

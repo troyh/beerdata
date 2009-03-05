@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Nitro-Obsidian-Stout" brewery_id="Deschutes-Brewery-Inc">
+  <name>Nitro Obsidian Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>13.2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32914</item>
+        <reg_price>$113.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$113.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$141.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

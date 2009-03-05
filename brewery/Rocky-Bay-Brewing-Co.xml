@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rocky-Bay-Brewing-Co">
+  <name>Rocky Bay Brewing Co‎</name>
+  <address>
+    <street>230 Park St</street>
+    <city>Rockland</city>
+    <state>ME</state>
+    <zip>04841-2126</zip>
+    <latitude>44.101409</latitude>
+    <longitude>-69.123326</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 596-0300</phone>
+</brewery>

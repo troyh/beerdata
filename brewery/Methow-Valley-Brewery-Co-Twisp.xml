@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Methow-Valley-Brewery-Co-Twisp">
+  <name>Methow Valley Brewery Co‎</name>
+  <address>
+    <street>201 N Methow Valley Hwy</street>
+    <city>Twisp</city>
+    <state>WA</state>
+    <zip>98856</zip>
+    <latitude>48.366195</latitude>
+    <longitude>-120.122575</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 997-6822</phone>
+</brewery>

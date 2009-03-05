@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mehana-Brewing-Co">
+  <name>Mehana Brewing Co‎</name>
+  <address>
+    <street>275 E Kawili St</street>
+    <city>Hilo</city>
+    <state>HI</state>
+    <zip>96720-5074</zip>
+    <latitude>19.705997</latitude>
+    <longitude>-155.068884</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 934-8211</phone>
+</brewery>

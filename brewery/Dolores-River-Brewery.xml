@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dolores-River-Brewery">
+  <name>Dolores River Brewery‎</name>
+  <address>
+    <street>100 S 4th St</street>
+    <city>Dolores</city>
+    <state>CO</state>
+    <zip>81323</zip>
+    <latitude>37.473747</latitude>
+    <longitude>-108.504634</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 882-4677</phone>
+</brewery>

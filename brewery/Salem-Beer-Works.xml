@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Salem-Beer-Works">
+  <name>Salem Beer Works‎</name>
+  <address>
+    <street>278 Derby St</street>
+    <city>Salem</city>
+    <state>MA</state>
+    <zip>01970-3635</zip>
+    <latitude>42.520409</latitude>
+    <longitude>-70.891216</longitude>
+    <country>US</country>
+  </address>
+  <phone>(978) 745-2337</phone>
+</brewery>

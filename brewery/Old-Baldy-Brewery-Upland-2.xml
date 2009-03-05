@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-Baldy-Brewery-Upland-2">
+  <name>Old Baldy Brewery‎</name>
+  <address>
+    <street>271 N 2nd Avenue</street>
+    <city>Upland</city>
+    <state>CA</state>
+    <zip>91786-6003</zip>
+    <latitude>34.096919</latitude>
+    <longitude>-117.648594</longitude>
+    <country>US</country>
+  </address>
+  <phone>(909) 946-1750</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Glacier-Brew-House">
+  <name>Glacier Brew House‎</name>
+  <address>
+    <street>737 W 5th Ave</street>
+    <city>Anchorage</city>
+    <state>AK</state>
+    <zip>99501-2117</zip>
+    <latitude>61.217681</latitude>
+    <longitude>-149.896748</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 274-2739</phone>
+</brewery>

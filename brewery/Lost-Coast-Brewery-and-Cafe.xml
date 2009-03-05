@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lost-Coast-Brewery-and-Cafe">
+  <name>Lost Coast Brewery and Cafe‎</name>
+  <address>
+    <street>617 4th St</street>
+    <city>Eureka</city>
+    <state>CA</state>
+    <zip>95501-1013</zip>
+    <latitude>40.803086</latitude>
+    <longitude>-124.164904</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 445-4480</phone>
+</brewery>

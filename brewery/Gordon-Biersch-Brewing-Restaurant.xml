@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewing-Restaurant">
+  <name>Gordon Biersch Brewing Restaurant‎</name>
+  <address>
+    <street>145 S San Fernando Blvd</street>
+    <city>Burbank</city>
+    <state>CA</state>
+    <zip>91502-1322</zip>
+    <latitude>34.180420</latitude>
+    <longitude>-118.308354</longitude>
+    <country>US</country>
+  </address>
+  <phone>(818) 569-5240</phone>
+</brewery>

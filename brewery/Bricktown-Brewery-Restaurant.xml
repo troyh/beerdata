@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bricktown-Brewery-Restaurant">
+  <name>Bricktown Brewery Restaurant‎</name>
+  <address>
+    <street>1 N Oklahoma Ave</street>
+    <city>Oklahoma City</city>
+    <state>OK</state>
+    <zip>73104-2413</zip>
+    <latitude>35.466556</latitude>
+    <longitude>-97.510748</longitude>
+    <country>US</country>
+  </address>
+  <phone>(405) 232-2739</phone>
+</brewery>

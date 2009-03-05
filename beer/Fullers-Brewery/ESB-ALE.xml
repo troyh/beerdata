@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Fullers-Brewery/ESB-ALE" brewery_id="Fullers-Brewery">
+  <name>ESB ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="---">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>305401</item>
+        <reg_price>31.97</reg_price>
+        <post_off>31.97</post_off>
+        <net_case_price/>
+        <unit_price>7.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

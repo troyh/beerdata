@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elevator-Brewery-Draught-Haus-Columbus">
+  <name>Elevator Brewery-Draught Haus‎</name>
+  <address>
+    <street>161 N High St</street>
+    <city>Columbus</city>
+    <state>OH</state>
+    <zip>43215-2402</zip>
+    <latitude>39.965513</latitude>
+    <longitude>-83.001493</longitude>
+    <country>US</country>
+  </address>
+  <phone>(614) 228-0500</phone>
+</brewery>

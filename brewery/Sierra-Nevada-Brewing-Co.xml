@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sierra-Nevada-Brewing-Co">
+  <name>Sierra Nevada Brewing Co‎</name>
+  <address>
+    <street>1075 E 20th St</street>
+    <city>Chico</city>
+    <state>CA</state>
+    <zip>95928-6722</zip>
+    <latitude>39.724806</latitude>
+    <longitude>-121.813916</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 345-2739</phone>
+</brewery>

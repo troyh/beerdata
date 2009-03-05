@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Olde-Main-Brewing-Co-Ames">
+  <name>Olde Main Brewing Co‎</name>
+  <address>
+    <street>316 Main St</street>
+    <city>Ames</city>
+    <state>IA</state>
+    <zip>50010-6148</zip>
+    <latitude>42.024951</latitude>
+    <longitude>-93.614103</longitude>
+    <country>US</country>
+  </address>
+  <phone>(515) 232-0553</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brau-Haus-Lucan">
+  <name>Brau Haus‎</name>
+  <address>
+    <street>111 Main St</street>
+    <city>Lucan</city>
+    <state>MN</state>
+    <zip>56255</zip>
+    <latitude>44.410462</latitude>
+    <longitude>-95.410583</longitude>
+    <country>US</country>
+  </address>
+  <phone>(507) 747-2796</phone>
+</brewery>

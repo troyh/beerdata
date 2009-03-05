@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Charleston-Brewing-Company">
+  <name>Charleston Brewing Company‎</name>
+  <address>
+    <street>557 E Bay St</street>
+    <city>Charleston</city>
+    <state>SC</state>
+    <zip>29403-6322</zip>
+    <latitude>32.792485</latitude>
+    <longitude>-79.931535</longitude>
+    <country>US</country>
+  </address>
+  <phone>(843) 379-2337</phone>
+</brewery>

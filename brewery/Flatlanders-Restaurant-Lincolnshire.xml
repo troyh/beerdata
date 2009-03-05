@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flatlanders-Restaurant-Lincolnshire">
+  <name>Flatlander's Restaurant‎</name>
+  <address>
+    <street>200 Village Grn</street>
+    <city>Lincolnshire</city>
+    <state>IL</state>
+    <zip>60069-3028</zip>
+    <latitude>42.203090</latitude>
+    <longitude>-87.930970</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 821-1234</phone>
+</brewery>

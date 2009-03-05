@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hub-City-Brewing-Co">
+  <name>Hub City Brewing Co‎</name>
+  <address>
+    <street>11352 40th St</street>
+    <city>Stanley</city>
+    <state>IA</state>
+    <zip>50671-9506</zip>
+    <latitude>42.687465</latitude>
+    <longitude>-91.812862</longitude>
+    <country>US</country>
+  </address>
+  <phone>(319) 283-7369</phone>
+</brewery>

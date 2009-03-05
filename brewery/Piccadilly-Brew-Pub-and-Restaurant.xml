@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Piccadilly-Brew-Pub-and-Restaurant">
+  <name>Piccadilly Brew Pub &amp; Restaurant‎</name>
+  <address>
+    <street>125 E Piccadilly St</street>
+    <city>Winchester</city>
+    <state>VA</state>
+    <zip>22601-5004</zip>
+    <latitude>39.185764</latitude>
+    <longitude>-78.162912</longitude>
+    <country>US</country>
+  </address>
+  <phone>(540) 535-1899</phone>
+</brewery>

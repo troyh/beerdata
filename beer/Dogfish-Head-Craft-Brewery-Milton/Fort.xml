@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Fort" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+  <name>Fort</name>
+  <description>An ale brewed with a ridiculous amount of pureed raspberries (over a ton of em!).</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-38489-00071-8">
+      <description>BOTTLE 12/25</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82878</item>
+        <reg_price>$151.15</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$151.15</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$15.69</deposit>
+      </distributor>
+    </size>
+    <size>
+      <description>12/25.4 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10680</item>
+        <reg_price>$159.48</reg_price>
+        <post_off>    </post_off>
+        <net_case_price/>
+        <unit_price>$13.29</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

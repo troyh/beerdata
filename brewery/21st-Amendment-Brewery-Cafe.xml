@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="21st-Amendment-Brewery-Cafe">
+  <name>21st Amendment Brewery Cafe‎</name>
+  <address>
+    <street>563 2nd St</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94107-1411</zip>
+    <latitude>37.782315</latitude>
+    <longitude>-122.392587</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 369-0900</phone>
+</brewery>

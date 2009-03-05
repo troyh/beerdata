@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brooklyn-Brewery-Brooklyn-2">
+  <name>Brooklyn Brewery‎</name>
+  <address>
+    <street>79 N 11th St</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11211-1913</zip>
+    <latitude>40.721699</latitude>
+    <longitude>-73.957765</longitude>
+    <country>US</country>
+  </address>
+  <phone>(718) 486-7422</phone>
+</brewery>

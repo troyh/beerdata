@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Denver-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>1001 16th St # 100A</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80202-0003</zip>
+    <latitude>39.747327</latitude>
+    <longitude>-104.994838</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 534-7616</phone>
+</brewery>

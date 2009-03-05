@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pyramid-Brewery-and-Alehouse">
+  <name>Pyramid Brewery &amp; Alehouse‎</name>
+  <address>
+    <street>901 Gilman St</street>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94710-1423</zip>
+    <latitude>37.879698</latitude>
+    <longitude>-122.300166</longitude>
+    <country>US</country>
+  </address>
+  <phone>(510) 527-9090</phone>
+</brewery>

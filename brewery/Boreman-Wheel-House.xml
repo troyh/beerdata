@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boreman-Wheel-House">
+  <name>Boreman Wheel House‎</name>
+  <address>
+    <street>406 Avery St</street>
+    <city>Parkersburg</city>
+    <state>WV</state>
+    <zip>26101-5329</zip>
+    <latitude>39.264211</latitude>
+    <longitude>-81.560471</longitude>
+    <country>US</country>
+  </address>
+  <phone>(304) 485-3838</phone>
+</brewery>

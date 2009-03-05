@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Minneapolis-Town-Hall-Brewery">
+  <name>Minneapolis Town Hall Brewery‎</name>
+  <address>
+    <street>1430 Washington Ave S</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55454-1038</zip>
+    <latitude>44.973381</latitude>
+    <longitude>-93.248059</longitude>
+    <country>US</country>
+  </address>
+  <phone>(612) 339-8696</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewhouse-Santa-Barbara">
+  <name>Brewhouse‎</name>
+  <address>
+    <street>229 W Montecito St</street>
+    <city>Santa Barbara</city>
+    <state>CA</state>
+    <zip>93101-3824</zip>
+    <latitude>34.412340</latitude>
+    <longitude>-119.695518</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 884-4664</phone>
+</brewery>

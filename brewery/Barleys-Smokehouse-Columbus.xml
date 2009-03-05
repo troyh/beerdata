@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barleys-Smokehouse-Columbus">
+  <name>Barley's Smokehouse‎</name>
+  <address>
+    <street>1130 Dublin Rd</street>
+    <city>Columbus</city>
+    <state>OH</state>
+    <zip>43215-1039</zip>
+    <latitude>39.974073</latitude>
+    <longitude>-83.048937</longitude>
+    <country>US</country>
+  </address>
+  <phone>(614) 485-0227</phone>
+</brewery>

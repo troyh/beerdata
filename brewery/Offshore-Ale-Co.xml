@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Offshore-Ale-Co">
+  <name>Offshore Ale Co‎</name>
+  <address>
+    <street>30 Kennebec Ave</street>
+    <city>Oak Bluffs</city>
+    <state>MA</state>
+    <zip>02568</zip>
+    <latitude>41.455904</latitude>
+    <longitude>-70.557373</longitude>
+    <country>US</country>
+  </address>
+  <phone>(508) 693-2626</phone>
+</brewery>

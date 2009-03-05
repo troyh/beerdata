@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-River-Grille-and-Brewing-Works-Bay-Lake-2">
+  <name>Big River Grille &amp; Brewing Works‎</name>
+  <address>
+    <street>2101 Epcot Resorts Blvd</street>
+    <city>Bay Lake</city>
+    <state>FL</state>
+    <zip>32830-8442</zip>
+    <latitude>28.366740</latitude>
+    <longitude>-81.553750</longitude>
+    <country>US</country>
+  </address>
+  <phone>(407) 560-0253</phone>
+</brewery>

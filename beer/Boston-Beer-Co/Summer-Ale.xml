@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Summer-Ale" brewery_id="Boston-Beer-Co" calories_per_ml="0.450853629354809" abv="5.30" og="12Plato">
+  <name>Summer Ale</name>
+  <description>Samuel AdamsÂ® Summer Ale is an American wheat ale. This summer seasonal uses malted wheat as well as lemon zest and grains of paradise, a rare pepper from Africa first used as a brewing spice in the 13th Century to create a crisp and spicy flavor and body. The ale fermentation imparts a background tropical fruit note reminiscent of mangos and peaches. All of these come together to create a quenching, clean finishing beer perfect for those warm Summer days.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Malted Wheat</grains>
+  <hops>Tettnang Tettnanger Noble</hops>
+  <yeast>Top-fermenting Ale yeast</yeast>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="6D">American Wheat or Rye Beer</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>KEG 1/2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32542</item>
+        <reg_price>$119.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$119.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$148.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

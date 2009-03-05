@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barley-Creek-Brewing-Co">
+  <name>Barley Creek Brewing Co‎</name>
+  <address>
+    <street>Sullivan Trl &amp; Cambelback Rd</street>
+    <city>Tannersville</city>
+    <state>PA</state>
+    <zip>18372</zip>
+    <latitude>41.046590</latitude>
+    <longitude>-75.313864</longitude>
+    <country>US</country>
+  </address>
+  <phone>(570) 629-9399</phone>
+</brewery>

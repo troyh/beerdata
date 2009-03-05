@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grand-Lake-Brewing-Co-Grand-Lake">
+  <name>Grand Lake Brewing Co‎</name>
+  <address>
+    <street>915 Grand Ave</street>
+    <city>Grand Lake</city>
+    <state>CO</state>
+    <zip>80447</zip>
+    <latitude>40.243703</latitude>
+    <longitude>-105.804839</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 627-1711</phone>
+</brewery>

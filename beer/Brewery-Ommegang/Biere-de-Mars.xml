@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-Ommegang/Biere-de-Mars" brewery_id="Brewery-Ommegang">
+  <name>Biere de Mars</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>6/750ml</description>
+      <distributor>
+        <name>click</name>
+        <item>10780</item>
+        <reg_price>58.74</reg_price>
+        <post_off>$54.54</post_off>
+        <net_case_price/>
+        <unit_price>$9.79</unit_price>
+        <deposit>       </deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

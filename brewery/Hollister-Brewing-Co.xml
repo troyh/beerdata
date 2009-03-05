@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hollister-Brewing-Co">
+  <name>Hollister Brewing Co‎</name>
+  <address>
+    <street>6980 Market Place Dr</street>
+    <city>Goleta</city>
+    <state>CA</state>
+    <zip>93117-2997</zip>
+    <latitude>34.428153</latitude>
+    <longitude>-119.873317</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 968-2810</phone>
+</brewery>

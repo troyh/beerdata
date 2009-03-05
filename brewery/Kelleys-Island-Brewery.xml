@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kelleys-Island-Brewery">
+  <name>Kelleys Island Brewery‎</name>
+  <address>
+    <street>504 W Lakeshore Dr</street>
+    <city>Kelleys Island</city>
+    <state>OH</state>
+    <zip>43438</zip>
+    <latitude>41.596095</latitude>
+    <longitude>-82.725834</longitude>
+    <country>US</country>
+  </address>
+  <phone>(419) 746-2314</phone>
+</brewery>

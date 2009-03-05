@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cisco-Brewers">
+  <name>Cisco Brewers‎</name>
+  <address>
+    <street>5 Bartlett Farm Rd</street>
+    <city>Nantucket</city>
+    <state>MA</state>
+    <zip>02554-4341</zip>
+    <latitude>41.263760</latitude>
+    <longitude>-70.130835</longitude>
+    <country>US</country>
+  </address>
+  <phone>(508) 325-5929</phone>
+</brewery>

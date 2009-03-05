@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Trailhead-Brewing-Co-St-Charles">
+  <name>Trailhead Brewing Co‎</name>
+  <address>
+    <street>921 S Riverside Dr</street>
+    <city>St Charles</city>
+    <state>MO</state>
+    <zip>63301-3489</zip>
+    <latitude>38.778138</latitude>
+    <longitude>-90.482180</longitude>
+    <country>US</country>
+  </address>
+  <phone>(636) 946-2739</phone>
+</brewery>

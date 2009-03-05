@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gray-Brewing-Co">
+  <name>Gray Brewing Co‎</name>
+  <address>
+    <street>2424 W Court St</street>
+    <city>Janesville</city>
+    <state>WI</state>
+    <zip>53548-3307</zip>
+    <latitude>42.679383</latitude>
+    <longitude>-89.049808</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 754-5150</phone>
+</brewery>

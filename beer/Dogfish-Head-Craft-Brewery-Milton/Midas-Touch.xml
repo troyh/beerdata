@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Midas-Touch" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.86507540132454" abv="9" ibu="20">
+  <name>Midas Touch</name>
+  <description>This recipe is the actual oldest-known fermented beverage in the world! Our recipe showcases the known ingredients of barley, white Muscat grapes, honey &amp; saffron found in the drinking vessels in King Midas' tomb! Somewhere between a beer, wine and mead, this smooth, dry ale will please with Chardonnay or I.P.A. drinker alike.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-38489-00063-3">
+      <description>BOTTLE 6-4/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81141</item>
+        <reg_price>$58.70</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.70</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$12.19</deposit>
+      </distributor>
+    </size>
+    <size upc="638489000626">
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10640</item>
+        <reg_price>67.14</reg_price>
+        <post_off>$58.74</post_off>
+        <net_case_price/>
+        <unit_price>$11.19</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

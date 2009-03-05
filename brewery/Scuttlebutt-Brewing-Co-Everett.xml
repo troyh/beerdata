@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Scuttlebutt-Brewing-Co-Everett">
+  <name>Scuttlebutt Brewing Co‎</name>
+  <address>
+    <street>1524 W Marine View Dr</street>
+    <city>Everett</city>
+    <state>WA</state>
+    <zip>98201-2067</zip>
+    <latitude>47.997271</latitude>
+    <longitude>-122.214015</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 257-9316</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="BrewDog-Brewery/PARADOX-MACALLAN" brewery_id="BrewDog-Brewery">
+  <name>PARADOX MACALLAN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-60154-91019-3">
+      <description>12/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>40016</item>
+        <reg_price>109.08</reg_price>
+        <post_off>100.68</post_off>
+        <net_case_price/>
+        <unit_price>9.09</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

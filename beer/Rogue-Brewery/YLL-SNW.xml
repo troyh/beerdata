@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/YLL-SNW" brewery_id="Rogue-Brewery">
+  <name>YLL SNW</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13080-8">
+      <description>CAN 2/5</description>
+      <distributor>
+        <name>columbia</name>
+        <item>31200</item>
+        <reg_price>$56.90</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$56.90</net_case_price>
+        <unit_price>$0.10</unit_price>
+        <deposit>$35.59</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

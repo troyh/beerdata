@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rail-House-Restaurant-and-Brewpub">
+  <name>Rail House Restaurant &amp; Brewpub‎</name>
+  <address>
+    <street>2029 Old Peshtigo Rd</street>
+    <city>Marinette</city>
+    <state>WI</state>
+    <zip>54143</zip>
+    <latitude>45.063738</latitude>
+    <longitude>-87.691674</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 732-4646</phone>
+</brewery>

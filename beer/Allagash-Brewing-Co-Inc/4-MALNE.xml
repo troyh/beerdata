@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Allagash-Brewing-Co-Inc/4-MALNE" brewery_id="Allagash-Brewing-Co-Inc">
+  <name>4 MALNE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-03675-10995-7">
+      <description>BOTTLE 6/25</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82155</item>
+        <reg_price>$75.60</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$75.60</net_case_price>
+        <unit_price>$0.30</unit_price>
+        <deposit>$94.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

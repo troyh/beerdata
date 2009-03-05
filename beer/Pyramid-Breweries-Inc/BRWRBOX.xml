@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Pyramid-Breweries-Inc/BRWRBOX" brewery_id="Pyramid-Breweries-Inc">
+  <name>BRWRBOX</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-76420-96008-8">
+      <description>BOTTLE 2/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>35632</item>
+        <reg_price>$23.99</reg_price>
+        <post_off>-$2.25</post_off>
+        <net_case_price>$21.74</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$13.59</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

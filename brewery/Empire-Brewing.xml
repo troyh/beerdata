@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Empire-Brewing">
+  <name>Empire Brewing‎</name>
+  <address>
+    <street>300 State Street</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11201-5821</zip>
+    <latitude>40.688766</latitude>
+    <longitude>-73.987896</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 454-2337</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cumberland-Brews">
+  <name>Cumberland Brews‎</name>
+  <address>
+    <street>1576 Bardstown Rd</street>
+    <city>Louisville</city>
+    <state>KY</state>
+    <zip>40205-1154</zip>
+    <latitude>38.230934</latitude>
+    <longitude>-85.705636</longitude>
+    <country>US</country>
+  </address>
+  <phone>(502) 458-8727</phone>
+</brewery>

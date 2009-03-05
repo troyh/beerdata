@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blue-Corn-Cafe">
+  <name>Blue Corn Cafe‎</name>
+  <address>
+    <street>716 9th St</street>
+    <city>Durham</city>
+    <state>NC</state>
+    <zip>27705-4803</zip>
+    <latitude>36.008369</latitude>
+    <longitude>-78.921950</longitude>
+    <country>US</country>
+  </address>
+  <phone>(919) 286-9600</phone>
+</brewery>

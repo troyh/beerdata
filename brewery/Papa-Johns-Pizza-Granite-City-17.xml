@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Papa-Johns-Pizza-Granite-City-17">
+  <name>Papa John's Pizza‎</name>
+  <address>
+    <street>3675 Nameoki Rd</street>
+    <city>Granite City</city>
+    <state>IL</state>
+    <zip>62040-3710</zip>
+    <latitude>38.727182</latitude>
+    <longitude>-90.123535</longitude>
+    <country>US</country>
+  </address>
+  <phone>(618) 877-7272</phone>
+</brewery>

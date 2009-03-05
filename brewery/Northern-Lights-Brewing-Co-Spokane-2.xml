@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Northern-Lights-Brewing-Co-Spokane-2">
+  <name>Northern Lights Brewing Co‎</name>
+  <address>
+    <street>1003 E Trent Ave # 170</street>
+    <city>Spokane</city>
+    <state>WA</state>
+    <zip>99202-2162</zip>
+    <latitude>47.662022</latitude>
+    <longitude>-117.394868</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 242-2739</phone>
+</brewery>

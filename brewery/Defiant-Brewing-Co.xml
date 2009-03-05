@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Defiant-Brewing-Co">
+  <name>Defiant Brewing Co‎</name>
+  <address>
+    <street>6 Dexter Plz</street>
+    <city>Pearl River</city>
+    <state>NY</state>
+    <zip>10965-2201</zip>
+    <latitude>41.054820</latitude>
+    <longitude>-74.026599</longitude>
+    <country>US</country>
+  </address>
+  <phone>(845) 920-8602</phone>
+</brewery>

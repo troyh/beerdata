@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Allgäuer-Brauhaus-AG/TEUTSCH-PILSNER" brewery_id="Allgäuer-Brauhaus-AG">
+  <name>TEUTSCH PILSNER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-48862-01005-7">
+      <description>20/.5L BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>734010</item>
+        <reg_price>44.80</reg_price>
+        <post_off>41.88</post_off>
+        <net_case_price/>
+        <unit_price>2.24</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

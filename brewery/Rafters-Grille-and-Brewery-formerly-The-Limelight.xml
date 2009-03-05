@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rafters-Grille-and-Brewery-formerly-The-Limelight">
+  <name>Rafter's Grille and Brewery (formerly The Limelight)‎</name>
+  <address>
+    <street>812 Fourth St</street>
+    <city>San Rafael</city>
+    <state>CA</state>
+    <zip>94901-3224</zip>
+    <latitude>37.972809</latitude>
+    <longitude>-122.524132</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 453-4200</phone>
+</brewery>

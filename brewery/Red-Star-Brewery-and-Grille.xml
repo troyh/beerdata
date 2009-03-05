@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Red-Star-Brewery-and-Grille">
+  <name>Red Star Brewery &amp; Grille‎</name>
+  <address>
+    <street>101 Ehalt St</street>
+    <city>Greensburg</city>
+    <state>PA</state>
+    <zip>15601-2324</zip>
+    <latitude>40.304271</latitude>
+    <longitude>-79.547477</longitude>
+    <country>US</country>
+  </address>
+  <phone>(724) 850-7245</phone>
+</brewery>

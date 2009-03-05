@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Quay-Street-Brewing-Co">
+  <name>Quay Street Brewing Co‎</name>
+  <address>
+    <street>330 Quay St</street>
+    <city>Port Huron</city>
+    <state>MI</state>
+    <zip>48060-3828</zip>
+    <latitude>42.975649</latitude>
+    <longitude>-82.422391</longitude>
+    <country>US</country>
+  </address>
+  <phone>(810) 982-4100</phone>
+</brewery>

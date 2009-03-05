@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dundee-Brewing-Company/HONY-BRN" brewery_id="Dundee-Brewing-Company">
+  <name>HONY BRN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-70310-37037-7">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83437</item>
+        <reg_price>$22.36</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$22.36</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pinnacle-Peak-Patio-Steakhouse">
+  <name>Pinnacle Peak Patio Steakhouse‎</name>
+  <address>
+    <street>10426 E Jomax Rd</street>
+    <city>Scottsdale</city>
+    <state>AZ</state>
+    <zip>85262-6064</zip>
+    <latitude>33.726942</latitude>
+    <longitude>-111.854395</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 585-1599</phone>
+</brewery>

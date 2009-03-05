@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Corner-Brewery">
+  <name>Corner Brewery‎</name>
+  <address>
+    <street>720 Norris St</street>
+    <city>Ypsilanti</city>
+    <state>MI</state>
+    <zip>48198-2825</zip>
+    <latitude>42.250326</latitude>
+    <longitude>-83.610047</longitude>
+    <country>US</country>
+  </address>
+  <phone>(734) 480-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barcade-LLC">
+  <name>Barcade LLC‎</name>
+  <address>
+    <street>388 Union Ave</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11211-3429</zip>
+    <latitude>40.712018</latitude>
+    <longitude>-73.951109</longitude>
+    <country>US</country>
+  </address>
+  <phone>(718) 302-6464</phone>
+</brewery>

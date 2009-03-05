@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rocky-Run-Tap-and-Grill">
+  <name>Rocky Run Tap &amp; Grill‎</name>
+  <address>
+    <street>7900 Ritchie Hwy</street>
+    <city>Glen Burnie</city>
+    <state>MD</state>
+    <zip>21061-4340</zip>
+    <latitude>39.140272</latitude>
+    <longitude>-76.602902</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 760-8850</phone>
+</brewery>

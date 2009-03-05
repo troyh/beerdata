@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Firehouse-Brewing-Co">
+  <name>Firehouse Brewing Co‎</name>
+  <address>
+    <street>610 Main St</street>
+    <city>Rapid City</city>
+    <state>SD</state>
+    <zip>57701-2736</zip>
+    <latitude>44.081279</latitude>
+    <longitude>-103.227314</longitude>
+    <country>US</country>
+  </address>
+  <phone>(605) 348-1915</phone>
+</brewery>

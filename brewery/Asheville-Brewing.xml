@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Asheville-Brewing">
+  <name>Asheville Brewing‎</name>
+  <address>
+    <street>77 Coxe Ave</street>
+    <city>Asheville</city>
+    <state>NC</state>
+    <zip>28801-3621</zip>
+    <latitude>35.592393</latitude>
+    <longitude>-82.555079</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 255-4077</phone>
+</brewery>

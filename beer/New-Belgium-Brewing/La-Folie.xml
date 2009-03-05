@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="New-Belgium-Brewing/La-Folie" brewery_id="New-Belgium-Brewing">
+  <name>La Folie</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="754527001346">
+      <description>12/750 ml  </description>
+      <distributor>
+        <name>click</name>
+        <item>11450</item>
+        <reg_price>134.28</reg_price>
+        <post_off>    </post_off>
+        <net_case_price/>
+        <unit_price>$11.19</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

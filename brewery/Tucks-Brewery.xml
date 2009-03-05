@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tucks-Brewery">
+  <name>Tuck's Brewery‎</name>
+  <address>
+    <street>6698 SW Capitol Hwy</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97219-1959</zip>
+    <latitude>45.475943</latitude>
+    <longitude>-122.705914</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 246-3909</phone>
+</brewery>

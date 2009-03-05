@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Avery-Brewing-Company/Beast-Grand-Cru" brewery_id="Avery-Brewing-Company">
+  <name>Beast Grand Cru</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="796363001180">
+      <description>24/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10368</item>
+        <reg_price>150.96</reg_price>
+        <post_off>      </post_off>
+        <net_case_price/>
+        <unit_price>$6.29</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

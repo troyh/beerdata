@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Steamworks-Brewing-Co-Vancouver-2">
+  <name>Steamworks Brewing Co‎</name>
+  <address>
+    <street>375 Water Street</street>
+    <city>Vancouver</city>
+    <state>BC</state>
+    <zip>V6B</zip>
+    <latitude>49.284754</latitude>
+    <longitude>-123.110321</longitude>
+    <country>CA</country>
+  </address>
+  <phone>(604) 689-2739</phone>
+</brewery>

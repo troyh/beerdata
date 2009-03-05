@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Hop-Henge-IPA" brewery_id="Deschutes-Brewery-Inc" abv="8.75" ibu="95">
+  <name>Hop Henge IPA</name>
+  <description>First brewed in 2006, Deschutes Breweryâs Hop Henge Experimental IPA reappears this year with more extreme hop flavors than ever before. The new formulation is the epitome of the breweryâs experimental style and commitment to innovation, while gratifying their unquenchable thirst for beautifully balanced hoppy beers. The newest incarnation of Hop Henge uses several new hop processes andÂ techniques to create a truly unique and unexpected beer.
+Several pounds of Centennial &amp;Â CascadeÂ  hops are in each barrel with a heavy dry-hop presence to top it off. A blend of crystal, pale and caraston malts creates an overall biscuity characteristic that is dense and muscular, building the alcohol base to support the monstrous hop profile.
+When one of our brewers came up with the nameÂ Hop Henge, he also came up with the idea of actually recreating Stonehenge, only with hop bales. We were up for the challenge and even though the weather did not want to cooperate, we pulled it off and threw a party afterwards. Click here to view the photos.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

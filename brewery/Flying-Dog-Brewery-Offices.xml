@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flying-Dog-Brewery-Offices">
+  <name>Flying Dog Brewery Offices‎</name>
+  <address>
+    <street>2401 Blake St # 2</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80205-2110</zip>
+    <latitude>39.758256</latitude>
+    <longitude>-104.989461</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 292-5027</phone>
+</brewery>

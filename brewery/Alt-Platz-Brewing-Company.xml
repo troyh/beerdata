@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alt-Platz-Brewing-Company">
+  <name>Alt Platz Brewing Company‎</name>
+  <address>
+    <street>615 High St</street>
+    <city>Portsmouth</city>
+    <state>VA</state>
+    <zip>23704-3423</zip>
+    <latitude>36.835125</latitude>
+    <longitude>-76.304215</longitude>
+    <country>US</country>
+  </address>
+  <phone>(757) 295-0700</phone>
+</brewery>

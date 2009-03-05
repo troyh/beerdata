@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Marzonis-Brick-Oven-and-Brewing">
+  <name>Marzoni's Brick Oven &amp; Brewing‎</name>
+  <address>
+    <street>165 Patchway Rd</street>
+    <city>Duncansville</city>
+    <state>PA</state>
+    <zip>16635-8432</zip>
+    <latitude>40.431443</latitude>
+    <longitude>-78.414538</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 695-2931</phone>
+</brewery>

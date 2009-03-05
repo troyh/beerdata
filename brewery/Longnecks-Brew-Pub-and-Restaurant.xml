@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Longnecks-Brew-Pub-and-Restaurant">
+  <name>Longnecks Brew Pub &amp; Restaurant‎</name>
+  <address>
+    <street>S69W22665 National Ave</street>
+    <city>Big Bend</city>
+    <state>WI</state>
+    <zip>53103</zip>
+    <latitude>42.917850</latitude>
+    <longitude>-88.209129</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 662-5270</phone>
+</brewery>

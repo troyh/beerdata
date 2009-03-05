@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Trap-Rock-Restaurant-and-Brewery">
+  <name>Trap Rock Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>279 Springfield Ave</street>
+    <city>Berkeley Heights</city>
+    <state>NJ</state>
+    <zip>07922-1214</zip>
+    <latitude>40.689146</latitude>
+    <longitude>-74.434518</longitude>
+    <country>US</country>
+  </address>
+  <phone>(908) 665-1755</phone>
+</brewery>

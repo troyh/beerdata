@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Thirsty-Bear-Brewing-Co">
+  <name>Thirsty Bear Brewing Co‎</name>
+  <address>
+    <street>661 Howard St</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94105-3915</zip>
+    <latitude>37.785552</latitude>
+    <longitude>-122.399568</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 974-0905</phone>
+</brewery>

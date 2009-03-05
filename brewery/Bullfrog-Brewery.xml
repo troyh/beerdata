@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bullfrog-Brewery">
+  <name>Bullfrog Brewery‎</name>
+  <address>
+    <street>229 W 4th St</street>
+    <city>Williamsport</city>
+    <state>PA</state>
+    <zip>17701-6101</zip>
+    <latitude>41.240399</latitude>
+    <longitude>-77.005532</longitude>
+    <country>US</country>
+  </address>
+  <phone>(570) 326-4700</phone>
+</brewery>

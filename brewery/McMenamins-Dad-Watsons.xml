@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Dad-Watsons">
+  <name>McMenamins Dad Watsons‎</name>
+  <address>
+    <street>3601 Fremont Ave N</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98103-8711</zip>
+    <latitude>47.651423</latitude>
+    <longitude>-122.350026</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 632-6505</phone>
+</brewery>

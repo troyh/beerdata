@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-and-Brewery-Lakewood-2">
+  <name>Hops Grillhouse &amp; Brewery‎</name>
+  <address>
+    <street>14285 W Colfax Ave</street>
+    <city>Lakewood</city>
+    <state>CO</state>
+    <zip>80215-3747</zip>
+    <latitude>39.739560</latitude>
+    <longitude>-105.142919</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 216-2469</phone>
+</brewery>

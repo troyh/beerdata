@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Maple-Leaf-Malt-and-Brewing-Co-Wilmington">
+  <name>Maple Leaf Malt &amp; Brewing Co‎</name>
+  <address>
+    <street>3 N Main St</street>
+    <city>Wilmington</city>
+    <state>VT</state>
+    <zip>05363-9781</zip>
+    <latitude>42.868420</latitude>
+    <longitude>-72.870758</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 464-9900</phone>
+</brewery>

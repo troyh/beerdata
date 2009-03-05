@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Socorro-Springs-Brewing-Co">
+  <name>Socorro Springs Brewing Co‎</name>
+  <address>
+    <street>1012 N California St</street>
+    <city>Socorro</city>
+    <state>NM</state>
+    <zip>87801-4268</zip>
+    <latitude>34.069127</latitude>
+    <longitude>-106.892848</longitude>
+    <country>US</country>
+  </address>
+  <phone>(575) 838-0650</phone>
+</brewery>

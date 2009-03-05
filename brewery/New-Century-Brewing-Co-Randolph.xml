@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="New-Century-Brewing-Co-Randolph">
+  <name>New Century Brewing Co‎</name>
+  <address>
+    <street>40 Chiefs Way</street>
+    <city>Randolph</city>
+    <state>MA</state>
+    <zip>02368-4221</zip>
+    <latitude>42.175763</latitude>
+    <longitude>-71.023688</longitude>
+    <country>US</country>
+  </address>
+  <phone>(781) 963-4007</phone>
+</brewery>

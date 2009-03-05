@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Marthas-Exchange-Restaurant-and-Brewing-Co">
+  <name>Martha's Exchange Restaurant &amp; Brewing Co.‎</name>
+  <address>
+    <street>185 Main St</street>
+    <city>Nashua</city>
+    <state>NH</state>
+    <zip>03060-2701</zip>
+    <latitude>42.760417</latitude>
+    <longitude>-71.465296</longitude>
+    <country>US</country>
+  </address>
+  <phone>(603) 883-8781</phone>
+</brewery>

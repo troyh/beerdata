@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-Boys-Brewhouse-Spring-Lake">
+  <name>Old Boy's Brewhouse‎</name>
+  <address>
+    <street>971 W Savidge St</street>
+    <city>Spring Lake</city>
+    <state>MI</state>
+    <zip>49456-1684</zip>
+    <latitude>43.076829</latitude>
+    <longitude>-86.211730</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 850-9950</phone>
+</brewery>

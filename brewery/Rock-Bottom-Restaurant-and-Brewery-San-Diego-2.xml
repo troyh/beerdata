@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-San-Diego-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>401 G St</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92101-6921</zip>
+    <latitude>32.712516</latitude>
+    <longitude>-117.160961</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 231-7000</phone>
+</brewery>

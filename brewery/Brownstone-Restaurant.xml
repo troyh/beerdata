@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brownstone-Restaurant">
+  <name>Brownstone Restaurant‎</name>
+  <address>
+    <street>455 River Pkwy</street>
+    <city>Idaho Falls</city>
+    <state>ID</state>
+    <zip>83402-3314</zip>
+    <latitude>43.495461</latitude>
+    <longitude>-112.045105</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 535-0310</phone>
+</brewery>

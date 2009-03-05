@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Thirsty-Dog-Brewing-Co-Akron">
+  <name>Thirsty Dog Brewing Co.‎</name>
+  <address>
+    <street>529 Grant St.</street>
+    <city>Akron</city>
+    <state>OH</state>
+    <zip>44311-1156</zip>
+    <latitude>41.068995</latitude>
+    <longitude>-81.517864</longitude>
+    <country>US</country>
+  </address>
+  <phone>(330) 252-2739</phone>
+</brewery>

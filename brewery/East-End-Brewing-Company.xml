@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="East-End-Brewing-Company">
+  <name>East End Brewing Company‎</name>
+  <address>
+    <street>6923 Susquehanna St.</street>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+    <zip>15208-1724</zip>
+    <latitude>40.455469</latitude>
+    <longitude>-79.904560</longitude>
+    <country>US</country>
+  </address>
+  <phone>(412) 537-2337</phone>
+</brewery>

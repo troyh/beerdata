@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Court-Avenue-Brewing-Co-Des-Moines">
+  <name>Court Avenue Brewing Co‎</name>
+  <address>
+    <street>309 Court Ave # 1</street>
+    <city>Des Moines</city>
+    <state>IA</state>
+    <zip>50309-2209</zip>
+    <latitude>41.585360</latitude>
+    <longitude>-93.620726</longitude>
+    <country>US</country>
+  </address>
+  <phone>(515) 282-2739</phone>
+</brewery>

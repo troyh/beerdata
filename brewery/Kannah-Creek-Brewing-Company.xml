@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kannah-Creek-Brewing-Company">
+  <name>Kannah Creek Brewing Company‎</name>
+  <address>
+    <street>1960 N. 12th Street</street>
+    <city>Grand Junction</city>
+    <state>CO</state>
+    <zip>81501-2912</zip>
+    <latitude>39.085141</latitude>
+    <longitude>-108.552214</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 263-0111</phone>
+</brewery>

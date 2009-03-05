@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="New-Glarus-Brewing-Co">
+  <name>New Glarus Brewing Co‎</name>
+  <address>
+    <street>119 State Road 69</street>
+    <city>New Glarus</city>
+    <state>WI</state>
+    <zip>53570-9542</zip>
+    <latitude>42.820472</latitude>
+    <longitude>-89.633436</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 527-5850</phone>
+</brewery>

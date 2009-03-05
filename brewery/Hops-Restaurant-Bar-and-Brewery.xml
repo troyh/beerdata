@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-and-Brewery">
+  <name>Hops Restaurant Bar &amp; Brewery‎</name>
+  <address>
+    <street>4502 14th St W</street>
+    <city>Bradenton</city>
+    <state>FL</state>
+    <zip>34207-1428</zip>
+    <latitude>27.460114</latitude>
+    <longitude>-82.575484</longitude>
+    <country>US</country>
+  </address>
+  <phone>(941) 756-1069</phone>
+</brewery>

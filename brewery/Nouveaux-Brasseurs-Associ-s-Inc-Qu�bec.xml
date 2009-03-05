@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Nouveaux-Brasseurs-Associ-s-Inc-Qu�bec">
+  <name>Nouveaux Brasseurs Associ�s Inc‎</name>
+  <address>
+    <street>37 Saint-Andr� Quai</street>
+    <city>Qu�bec</city>
+    <state>ID</state>
+    <zip>US</zip>
+    <latitude>45.494419</latitude>
+    <longitude>-114.143219</longitude>
+    <country/>
+  </address>
+  <phone>(418) 692-2877</phone>
+</brewery>

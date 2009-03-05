@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-de-Koningshoeven/DUBBEL" brewery_id="Brouwerij-de-Koningshoeven">
+  <name>DUBBEL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-81986-00176-2">
+      <description>6/4/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621016</item>
+        <reg_price>78.29</reg_price>
+        <post_off>75.74</post_off>
+        <net_case_price/>
+        <unit_price>13.05</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

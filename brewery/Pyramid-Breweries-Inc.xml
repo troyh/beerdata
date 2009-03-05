@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pyramid-Breweries-Inc">
+  <name>Pyramid Breweries Inc‎</name>
+  <address>
+    <street>91 S Royal Brougham Way</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98134-1219</zip>
+    <latitude>47.592246</latitude>
+    <longitude>-122.334419</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 682-8322</phone>
+</brewery>

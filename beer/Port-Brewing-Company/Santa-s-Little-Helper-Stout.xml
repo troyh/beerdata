@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Port-Brewing-Company/Santa-s-Little-Helper-Stout" brewery_id="Port-Brewing-Company">
+  <name>Santa's Little Helper Stout</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="689926001065">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11816</item>
+        <reg_price>71.28</reg_price>
+        <post_off>$62.28</post_off>
+        <net_case_price/>
+        <unit_price>$5.94</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

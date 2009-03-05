@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Beamish-and-Crawford-Plc/IRISH-ST" brewery_id="Beamish-and-Crawford-Plc">
+  <name>IRISH ST</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-00000-09999-8">
+      <description>13.2 BBL</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83696</item>
+        <reg_price>$129.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$129.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$161.29</deposit>
+      </distributor>
+    </size>
+    <size upc="0-88345-10057-9">
+      <description>16 CAN</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83695</item>
+        <reg_price>$39.86</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$39.86</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$2.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

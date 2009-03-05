@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-and-Brewery-Alexandria-2">
+  <name>Hops Restaurant Bar &amp; Brewery‎</name>
+  <address>
+    <street>3625 Jefferson Davis Hwy</street>
+    <city>Alexandria</city>
+    <state>VA</state>
+    <zip>22305-3133</zip>
+    <latitude>38.837301</latitude>
+    <longitude>-77.051623</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 837-9107</phone>
+</brewery>

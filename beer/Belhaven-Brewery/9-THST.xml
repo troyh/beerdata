@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Belhaven-Brewery/9-THST" brewery_id="Belhaven-Brewery">
+  <name>9 THST</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-86950-05001-1">
+      <description>BOTTLE 12/16</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82785</item>
+        <reg_price>$33.55</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$33.55</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$1.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

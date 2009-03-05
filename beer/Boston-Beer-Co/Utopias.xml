@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Utopias" brewery_id="Boston-Beer-Co" calories_per_ml="2.06265535429825" abv="27" og="48Plato">
+  <name>Utopias</name>
+  <description>Truly the epitome of brewing's two thousand year evolution, Samuel Adams UtopiasÂ® offers a flavor not just unlike any other beer but unlike any other beverage in the world. Its warm, sweet flavor is richly highlighted with hints of vanilla, oak and caramel.  With an alcohol content of 27% by volume, its complexity and sweet, malty flavor is reminiscent of a deep, rich vintage Port, fine Cognac or aged sherry while being surprisingly light on the palate.  And like the worldâs finest after-dinner drinks, Samuel Adams Utopias is not carbonated and should be served at room temperature.
+
+In one of many examples where Samuel Adams Utopias pushed the boundaries of beer into the realm of other fine beverages, it received the highest recommendation (96-100 points) from the prestigious Wine Enthusiast Magazine (November, 2003 edition).
+Samuel Adams Utopias is brewed at a very high gravity using a wide variety of malted barley and a touch of maple syrup.  It is fermented and conditioned using a pair of proprietary yeast strains we developed at our Boston Brewery.  The 2007 release of this unique brew is a blend of batches, some aged up to 13 years in a variety of woods, including bourbon, sherry, Madeira, brandy &amp; Cognac casks, each adding unique flavor notes and layers of complexity.
+Due to legal restrictions, Samuel Adams Utopias is not offered in the states of Alabama, Georgia, Idaho, Iowa, Missouri, New Hampshire, North Carolina, Ohio, Oregon, South Carolina, Washington, or West Virginia.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains>Two row Harrington, Metcalfe, Caramel 60, Munich</grains>
+  <hops>Spalt-spalter, Tettnang Hallertauer, Hallertau Mittlefrueh</hops>
+  <yeast>two special proprietary yeast strains</yeast>
+  <otherings/>
+  <sizes>
+    <size>
+      <description/>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

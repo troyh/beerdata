@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Georgetown-Brewing-Co">
+  <name>Georgetown Brewing Co‎</name>
+  <address>
+    <street>5840 Airport Way S # 201</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98108-2772</zip>
+    <latitude>47.550562</latitude>
+    <longitude>-122.317966</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 766-8055</phone>
+</brewery>

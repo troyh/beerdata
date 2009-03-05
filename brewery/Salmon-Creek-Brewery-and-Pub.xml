@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Salmon-Creek-Brewery-and-Pub">
+  <name>Salmon Creek Brewery &amp; Pub‎</name>
+  <address>
+    <street>108 W Evergreen Blvd</street>
+    <city>Vancouver</city>
+    <state>WA</state>
+    <zip>98660-3124</zip>
+    <latitude>45.628923</latitude>
+    <longitude>-122.671790</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 993-1827</phone>
+</brewery>

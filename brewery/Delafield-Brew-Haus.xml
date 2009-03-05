@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Delafield-Brew-Haus">
+  <name>Delafield Brew Haus‎</name>
+  <address>
+    <street>3832 Hillside Dr</street>
+    <city>Delafield</city>
+    <state>WI</state>
+    <zip>53018-2174</zip>
+    <latitude>43.048665</latitude>
+    <longitude>-88.353673</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 646-7821</phone>
+</brewery>

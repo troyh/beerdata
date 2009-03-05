@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flying-Goose-Brew-Pub-New-London">
+  <name>Flying Goose Brew Pub‎</name>
+  <address>
+    <street>40 Andover Rd</street>
+    <city>New London</city>
+    <state>NH</state>
+    <zip>03257-5901</zip>
+    <latitude>43.400152</latitude>
+    <longitude>-71.960033</longitude>
+    <country>US</country>
+  </address>
+  <phone>(603) 526-6899</phone>
+</brewery>

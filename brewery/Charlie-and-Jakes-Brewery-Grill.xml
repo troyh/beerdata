@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Charlie-and-Jakes-Brewery-Grill">
+  <name>Charlie &amp; Jake's Brewery Grill‎</name>
+  <address>
+    <street>6300 N Wickham Rd # 137</street>
+    <city>Melbourne</city>
+    <state>FL</state>
+    <zip>32940-2010</zip>
+    <latitude>28.214012</latitude>
+    <longitude>-80.672506</longitude>
+    <country>US</country>
+  </address>
+  <phone>(321) 752-7675</phone>
+</brewery>

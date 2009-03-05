@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shamrock-Brewing-Company">
+  <name>Shamrock Brewing Company‎</name>
+  <address>
+    <street>108 W 3rd Street</street>
+    <city>Pueblo</city>
+    <state>CO</state>
+    <zip>81003-3225</zip>
+    <latitude>38.269590</latitude>
+    <longitude>-104.607296</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 542-9974</phone>
+</brewery>

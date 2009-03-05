@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dry-Dock-Brewing-Co">
+  <name>Dry Dock Brewing Co‎</name>
+  <address>
+    <street>15110 E Hampden Ave</street>
+    <city>Aurora</city>
+    <state>CO</state>
+    <zip>80014-3906</zip>
+    <latitude>39.652835</latitude>
+    <longitude>-104.811871</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 400-5606</phone>
+</brewery>

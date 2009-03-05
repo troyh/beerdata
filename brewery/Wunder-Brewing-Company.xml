@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wunder-Brewing-Company">
+  <name>Wunder Brewing Company‎</name>
+  <address>
+    <street>1326 Ninth Ave</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94122-2309</zip>
+    <latitude>37.763460</latitude>
+    <longitude>-122.466105</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 681-2337</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Snipes-Mountain-Brewing-Inc/ROZA-BARLEYWINE" brewery_id="Snipes-Mountain-Brewing-Inc">
+  <name>ROZA BARLEYWINE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-84343-67676-6">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>742015</item>
+        <reg_price>50.28</reg_price>
+        <post_off>50.28</post_off>
+        <net_case_price/>
+        <unit_price>4.19</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

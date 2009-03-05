@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Coast-Range-Brewing-Company">
+  <name>Coast Range Brewing Company‎</name>
+  <address>
+    <street>7050 Monterey St</street>
+    <city>Gilroy</city>
+    <state>CA</state>
+    <zip>95020-6614</zip>
+    <latitude>37.001102</latitude>
+    <longitude>-121.565911</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 842-1000</phone>
+</brewery>

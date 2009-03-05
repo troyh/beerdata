@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Cascade-Lakes-Brewing-Co/20-Brown" brewery_id="Cascade-Lakes-Brewing-Co" abv="5.30" og="1.053" fg="1.013" ibu="35">
+  <name>20â Brown</name>
+  <description>Named after the enormous Brown Trout found in Northwest streams, this beer lives up to the legend.Â  20" Brown is medium bodied and has an extremely complex malty character.Â  Using 6 varieties of Northwest grown malt, we created a masterpiece of color, aroma and flavor.Â  Set your hook in one of these and you won't be disappointed!</description>
+  <availability>year round</availability>
+  <ingredients>Â Grains: 2-Row, Vienna, Crystal,Â Chocolate, Victoryâ¨Hops: Willamette, Centennial</ingredients>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="10C">American Brown Ale</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>31814</item>
+        <reg_price>$58.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$72.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

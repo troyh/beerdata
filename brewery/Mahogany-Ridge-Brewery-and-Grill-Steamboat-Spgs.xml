@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mahogany-Ridge-Brewery-and-Grill-Steamboat-Spgs">
+  <name>Mahogany Ridge Brewery &amp; Grill‎</name>
+  <address>
+    <street>435 Lincoln Ave</street>
+    <city>Steamboat Spgs</city>
+    <state>CO</state>
+    <zip>80487-5021</zip>
+    <latitude>40.483717</latitude>
+    <longitude>-106.830851</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 879-3773</phone>
+</brewery>

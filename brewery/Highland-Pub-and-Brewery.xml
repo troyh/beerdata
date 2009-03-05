@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Highland-Pub-and-Brewery">
+  <name>Highland Pub &amp; Brewery‎</name>
+  <address>
+    <street>4225 SE 182nd Ave</street>
+    <city>Gresham</city>
+    <state>OR</state>
+    <zip>97030-5082</zip>
+    <latitude>45.491983</latitude>
+    <longitude>-122.475728</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 665-3015</phone>
+</brewery>

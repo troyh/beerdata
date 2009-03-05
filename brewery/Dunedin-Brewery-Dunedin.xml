@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dunedin-Brewery-Dunedin">
+  <name>Dunedin Brewery‎</name>
+  <address>
+    <street>937 Douglas Ave</street>
+    <city>Dunedin</city>
+    <state>FL</state>
+    <zip>34698-4945</zip>
+    <latitude>28.014158</latitude>
+    <longitude>-82.787748</longitude>
+    <country>US</country>
+  </address>
+  <phone>(727) 736-0606</phone>
+</brewery>

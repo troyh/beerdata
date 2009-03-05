@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ninkasi-Brewing-Co-Eugene">
+  <name>Ninkasi Brewing Co‎</name>
+  <address>
+    <street>272 Van Buren St</street>
+    <city>Eugene</city>
+    <state>OR</state>
+    <zip>97402-4944</zip>
+    <latitude>44.056890</latitude>
+    <longitude>-123.109650</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 344-2739</phone>
+</brewery>

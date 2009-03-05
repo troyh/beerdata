@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bayhawk-Ales-Inc">
+  <name>Bayhawk Ales Inc‎</name>
+  <address>
+    <street>2000 Main St</street>
+    <city>Irvine</city>
+    <state>CA</state>
+    <zip>92614-7202</zip>
+    <latitude>33.684689</latitude>
+    <longitude>-117.851589</longitude>
+    <country>US</country>
+  </address>
+  <phone>(949) 442-7565</phone>
+</brewery>

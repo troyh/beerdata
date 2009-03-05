@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="California-Brewing-Co">
+  <name>California Brewing Co‎</name>
+  <address>
+    <street>100 W Main St</street>
+    <city>Alhambra</city>
+    <state>CA</state>
+    <zip>91801-3511</zip>
+    <latitude>34.094516</latitude>
+    <longitude>-118.127990</longitude>
+    <country>US</country>
+  </address>
+  <phone>(626) 943-8430</phone>
+</brewery>

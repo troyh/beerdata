@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Snake-River-Brewery">
+  <name>Snake River Brewery‎</name>
+  <address>
+    <street>265 S Millward St</street>
+    <city>Jackson</city>
+    <state>WY</state>
+    <zip>83001</zip>
+    <latitude>43.476834</latitude>
+    <longitude>-110.765323</longitude>
+    <country>US</country>
+  </address>
+  <phone>(307) 739-2337</phone>
+</brewery>

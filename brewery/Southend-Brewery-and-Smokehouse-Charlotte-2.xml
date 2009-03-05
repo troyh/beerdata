@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Southend-Brewery-and-Smokehouse-Charlotte-2">
+  <name>Southend Brewery &amp; Smokehouse‎</name>
+  <address>
+    <street>2100 South Blvd</street>
+    <city>Charlotte</city>
+    <state>NC</state>
+    <zip>28203-5004</zip>
+    <latitude>35.208124</latitude>
+    <longitude>-80.860310</longitude>
+    <country>US</country>
+  </address>
+  <phone>(704) 358-4677</phone>
+</brewery>

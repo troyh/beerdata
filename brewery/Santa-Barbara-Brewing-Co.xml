@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Santa-Barbara-Brewing-Co">
+  <name>Santa Barbara Brewing Co‎</name>
+  <address>
+    <street>501 State St</street>
+    <city>Santa Barbara</city>
+    <state>CA</state>
+    <zip>93101-1601</zip>
+    <latitude>34.416858</latitude>
+    <longitude>-119.695704</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 730-1040</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Engine-House-Number-9-Tacoma">
+  <name>Engine House Number 9‎</name>
+  <address>
+    <street>611 N Pine St</street>
+    <city>Tacoma</city>
+    <state>WA</state>
+    <zip>98406-6729</zip>
+    <latitude>47.256300</latitude>
+    <longitude>-122.473529</longitude>
+    <country>US</country>
+  </address>
+  <phone>(253) 272-3435</phone>
+</brewery>

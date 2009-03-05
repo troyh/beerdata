@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Divide-Brewing-Co">
+  <name>Great Divide Brewing Co‎</name>
+  <address>
+    <street>2201 Arapahoe St</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80205-2512</zip>
+    <latitude>39.753587</latitude>
+    <longitude>-104.988389</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 296-9460</phone>
+</brewery>

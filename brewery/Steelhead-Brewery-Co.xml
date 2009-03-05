@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Steelhead-Brewery-Co">
+  <name>Steelhead Brewery Co‎</name>
+  <address>
+    <street>333 California Dr</street>
+    <city>Burlingame</city>
+    <state>CA</state>
+    <zip>94010-4114</zip>
+    <latitude>37.580063</latitude>
+    <longitude>-122.346240</longitude>
+    <country>US</country>
+  </address>
+  <phone>(650) 344-6050</phone>
+</brewery>

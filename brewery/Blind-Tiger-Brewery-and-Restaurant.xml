@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blind-Tiger-Brewery-and-Restaurant">
+  <name>Blind Tiger Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>417 SW 37th St</street>
+    <city>Topeka</city>
+    <state>KS</state>
+    <zip>66611-2354</zip>
+    <latitude>39.000503</latitude>
+    <longitude>-95.684293</longitude>
+    <country>US</country>
+  </address>
+  <phone>(785) 267-2739</phone>
+</brewery>

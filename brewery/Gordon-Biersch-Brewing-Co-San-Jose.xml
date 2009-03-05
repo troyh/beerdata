@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewing-Co-San-Jose">
+  <name>Gordon Biersch Brewing Co‎</name>
+  <address>
+    <street>357 E Taylor St</street>
+    <city>San Jose</city>
+    <state>CA</state>
+    <zip>95112-3105</zip>
+    <latitude>37.352769</latitude>
+    <longitude>-121.892706</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 292-4759</phone>
+</brewery>

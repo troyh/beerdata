@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch">
+  <name>Gordon Biersch‎</name>
+  <address>
+    <street>401 N Front St # 120</street>
+    <city>Columbus</city>
+    <state>OH</state>
+    <zip>43215-2228</zip>
+    <latitude>39.969697</latitude>
+    <longitude>-83.004088</longitude>
+    <country>US</country>
+  </address>
+  <phone>(614) 246-2900</phone>
+</brewery>

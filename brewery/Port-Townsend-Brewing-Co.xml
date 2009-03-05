@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Port-Townsend-Brewing-Co">
+  <name>Port Townsend Brewing Co‎</name>
+  <address>
+    <street>330 10th St # C</street>
+    <city>Port Townsend</city>
+    <state>WA</state>
+    <zip>98368-1820</zip>
+    <latitude>48.107308</latitude>
+    <longitude>-122.781097</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 385-9967</phone>
+</brewery>

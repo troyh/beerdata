@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Walking-Man-Brewing/HIGH-ROAD-SCOTCH-ALE" brewery_id="Walking-Man-Brewing">
+  <name>HIGH ROAD SCOTCH ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-46012-11111-1">
+      <description>1/2 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>746012</item>
+        <reg_price>165.00</reg_price>
+        <post_off>165.00</post_off>
+        <net_case_price/>
+        <unit_price>165.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mc-Coveys-Restaurant">
+  <name>Mc Covey's Restaurant‎</name>
+  <address>
+    <street>1444 N California Blvd</street>
+    <city>Walnut Creek</city>
+    <state>CA</state>
+    <zip>94596-4522</zip>
+    <latitude>37.898945</latitude>
+    <longitude>-122.063221</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 944-9444</phone>
+</brewery>

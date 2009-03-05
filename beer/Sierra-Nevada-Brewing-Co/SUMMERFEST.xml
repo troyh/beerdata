@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Sierra-Nevada-Brewing-Co/SUMMERFEST" brewery_id="Sierra-Nevada-Brewing-Co">
+  <name>SUMMERFEST</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>37612</item>
+        <reg_price>$58.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$72.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

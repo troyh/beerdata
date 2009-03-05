@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rochester-Mills-Beer-Co">
+  <name>Rochester Mills Beer Co‎</name>
+  <address>
+    <street>400 Water St</street>
+    <city>Rochester</city>
+    <state>MI</state>
+    <zip>48307-2059</zip>
+    <latitude>42.680928</latitude>
+    <longitude>-83.131440</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 650-5080</phone>
+</brewery>

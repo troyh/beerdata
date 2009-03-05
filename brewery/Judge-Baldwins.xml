@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Judge-Baldwins">
+  <name>Judge Baldwin's‎</name>
+  <address>
+    <street>4 S. Cascade Avenue</street>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+    <zip>80903-1653</zip>
+    <latitude>38.833775</latitude>
+    <longitude>-104.825620</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 955-5600</phone>
+</brewery>

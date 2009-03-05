@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Loveland">
+  <name>Rock Bottom‎</name>
+  <address>
+    <street>6025 Sky Pond Dr</street>
+    <city>Loveland</city>
+    <state>CO</state>
+    <zip>80538-9013</zip>
+    <latitude>40.410990</latitude>
+    <longitude>-104.989826</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 622-2077</phone>
+</brewery>

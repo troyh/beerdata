@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="JT-Schmids-Restaurant-and-Brew">
+  <name>JT Schmid's Restaurant &amp; Brew‎</name>
+  <address>
+    <street>2610 E Katella Ave</street>
+    <city>Anaheim</city>
+    <state>CA</state>
+    <zip>92806-5903</zip>
+    <latitude>33.805917</latitude>
+    <longitude>-117.877315</longitude>
+    <country>US</country>
+  </address>
+  <phone>(714) 634-9200</phone>
+</brewery>

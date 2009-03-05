@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Selins-Grove-Brewing-Co-Selinsgrove">
+  <name>Selin's Grove Brewing Co‎</name>
+  <address>
+    <street>121 N Market St</street>
+    <city>Selinsgrove</city>
+    <state>PA</state>
+    <zip>17870-1905</zip>
+    <latitude>40.801211</latitude>
+    <longitude>-76.861425</longitude>
+    <country>US</country>
+  </address>
+  <phone>(570) 374-7308</phone>
+</brewery>

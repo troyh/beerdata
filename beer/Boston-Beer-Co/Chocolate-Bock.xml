@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Chocolate-Bock" brewery_id="Boston-Beer-Co" calories_per_ml="0.648102092197538" abv="5.50" og="16Plato">
+  <name>Chocolate Bock</name>
+  <description>Samuel AdamsÂ® partnered Felchlin, a renowned Swiss chocolatier, to develop a unique innovation, Samuel AdamsÂ® Chocolate Bock. We started with a complex selection of carefully roasted malts combined with hand-selected Noble hops from Bavaria, the worldâs oldest growing area. After using a centuries old brewing process, called Krausening, we slowly aged the beer on a bed of rare dark cocoa nibs from FelchlinÂ®, a renowned Swiss chocolatier. Known for their quality these wild cocoa nibs, harvested from the rainforest of Northern Bolivia, impart complex aromas and flavors of chocolate, honey and vanilla in the beer. The resulting beer, Samuel AdamsÂ® Chocolate Bock, has a big, malty character that is combined with the subtle sweetness of chocolate, giving this brew a complex full-body taste with a velvety finish.
+
+Tettnang-Tettnanger and Spalt hops were hand-selected from the worldâs oldest growing area and combined with a complex selection of malts including two-row Pale, Munich and Caramel to create a rich and satisfying brew. This dark beer has a big, malty character that is combined with the subtle sweetness of chocolate. Samuel AdamsÂ® Chocolate Bock was aged on a bed of cocoa nibs to create its unique layers of flavor. As the beer matured, the fruity, tart, earthy and chocolate aromas were released into the liquid to give the brew a complex, full -bodied taste with a velvety finish. A hint of vanilla was added to meld the symphony of flavors together.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains>Two row pale, Caramel 60, Munich 10, Chocolate Malt</grains>
+  <hops>Tettnang Tettnanger and Spalt-Spalter Noble</hops>
+  <yeast>Bottom-fermented lager yeast</yeast>
+  <otherings/>
+  <sizes>
+    <size upc="0-87692-77400-6">
+      <description>BOTTLE 12-750</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32560</item>
+        <reg_price>$130.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$130.00</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$13.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

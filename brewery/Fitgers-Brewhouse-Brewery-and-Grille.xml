@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fitgers-Brewhouse-Brewery-and-Grille">
+  <name>Fitger's Brewhouse Brewery and Grille‎</name>
+  <address>
+    <street>600 E Superior Street</street>
+    <city>Duluth</city>
+    <state>MN</state>
+    <zip>55802-2208</zip>
+    <latitude>46.792567</latitude>
+    <longitude>-92.090649</longitude>
+    <country>US</country>
+  </address>
+  <phone>(218) 279-2739</phone>
+</brewery>

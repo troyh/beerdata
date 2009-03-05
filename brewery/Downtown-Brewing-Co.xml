@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Downtown-Brewing-Co">
+  <name>Downtown Brewing Co‎</name>
+  <address>
+    <street>1119 Garden St</street>
+    <city>San Luis Obispo</city>
+    <state>CA</state>
+    <zip>93401-3508</zip>
+    <latitude>35.279197</latitude>
+    <longitude>-120.663568</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 543-1843</phone>
+</brewery>

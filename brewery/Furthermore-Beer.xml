@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Furthermore-Beer">
+  <name>Furthermore Beer‎</name>
+  <address>
+    <street>525 E Madison St</street>
+    <city>Spring Green</city>
+    <state>WI</state>
+    <zip>53588-9257</zip>
+    <latitude>43.175397</latitude>
+    <longitude>-90.062377</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 588-3300</phone>
+</brewery>

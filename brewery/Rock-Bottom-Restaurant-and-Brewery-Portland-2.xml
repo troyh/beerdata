@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Portland-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>206 SW Morrison St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97204-3107</zip>
+    <latitude>45.517945</latitude>
+    <longitude>-122.674768</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 796-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Homer-Brewing-Co">
+  <name>Homer Brewing Co‎</name>
+  <address>
+    <street>1411 Lake Shore Dr</street>
+    <city>Homer</city>
+    <state>AK</state>
+    <zip>99603-7945</zip>
+    <latitude>59.640401</latitude>
+    <longitude>-151.505951</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 235-3626</phone>
+</brewery>

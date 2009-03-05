@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Baraboo-Brewing-Co">
+  <name>Great Baraboo Brewing Co‎</name>
+  <address>
+    <street>35905 Utica Rd</street>
+    <city>Clinton Township</city>
+    <state>MI</state>
+    <zip>48035-2155</zip>
+    <latitude>42.560434</latitude>
+    <longitude>-82.965242</longitude>
+    <country>US</country>
+  </address>
+  <phone>(586) 792-7397</phone>
+</brewery>

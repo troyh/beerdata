@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Trout-River-Brewing-Co">
+  <name>Trout River Brewing Co‎</name>
+  <address>
+    <street>58 Broad St</street>
+    <city>Lyndonville</city>
+    <state>VT</state>
+    <zip>05851</zip>
+    <latitude>44.520325</latitude>
+    <longitude>-72.001121</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 626-9396</phone>
+</brewery>

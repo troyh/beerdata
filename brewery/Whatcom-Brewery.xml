@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Whatcom-Brewery">
+  <name>Whatcom Brewery‎</name>
+  <address>
+    <street>2234 Main St</street>
+    <city>Ferndale</city>
+    <state>WA</state>
+    <zip>98248-9209</zip>
+    <latitude>48.848469</latitude>
+    <longitude>-122.603215</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 257-9316</phone>
+</brewery>

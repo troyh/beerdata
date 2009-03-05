@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Whales-Tail-Restaurant">
+  <name>Whale's Tail Restaurant‎</name>
+  <address>
+    <street>3950 Bluefin Cir</street>
+    <city>Oxnard</city>
+    <state>CA</state>
+    <zip>93035-4301</zip>
+    <latitude>34.164569</latitude>
+    <longitude>-119.227014</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 985-2511</phone>
+</brewery>

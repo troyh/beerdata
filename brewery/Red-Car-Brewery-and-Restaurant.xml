@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Red-Car-Brewery-and-Restaurant">
+  <name>Red Car Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>1266 Sartori Ave</street>
+    <city>Torrance</city>
+    <state>CA</state>
+    <zip>90501-2717</zip>
+    <latitude>33.835502</latitude>
+    <longitude>-118.315976</longitude>
+    <country>US</country>
+  </address>
+  <phone>(310) 782-0222</phone>
+</brewery>

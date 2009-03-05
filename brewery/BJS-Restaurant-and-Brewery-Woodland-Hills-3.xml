@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="BJS-Restaurant-and-Brewery-Woodland-Hills-3">
+  <name>BJ'S Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>6424 Canoga Ave</street>
+    <city>Woodland Hills</city>
+    <state>CA</state>
+    <zip>91367-2407</zip>
+    <latitude>34.186989</latitude>
+    <longitude>-118.597222</longitude>
+    <country>US</country>
+  </address>
+  <phone>(818) 340-1748</phone>
+</brewery>

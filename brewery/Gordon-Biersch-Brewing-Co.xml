@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewing-Co">
+  <name>Gordon Biersch Brewing Co‎</name>
+  <address>
+    <street>600 Pine St # 401</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98101-1712</zip>
+    <latitude>47.612131</latitude>
+    <longitude>-122.335374</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 405-4205</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Snoqualmie-Falls-Brewing-Co">
+  <name>Snoqualmie Falls Brewing Co‎</name>
+  <address>
+    <street>8032 Falls Ave SE</street>
+    <city>Snoqualmie</city>
+    <state>WA</state>
+    <zip>98065</zip>
+    <latitude>47.528287</latitude>
+    <longitude>-121.823971</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 831-2337</phone>
+</brewery>

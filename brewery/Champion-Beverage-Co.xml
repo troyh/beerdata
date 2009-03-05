@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Champion-Beverage-Co">
+  <name>Champion Beverage Co‎</name>
+  <address>
+    <street>44 Talmadge Hill Rd</street>
+    <city>Darien</city>
+    <state>CT</state>
+    <zip>06820</zip>
+    <latitude>41.113895</latitude>
+    <longitude>-73.485719</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 655-9026</phone>
+</brewery>

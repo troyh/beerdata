@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Independence-Brewing-Co-Austin">
+  <name>Independence Brewing Co‎</name>
+  <address>
+    <street>3913 Todd Ln</street>
+    <city>Austin</city>
+    <state>TX</state>
+    <zip>78744-1036</zip>
+    <latitude>30.213329</latitude>
+    <longitude>-97.736073</longitude>
+    <country>US</country>
+  </address>
+  <phone>(512) 707-0099</phone>
+</brewery>

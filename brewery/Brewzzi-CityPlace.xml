@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewzzi-CityPlace">
+  <name>Brewzzi CityPlace‎</name>
+  <address>
+    <street>700 S Rosemary Ave</street>
+    <city>West Palm Beach</city>
+    <state>FL</state>
+    <zip>33401-6023</zip>
+    <latitude>26.707815</latitude>
+    <longitude>-80.057021</longitude>
+    <country>US</country>
+  </address>
+  <phone>(561) 366-9753</phone>
+</brewery>

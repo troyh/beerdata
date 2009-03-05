@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pumphouse-Brewery">
+  <name>Pumphouse Brewery‎</name>
+  <address>
+    <street>540 Main St</street>
+    <city>Longmont</city>
+    <state>CO</state>
+    <zip>80501-5537</zip>
+    <latitude>40.168064</latitude>
+    <longitude>-105.102334</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 702-0881</phone>
+</brewery>

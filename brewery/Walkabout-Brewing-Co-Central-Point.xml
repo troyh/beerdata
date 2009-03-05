@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Walkabout-Brewing-Co-Central-Point">
+  <name>Walkabout Brewing Co‎</name>
+  <address>
+    <street>5204 Dobrot Way</street>
+    <city>Central Point</city>
+    <state>OR</state>
+    <zip>97502-1612</zip>
+    <latitude>42.391785</latitude>
+    <longitude>-122.925205</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 664-7763</phone>
+</brewery>

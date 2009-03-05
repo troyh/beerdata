@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barrio-Brewing-Co-Tucson">
+  <name>Barrio Brewing Co‎</name>
+  <address>
+    <street>800 E 16th St</street>
+    <city>Tucson</city>
+    <state>AZ</state>
+    <zip>85719-6603</zip>
+    <latitude>32.214549</latitude>
+    <longitude>-110.959471</longitude>
+    <country>US</country>
+  </address>
+  <phone>(520) 791-2739</phone>
+</brewery>

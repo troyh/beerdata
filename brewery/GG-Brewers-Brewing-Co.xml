@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="GG-Brewers-Brewing-Co">
+  <name>GG Brewers Brewing Co‎</name>
+  <address>
+    <street>282 N Keswick Ave</street>
+    <city>Glenside</city>
+    <state>PA</state>
+    <zip>19038-4804</zip>
+    <latitude>40.106173</latitude>
+    <longitude>-75.147563</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 887-0809</phone>
+</brewery>

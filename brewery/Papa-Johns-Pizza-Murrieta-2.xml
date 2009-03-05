@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Papa-Johns-Pizza-Murrieta-2">
+  <name>Papa John's Pizza‎</name>
+  <address>
+    <street>40770 California Oaks Rd</street>
+    <city>Murrieta</city>
+    <state>CA</state>
+    <zip>92562-5727</zip>
+    <latitude>33.569615</latitude>
+    <longitude>-117.204939</longitude>
+    <country>US</country>
+  </address>
+  <phone>(951) 304-7272</phone>
+</brewery>

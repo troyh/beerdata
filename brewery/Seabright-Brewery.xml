@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Seabright-Brewery">
+  <name>Seabright Brewery‎</name>
+  <address>
+    <street>519 Seabright Ave # 107</street>
+    <city>Santa Cruz</city>
+    <state>CA</state>
+    <zip>95062-3451</zip>
+    <latitude>36.967426</latitude>
+    <longitude>-122.007915</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 426-2739</phone>
+</brewery>

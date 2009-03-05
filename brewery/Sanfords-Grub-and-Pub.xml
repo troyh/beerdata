@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sanfords-Grub-and-Pub">
+  <name>Sanford's Grub &amp; Pub‎</name>
+  <address>
+    <street>406 W Juniper Ln</street>
+    <city>Gillette</city>
+    <state>WY</state>
+    <zip>82718-5341</zip>
+    <latitude>44.278929</latitude>
+    <longitude>-105.508034</longitude>
+    <country>US</country>
+  </address>
+  <phone>(307) 686-0374</phone>
+</brewery>

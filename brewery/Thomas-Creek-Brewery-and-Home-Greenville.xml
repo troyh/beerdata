@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Thomas-Creek-Brewery-and-Home-Greenville">
+  <name>Thomas Creek Brewery &amp; Home‎</name>
+  <address>
+    <street>2054 Piedmont Hwy</street>
+    <city>Greenville</city>
+    <state>SC</state>
+    <zip>29605-4840</zip>
+    <latitude>34.796594</latitude>
+    <longitude>-82.424441</longitude>
+    <country>US</country>
+  </address>
+  <phone>(864) 605-1166</phone>
+</brewery>

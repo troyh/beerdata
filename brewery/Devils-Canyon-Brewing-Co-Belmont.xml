@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Devils-Canyon-Brewing-Co-Belmont">
+  <name>Devils Canyon Brewing Co‎</name>
+  <address>
+    <street>111 Industrial Way # 7</street>
+    <city>Belmont</city>
+    <state>CA</state>
+    <zip>94002-8200</zip>
+    <latitude>37.520756</latitude>
+    <longitude>-122.266620</longitude>
+    <country>US</country>
+  </address>
+  <phone>(650) 592-2739</phone>
+</brewery>

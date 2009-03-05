@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mogollon-Brewing-Company">
+  <name>Mogollon Brewing Company‎</name>
+  <address>
+    <street>15 N Agassiz St</street>
+    <city>Flagstaff</city>
+    <state>AZ</state>
+    <zip>86001-5219</zip>
+    <latitude>35.197085</latitude>
+    <longitude>-111.647011</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 773-8950</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Switchback-Brewing-Co">
+  <name>Switchback Brewing Co.‎</name>
+  <address>
+    <street>160 Flynn Ave</street>
+    <city>Burlington</city>
+    <state>VT</state>
+    <zip>05401-5401</zip>
+    <latitude>44.455770</latitude>
+    <longitude>-73.219324</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 651-4114</phone>
+</brewery>

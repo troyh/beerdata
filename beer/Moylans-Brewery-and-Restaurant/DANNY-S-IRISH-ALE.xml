@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Moylans-Brewery-and-Restaurant/DANNY-S-IRISH-ALE" brewery_id="Moylans-Brewery-and-Restaurant">
+  <name>DANNY'S IRISH ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-35011-11111-1">
+      <description>1/6 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>735011</item>
+        <reg_price>66.00</reg_price>
+        <post_off>66.00</post_off>
+        <net_case_price/>
+        <unit_price>66.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Skagit-River-Brewing-Co">
+  <name>Skagit River Brewing Co‎</name>
+  <address>
+    <street>404 S 3rd St</street>
+    <city>Mt Vernon</city>
+    <state>WA</state>
+    <zip>98273-3824</zip>
+    <latitude>48.419486</latitude>
+    <longitude>-122.335404</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 336-2884</phone>
+</brewery>

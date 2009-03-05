@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Callahans-Pub-and-Brewery">
+  <name>Callahan's Pub &amp; Brewery‎</name>
+  <address>
+    <street>8111 Mira Mesa Blvd</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92126-2601</zip>
+    <latitude>32.912359</latitude>
+    <longitude>-117.148742</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 578-7892</phone>
+</brewery>

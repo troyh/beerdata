@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mc-Neills-Brewerys">
+  <name>Mc Neill's Brewery's‎</name>
+  <address>
+    <street>90 Elliot St</street>
+    <city>Brattleboro</city>
+    <state>VT</state>
+    <zip>05301-3269</zip>
+    <latitude>42.851689</latitude>
+    <longitude>-72.559906</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 254-2553</phone>
+</brewery>

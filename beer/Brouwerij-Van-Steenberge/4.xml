@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-Van-Steenberge/4" brewery_id="Brouwerij-Van-Steenberge">
+  <name>4</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-10168-00302-6">
+      <description>BOTTLE 6/25</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81420</item>
+        <reg_price>$54.56</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$54.56</net_case_price>
+        <unit_price>$0.30</unit_price>
+        <deposit>$5.69</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dark-Horse-Brewing-Co">
+  <name>Dark Horse Brewing Co‎</name>
+  <address>
+    <street>511 S Kalamazoo Ave</street>
+    <city>Marshall</city>
+    <state>MI</state>
+    <zip>49068-1718</zip>
+    <latitude>42.266700</latitude>
+    <longitude>-84.963954</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 781-9940</phone>
+</brewery>

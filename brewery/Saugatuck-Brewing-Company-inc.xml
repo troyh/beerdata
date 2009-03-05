@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Saugatuck-Brewing-Company-inc">
+  <name>Saugatuck Brewing Company inc‎</name>
+  <address>
+    <street>2948 Blue Star Highway</street>
+    <city>Douglas</city>
+    <state>MI</state>
+    <zip>49453</zip>
+    <latitude>42.636695</latitude>
+    <longitude>-86.211819</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 857-7222</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Andelot-Brewery/EUPHORIQUE-BLONDE-ALE" brewery_id="Andelot-Brewery">
+  <name>EUPHORIQUE BLONDE ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-69596-10050-0">
+      <description>12/25.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>700036</item>
+        <reg_price>85.68</reg_price>
+        <post_off>78.12</post_off>
+        <net_case_price/>
+        <unit_price>7.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

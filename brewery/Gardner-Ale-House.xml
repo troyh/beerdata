@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gardner-Ale-House">
+  <name>Gardner Ale House‎</name>
+  <address>
+    <street>74 Parker St</street>
+    <city>Gardner</city>
+    <state>MA</state>
+    <zip>01440-3809</zip>
+    <latitude>42.575861</latitude>
+    <longitude>-71.997897</longitude>
+    <country>US</country>
+  </address>
+  <phone>(978) 669-0122</phone>
+</brewery>

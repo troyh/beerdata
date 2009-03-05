@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Woodfired-Pizza-and-Brewery">
+  <name>Rock Woodfired Pizza &amp; Brewery‎</name>
+  <address>
+    <street>4010 196th St SW</street>
+    <city>Lynnwood</city>
+    <state>WA</state>
+    <zip>98036-6715</zip>
+    <latitude>47.820814</latitude>
+    <longitude>-122.287727</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 697-6007</phone>
+</brewery>

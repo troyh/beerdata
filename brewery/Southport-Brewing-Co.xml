@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Southport-Brewing-Co">
+  <name>Southport Brewing Co‎</name>
+  <address>
+    <street>2600 Post Rd</street>
+    <city>Southport</city>
+    <state>CT</state>
+    <zip>06890-1211</zip>
+    <latitude>41.139618</latitude>
+    <longitude>-73.277594</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 256-2337</phone>
+</brewery>

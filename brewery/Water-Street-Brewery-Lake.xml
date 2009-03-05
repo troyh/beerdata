@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Water-Street-Brewery-Lake">
+  <name>Water Street Brewery Lake‎</name>
+  <address>
+    <street>3191 Golf Rd</street>
+    <city>Delafield</city>
+    <state>WI</state>
+    <zip>53018-2156</zip>
+    <latitude>43.052180</latitude>
+    <longitude>-88.366037</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 646-7878</phone>
+</brewery>

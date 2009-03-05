@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Greene-King-Morland-Brewery/JACK" brewery_id="Greene-King-Morland-Brewery">
+  <name>JACK</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-43011-11111-1">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>743011</item>
+        <reg_price>36.36</reg_price>
+        <post_off>33.50</post_off>
+        <net_case_price/>
+        <unit_price>9.09</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

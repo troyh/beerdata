@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alesmith-Brewing-Co">
+  <name>Alesmith Brewing Co‎</name>
+  <address>
+    <street>9368 Cabot Dr</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92126-4311</zip>
+    <latitude>32.891633</latitude>
+    <longitude>-117.144230</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 549-9888</phone>
+</brewery>

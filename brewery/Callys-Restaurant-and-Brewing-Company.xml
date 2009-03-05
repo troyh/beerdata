@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Callys-Restaurant-and-Brewing-Company">
+  <name>Cally's Restaurant &amp; Brewing Company‎</name>
+  <address>
+    <street>41 Court Square</street>
+    <city>Harrisonburg</city>
+    <state>VA</state>
+    <zip>22801-3742</zip>
+    <latitude>38.449693</latitude>
+    <longitude>-78.869661</longitude>
+    <country>US</country>
+  </address>
+  <phone>(540) 434-8777</phone>
+</brewery>

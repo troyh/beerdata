@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Birdsview-Brewing-Co">
+  <name>Birdsview Brewing Co‎</name>
+  <address>
+    <street>38302 State Route 20</street>
+    <city>Concrete</city>
+    <state>WA</state>
+    <zip>98237</zip>
+    <latitude>48.528500</latitude>
+    <longitude>-121.912749</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 826-3406</phone>
+</brewery>

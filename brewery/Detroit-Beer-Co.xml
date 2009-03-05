@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Detroit-Beer-Co">
+  <name>Detroit Beer Co‎</name>
+  <address>
+    <street>1529 Broadway St</street>
+    <city>Detroit</city>
+    <state>MI</state>
+    <zip>48226-2114</zip>
+    <latitude>42.335874</latitude>
+    <longitude>-83.048764</longitude>
+    <country>US</country>
+  </address>
+  <phone>(313) 962-1529</phone>
+</brewery>

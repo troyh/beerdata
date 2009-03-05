@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Prescott-Brewing-Co">
+  <name>Prescott Brewing Co‎</name>
+  <address>
+    <street>130 W Gurley St # A</street>
+    <city>Prescott</city>
+    <state>AZ</state>
+    <zip>86301-3634</zip>
+    <latitude>34.542032</latitude>
+    <longitude>-112.469187</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 771-2795</phone>
+</brewery>

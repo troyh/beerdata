@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Klamath-Basin-Brewing-Co">
+  <name>Klamath Basin Brewing Co‎</name>
+  <address>
+    <street>1320 Main St</street>
+    <city>Klamath Falls</city>
+    <state>OR</state>
+    <zip>97601-5914</zip>
+    <latitude>42.228118</latitude>
+    <longitude>-121.777093</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 273-5222</phone>
+</brewery>

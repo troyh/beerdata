@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pacific-Crest-Brewing-Co">
+  <name>Pacific Crest Brewing Co‎</name>
+  <address>
+    <street>10845 E Marginal Way S</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98168-1931</zip>
+    <latitude>47.505275</latitude>
+    <longitude>-122.290382</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 764-1731</phone>
+</brewery>

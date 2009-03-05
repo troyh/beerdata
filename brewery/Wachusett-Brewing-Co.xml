@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wachusett-Brewing-Co">
+  <name>Wachusett Brewing Co‎</name>
+  <address>
+    <street>175 State Rd E</street>
+    <city>Westminster</city>
+    <state>MA</state>
+    <zip>01473-1208</zip>
+    <latitude>42.558731</latitude>
+    <longitude>-71.870989</longitude>
+    <country>US</country>
+  </address>
+  <phone>(978) 874-9965</phone>
+</brewery>

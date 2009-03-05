@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Arrow-Wine-and-Spirits-Centerville-Dayton">
+  <name>Arrow Wine &amp; Spirits: Centerville‎</name>
+  <address>
+    <street>615 Lyons Rd</street>
+    <city>Dayton</city>
+    <state>OH</state>
+    <zip>45459-3978</zip>
+    <latitude>39.630689</latitude>
+    <longitude>-84.188254</longitude>
+    <country>US</country>
+  </address>
+  <phone>(937) 433-6778</phone>
+</brewery>

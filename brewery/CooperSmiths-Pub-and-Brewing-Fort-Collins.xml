@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="CooperSmiths-Pub-and-Brewing-Fort-Collins">
+  <name>CooperSmith's Pub &amp; Brewing‎</name>
+  <address>
+    <street>#5 Old Town Square</street>
+    <city>Fort Collins</city>
+    <state>CO</state>
+    <zip>US</zip>
+    <latitude>40.581505</latitude>
+    <longitude>-105.076264</longitude>
+    <country/>
+  </address>
+  <phone>(970) 498-0483</phone>
+</brewery>

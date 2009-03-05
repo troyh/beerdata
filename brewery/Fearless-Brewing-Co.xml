@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fearless-Brewing-Co">
+  <name>Fearless Brewing Co‎</name>
+  <address>
+    <street>326 S Broadway St</street>
+    <city>Estacada</city>
+    <state>OR</state>
+    <zip>97023</zip>
+    <latitude>45.287393</latitude>
+    <longitude>-122.334970</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 630-2337</phone>
+</brewery>

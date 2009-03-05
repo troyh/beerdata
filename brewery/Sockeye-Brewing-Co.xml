@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sockeye-Brewing-Co">
+  <name>Sockeye Brewing Co‎</name>
+  <address>
+    <street>2513 S Federal Way</street>
+    <city>Boise</city>
+    <state>ID</state>
+    <zip>83705-4466</zip>
+    <latitude>43.579532</latitude>
+    <longitude>-116.198410</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 367-1900</phone>
+</brewery>

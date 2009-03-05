@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Nine-G-Brewing-Co-South-Bend">
+  <name>Nine G Brewing Co‎</name>
+  <address>
+    <street>1115 W Sample St</street>
+    <city>South Bend</city>
+    <state>IN</state>
+    <zip>46619-3829</zip>
+    <latitude>41.665156</latitude>
+    <longitude>-86.265876</longitude>
+    <country>US</country>
+  </address>
+  <phone>(574) 339-4443</phone>
+</brewery>

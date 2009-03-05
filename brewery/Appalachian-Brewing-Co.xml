@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Appalachian-Brewing-Co">
+  <name>Appalachian Brewing Co‎</name>
+  <address>
+    <street>3721 Market St</street>
+    <city>Camp Hill</city>
+    <state>PA</state>
+    <zip>17011-4326</zip>
+    <latitude>40.238863</latitude>
+    <longitude>-76.945276</longitude>
+    <country>US</country>
+  </address>
+  <phone>(717) 920-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silver-Creek-Brewing-Co">
+  <name>Silver Creek Brewing Co‎</name>
+  <address>
+    <street>N57w6172 Portland Rd</street>
+    <city>Cedarburg</city>
+    <state>WI</state>
+    <zip>53012</zip>
+    <latitude>43.296243</latitude>
+    <longitude>-87.985619</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 375-4444</phone>
+</brewery>

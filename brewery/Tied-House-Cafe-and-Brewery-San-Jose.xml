@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tied-House-Cafe-and-Brewery-San-Jose">
+  <name>Tied House Cafe &amp; Brewery‎</name>
+  <address>
+    <street>65 N San Pedro St</street>
+    <city>San Jose</city>
+    <state>CA</state>
+    <zip>95110-2414</zip>
+    <latitude>37.336182</latitude>
+    <longitude>-121.893867</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 295-2739</phone>
+</brewery>

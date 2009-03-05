@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silver-Gulch-Brewing">
+  <name>Silver Gulch Brewing‎</name>
+  <address>
+    <street>2195 Old Steese Hwy N</street>
+    <city>Fairbanks</city>
+    <state>AK</state>
+    <zip>99712-1023</zip>
+    <latitude>64.957075</latitude>
+    <longitude>-147.621986</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 452-2739</phone>
+</brewery>

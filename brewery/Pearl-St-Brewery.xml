@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pearl-St-Brewery">
+  <name>Pearl St Brewery‎</name>
+  <address>
+    <street>1401 Saint Andrew St</street>
+    <city>La Crosse</city>
+    <state>WI</state>
+    <zip>54603-2866</zip>
+    <latitude>43.833733</latitude>
+    <longitude>-91.236686</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 784-4832</phone>
+</brewery>

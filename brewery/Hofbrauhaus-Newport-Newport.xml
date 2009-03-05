@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hofbrauhaus-Newport-Newport">
+  <name>Hofbrauhaus Newport‎</name>
+  <address>
+    <street>200 E 3rd St</street>
+    <city>Newport</city>
+    <state>KY</state>
+    <zip>41071-1612</zip>
+    <latitude>39.094939</latitude>
+    <longitude>-84.494396</longitude>
+    <country>US</country>
+  </address>
+  <phone>(859) 491-7200</phone>
+</brewery>

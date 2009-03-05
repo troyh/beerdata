@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mackinaw-Brewing-Co-Traverse-City">
+  <name>Mackinaw Brewing Co‎</name>
+  <address>
+    <street>161 E Front St</street>
+    <city>Traverse City</city>
+    <state>MI</state>
+    <zip>49684-2508</zip>
+    <latitude>44.764202</latitude>
+    <longitude>-85.622223</longitude>
+    <country>US</country>
+  </address>
+  <phone>(231) 933-1100</phone>
+</brewery>

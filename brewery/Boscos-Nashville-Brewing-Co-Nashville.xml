@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boscos-Nashville-Brewing-Co-Nashville">
+  <name>Boscos Nashville Brewing Co.‎</name>
+  <address>
+    <street>1805 21st Ave S</street>
+    <city>Nashville</city>
+    <state>TN</state>
+    <zip>37212-3705</zip>
+    <latitude>36.136528</latitude>
+    <longitude>-86.801028</longitude>
+    <country>US</country>
+  </address>
+  <phone>(615) 385-0050</phone>
+</brewery>

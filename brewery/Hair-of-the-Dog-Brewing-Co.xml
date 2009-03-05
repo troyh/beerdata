@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hair-of-the-Dog-Brewing-Co">
+  <name>Hair of the Dog Brewing Co‎</name>
+  <address>
+    <street>4509 SE 23rd Ave</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97202-4771</zip>
+    <latitude>45.490080</latitude>
+    <longitude>-122.642537</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 232-6585</phone>
+</brewery>

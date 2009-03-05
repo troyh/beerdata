@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barley-Brothers-Brewery-and-Grill">
+  <name>Barley Brothers Brewery and Grill‎</name>
+  <address>
+    <street>1425 McCulloch Blvd</street>
+    <city>Lake Havasu City</city>
+    <state>AZ</state>
+    <zip>86403-6513</zip>
+    <latitude>34.470377</latitude>
+    <longitude>-114.349711</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 505-7837</phone>
+</brewery>

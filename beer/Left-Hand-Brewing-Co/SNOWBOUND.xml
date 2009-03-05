@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Left-Hand-Brewing-Co/SNOWBOUND" brewery_id="Left-Hand-Brewing-Co">
+  <name>SNOWBOUND</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="---">
+      <description>1/6 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>210848</item>
+        <reg_price>65.00</reg_price>
+        <post_off>65.00</post_off>
+        <net_case_price/>
+        <unit_price>65.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

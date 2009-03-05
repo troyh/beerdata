@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Motor-City-Brewing-Works-Inc-Detroit">
+  <name>Motor City Brewing Works Inc‎</name>
+  <address>
+    <street>470 W Canfield St</street>
+    <city>Detroit</city>
+    <state>MI</state>
+    <zip>48201-1220</zip>
+    <latitude>42.351648</latitude>
+    <longitude>-83.065165</longitude>
+    <country>US</country>
+  </address>
+  <phone>(313) 832-2700</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Midnight-Sun-Brewing-Co">
+  <name>Midnight Sun Brewing Co‎</name>
+  <address>
+    <street>7329 Arctic Blvd</street>
+    <city>Anchorage</city>
+    <state>AK</state>
+    <zip>99518-2156</zip>
+    <latitude>61.154137</latitude>
+    <longitude>-149.891984</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 344-1179</phone>
+</brewery>

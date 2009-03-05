@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mountain-Town-Station-Brewing-Company-and-Steakhouse">
+  <name>Mountain Town Station Brewing Company &amp; Steakhouse‎</name>
+  <address>
+    <street>506 W Broadway St</street>
+    <city>Mt Pleasant</city>
+    <state>MI</state>
+    <zip>48858-2441</zip>
+    <latitude>43.604523</latitude>
+    <longitude>-84.782225</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 775-2337</phone>
+</brewery>

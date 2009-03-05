@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Four-Peaks-Brewing-Co">
+  <name>Four Peaks Brewing Co‎</name>
+  <address>
+    <street>1340 E 8th St # 104</street>
+    <city>Tempe</city>
+    <state>AZ</state>
+    <zip>85281-4303</zip>
+    <latitude>33.419423</latitude>
+    <longitude>-111.916420</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 303-9967</phone>
+</brewery>

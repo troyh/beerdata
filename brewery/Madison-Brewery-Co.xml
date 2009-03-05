@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Madison-Brewery-Co">
+  <name>Madison Brewery Co‎</name>
+  <address>
+    <street>428 Main St</street>
+    <city>Bennington</city>
+    <state>VT</state>
+    <zip>05201-2109</zip>
+    <latitude>42.878363</latitude>
+    <longitude>-73.196422</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 442-7397</phone>
+</brewery>

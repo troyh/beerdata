@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-on-the-Columbia">
+  <name>McMenamins on the Columbia‎</name>
+  <address>
+    <street>1801 SE Columbia River Dr</street>
+    <city>Vancouver</city>
+    <state>WA</state>
+    <zip>98661-8030</zip>
+    <latitude>45.615539</latitude>
+    <longitude>-122.653263</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 699-1521</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="CEO-Cast-Inc">
+  <name>CEO Cast Inc‎</name>
+  <address>
+    <street>55 John St # 11</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>11201</zip>
+    <latitude>40.704538</latitude>
+    <longitude>-73.985998</longitude>
+    <country>US</country>
+  </address>
+  <phone>(212) 732-4300</phone>
+</brewery>

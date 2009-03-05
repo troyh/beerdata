@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grey-Parrot-Brewing-Co">
+  <name>Grey Parrot Brewing Co‎</name>
+  <address>
+    <street>1506 Pacific Ave N</street>
+    <city>Long Beach</city>
+    <state>WA</state>
+    <zip>98631-3595</zip>
+    <latitude>46.361571</latitude>
+    <longitude>-124.053867</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 642-4739</phone>
+</brewery>

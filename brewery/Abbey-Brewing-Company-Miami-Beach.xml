@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Abbey-Brewing-Company-Miami-Beach">
+  <name>Abbey Brewing Company‎</name>
+  <address>
+    <street>1115 16th St</street>
+    <city>Miami Beach</city>
+    <state>FL</state>
+    <zip>33139-2441</zip>
+    <latitude>25.789058</latitude>
+    <longitude>-80.140149</longitude>
+    <country>US</country>
+  </address>
+  <phone>(305) 538-8110</phone>
+</brewery>

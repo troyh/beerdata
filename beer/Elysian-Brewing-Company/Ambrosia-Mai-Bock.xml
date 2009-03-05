@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Elysian-Brewing-Company/Ambrosia-Mai-Bock" brewery_id="Elysian-Brewing-Company">
+  <name>Ambrosia Mai-Bock</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="81790400050">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10904</item>
+        <reg_price>$37.68</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price>3.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size>
+      <description>15.5 gal</description>
+      <distributor>
+        <name>click</name>
+        <item>61402</item>
+        <reg_price>135.00</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

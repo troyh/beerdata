@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Bethesda-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>7900 Norfolk Ave</street>
+    <city>Bethesda</city>
+    <state>MD</state>
+    <zip>20814-2502</zip>
+    <latitude>38.988936</latitude>
+    <longitude>-77.097463</longitude>
+    <country>US</country>
+  </address>
+  <phone>(301) 652-1311</phone>
+</brewery>

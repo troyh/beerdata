@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brown-Derby-Road-House">
+  <name>Brown Derby Road House‎</name>
+  <address>
+    <street>1994 Brittain Rd</street>
+    <city>Akron</city>
+    <state>OH</state>
+    <zip>44310-4300</zip>
+    <latitude>41.116846</latitude>
+    <longitude>-81.465808</longitude>
+    <country>US</country>
+  </address>
+  <phone>(330) 633-9500</phone>
+</brewery>

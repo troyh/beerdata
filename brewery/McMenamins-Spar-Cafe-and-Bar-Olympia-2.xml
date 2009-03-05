@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Spar-Cafe-and-Bar-Olympia-2">
+  <name>McMenamins Spar Cafe &amp; Bar‎</name>
+  <address>
+    <street>114 4th Ave E</street>
+    <city>Olympia</city>
+    <state>WA</state>
+    <zip>98501-1103</zip>
+    <latitude>47.045064</latitude>
+    <longitude>-122.901473</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 357-6444</phone>
+</brewery>

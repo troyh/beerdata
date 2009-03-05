@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tractor-Brewing-Co">
+  <name>Tractor Brewing Co.‎</name>
+  <address>
+    <street>120 Nelson LN</street>
+    <city>Los Lunas</city>
+    <state>NM</state>
+    <zip>87031-8299</zip>
+    <latitude>34.803302</latitude>
+    <longitude>-106.705814</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 866-0477</phone>
+</brewery>

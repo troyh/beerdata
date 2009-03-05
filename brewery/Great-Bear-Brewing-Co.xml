@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Bear-Brewing-Co">
+  <name>Great Bear Brewing Co‎</name>
+  <address>
+    <street>238 N Boundary St</street>
+    <city>Wasilla</city>
+    <state>AK</state>
+    <zip>99654-7127</zip>
+    <latitude>61.581884</latitude>
+    <longitude>-149.439638</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 373-4782</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Half-Acre-Beer-Company-Chicago">
+  <name>Half Acre Beer Company‎</name>
+  <address>
+    <street>4257 N Lincoln Ave</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60618-2953</zip>
+    <latitude>41.959097</latitude>
+    <longitude>-87.682017</longitude>
+    <country>US</country>
+  </address>
+  <phone>(773) 248-4038</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rubicon-Brewing-Co">
+  <name>Rubicon Brewing Co‎</name>
+  <address>
+    <street>2004 Capitol Ave</street>
+    <city>Sacramento</city>
+    <state>CA</state>
+    <zip>95811-4215</zip>
+    <latitude>38.573209</latitude>
+    <longitude>-121.481236</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 448-7032</phone>
+</brewery>

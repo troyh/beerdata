@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="BrewDog-Brewery/HARDCORE-IPA" brewery_id="BrewDog-Brewery">
+  <name>HARDCORE IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-60154-91024-7">
+      <description>12/22.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>40003</item>
+        <reg_price>67.08</reg_price>
+        <post_off>58.68</post_off>
+        <net_case_price/>
+        <unit_price>5.59</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

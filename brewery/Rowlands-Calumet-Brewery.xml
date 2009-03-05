@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rowlands-Calumet-Brewery">
+  <name>Rowland's Calumet Brewery‎</name>
+  <address>
+    <street>25 N Madison St</street>
+    <city>Chilton</city>
+    <state>WI</state>
+    <zip>53014-1451</zip>
+    <latitude>44.029365</latitude>
+    <longitude>-88.163012</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 849-2534</phone>
+</brewery>

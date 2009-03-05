@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Skookum-Brewery">
+  <name>Skookum Brewery‎</name>
+  <address>
+    <street>19529 17th Drive NE</street>
+    <city>Arlington</city>
+    <state>WA</state>
+    <zip>98223-5444</zip>
+    <latitude>48.175748</latitude>
+    <longitude>-122.206537</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 652-4917</phone>
+</brewery>

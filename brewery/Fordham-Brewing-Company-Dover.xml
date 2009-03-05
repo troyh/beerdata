@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fordham-Brewing-Company-Dover">
+  <name>Fordham Brewing Company‎</name>
+  <address>
+    <street>1284 Mcd Dr</street>
+    <city>Dover</city>
+    <state>DE</state>
+    <zip>US</zip>
+    <latitude>39.158035</latitude>
+    <longitude>-75.524734</longitude>
+    <country/>
+  </address>
+  <phone>(302) 678-4810</phone>
+</brewery>

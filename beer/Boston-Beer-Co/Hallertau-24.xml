@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Hallertau-24" brewery_id="Boston-Beer-Co" calories_per_ml="0.476214146006017" abv="5.10" og="13Plato">
+  <name>Hallertau 24</name>
+  <description>Samuel AdamsÂ® Hallertau 24 is a Bohemian Pilsner that was created out of our brewerâs desire to brew with the freshest Noble hops possible. And the result was a beer that was remarkable in many ways.  First, we used the freshest possible Hallertau Mittelfrueh hops from Bavaria.  They went into the brew kettle at our Boston Brewery the same day they were picked from the vine.  Second, it is one of the rarest beers weâve ever brewed as it didnât even leave the brewery grounds.  Samuel AdamsÂ® Hallertau 24âs distribution is almost as limited as that first batch of Samuel Adams that Jim Koch brewed up in his kitchen in 1984.
+The recipe we used is one weâve been perfecting for the past two years; itâs a Bohemian-style Pilsner that is clean, distinctive and delicious. Samuel AdamsÂ® Hallertau 24 could only be found at our Samuel Adams Brewery in Boston. In fact, we didnât even keg it; we just poured it directly from the aging tank into pitchers.
+There are many reasons for coming to visit and tour the Samuel Adams brewery, but in the fall of 2006, our brewers thought this was just about the best one.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>German Pils</grains>
+  <hops>Hallertau Mittlefrueh</hops>
+  <yeast>bottom fermented lager</yeast>
+  <otherings/>
+  <sizes>
+    <size>
+      <description/>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

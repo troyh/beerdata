@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bent-River-Brewery-Restaurant-Moline">
+  <name>Bent River Brewery Restaurant‎</name>
+  <address>
+    <street>1413 5th Ave</street>
+    <city>Moline</city>
+    <state>IL</state>
+    <zip>61265-1335</zip>
+    <latitude>41.505925</latitude>
+    <longitude>-90.517452</longitude>
+    <country>US</country>
+  </address>
+  <phone>(309) 797-2722</phone>
+</brewery>

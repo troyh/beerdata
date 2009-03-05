@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wild-River-Brewing-and-Pizza-Co-Grants-Pass-2">
+  <name>Wild River Brewing &amp; Pizza Co‎</name>
+  <address>
+    <street>595 NE E St</street>
+    <city>Grants Pass</city>
+    <state>OR</state>
+    <zip>97526-2356</zip>
+    <latitude>42.439192</latitude>
+    <longitude>-123.317563</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 471-7487</phone>
+</brewery>

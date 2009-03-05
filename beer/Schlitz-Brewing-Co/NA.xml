@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Schlitz-Brewing-Co/NA" brewery_id="Schlitz-Brewing-Co">
+  <name>NA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-52300-00035-8">
+      <description>CAN 2-12/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>17714</item>
+        <reg_price>$11.98</reg_price>
+        <post_off>-$2.40</post_off>
+        <net_case_price>$9.58</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$5.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

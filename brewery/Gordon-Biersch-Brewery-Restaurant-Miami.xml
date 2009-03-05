@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-Miami">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>1201 Brickell Ave # 1</street>
+    <city>Miami</city>
+    <state>FL</state>
+    <zip>33131-3201</zip>
+    <latitude>25.762161</latitude>
+    <longitude>-80.191594</longitude>
+    <country>US</country>
+  </address>
+  <phone>(786) 425-1130</phone>
+</brewery>

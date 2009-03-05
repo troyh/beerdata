@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-Honolulu-2">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>1 Aloha Tower Dr # 1123</street>
+    <city>Honolulu</city>
+    <state>HI</state>
+    <zip>96813-4800</zip>
+    <latitude>21.307399</latitude>
+    <longitude>-157.865167</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 599-4877</phone>
+</brewery>

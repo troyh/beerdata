@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Buck-Brewery-and-Steakhouse-Grapevine-2">
+  <name>Big Buck Brewery &amp; Steakhouse‎</name>
+  <address>
+    <street>2501 Bass Pro Dr</street>
+    <city>Grapevine</city>
+    <state>TX</state>
+    <zip>76051-2009</zip>
+    <latitude>32.955360</latitude>
+    <longitude>-97.046013</longitude>
+    <country>US</country>
+  </address>
+  <phone>(972) 691-5100</phone>
+</brewery>

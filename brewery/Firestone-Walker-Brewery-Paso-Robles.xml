@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Firestone-Walker-Brewery-Paso-Robles">
+  <name>Firestone Walker Brewery‎</name>
+  <address>
+    <street>1400 Ramada Dr</street>
+    <city>Paso Robles</city>
+    <state>CA</state>
+    <zip>93446-3993</zip>
+    <latitude>35.595488</latitude>
+    <longitude>-120.694846</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 238-2556</phone>
+</brewery>

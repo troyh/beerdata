@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Queen-Anne">
+  <name>McMenamins-Queen Anne‎</name>
+  <address>
+    <street>200 Roy St # 105</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98109-4112</zip>
+    <latitude>47.625544</latitude>
+    <longitude>-122.352646</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 285-4722</phone>
+</brewery>

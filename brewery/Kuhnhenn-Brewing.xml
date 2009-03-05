@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kuhnhenn-Brewing">
+  <name>Kuhnhenn Brewing‎</name>
+  <address>
+    <street>5919 Chicago Rd</street>
+    <city>Warren</city>
+    <state>MI</state>
+    <zip>48092-1606</zip>
+    <latitude>42.527708</latitude>
+    <longitude>-83.046885</longitude>
+    <country>US</country>
+  </address>
+  <phone>(586) 979-8361</phone>
+</brewery>

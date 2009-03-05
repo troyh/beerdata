@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Monkey-King-Brewery-and-Floribbean-Grill">
+  <name>Monkey King Brewery and Floribbean Grill‎</name>
+  <address>
+    <street>1725 SE Federal Hwy</street>
+    <city>Stuart</city>
+    <state>FL</state>
+    <zip>34994-3952</zip>
+    <latitude>27.182545</latitude>
+    <longitude>-80.241032</longitude>
+    <country>US</country>
+  </address>
+  <phone>(772) 463-5464</phone>
+</brewery>

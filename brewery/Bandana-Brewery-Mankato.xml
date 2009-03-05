@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bandana-Brewery-Mankato">
+  <name>Bandana Brewery‎</name>
+  <address>
+    <street>302 N Plainview Ave</street>
+    <city>Mankato</city>
+    <state>MN</state>
+    <zip>56001-5551</zip>
+    <latitude>44.161695</latitude>
+    <longitude>-93.971199</longitude>
+    <country>US</country>
+  </address>
+  <phone>(507) 388-2288</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Vierling-Restaurant-and-Brewery">
+  <name>Vierling Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>119 S Front St</street>
+    <city>Marquette</city>
+    <state>MI</state>
+    <zip>49855-4609</zip>
+    <latitude>46.543000</latitude>
+    <longitude>-87.392806</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 228-3533</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sebago-Brewing-Co">
+  <name>Sebago Brewing Co‎</name>
+  <address>
+    <street>150 Philbrook Ave</street>
+    <city>South Portland</city>
+    <state>ME</state>
+    <zip>04106-3207</zip>
+    <latitude>43.630706</latitude>
+    <longitude>-70.334715</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 879-2537</phone>
+</brewery>

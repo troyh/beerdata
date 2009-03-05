@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boulder-Beer-Company/KILLER-PENGUIN" brewery_id="Boulder-Beer-Company">
+  <name>KILLER PENGUIN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-50939-12202-1">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>729016</item>
+        <reg_price>58.50</reg_price>
+        <post_off>58.50</post_off>
+        <net_case_price/>
+        <unit_price>4.88</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

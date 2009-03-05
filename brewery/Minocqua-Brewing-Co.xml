@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Minocqua-Brewing-Co">
+  <name>Minocqua Brewing Co‎</name>
+  <address>
+    <street>238 Lakeshore Dr</street>
+    <city>Minocqua</city>
+    <state>WI</state>
+    <zip>54548-9392</zip>
+    <latitude>45.872277</latitude>
+    <longitude>-89.710730</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 356-2600</phone>
+</brewery>

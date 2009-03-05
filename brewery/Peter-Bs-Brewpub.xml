@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Peter-Bs-Brewpub">
+  <name>Peter B's Brewpub‎</name>
+  <address>
+    <street>2 Portola Plz</street>
+    <city>Monterey</city>
+    <state>CA</state>
+    <zip>93940-2419</zip>
+    <latitude>36.601106</latitude>
+    <longitude>-121.894645</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 649-4511</phone>
+</brewery>

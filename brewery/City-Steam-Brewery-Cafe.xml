@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="City-Steam-Brewery-Cafe">
+  <name>City Steam Brewery Cafe‎</name>
+  <address>
+    <street>942 Main St</street>
+    <city>Hartford</city>
+    <state>CT</state>
+    <zip>06103-1207</zip>
+    <latitude>41.768034</latitude>
+    <longitude>-72.672842</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 525-1600</phone>
+</brewery>

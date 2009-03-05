@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Roots-Organic-Brewing-Co">
+  <name>Roots Organic Brewing Co‎</name>
+  <address>
+    <street>1520 SE 7th Ave</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97214-3568</zip>
+    <latitude>45.512044</latitude>
+    <longitude>-122.658564</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 235-7668</phone>
+</brewery>

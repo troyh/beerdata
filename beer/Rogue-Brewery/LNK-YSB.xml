@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/LNK-YSB" brewery_id="Rogue-Brewery">
+  <name>LNK YSB</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13136-2">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>30623</item>
+        <reg_price>$26.97</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$26.97</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$8.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

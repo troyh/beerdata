@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sonora-Brewhouse">
+  <name>Sonora Brewhouse‎</name>
+  <address>
+    <street>322 E Camelback Rd</street>
+    <city>Phoenix</city>
+    <state>AZ</state>
+    <zip>85012-1614</zip>
+    <latitude>33.509412</latitude>
+    <longitude>-112.068896</longitude>
+    <country>US</country>
+  </address>
+  <phone>(602) 279-8909</phone>
+</brewery>

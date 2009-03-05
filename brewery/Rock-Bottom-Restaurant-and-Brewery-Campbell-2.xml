@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Campbell-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>1875 S Bascom Ave # 700</street>
+    <city>Campbell</city>
+    <state>CA</state>
+    <zip>95008-2320</zip>
+    <latitude>37.289631</latitude>
+    <longitude>-121.931845</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 377-0707</phone>
+</brewery>

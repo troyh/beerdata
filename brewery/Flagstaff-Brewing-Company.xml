@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flagstaff-Brewing-Company">
+  <name>Flagstaff Brewing Company‎</name>
+  <address>
+    <street>16 East Rt 66</street>
+    <city>Flagstaff</city>
+    <state>AZ</state>
+    <zip>86001-5755</zip>
+    <latitude>35.197564</latitude>
+    <longitude>-111.648843</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 773-1442</phone>
+</brewery>

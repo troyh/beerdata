@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Miller-Brewing-Co/CAN-LS" brewery_id="Miller-Brewing-Co">
+  <name>CAN LS</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="81264">
+      <description>24/16</description>
+      <distributor>
+        <name/>
+        <item>columbia</item>
+        <reg_price>0-34100-57323-2</reg_price>
+        <post_off>$19.57</post_off>
+        <net_case_price>0</net_case_price>
+        <unit_price>$19.57</unit_price>
+        <deposit>$1.20</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

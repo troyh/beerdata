@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="New-Belgium-Brewing/F-TIRE" brewery_id="New-Belgium-Brewing">
+  <name>F TIRE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-54527-00020-2">
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83772</item>
+        <reg_price>$25.15</reg_price>
+        <post_off>-$2.65</post_off>
+        <net_case_price>$22.50</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$2.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurants-and-Brewery-Westminster">
+  <name>Rock Bottom Restaurants and Brewery‎</name>
+  <address>
+    <street>10633 Westminster Blvd # 900</street>
+    <city>Westminster</city>
+    <state>CO</state>
+    <zip>80020-4166</zip>
+    <latitude>39.890259</latitude>
+    <longitude>-105.068416</longitude>
+    <country>US</country>
+  </address>
+  <phone>(720) 566-0198</phone>
+</brewery>

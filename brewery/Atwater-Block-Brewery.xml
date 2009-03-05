@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Atwater-Block-Brewery">
+  <name>Atwater Block Brewery‎</name>
+  <address>
+    <street>237 Joseph Campau St</street>
+    <city>Detroit</city>
+    <state>MI</state>
+    <zip>48207-4107</zip>
+    <latitude>42.337627</latitude>
+    <longitude>-83.018676</longitude>
+    <country>US</country>
+  </address>
+  <phone>(313) 877-9205</phone>
+</brewery>

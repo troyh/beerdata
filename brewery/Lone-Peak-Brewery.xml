@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lone-Peak-Brewery">
+  <name>Lone Peak Brewery‎</name>
+  <address>
+    <street>48 Market Pl</street>
+    <city>Big Sky</city>
+    <state>MT</state>
+    <zip>US</zip>
+    <latitude>45.262235</latitude>
+    <longitude>-111.295527</longitude>
+    <country/>
+  </address>
+  <phone>(406) 995-3939</phone>
+</brewery>

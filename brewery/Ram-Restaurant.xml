@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ram-Restaurant">
+  <name>Ram Restaurant‎</name>
+  <address>
+    <street>9520 W Higgins Rd</street>
+    <city>Rosemont</city>
+    <state>IL</state>
+    <zip>60018-4963</zip>
+    <latitude>41.992698</latitude>
+    <longitude>-87.863386</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 692-4426</phone>
+</brewery>

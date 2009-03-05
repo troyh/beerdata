@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ruby-Mountain-Brewing-Co-Wells">
+  <name>Ruby Mountain Brewing Co‎</name>
+  <address>
+    <street>Clover Valley</street>
+    <city>Wells</city>
+    <state>NV</state>
+    <zip>89835</zip>
+    <latitude>41.017666</latitude>
+    <longitude>-115.002113</longitude>
+    <country>US</country>
+  </address>
+  <phone>(775) 752-2337</phone>
+</brewery>

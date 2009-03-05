@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Twilight-Ale" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.456489299721744" abv="5" ibu="35">
+  <name>Twilight Ale</name>
+  <description>Stretching the longer summer days into Twilight! There is something magical about the time of day that falls between light and dark, the high-desert summer day fading into a warm evening with brilliant skies. â¨â¨Twilight Ale is a lighter, but full flavored ale with a balanced malt profile and a harmonious blend of four hops. A final dry hopping of bold Amarillos creates the distinctive finishing touch. Twilight is best enjoyed when chilled and consumed outdoors.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

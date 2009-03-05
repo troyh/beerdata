@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Waters-Brewing-Co-St-Paul">
+  <name>Great Waters Brewing Co‎</name>
+  <address>
+    <street>426 Saint Peter St</street>
+    <city>St Paul</city>
+    <state>MN</state>
+    <zip>55102-1105</zip>
+    <latitude>44.946758</latitude>
+    <longitude>-93.096964</longitude>
+    <country>US</country>
+  </address>
+  <phone>(651) 224-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="South-Shore-Brewery">
+  <name>South Shore Brewery‎</name>
+  <address>
+    <street>808 Main St W</street>
+    <city>Ashland</city>
+    <state>WI</state>
+    <zip>54806-1404</zip>
+    <latitude>46.587483</latitude>
+    <longitude>-90.891957</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 682-9199</phone>
+</brewery>

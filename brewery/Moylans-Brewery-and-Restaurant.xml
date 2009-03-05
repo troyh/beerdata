@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Moylans-Brewery-and-Restaurant">
+  <name>Moylan's Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>15 Rowland Way</street>
+    <city>Novato</city>
+    <state>CA</state>
+    <zip>94945-5001</zip>
+    <latitude>38.094403</latitude>
+    <longitude>-122.556916</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 898-4677</phone>
+</brewery>

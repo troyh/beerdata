@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Woof-Breweries">
+  <name>Woof Breweries‎</name>
+  <address>
+    <street>19480 SW 97th Ave</street>
+    <city>Tualatin</city>
+    <state>OR</state>
+    <zip>97062-8505</zip>
+    <latitude>45.379010</latitude>
+    <longitude>-122.778339</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 692-9666</phone>
+</brewery>

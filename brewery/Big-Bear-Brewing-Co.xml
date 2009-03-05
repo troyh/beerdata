@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Bear-Brewing-Co">
+  <name>Big Bear Brewing Co‎</name>
+  <address>
+    <street>1800 N University Dr</street>
+    <city>Coral Springs</city>
+    <state>FL</state>
+    <zip>33071-6031</zip>
+    <latitude>26.253329</latitude>
+    <longitude>-80.253123</longitude>
+    <country>US</country>
+  </address>
+  <phone>(954) 341-5545</phone>
+</brewery>

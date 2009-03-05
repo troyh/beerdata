@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oak-Pond-Brewery">
+  <name>Oak Pond Brewery‎</name>
+  <address>
+    <street>101 Oak Pond Rd</street>
+    <city>Skowhegan</city>
+    <state>ME</state>
+    <zip>04976-4602</zip>
+    <latitude>44.744103</latitude>
+    <longitude>-69.602296</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 474-3233</phone>
+</brewery>

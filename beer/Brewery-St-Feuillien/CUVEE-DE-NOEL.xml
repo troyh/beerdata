@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-St-Feuillien/CUVEE-DE-NOEL" brewery_id="Brewery-St-Feuillien">
+  <name>CUVEE DE NOEL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="4-12138-30331-4">
+      <description>24/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621034</item>
+        <reg_price>75.43</reg_price>
+        <post_off>75.43</post_off>
+        <net_case_price/>
+        <unit_price>3.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Eldo-Crested-Butte-2">
+  <name>Eldo‎</name>
+  <address>
+    <street>215 Elk Ave</street>
+    <city>Crested Butte</city>
+    <state>CO</state>
+    <zip>81224-9608</zip>
+    <latitude>38.869857</latitude>
+    <longitude>-106.987133</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 349-6125</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Viking-Brewing-Co-Dallas">
+  <name>Viking Brewing Co‎</name>
+  <address>
+    <street>234 W Dallas St</street>
+    <city>Dallas</city>
+    <state>WI</state>
+    <zip>54733-9706</zip>
+    <latitude>45.259005</latitude>
+    <longitude>-91.816195</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 837-1824</phone>
+</brewery>

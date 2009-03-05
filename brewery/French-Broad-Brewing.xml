@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="French-Broad-Brewing">
+  <name>French Broad Brewing‎</name>
+  <address>
+    <street>101 Fairview Rd # D</street>
+    <city>Asheville</city>
+    <state>NC</state>
+    <zip>28803-2307</zip>
+    <latitude>35.566233</latitude>
+    <longitude>-82.534379</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 277-0222</phone>
+</brewery>

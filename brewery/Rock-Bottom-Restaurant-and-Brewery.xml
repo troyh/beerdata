@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>3316 Cinema Pt</street>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+    <zip>80922-2815</zip>
+    <latitude>38.881531</latitude>
+    <longitude>-104.717173</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 550-3586</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Des-Moines-2">
+  <name>Rock Bottom‎</name>
+  <address>
+    <street>4508 East University Avenue</street>
+    <city>Des Moines</city>
+    <state>IA</state>
+    <zip>50327-1702</zip>
+    <latitude>41.600765</latitude>
+    <longitude>-93.529093</longitude>
+    <country>US</country>
+  </address>
+  <phone>(515) 267-8900</phone>
+</brewery>

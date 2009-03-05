@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Surly-Brewing-Company">
+  <name>Surly Brewing Company‎</name>
+  <address>
+    <street>4811 Dusharme Dr</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55429-3940</zip>
+    <latitude>45.042119</latitude>
+    <longitude>-93.324512</longitude>
+    <country>US</country>
+  </address>
+  <phone>(763) 535-3330</phone>
+</brewery>

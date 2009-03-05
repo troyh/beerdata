@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Spilker-Ales-Cortland">
+  <name>Spilker Ales‎</name>
+  <address>
+    <street>300 W 4th</street>
+    <city>Cortland</city>
+    <state>NE</state>
+    <zip>68331</zip>
+    <latitude>40.505862</latitude>
+    <longitude>-96.707189</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 798-7445</phone>
+</brewery>

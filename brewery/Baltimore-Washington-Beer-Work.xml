@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Baltimore-Washington-Beer-Work">
+  <name>Baltimore Washington Beer Work‎</name>
+  <address>
+    <street>1027 Roxleigh Rd</street>
+    <city>Baltimore</city>
+    <state>MD</state>
+    <zip>US</zip>
+    <latitude>39.290555</latitude>
+    <longitude>-76.609604</longitude>
+    <country/>
+  </address>
+  <phone>(410) 583-1885</phone>
+</brewery>

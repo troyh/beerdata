@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brasserie-de-Rochefort/ALE-10" brewery_id="Brasserie-de-Rochefort">
+  <name>ALE 10'</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-85725-16503-6">
+      <description>12/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>991065</item>
+        <reg_price>62.92</reg_price>
+        <post_off>62.92</post_off>
+        <net_case_price/>
+        <unit_price>5.24</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

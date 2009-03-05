@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Skye-Book-and-Brew">
+  <name>Skye Book &amp; Brew‎</name>
+  <address>
+    <street>148 E Main St</street>
+    <city>Dayton</city>
+    <state>WA</state>
+    <zip>99328-1351</zip>
+    <latitude>46.319232</latitude>
+    <longitude>-117.981239</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 382-4677</phone>
+</brewery>

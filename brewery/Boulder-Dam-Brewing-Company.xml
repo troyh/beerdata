@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boulder-Dam-Brewing-Company">
+  <name>Boulder Dam Brewing Company‎</name>
+  <address>
+    <street>453 Nevada Hwy</street>
+    <city>Boulder City</city>
+    <state>NV</state>
+    <zip>89005-2424</zip>
+    <latitude>35.978654</latitude>
+    <longitude>-114.836657</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 243-2739</phone>
+</brewery>

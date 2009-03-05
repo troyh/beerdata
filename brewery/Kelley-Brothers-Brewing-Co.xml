@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kelley-Brothers-Brewing-Co">
+  <name>Kelley Brothers Brewing Co‎</name>
+  <address>
+    <street>112 E Yosemite Ave</street>
+    <city>Manteca</city>
+    <state>CA</state>
+    <zip>95336-5712</zip>
+    <latitude>37.797277</latitude>
+    <longitude>-121.216224</longitude>
+    <country>US</country>
+  </address>
+  <phone>(209) 825-1727</phone>
+</brewery>

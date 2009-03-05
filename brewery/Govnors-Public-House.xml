@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Govnors-Public-House">
+  <name>Govnor's Public House‎</name>
+  <address>
+    <street>220 N Randall Rd</street>
+    <city>Lake In the Hls</city>
+    <state>IL</state>
+    <zip>60156-5943</zip>
+    <latitude>42.177951</latitude>
+    <longitude>-88.335514</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 658-4700</phone>
+</brewery>

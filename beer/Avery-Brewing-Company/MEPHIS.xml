@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Avery-Brewing-Company/MEPHIS" brewery_id="Avery-Brewing-Company">
+  <name>MEPHIS</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-96363-00125-8">
+      <description>BOTTLE 24/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81704</item>
+        <reg_price>$142.63</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$142.63</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$178.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elk-Head-Brewing-Company-Inc">
+  <name>Elk Head Brewing Company Inc‎</name>
+  <address>
+    <street>28120 State Route 410 E # A10</street>
+    <city>Buckley</city>
+    <state>WA</state>
+    <zip>98321-9212</zip>
+    <latitude>47.159508</latitude>
+    <longitude>-122.054478</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 829-2739</phone>
+</brewery>

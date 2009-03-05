@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Copper-Cellar-Grille-and-Brewery-Jacksonville">
+  <name>Copper Cellar Grille &amp; Brewery‎</name>
+  <address>
+    <street>2 Independent Drive</street>
+    <city>Jacksonville</city>
+    <state>FL</state>
+    <zip>32202-5001</zip>
+    <latitude>30.325448</latitude>
+    <longitude>-81.659902</longitude>
+    <country>US</country>
+  </address>
+  <phone>(904) 356-7272</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Snipes-Mountain-Brewing-Inc">
+  <name>Snipes Mountain Brewing Inc‎</name>
+  <address>
+    <street>905 Yakima Valley Hwy</street>
+    <city>Sunnyside</city>
+    <state>WA</state>
+    <zip>98944-1334</zip>
+    <latitude>46.328747</latitude>
+    <longitude>-120.008411</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 837-2739</phone>
+</brewery>

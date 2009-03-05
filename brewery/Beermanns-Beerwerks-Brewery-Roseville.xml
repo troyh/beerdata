@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Beermanns-Beerwerks-Brewery-Roseville">
+  <name>Beermann's Beerwerks Brewery‎</name>
+  <address>
+    <street>8284 Industrial Ave # B</street>
+    <city>Roseville</city>
+    <state>CA</state>
+    <zip>95678-5900</zip>
+    <latitude>38.782414</latitude>
+    <longitude>-121.307478</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 781-2337</phone>
+</brewery>

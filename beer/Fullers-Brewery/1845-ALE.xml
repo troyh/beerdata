@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Fullers-Brewery/1845-ALE" brewery_id="Fullers-Brewery">
+  <name>1845 ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>12/16.9 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>305328</item>
+        <reg_price>40.26</reg_price>
+        <post_off>40.26</post_off>
+        <net_case_price/>
+        <unit_price>3.36</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

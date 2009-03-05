@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Weihenstephan-Brewery/KORBINIAN" brewery_id="Weihenstephan-Brewery">
+  <name>KORBINIAN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-48008-11111-1">
+      <description>30L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>748008</item>
+        <reg_price>110.00</reg_price>
+        <post_off>110.00</post_off>
+        <net_case_price/>
+        <unit_price>110.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

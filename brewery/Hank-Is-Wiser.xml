@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hank-Is-Wiser">
+  <name>Hank Is Wiser‎</name>
+  <address>
+    <street>213 N Main St</street>
+    <city>Cheney</city>
+    <state>KS</state>
+    <zip>67025-9730</zip>
+    <latitude>37.628197</latitude>
+    <longitude>-97.781336</longitude>
+    <country>US</country>
+  </address>
+  <phone>(316) 542-0113</phone>
+</brewery>

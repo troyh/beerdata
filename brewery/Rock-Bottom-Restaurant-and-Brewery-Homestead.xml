@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Homestead">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>171 E Bridge St</street>
+    <city>Homestead</city>
+    <state>PA</state>
+    <zip>15120-5043</zip>
+    <latitude>40.409616</latitude>
+    <longitude>-79.914650</longitude>
+    <country>US</country>
+  </address>
+  <phone>(412) 462-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Legend-Brewing-Co">
+  <name>Legend Brewing Co‎</name>
+  <address>
+    <street>321 W 7th St</street>
+    <city>Richmond</city>
+    <state>VA</state>
+    <zip>23224-2307</zip>
+    <latitude>37.526309</latitude>
+    <longitude>-77.442801</longitude>
+    <country>US</country>
+  </address>
+  <phone>(804) 232-3446</phone>
+</brewery>

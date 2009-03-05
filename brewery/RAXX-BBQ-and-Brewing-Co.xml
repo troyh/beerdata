@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="RAXX-BBQ-and-Brewing-Co">
+  <name>RAXX BBQ &amp; Brewing Co.‎</name>
+  <address>
+    <street>3397 Mission Inn Ave</street>
+    <city>Riverside</city>
+    <state>CA</state>
+    <zip>92501-3302</zip>
+    <latitude>33.981302</latitude>
+    <longitude>-117.370266</longitude>
+    <country>US</country>
+  </address>
+  <phone>(951) 784-2739</phone>
+</brewery>

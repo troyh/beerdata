@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grizzly-Peak-Brewing-Company">
+  <name>Grizzly Peak Brewing Company‎</name>
+  <address>
+    <street>120 W. Washington</street>
+    <city>Ann Arbor</city>
+    <state>MI</state>
+    <zip>48104-1325</zip>
+    <latitude>42.280633</latitude>
+    <longitude>-83.748870</longitude>
+    <country>US</country>
+  </address>
+  <phone>(734) 741-7325</phone>
+</brewery>

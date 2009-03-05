@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Skagit-River-Brewing-Co/YELLOWJACKET-PALE-ALE" brewery_id="Skagit-River-Brewing-Co">
+  <name>YELLOWJACKET PALE ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-05408-20221-8">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

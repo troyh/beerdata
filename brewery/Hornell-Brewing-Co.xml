@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hornell-Brewing-Co">
+  <name>Hornell Brewing Co‎</name>
+  <address>
+    <street>5 Dakota Dr</street>
+    <city>New Hyde Park</city>
+    <state>NY</state>
+    <zip>11042-1119</zip>
+    <latitude>40.761410</latitude>
+    <longitude>-73.689778</longitude>
+    <country>US</country>
+  </address>
+  <phone>(516) 352-8612</phone>
+</brewery>

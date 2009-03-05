@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Nocturnal-Brewing-Co">
+  <name>Nocturnal Brewing Co‎</name>
+  <address>
+    <street>2205 Fairview Ave</street>
+    <city>Brentwood</city>
+    <state>CA</state>
+    <zip>94513-5349</zip>
+    <latitude>37.956965</latitude>
+    <longitude>-121.723409</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 895-2337</phone>
+</brewery>

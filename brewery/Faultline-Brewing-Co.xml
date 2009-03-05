@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Faultline-Brewing-Co">
+  <name>Faultline Brewing Co‎</name>
+  <address>
+    <street>1235 Oakmead Pkwy</street>
+    <city>Sunnyvale</city>
+    <state>CA</state>
+    <zip>94085-4040</zip>
+    <latitude>37.387017</latitude>
+    <longitude>-121.992614</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 736-2739</phone>
+</brewery>

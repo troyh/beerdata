@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shoreline-Brewery">
+  <name>Shoreline Brewery‎</name>
+  <address>
+    <street>208 Wabash St</street>
+    <city>Michigan City</city>
+    <state>IN</state>
+    <zip>46360-3244</zip>
+    <latitude>41.719579</latitude>
+    <longitude>-86.906197</longitude>
+    <country>US</country>
+  </address>
+  <phone>(219) 879-4677</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Punkin" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+  <name>Punkin</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="638489000411">
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10632</item>
+        <reg_price>50.34</reg_price>
+        <post_off>      </post_off>
+        <net_case_price/>
+        <unit_price>$8.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

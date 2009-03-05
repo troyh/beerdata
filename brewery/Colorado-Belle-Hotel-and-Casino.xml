@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Colorado-Belle-Hotel-and-Casino">
+  <name>Colorado Belle Hotel &amp; Casino‎</name>
+  <address>
+    <street>2100 S. Casino Drive</street>
+    <city>Laughlin</city>
+    <state>NV</state>
+    <zip>89029-1514</zip>
+    <latitude>35.158500</latitude>
+    <longitude>-114.573966</longitude>
+    <country>US</country>
+  </address>
+  <phone>(866) 352-3553</phone>
+</brewery>

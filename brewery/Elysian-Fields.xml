@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elysian-Fields">
+  <name>Elysian Fields‎</name>
+  <address>
+    <street>542 1st Ave South</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98104-2804</zip>
+    <latitude>47.597447</latitude>
+    <longitude>-122.334064</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 382-4498</phone>
+</brewery>

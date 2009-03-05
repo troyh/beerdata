@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Rock-Chop-House">
+  <name>Big Rock Chop House‎</name>
+  <address>
+    <street>245 S Eton St</street>
+    <city>Birmingham</city>
+    <state>MI</state>
+    <zip>48009-6577</zip>
+    <latitude>42.546847</latitude>
+    <longitude>-83.195854</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 647-7774</phone>
+</brewery>

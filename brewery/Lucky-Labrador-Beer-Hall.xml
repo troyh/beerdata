@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lucky-Labrador-Beer-Hall">
+  <name>Lucky Labrador Beer Hall‎</name>
+  <address>
+    <street>1945 NW Quimby St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97209-1712</zip>
+    <latitude>45.533625</latitude>
+    <longitude>-122.691559</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 517-4352</phone>
+</brewery>

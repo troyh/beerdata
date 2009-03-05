@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Arlington-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>4238 Wilson Blvd</street>
+    <city>Arlington</city>
+    <state>VA</state>
+    <zip>22203-1804</zip>
+    <latitude>38.879887</latitude>
+    <longitude>-77.111320</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 516-7688</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pendleton-Chamber-of-Commerce-Pendleton">
+  <name>Pendleton Chamber of Commerce‎</name>
+  <address>
+    <street>501 S Main St</street>
+    <city>Pendleton</city>
+    <state>OR</state>
+    <zip>97801-2261</zip>
+    <latitude>45.669251</latitude>
+    <longitude>-118.785483</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 276-7411</phone>
+</brewery>

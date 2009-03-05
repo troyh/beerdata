@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Imperial-White" brewery_id="Boston-Beer-Co" calories_per_ml="0.924249940177359" abv="10.30" og="24.6Plato">
+  <name>Imperial White</name>
+  <description>Samuel AdamsÂ® Imperial White is a new perspective on the classic witbier style.  Witbiers are normally light and refreshing with a fruity finish and we wanted to see how these characteristics would stand up when we amped up the recipe.  We were totally blown away by the flavors that  This beer has a lot going on.  Brewed with malted wheat and two-row Harrington and Metcalfe malted barley, this beer has a bigger body and mouthfeel than a traditional witbier.  As this beer warms and opens up, you start to get flavors of complex flavors of dry fruits, exotic spices, and floral blossoms.  These are flavors typically associated with wine and spirits, but they are showcased in Imperial White as a bouquet of flavors.  We knew we were going to enjoy watching this beer develop and we are thrilled with the result.  Imperial White is really a versatile beer when it comes to pairing with food.  Its wheat and cereal-like flavors can easily complement a savory roasted chicken with lemon and pepper.  Or the spices in the beer can match the intensity of a curry dish or thai cuisine.were created by this beer.  This is not just a more intense version of our spring seasonal Samuel AdamsÂ® White Ale.  Imperial White is a new recipe that stands on it own merits.  In fact, it is more of a wine substitute than just another refreshing witbier.  This is a beer that should be sipped and savored and youâll be amazed at the flavors youâll discover as the beer warms and opens up.  Due to legal restrictions, the Samuel Adams Imperial Series beers are not offered in the states of Alabama, Idaho, Iowa, Mississippi, Montana, South Carolina and West Virginia.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains>Two row Harrington, mMetcalfe, and Malted Wheat</grains>
+  <hops>Hallertau Mittlefrueh</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="16A">Witbier</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>BOTTLE 12/23</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

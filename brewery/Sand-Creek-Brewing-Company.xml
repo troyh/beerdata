@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sand-Creek-Brewing-Company">
+  <name>Sand Creek Brewing Company‎</name>
+  <address>
+    <street>320 Pierce Street</street>
+    <city>Black River Falls</city>
+    <state>WI</state>
+    <zip>54615-1753</zip>
+    <latitude>44.292712</latitude>
+    <longitude>-90.851138</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 284-7553</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jack-Russell-Brewing-Co">
+  <name>Jack Russell Brewing Co‎</name>
+  <address>
+    <street>2380 Larsen Dr</street>
+    <city>Camino</city>
+    <state>CA</state>
+    <zip>95709-9749</zip>
+    <latitude>38.754401</latitude>
+    <longitude>-120.679576</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 644-4722</phone>
+</brewery>

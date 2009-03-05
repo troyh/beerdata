@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Caldera-Brewing-Co">
+  <name>Caldera Brewing Co‎</name>
+  <address>
+    <street>540 Clover Ln</street>
+    <city>Ashland</city>
+    <state>OR</state>
+    <zip>97520-3709</zip>
+    <latitude>42.184350</latitude>
+    <longitude>-122.663871</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 482-4677</phone>
+</brewery>

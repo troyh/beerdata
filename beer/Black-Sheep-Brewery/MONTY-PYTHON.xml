@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Black-Sheep-Brewery/MONTY-PYTHON" brewery_id="Black-Sheep-Brewery">
+  <name>MONTY PYTHON</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-50245-83004-0">
+      <description>12/16.9 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>695008</item>
+        <reg_price>37.71</reg_price>
+        <post_off>33.50</post_off>
+        <net_case_price/>
+        <unit_price>3.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size upc="0-99999-99999-0">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>695017</item>
+        <reg_price>27.98</reg_price>
+        <post_off>27.98</post_off>
+        <net_case_price/>
+        <unit_price>7.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

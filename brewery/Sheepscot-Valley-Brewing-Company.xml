@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sheepscot-Valley-Brewing-Company">
+  <name>Sheepscot Valley Brewing Company‎</name>
+  <address>
+    <street>74 Hollywood Blvd</street>
+    <city>Whitefield</city>
+    <state>ME</state>
+    <zip>04353-3729</zip>
+    <latitude>44.144217</latitude>
+    <longitude>-69.604018</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 549-5530</phone>
+</brewery>

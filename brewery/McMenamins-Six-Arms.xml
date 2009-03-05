@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Six-Arms">
+  <name>McMenamins Six Arms‎</name>
+  <address>
+    <street>300 E Pike St # 1001</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98122-3610</zip>
+    <latitude>47.614004</latitude>
+    <longitude>-122.327762</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 223-1698</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Spanish-Peaks-Brewing-Micro">
+  <name>Spanish Peaks Brewing - Micro‎</name>
+  <address>
+    <street>222 E San Antonio Dr</street>
+    <city>King City</city>
+    <state>CA</state>
+    <zip>93930-2508</zip>
+    <latitude>36.222767</latitude>
+    <longitude>-121.124227</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 385-5565</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Glacier-Brewing-Co">
+  <name>Glacier Brewing Co‎</name>
+  <address>
+    <street>6 10th Ave E</street>
+    <city>Polson</city>
+    <state>MT</state>
+    <zip>59860-3219</zip>
+    <latitude>47.686164</latitude>
+    <longitude>-114.163189</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 883-2595</phone>
+</brewery>

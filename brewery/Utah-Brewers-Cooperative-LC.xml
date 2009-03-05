@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Utah-Brewers-Cooperative-LC">
+  <name>Utah Brewers Cooperative, LC‎</name>
+  <address>
+    <street>1763 S 300 W</street>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84115-1802</zip>
+    <latitude>40.732262</latitude>
+    <longitude>-111.899534</longitude>
+    <country>US</country>
+  </address>
+  <phone>(435) 645-9500</phone>
+</brewery>

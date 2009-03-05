@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Basil-Ts-Brew-Pub-and-Italian-Grill">
+  <name>Basil T's Brew Pub &amp; Italian Grill‎</name>
+  <address>
+    <street>1171 Hooper Ave</street>
+    <city>Toms River</city>
+    <state>NJ</state>
+    <zip>08753-8305</zip>
+    <latitude>39.977115</latitude>
+    <longitude>-74.182838</longitude>
+    <country>US</country>
+  </address>
+  <phone>(732) 244-7566</phone>
+</brewery>

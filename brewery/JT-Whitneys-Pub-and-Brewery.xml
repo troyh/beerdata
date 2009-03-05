@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="JT-Whitneys-Pub-and-Brewery">
+  <name>JT Whitney's Pub &amp; Brewery‎</name>
+  <address>
+    <street>674 S Whitney Way</street>
+    <city>Madison</city>
+    <state>WI</state>
+    <zip>53711-1035</zip>
+    <latitude>43.051153</latitude>
+    <longitude>-89.473704</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 274-1776</phone>
+</brewery>

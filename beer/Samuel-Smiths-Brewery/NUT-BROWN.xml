@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Samuel-Smiths-Brewery/NUT-BROWN" brewery_id="Samuel-Smiths-Brewery">
+  <name>NUT BROWN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-85725-31503-5">
+      <description>6/4/12Z BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>991010</item>
+        <reg_price>46.16</reg_price>
+        <post_off>44.06</post_off>
+        <net_case_price/>
+        <unit_price>7.69</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

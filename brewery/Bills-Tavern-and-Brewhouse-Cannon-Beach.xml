@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bills-Tavern-and-Brewhouse-Cannon-Beach">
+  <name>Bill's Tavern &amp; Brewhouse‎</name>
+  <address>
+    <street>188 N Hemlock St</street>
+    <city>Cannon Beach</city>
+    <state>OR</state>
+    <zip>97110</zip>
+    <latitude>45.897955</latitude>
+    <longitude>-123.961080</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 436-2202</phone>
+</brewery>

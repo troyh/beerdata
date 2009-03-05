@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flathead-Lake-Brewing-Co-Bigfork">
+  <name>Flathead Lake Brewing Co‎</name>
+  <address>
+    <street>26014 E Shore Rte</street>
+    <city>Bigfork</city>
+    <state>MT</state>
+    <zip>59911</zip>
+    <latitude>47.998254</latitude>
+    <longitude>-114.045793</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 837-0353</phone>
+</brewery>

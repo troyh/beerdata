@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Phoenix-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>14205 S 50th St</street>
+    <city>Phoenix</city>
+    <state>AZ</state>
+    <zip>85044-6425</zip>
+    <latitude>33.319071</latitude>
+    <longitude>-111.975974</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 598-1300</phone>
+</brewery>

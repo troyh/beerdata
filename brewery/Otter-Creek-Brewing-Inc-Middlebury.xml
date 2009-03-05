@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Otter-Creek-Brewing-Inc-Middlebury">
+  <name>Otter Creek Brewing Inc‎</name>
+  <address>
+    <street>793 Exchange St</street>
+    <city>Middlebury</city>
+    <state>VT</state>
+    <zip>05753-1193</zip>
+    <latitude>44.032317</latitude>
+    <longitude>-73.170821</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 388-0727</phone>
+</brewery>

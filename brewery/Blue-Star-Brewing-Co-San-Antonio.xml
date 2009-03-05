@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blue-Star-Brewing-Co-San-Antonio">
+  <name>Blue Star Brewing Co‎</name>
+  <address>
+    <street>1414 S Alamo St</street>
+    <city>San Antonio</city>
+    <state>TX</state>
+    <zip>78210-1118</zip>
+    <latitude>29.409981</latitude>
+    <longitude>-98.495573</longitude>
+    <country>US</country>
+  </address>
+  <phone>(210) 212-5506</phone>
+</brewery>

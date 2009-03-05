@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Coopers-Brewery/SPARKLING-ALE" brewery_id="Coopers-Brewery">
+  <name>SPARKLING ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-88119-18128-5">
+      <description>4/6/12.7 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>40021</item>
+        <reg_price>33.56</reg_price>
+        <post_off>27.96</post_off>
+        <net_case_price/>
+        <unit_price>8.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

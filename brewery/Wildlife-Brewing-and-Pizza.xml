@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wildlife-Brewing-and-Pizza">
+  <name>Wildlife Brewing &amp; Pizza‎</name>
+  <address>
+    <street>145 S Main St</street>
+    <city>Victor</city>
+    <state>ID</state>
+    <zip>83455-5547</zip>
+    <latitude>43.600480</latitude>
+    <longitude>-111.111339</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 787-2623</phone>
+</brewery>

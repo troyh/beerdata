@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Johnstown-Brewing-Co-Johnstown">
+  <name>Johnstown Brewing Co‎</name>
+  <address>
+    <street>942 Pinegrove Ln</street>
+    <city>Johnstown</city>
+    <state>PA</state>
+    <zip>15905-2510</zip>
+    <latitude>40.314500</latitude>
+    <longitude>-78.935740</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 536-3525</phone>
+</brewery>

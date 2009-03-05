@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Moab-Brewery">
+  <name>Moab Brewery‎</name>
+  <address>
+    <street>686 S Main St</street>
+    <city>Moab</city>
+    <state>UT</state>
+    <zip>84532-2901</zip>
+    <latitude>38.563028</latitude>
+    <longitude>-109.549268</longitude>
+    <country>US</country>
+  </address>
+  <phone>(435) 259-6333</phone>
+</brewery>

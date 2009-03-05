@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Max-Lagers-American-Grill-and-Brewery">
+  <name>Max Lager's American Grill &amp; Brewery‎</name>
+  <address>
+    <street>320 Peachtree St NE</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30308-3210</zip>
+    <latitude>33.763716</latitude>
+    <longitude>-84.386527</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 525-4400</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brew-Moon-Waikiki-Honolulu">
+  <name>Brew Moon Waikiki‎</name>
+  <address>
+    <street>1958 Kalakaua Ave # 2</street>
+    <city>Honolulu</city>
+    <state>HI</state>
+    <zip>96815-1831</zip>
+    <latitude>21.285784</latitude>
+    <longitude>-157.832867</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 955-9045</phone>
+</brewery>

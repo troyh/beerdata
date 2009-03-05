@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shmaltz-Brewing-Company">
+  <name>Shmaltz Brewing Company‎</name>
+  <address>
+    <street>912 Cole St</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94117-4316</zip>
+    <latitude>37.765614</latitude>
+    <longitude>-122.449762</longitude>
+    <country>US</country>
+  </address>
+  <phone>(818) 825-8765</phone>
+</brewery>

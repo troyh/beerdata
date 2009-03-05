@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Pubs-Crystal-Ballroom">
+  <name>McMenamins Pubs: Crystal Ballroom‎</name>
+  <address>
+    <street>1332 W Burnside St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97209-2612</zip>
+    <latitude>45.522802</latitude>
+    <longitude>-122.684510</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 225-0047</phone>
+</brewery>

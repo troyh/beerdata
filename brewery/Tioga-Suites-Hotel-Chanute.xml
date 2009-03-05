@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tioga-Suites-Hotel-Chanute">
+  <name>Tioga Suites Hotel‎</name>
+  <address>
+    <street>12 East Main Street</street>
+    <city>Chanute</city>
+    <state>KS</state>
+    <zip>66720-1823</zip>
+    <latitude>37.681871</latitude>
+    <longitude>-95.452400</longitude>
+    <country>US</country>
+  </address>
+  <phone>(620) 431-3343</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="City-Grille-and-Brewhaus">
+  <name>City Grille &amp; Brewhaus‎</name>
+  <address>
+    <street>3914 Lindell Blvd</street>
+    <city>Saint Louis</city>
+    <state>MO</state>
+    <zip>63108-3204</zip>
+    <latitude>38.638942</latitude>
+    <longitude>-90.241629</longitude>
+    <country>US</country>
+  </address>
+  <phone>(314) 289-9393</phone>
+</brewery>

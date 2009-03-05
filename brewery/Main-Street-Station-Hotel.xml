@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Main-Street-Station-Hotel">
+  <name>Main Street Station Hotel‎</name>
+  <address>
+    <street>200 N Main St</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89101-2910</zip>
+    <latitude>36.174094</latitude>
+    <longitude>-115.144850</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 387-1896</phone>
+</brewery>

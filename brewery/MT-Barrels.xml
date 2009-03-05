@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="MT-Barrels">
+  <name>MT Barrels‎</name>
+  <address>
+    <street>98 W Main St</street>
+    <city>West Dundee</city>
+    <state>IL</state>
+    <zip>60118-2015</zip>
+    <latitude>42.098176</latitude>
+    <longitude>-88.277143</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 426-6055</phone>
+</brewery>

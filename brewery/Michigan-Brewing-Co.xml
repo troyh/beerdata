@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Michigan-Brewing-Co">
+  <name>Michigan Brewing Co‎</name>
+  <address>
+    <street>1093 Highview Dr</street>
+    <city>Webberville</city>
+    <state>MI</state>
+    <zip>48892-9270</zip>
+    <latitude>42.661284</latitude>
+    <longitude>-84.193553</longitude>
+    <country>US</country>
+  </address>
+  <phone>(517) 521-3600</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Mill-Creek">
+  <name>McMenamins-Mill Creek‎</name>
+  <address>
+    <street>13300 Bothell Everett Hwy #304</street>
+    <city>Mill Creek</city>
+    <state>WA</state>
+    <zip>98012-5509</zip>
+    <latitude>47.876497</latitude>
+    <longitude>-122.212519</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 316-0520</phone>
+</brewery>

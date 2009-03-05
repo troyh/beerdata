@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Augusta-Brewing-Company">
+  <name>Augusta Brewing Company‎</name>
+  <address>
+    <street>5521 Water St</street>
+    <city>Augusta</city>
+    <state>MO</state>
+    <zip>63332-1069</zip>
+    <latitude>38.570191</latitude>
+    <longitude>-90.880885</longitude>
+    <country>US</country>
+  </address>
+  <phone>(636) 482-2337</phone>
+</brewery>

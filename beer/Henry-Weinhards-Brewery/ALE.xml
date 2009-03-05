@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Henry-Weinhards-Brewery/ALE" brewery_id="Henry-Weinhards-Brewery">
+  <name>ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-34100-86456-9">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>16018</item>
+        <reg_price>$13.72</reg_price>
+        <post_off>-$0.97</post_off>
+        <net_case_price>$12.75</net_case_price>
+        <unit_price>$0.90</unit_price>
+        <deposit>$15.89</deposit>
+      </distributor>
+    </size>
+    <size upc="0-34100-82805-9">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>16211</item>
+        <reg_price>$18.59</reg_price>
+        <post_off>-$0.61</post_off>
+        <net_case_price>$17.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$5.59</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

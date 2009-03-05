@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Foothills-Brewing">
+  <name>Foothills Brewing‎</name>
+  <address>
+    <street>638 W 4th St</street>
+    <city>Winston Salem</city>
+    <state>NC</state>
+    <zip>27101-2730</zip>
+    <latitude>36.097570</latitude>
+    <longitude>-80.250942</longitude>
+    <country>US</country>
+  </address>
+  <phone>(336) 777-3348</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Tsingtao-Brewery/2-DFT" brewery_id="Tsingtao-Brewery">
+  <name>2 DFT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-33544-94462-2">
+      <description>BOTTLE 4-6/11</description>
+      <distributor>
+        <name>columbia</name>
+        <item>52092</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$1.50</post_off>
+        <net_case_price>$23.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$7.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

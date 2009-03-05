@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="English-Ales-Marina">
+  <name>English Ales‎</name>
+  <address>
+    <street>223 Reindollar Ave # A</street>
+    <city>Marina</city>
+    <state>CA</state>
+    <zip>93933-3804</zip>
+    <latitude>36.680123</latitude>
+    <longitude>-121.803893</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 883-3000</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Library-Restaurant-and-Brewing-Company-The">
+  <name>Library Restaurant &amp; Brewing Company The‎</name>
+  <address>
+    <street>1622 E Grand Ave</street>
+    <city>Laramie</city>
+    <state>WY</state>
+    <zip>82070-4246</zip>
+    <latitude>41.309822</latitude>
+    <longitude>-105.575887</longitude>
+    <country>US</country>
+  </address>
+  <phone>(307) 742-0500</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewbakers-Visalia-2">
+  <name>Brewbakers‎</name>
+  <address>
+    <street>219 E Main St</street>
+    <city>Visalia</city>
+    <state>CA</state>
+    <zip>93291-6355</zip>
+    <latitude>36.330028</latitude>
+    <longitude>-119.290915</longitude>
+    <country>US</country>
+  </address>
+  <phone>(559) 627-2739</phone>
+</brewery>

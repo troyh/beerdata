@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hog-Haus-Brewing-Co-Fayetteville">
+  <name>Hog Haus Brewing Co‎</name>
+  <address>
+    <street>430 W Dickson St</street>
+    <city>Fayetteville</city>
+    <state>AR</state>
+    <zip>72701-5107</zip>
+    <latitude>36.066575</latitude>
+    <longitude>-94.164626</longitude>
+    <country>US</country>
+  </address>
+  <phone>(479) 521-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="St-Paul-City-Hall">
+  <name>St Paul City Hall‎</name>
+  <address>
+    <street>15 Kellogg Blvd W</street>
+    <city>St Paul</city>
+    <state>MN</state>
+    <zip>55102-1606</zip>
+    <latitude>44.943836</latitude>
+    <longitude>-93.093649</longitude>
+    <country>US</country>
+  </address>
+  <phone>(651) 266-8500</phone>
+</brewery>

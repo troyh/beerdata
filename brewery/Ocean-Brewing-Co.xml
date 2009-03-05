@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ocean-Brewing-Co">
+  <name>Ocean Brewing Co‎</name>
+  <address>
+    <street>237 Ocean Ave</street>
+    <city>Laguna Beach</city>
+    <state>CA</state>
+    <zip>92651-2106</zip>
+    <latitude>33.543253</latitude>
+    <longitude>-117.783319</longitude>
+    <country>US</country>
+  </address>
+  <phone>(949) 497-3381</phone>
+</brewery>

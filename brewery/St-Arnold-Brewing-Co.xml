@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="St-Arnold-Brewing-Co">
+  <name>St Arnold Brewing Co‎</name>
+  <address>
+    <street>2522 Fairway Park Dr</street>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>77092-7607</zip>
+    <latitude>29.811903</latitude>
+    <longitude>-95.467471</longitude>
+    <country>US</country>
+  </address>
+  <phone>(713) 686-9494</phone>
+</brewery>

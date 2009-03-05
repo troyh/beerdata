@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Karl-Strauss-Brewing-Company">
+  <name>Karl Strauss Brewing Company‎</name>
+  <address>
+    <street>5985 Santa Fe Street</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92109-1623</zip>
+    <latitude>32.826356</latitude>
+    <longitude>-117.231773</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 273-2739</phone>
+</brewery>

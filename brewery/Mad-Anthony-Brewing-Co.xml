@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mad-Anthony-Brewing-Co">
+  <name>Mad Anthony Brewing Co‎</name>
+  <address>
+    <street>1109 Taylor St</street>
+    <city>Fort Wayne</city>
+    <state>IN</state>
+    <zip>46802-4306</zip>
+    <latitude>41.067644</latitude>
+    <longitude>-85.152614</longitude>
+    <country>US</country>
+  </address>
+  <phone>(260) 426-2537</phone>
+</brewery>

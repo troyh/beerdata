@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Eve-At-the-Bob">
+  <name>Eve At the Bob‎</name>
+  <address>
+    <street>20 Monroe Ave NW</street>
+    <city>Grand Rapids</city>
+    <state>MI</state>
+    <zip>49503-2649</zip>
+    <latitude>42.963503</latitude>
+    <longitude>-85.673064</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 356-2000</phone>
+</brewery>

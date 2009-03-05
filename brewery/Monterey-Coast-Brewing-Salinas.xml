@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Monterey-Coast-Brewing-Salinas">
+  <name>Monterey Coast Brewing‎</name>
+  <address>
+    <street>165 Main St</street>
+    <city>Salinas</city>
+    <state>CA</state>
+    <zip>93901-3403</zip>
+    <latitude>36.676012</latitude>
+    <longitude>-121.655189</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 758-2337</phone>
+</brewery>

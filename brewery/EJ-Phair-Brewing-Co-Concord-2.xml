@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="EJ-Phair-Brewing-Co-Concord-2">
+  <name>EJ Phair Brewing Co‎</name>
+  <address>
+    <street>975 Detroit Ave # E</street>
+    <city>Concord</city>
+    <state>CA</state>
+    <zip>94518-2501</zip>
+    <latitude>37.951713</latitude>
+    <longitude>-122.027824</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 680-4253</phone>
+</brewery>

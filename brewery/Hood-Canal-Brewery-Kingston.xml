@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hood-Canal-Brewery-Kingston">
+  <name>Hood Canal Brewery‎</name>
+  <address>
+    <street>26499 Bond Rd NE</street>
+    <city>Kingston</city>
+    <state>WA</state>
+    <zip>98346-8477</zip>
+    <latitude>47.803489</latitude>
+    <longitude>-122.571793</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 297-8316</phone>
+</brewery>

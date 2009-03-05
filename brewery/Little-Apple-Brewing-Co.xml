@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Little-Apple-Brewing-Co">
+  <name>Little Apple Brewing Co‎</name>
+  <address>
+    <street>1110 Westloop Pl</street>
+    <city>Manhattan</city>
+    <state>KS</state>
+    <zip>66502-2838</zip>
+    <latitude>39.191257</latitude>
+    <longitude>-96.609498</longitude>
+    <country>US</country>
+  </address>
+  <phone>(785) 539-5500</phone>
+</brewery>

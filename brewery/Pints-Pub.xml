@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pints-Pub">
+  <name>Pints Pub‎</name>
+  <address>
+    <street>221 W 13th Ave</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80204-2711</zip>
+    <latitude>39.736972</latitude>
+    <longitude>-104.990614</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 534-7543</phone>
+</brewery>

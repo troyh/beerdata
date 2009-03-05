@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Buck-Brewery-and-Steakhouse-Gaylord">
+  <name>Big Buck Brewery &amp; Steakhouse‎</name>
+  <address>
+    <street>550 S Wisconsin Ave</street>
+    <city>Gaylord</city>
+    <state>MI</state>
+    <zip>49735-1742</zip>
+    <latitude>45.021983</latitude>
+    <longitude>-84.682783</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 732-5781</phone>
+</brewery>

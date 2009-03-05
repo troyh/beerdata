@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kroghs-Restaurant-and-Brew-Pub">
+  <name>Krogh's Restaurant &amp; Brew Pub‎</name>
+  <address>
+    <street>23 White Deer Plz</street>
+    <city>Sparta</city>
+    <state>NJ</state>
+    <zip>07871-1823</zip>
+    <latitude>41.032610</latitude>
+    <longitude>-74.639588</longitude>
+    <country>US</country>
+  </address>
+  <phone>(973) 729-8428</phone>
+</brewery>

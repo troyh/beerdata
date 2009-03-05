@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Palo-Santo" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+  <name>Palo Santo</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10656</item>
+        <reg_price>$71.34</reg_price>
+        <post_off>$67.14</post_off>
+        <net_case_price/>
+        <unit_price>$11.89</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

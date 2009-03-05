@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Carlyle-Brewing-Co">
+  <name>Carlyle Brewing Co‎</name>
+  <address>
+    <street>215 E State St</street>
+    <city>Rockford</city>
+    <state>IL</state>
+    <zip>61104-1010</zip>
+    <latitude>42.269093</latitude>
+    <longitude>-89.090652</longitude>
+    <country>US</country>
+  </address>
+  <phone>(815) 963-2739</phone>
+</brewery>

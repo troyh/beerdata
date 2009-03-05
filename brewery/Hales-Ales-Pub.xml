@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hales-Ales-Pub">
+  <name>Hale's Ales Pub‎</name>
+  <address>
+    <street>4301 Leary Way NW</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98107-4538</zip>
+    <latitude>47.659341</latitude>
+    <longitude>-122.365240</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 782-0737</phone>
+</brewery>

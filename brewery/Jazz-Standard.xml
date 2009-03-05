@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jazz-Standard">
+  <name>Jazz Standard‎</name>
+  <address>
+    <street>116 E 27th St</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>11210</zip>
+    <latitude>40.632982</latitude>
+    <longitude>-73.951130</longitude>
+    <country>US</country>
+  </address>
+  <phone>(212) 576-2232</phone>
+</brewery>

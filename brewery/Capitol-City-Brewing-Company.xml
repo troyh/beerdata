@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Capitol-City-Brewing-Company">
+  <name>Capitol City Brewing Company‎</name>
+  <address>
+    <street>301 S Light St</street>
+    <city>Baltimore</city>
+    <state>MD</state>
+    <zip>21202-1011</zip>
+    <latitude>39.285903</latitude>
+    <longitude>-76.612364</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 539-7468</phone>
+</brewery>

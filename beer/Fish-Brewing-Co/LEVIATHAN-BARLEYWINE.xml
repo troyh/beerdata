@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Fish-Brewing-Co/LEVIATHAN-BARLEYWINE" brewery_id="Fish-Brewing-Co">
+  <name>LEVIATHAN BARLEYWINE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-19917-00172-9">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>992057</item>
+        <reg_price>72.00</reg_price>
+        <post_off>72.00</post_off>
+        <net_case_price/>
+        <unit_price>6.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

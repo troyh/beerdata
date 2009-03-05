@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="John-S-Rhodell-Brewery-Inc">
+  <name>John S Rhodell Brewery Inc‎</name>
+  <address>
+    <street>619 SW Water St</street>
+    <city>Peoria</city>
+    <state>IL</state>
+    <zip>61602-1531</zip>
+    <latitude>40.685930</latitude>
+    <longitude>-89.594272</longitude>
+    <country>US</country>
+  </address>
+  <phone>(309) 674-7267</phone>
+</brewery>

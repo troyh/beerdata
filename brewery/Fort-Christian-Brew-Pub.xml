@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fort-Christian-Brew-Pub">
+  <name>Fort Christian Brew Pub‎</name>
+  <address>
+    <street>Christiansted</street>
+    <city>St. Croix</city>
+    <state>Virgin Islands</state>
+    <zip>US</zip>
+    <latitude>17.748600</latitude>
+    <longitude>-64.703598</longitude>
+    <country/>
+  </address>
+  <phone>(340) 713-9820</phone>
+</brewery>

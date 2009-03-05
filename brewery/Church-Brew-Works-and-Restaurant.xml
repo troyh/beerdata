@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Church-Brew-Works-and-Restaurant">
+  <name>Church Brew Works &amp; Restaurant‎</name>
+  <address>
+    <street>3525 Liberty Ave</street>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+    <zip>15201-1324</zip>
+    <latitude>40.461945</latitude>
+    <longitude>-79.964544</longitude>
+    <country>US</country>
+  </address>
+  <phone>(412) 688-8200</phone>
+</brewery>

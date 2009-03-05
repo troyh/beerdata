@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elm-City-Restaurant-and-Brewery-Keene">
+  <name>Elm City Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>222 West St # 46</street>
+    <city>Keene</city>
+    <state>NH</state>
+    <zip>03431-2439</zip>
+    <latitude>42.932233</latitude>
+    <longitude>-72.286728</longitude>
+    <country>US</country>
+  </address>
+  <phone>(603) 355-3335</phone>
+</brewery>

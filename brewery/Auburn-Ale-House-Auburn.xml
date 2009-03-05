@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Auburn-Ale-House-Auburn">
+  <name>Auburn Ale House‎</name>
+  <address>
+    <street>289 Washington St</street>
+    <city>Auburn</city>
+    <state>CA</state>
+    <zip>95603-5036</zip>
+    <latitude>38.896087</latitude>
+    <longitude>-121.078982</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 885-2537</phone>
+</brewery>

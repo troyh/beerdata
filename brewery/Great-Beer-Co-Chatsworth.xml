@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Beer-Co-Chatsworth">
+  <name>Great Beer Co‎</name>
+  <address>
+    <street>21119 Superior St</street>
+    <city>Chatsworth</city>
+    <state>CA</state>
+    <zip>91311-4309</zip>
+    <latitude>34.246447</latitude>
+    <longitude>-118.593301</longitude>
+    <country>US</country>
+  </address>
+  <phone>(818) 718-2739</phone>
+</brewery>

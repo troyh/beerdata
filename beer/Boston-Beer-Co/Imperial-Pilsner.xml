@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Imperial-Pilsner" brewery_id="Boston-Beer-Co" calories_per_ml="0.845350555040267" abv="8.80" og="21Plato">
+  <name>Imperial Pilsner</name>
+  <description>Yes, we're a little obsessed with hops.  Every autumn for over twenty years, Jim Koch has traveled to one of the oldest hop-growing regions in the world, the Hallertau region of Bavaria in Germany, to hand-select Noble Bavarian hops, including the Hallertau Mittelfrueh variety.  This special variety is considered to be one of the best in the world, prized for its unique taste and aroma.  Samuel AdamsÂ® Hallertau Imperial Pilsner is a celebration of these extraordinary hops. 
+This beer is one of the hoppiest in the world, without being overly bitter.  With the first sip, you will experience an explosion of some of the world's finest hops.  And we mean âexplosionâ in a good way.  Brewed as a showcase for the hops, this bold brew highlights the spicy, citrus flavors and aromas of the Hallertau Mittelfrueh hops that are abundant in the recipe.  The intense hops flavor is balanced with the slight sweetness from the malt. The brew remains pleasantly well-balanced from beginning to end, due to the quality of the hops, and continues to always be, well, "hoppy," providing hop lovers with an amazing beer drinking experience. </description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains>two-row harrington and Metcalfe</grains>
+  <hops>Hallertau Mittlefrueh</hops>
+  <yeast>bottom-fermented lager yeast</yeast>
+  <otherings/>
+  <sizes>
+    <size upc="0-87692-99101-4">
+      <description>BOTTLE 6/4</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32468</item>
+        <reg_price>$45.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$45.00</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$9.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

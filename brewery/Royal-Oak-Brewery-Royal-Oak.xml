@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Royal-Oak-Brewery-Royal-Oak">
+  <name>Royal Oak Brewery‎</name>
+  <address>
+    <street>215 E 4th St</street>
+    <city>Royal Oak</city>
+    <state>MI</state>
+    <zip>48067-2606</zip>
+    <latitude>42.487451</latitude>
+    <longitude>-83.142735</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 544-1141</phone>
+</brewery>

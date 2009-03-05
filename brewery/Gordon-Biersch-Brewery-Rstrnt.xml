@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Rstrnt">
+  <name>Gordon Biersch Brewery Rstrnt‎</name>
+  <address>
+    <street>200 E Middle Ln</street>
+    <city>Rockville</city>
+    <state>MD</state>
+    <zip>20850-2203</zip>
+    <latitude>39.084943</latitude>
+    <longitude>-77.150734</longitude>
+    <country>US</country>
+  </address>
+  <phone>(301) 340-7159</phone>
+</brewery>

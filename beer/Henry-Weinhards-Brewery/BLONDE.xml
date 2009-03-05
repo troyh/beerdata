@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Henry-Weinhards-Brewery/BLONDE" brewery_id="Henry-Weinhards-Brewery">
+  <name>BLONDE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-34100-94805-4">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>16404</item>
+        <reg_price>$18.59</reg_price>
+        <post_off>-$0.61</post_off>
+        <net_case_price>$17.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$5.59</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tahquamenon-Falls-Brewery-and-Pub">
+  <name>Tahquamenon Falls Brewery &amp; Pub‎</name>
+  <address>
+    <street>Upper Falls Dr</street>
+    <city>Newberry</city>
+    <state>MI</state>
+    <zip>49868</zip>
+    <latitude>46.580979</latitude>
+    <longitude>-85.253103</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 492-3300</phone>
+</brewery>

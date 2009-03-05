@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Clay-Pipe-Brewing-Co">
+  <name>Clay Pipe Brewing Co‎</name>
+  <address>
+    <street>95 Carroll St # 203</street>
+    <city>Westminster</city>
+    <state>MD</state>
+    <zip>21157-4847</zip>
+    <latitude>39.580903</latitude>
+    <longitude>-76.992543</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 871-9333</phone>
+</brewery>

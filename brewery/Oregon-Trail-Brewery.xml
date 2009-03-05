@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oregon-Trail-Brewery">
+  <name>Oregon Trail Brewery‎</name>
+  <address>
+    <street>341 SW 2nd St</street>
+    <city>Corvallis</city>
+    <state>OR</state>
+    <zip>97333-4631</zip>
+    <latitude>44.561638</latitude>
+    <longitude>-123.260900</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 758-3527</phone>
+</brewery>

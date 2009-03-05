@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="El-Toro-Brewing-Co">
+  <name>El Toro Brewing Co‎</name>
+  <address>
+    <street>17370 Hill Rd</street>
+    <city>Morgan Hill</city>
+    <state>CA</state>
+    <zip>95037-9704</zip>
+    <latitude>37.145138</latitude>
+    <longitude>-121.621752</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 778-2739</phone>
+</brewery>

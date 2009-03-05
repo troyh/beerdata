@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Hales-Ales-Pub/Troll-Porter" brewery_id="Hales-Ales-Pub">
+  <name>Troll Porter</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="798644070700">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11284</item>
+        <reg_price>$37.68</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price>3.14</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

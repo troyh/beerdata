@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Standing-Stone-Brewing-Co">
+  <name>Standing Stone Brewing Co‎</name>
+  <address>
+    <street>101 Oak St</street>
+    <city>Ashland</city>
+    <state>OR</state>
+    <zip>97520-1802</zip>
+    <latitude>42.197637</latitude>
+    <longitude>-122.714302</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 482-2448</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-and-Brewery-Ocala-2">
+  <name>Hops Restaurant Bar &amp; Brewery‎</name>
+  <address>
+    <street>2505 SW College Rd</street>
+    <city>Ocala</city>
+    <state>FL</state>
+    <zip>34471-1611</zip>
+    <latitude>29.168349</latitude>
+    <longitude>-82.166270</longitude>
+    <country>US</country>
+  </address>
+  <phone>(352) 237-8182</phone>
+</brewery>

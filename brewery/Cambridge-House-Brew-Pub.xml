@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cambridge-House-Brew-Pub">
+  <name>Cambridge House Brew Pub‎</name>
+  <address>
+    <street>84 Main St</street>
+    <city>Torrington</city>
+    <state>CT</state>
+    <zip>06790-5428</zip>
+    <latitude>41.802226</latitude>
+    <longitude>-73.121264</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 201-5666</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="OGaras-Bar-and-Grill">
+  <name>O'Gara's Bar and Grill‎</name>
+  <address>
+    <street>164 Snelling Ave N</street>
+    <city>St Paul</city>
+    <state>MN</state>
+    <zip>55104-6748</zip>
+    <latitude>44.946296</latitude>
+    <longitude>-93.166894</longitude>
+    <country>US</country>
+  </address>
+  <phone>(651) 644-3333</phone>
+</brewery>

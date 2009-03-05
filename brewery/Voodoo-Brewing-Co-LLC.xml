@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Voodoo-Brewing-Co-LLC">
+  <name>Voodoo Brewing Co LLC‎</name>
+  <address>
+    <street>215 1/2 Arch St</street>
+    <city>Meadville</city>
+    <state>PA</state>
+    <zip>16335-3432</zip>
+    <latitude>41.637219</latitude>
+    <longitude>-80.154752</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 337-5216</phone>
+</brewery>

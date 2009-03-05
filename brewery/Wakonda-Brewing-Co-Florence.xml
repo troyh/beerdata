@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wakonda-Brewing-Co-Florence">
+  <name>Wakonda Brewing Co‎</name>
+  <address>
+    <street>1725 Kingwood St</street>
+    <city>Florence</city>
+    <state>OR</state>
+    <zip>97439-9485</zip>
+    <latitude>43.982233</latitude>
+    <longitude>-124.109167</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 991-0694</phone>
+</brewery>

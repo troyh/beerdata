@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Carolina-Beer-and-Beverage">
+  <name>Carolina Beer &amp; Beverage‎</name>
+  <address>
+    <street>110 Barley Park Ln</street>
+    <city>Mooresville</city>
+    <state>NC</state>
+    <zip>28115-7912</zip>
+    <latitude>35.622739</latitude>
+    <longitude>-80.802032</longitude>
+    <country>US</country>
+  </address>
+  <phone>(704) 799-2337</phone>
+</brewery>

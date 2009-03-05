@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Carters-Brewing">
+  <name>Carters Brewing‎</name>
+  <address>
+    <street>2526 Montana Ave</street>
+    <city>Billings</city>
+    <state>MT</state>
+    <zip>59101-2313</zip>
+    <latitude>45.782722</latitude>
+    <longitude>-108.501516</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 252-0663</phone>
+</brewery>

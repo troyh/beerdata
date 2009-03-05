@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Great-Divide-Brewing-Co/Old-Ruffian-Barley-Wine" brewery_id="Great-Divide-Brewing-Co">
+  <name>Old Ruffian Barley Wine</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="790586000173">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11052</item>
+        <reg_price>63</reg_price>
+        <post_off>$58.68</post_off>
+        <net_case_price/>
+        <unit_price>$5.25</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

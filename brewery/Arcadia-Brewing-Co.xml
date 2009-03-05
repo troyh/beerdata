@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Arcadia-Brewing-Co">
+  <name>Arcadia Brewing Co‎</name>
+  <address>
+    <street>103 Michigan Ave W</street>
+    <city>Battle Creek</city>
+    <state>MI</state>
+    <zip>49017-3605</zip>
+    <latitude>42.321876</latitude>
+    <longitude>-85.185200</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 963-9690</phone>
+</brewery>

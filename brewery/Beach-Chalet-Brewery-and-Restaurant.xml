@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Beach-Chalet-Brewery-and-Restaurant">
+  <name>Beach Chalet Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>1000 Great Hwy</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94121-3268</zip>
+    <latitude>37.770435</latitude>
+    <longitude>-122.510904</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 386-8439</phone>
+</brewery>

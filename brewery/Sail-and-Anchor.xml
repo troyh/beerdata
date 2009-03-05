@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sail-and-Anchor">
+  <name>Sail &amp; Anchor‎</name>
+  <address>
+    <street>64 South Tce</street>
+    <city>Fremantle</city>
+    <state>WA</state>
+    <zip>AU</zip>
+    <latitude>-32.052872</latitude>
+    <longitude>115.748238</longitude>
+    <country/>
+  </address>
+  <phone>(08) 9335 8433</phone>
+</brewery>

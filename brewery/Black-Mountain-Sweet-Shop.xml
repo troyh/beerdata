@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Black-Mountain-Sweet-Shop">
+  <name>Black Mountain Sweet Shop‎</name>
+  <address>
+    <street>6245 E Cave Creek Rd</street>
+    <city>Cave Creek</city>
+    <state>AZ</state>
+    <zip>85331-8655</zip>
+    <latitude>33.831946</latitude>
+    <longitude>-111.945247</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 488-3553</phone>
+</brewery>

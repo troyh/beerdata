@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cascade-Lakes-Brewing-Co">
+  <name>Cascade Lakes Brewing Co‎</name>
+  <address>
+    <street>2141 SW 1st St</street>
+    <city>Redmond</city>
+    <state>OR</state>
+    <zip>97756-7131</zip>
+    <latitude>44.255832</latitude>
+    <longitude>-121.168944</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 923-3110</phone>
+</brewery>

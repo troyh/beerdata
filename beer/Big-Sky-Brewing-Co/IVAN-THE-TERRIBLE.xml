@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Big-Sky-Brewing-Co/IVAN-THE-TERRIBLE" brewery_id="Big-Sky-Brewing-Co">
+  <name>IVAN THE TERRIBLE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-00283-11005-1">
+      <description>12/25.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>541040</item>
+        <reg_price>128.00</reg_price>
+        <post_off>128.00</post_off>
+        <net_case_price/>
+        <unit_price>10.67</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

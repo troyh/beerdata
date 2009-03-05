@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pennichuck-Brewing-Co-Inc">
+  <name>Pennichuck Brewing Co Inc‎</name>
+  <address>
+    <street>127 Elm St # C</street>
+    <city>Milford</city>
+    <state>NH</state>
+    <zip>03055-4713</zip>
+    <latitude>42.836728</latitude>
+    <longitude>-71.661791</longitude>
+    <country>US</country>
+  </address>
+  <phone>(603) 672-2750</phone>
+</brewery>

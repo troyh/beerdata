@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Trader-Joes-Co-Inc">
+  <name>Trader Joe's Co Inc‎</name>
+  <address>
+    <street>800 S Shamrock Ave</street>
+    <city>Monrovia</city>
+    <state>CA</state>
+    <zip>91016-6346</zip>
+    <latitude>34.143349</latitude>
+    <longitude>-117.990652</longitude>
+    <country>US</country>
+  </address>
+  <phone>(626) 441-1177</phone>
+</brewery>

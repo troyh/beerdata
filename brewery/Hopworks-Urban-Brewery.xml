@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hopworks-Urban-Brewery">
+  <name>Hopworks Urban Brewery‎</name>
+  <address>
+    <street>2944 SE Powell Blvd</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97202-2054</zip>
+    <latitude>45.497052</latitude>
+    <longitude>-122.635087</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 232-4677</phone>
+</brewery>

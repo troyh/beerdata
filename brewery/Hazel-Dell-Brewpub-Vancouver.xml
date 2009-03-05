@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hazel-Dell-Brewpub-Vancouver">
+  <name>Hazel Dell Brewpub‎</name>
+  <address>
+    <street>8513 NE Highway 99</street>
+    <city>Vancouver</city>
+    <state>WA</state>
+    <zip>98665-8822</zip>
+    <latitude>45.683606</latitude>
+    <longitude>-122.660918</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 576-0996</phone>
+</brewery>

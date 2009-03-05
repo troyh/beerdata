@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-Group-Inc">
+  <name>Gordon Biersch Brewery Restaurant Group Inc‎</name>
+  <address>
+    <street>1961 Chain Bridge Rd</street>
+    <city>Mc Lean</city>
+    <state>VA</state>
+    <zip>22102-4502</zip>
+    <latitude>38.919659</latitude>
+    <longitude>-77.225937</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 388-5454</phone>
+</brewery>

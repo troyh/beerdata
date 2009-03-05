@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stone-Brewing-Company">
+  <name>Stone Brewing Company‎</name>
+  <address>
+    <street>1999 W Citracado Pkwy</street>
+    <city>Escondido</city>
+    <state>CA</state>
+    <zip>92029-4158</zip>
+    <latitude>33.116298</latitude>
+    <longitude>-117.119536</longitude>
+    <country>US</country>
+  </address>
+  <phone>(760) 294-7899</phone>
+</brewery>

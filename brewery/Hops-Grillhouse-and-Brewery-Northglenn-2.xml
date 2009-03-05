@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-and-Brewery-Northglenn-2">
+  <name>Hops Grillhouse &amp; Brewery‎</name>
+  <address>
+    <street>311 W 104th Ave</street>
+    <city>Northglenn</city>
+    <state>CO</state>
+    <zip>80234-4105</zip>
+    <latitude>39.885465</latitude>
+    <longitude>-104.990885</longitude>
+    <country>US</country>
+  </address>
+  <phone>(720) 872-6502</phone>
+</brewery>

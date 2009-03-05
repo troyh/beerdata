@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sbc-Stamford-Stamford">
+  <name>Sbc Stamford‎</name>
+  <address>
+    <street>131 Summer St</street>
+    <city>Stamford</city>
+    <state>CT</state>
+    <zip>06901-2323</zip>
+    <latitude>41.054234</latitude>
+    <longitude>-73.540532</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 327-2337</phone>
+</brewery>

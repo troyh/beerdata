@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="John-Harvards-Brew-House-Pittsburgh-2">
+  <name>John Harvards Brew House‎</name>
+  <address>
+    <street>3466 William Penn Hwy</street>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+    <zip>15235-5413</zip>
+    <latitude>40.429766</latitude>
+    <longitude>-79.809651</longitude>
+    <country>US</country>
+  </address>
+  <phone>(412) 824-9440</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Deschutes-Brewery-Inc">
+  <name>Deschutes Brewery Inc‎</name>
+  <address>
+    <street>Lake Oswego</street>
+    <city>OR</city>
+    <state/>
+    <zip>US</zip>
+    <latitude>45.419720</latitude>
+    <longitude>-122.667339</longitude>
+    <country/>
+  </address>
+  <phone>(503) 635-9004</phone>
+</brewery>

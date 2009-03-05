@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Harpoon-Brewery-Windsor-2">
+  <name>Harpoon Brewery‎</name>
+  <address>
+    <street>336 Ruth Carney Dr</street>
+    <city>Windsor</city>
+    <state>VT</state>
+    <zip>05089-9419</zip>
+    <latitude>43.512088</latitude>
+    <longitude>-72.401825</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 674-5491</phone>
+</brewery>

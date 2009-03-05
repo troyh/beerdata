@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dempseys">
+  <name>Dempsey's‎</name>
+  <address>
+    <street>127 N Broadway</street>
+    <city>Watertown</city>
+    <state>SD</state>
+    <zip>57201-3525</zip>
+    <latitude>44.902352</latitude>
+    <longitude>-97.113962</longitude>
+    <country>US</country>
+  </address>
+  <phone>(605) 882-9760</phone>
+</brewery>

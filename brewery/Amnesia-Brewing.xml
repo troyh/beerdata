@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Amnesia-Brewing">
+  <name>Amnesia Brewing‎</name>
+  <address>
+    <street>832 N Beech St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97227-1215</zip>
+    <latitude>45.549433</latitude>
+    <longitude>-122.674866</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 281-7708</phone>
+</brewery>

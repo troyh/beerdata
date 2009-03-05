@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Peak-Organic-Brewing-Co-Cambridge">
+  <name>Peak Organic Brewing Co.‎</name>
+  <address>
+    <street>30 Cambridgepark Drive, Suite 1506</street>
+    <city>Cambridge</city>
+    <state>MA</state>
+    <zip>02140-2313</zip>
+    <latitude>42.394494</latitude>
+    <longitude>-71.142966</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 491-6942</phone>
+</brewery>

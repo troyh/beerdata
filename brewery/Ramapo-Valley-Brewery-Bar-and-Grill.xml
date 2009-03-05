@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ramapo-Valley-Brewery-Bar-and-Grill">
+  <name>Ramapo Valley Brewery Bar &amp; Grill‎</name>
+  <address>
+    <street>143 Route 59</street>
+    <city>Hillburn</city>
+    <state>NY</state>
+    <zip>US</zip>
+    <latitude>41.124540</latitude>
+    <longitude>-74.169384</longitude>
+    <country/>
+  </address>
+  <phone>(845) 369-7827</phone>
+</brewery>

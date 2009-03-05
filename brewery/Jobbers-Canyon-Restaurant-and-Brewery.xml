@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Jobbers-Canyon-Restaurant-and-Brewery">
+  <name>Jobber's Canyon Restaurant and Brewery‎</name>
+  <address>
+    <street>416 S 12th St</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68102-2810</zip>
+    <latitude>41.256268</latitude>
+    <longitude>-95.932020</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 991-8002</phone>
+</brewery>

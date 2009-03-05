@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Union-Station-Brewery">
+  <name>Union Station Brewery‎</name>
+  <address>
+    <street>36 Exchange Terrace</street>
+    <city>Providence</city>
+    <state>RI</state>
+    <zip>02903-1743</zip>
+    <latitude>41.825504</latitude>
+    <longitude>-71.413795</longitude>
+    <country>US</country>
+  </address>
+  <phone>(401) 274-2739</phone>
+</brewery>

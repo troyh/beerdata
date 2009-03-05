@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Orland-Park-2">
+  <name>Rock Bottom‎</name>
+  <address>
+    <street>16156 S La Grange Rd</street>
+    <city>Orland Park</city>
+    <state>IL</state>
+    <zip>60467-5614</zip>
+    <latitude>41.595877</latitude>
+    <longitude>-87.852848</longitude>
+    <country>US</country>
+  </address>
+  <phone>(708) 226-0021</phone>
+</brewery>

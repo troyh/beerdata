@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Pubs">
+  <name>McMenamins Pubs‎</name>
+  <address>
+    <street>2090 8th Ave</street>
+    <city>West Linn</city>
+    <state>OR</state>
+    <zip>97068-4612</zip>
+    <latitude>45.346035</latitude>
+    <longitude>-122.652206</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 656-2970</phone>
+</brewery>

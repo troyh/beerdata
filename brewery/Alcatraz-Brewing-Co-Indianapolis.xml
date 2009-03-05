@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alcatraz-Brewing-Co-Indianapolis">
+  <name>Alcatraz Brewing Co‎</name>
+  <address>
+    <street>49 W Maryland St # 104</street>
+    <city>Indianapolis</city>
+    <state>IN</state>
+    <zip>46204-3518</zip>
+    <latitude>39.765550</latitude>
+    <longitude>-86.159053</longitude>
+    <country>US</country>
+  </address>
+  <phone>(317) 488-1230</phone>
+</brewery>

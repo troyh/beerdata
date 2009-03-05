@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pizza-Port-Carlsbad-Brewery">
+  <name>Pizza Port-Carlsbad Brewery‎</name>
+  <address>
+    <street>571 Carlsbad Village Dr</street>
+    <city>Carlsbad</city>
+    <state>CA</state>
+    <zip>92008-2304</zip>
+    <latitude>33.159811</latitude>
+    <longitude>-117.347871</longitude>
+    <country>US</country>
+  </address>
+  <phone>(760) 720-7007</phone>
+</brewery>

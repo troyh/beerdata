@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Elysian-Brewing-Company/Immortal-IPA" brewery_id="Elysian-Brewing-Company">
+  <name>Immortal IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>15.5 gal</description>
+      <distributor>
+        <name>click</name>
+        <item>61465</item>
+        <reg_price>125.00</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

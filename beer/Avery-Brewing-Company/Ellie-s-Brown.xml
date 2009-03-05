@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Avery-Brewing-Company/Ellie-s-Brown" brewery_id="Avery-Brewing-Company">
+  <name>Ellie's Brown</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="796363002026">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10304</item>
+        <reg_price>30.76</reg_price>
+        <post_off>$27.96</post_off>
+        <net_case_price/>
+        <unit_price>$7.69</unit_price>
+        <deposit>       </deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

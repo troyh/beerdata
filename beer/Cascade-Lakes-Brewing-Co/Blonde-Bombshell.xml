@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Cascade-Lakes-Brewing-Co/Blonde-Bombshell" brewery_id="Cascade-Lakes-Brewing-Co" abv="4" og="1.040" fg="1.008" ibu="26">
+  <name>Blonde Bombshell</name>
+  <description>As the name implies, this is one knock-out of a beer.Â  Brewed to be a light bodied, refreshing ale, Blonde Bombshell combines subtle malt and wheat flavors with a delicate Liberty hop aroma to create a sensational beer.Â  Originally brewed as a seasonal, this beer was so popular it pushed its way into our regular line-up.</description>
+  <availability>year round</availability>
+  <ingredients>Grain: 2-Row, Wheatâ¨Hops: Liberty</ingredients>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="6B">Blonde Ale</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>KEG 1/7</description>
+      <distributor>
+        <name>columbia</name>
+        <item>31816</item>
+        <reg_price>$58.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$72.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

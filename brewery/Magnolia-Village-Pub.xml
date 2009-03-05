@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Magnolia-Village-Pub">
+  <name>Magnolia Village Pub‎</name>
+  <address>
+    <street>3221 W Mcgraw St</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98199-3207</zip>
+    <latitude>47.639370</latitude>
+    <longitude>-122.398715</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 285-9756</phone>
+</brewery>

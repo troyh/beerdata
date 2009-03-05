@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Restaurant-and-Brewery">
+  <name>Gordon Biersch Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>848 Peachtree St NE</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30308-1202</zip>
+    <latitude>33.777706</latitude>
+    <longitude>-84.384519</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 870-0805</phone>
+</brewery>

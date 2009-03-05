@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="SanTan-Brewing-Company-Chandler">
+  <name>SanTan Brewing Company‎</name>
+  <address>
+    <street>8 South San Marcos Plaza</street>
+    <city>Chandler</city>
+    <state>AZ</state>
+    <zip>85225-7872</zip>
+    <latitude>33.303210</latitude>
+    <longitude>-111.842222</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 917-8700</phone>
+</brewery>

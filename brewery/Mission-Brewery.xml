@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mission-Brewery">
+  <name>Mission Brewery‎</name>
+  <address>
+    <street>1765 Hancock St</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92110-2006</zip>
+    <latitude>32.742081</latitude>
+    <longitude>-117.183768</longitude>
+    <country>US</country>
+  </address>
+  <phone>(866) 796-7275</phone>
+</brewery>

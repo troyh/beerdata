@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Captain-Lawrence-Brewing-Co">
+  <name>Captain Lawrence Brewing Co‎</name>
+  <address>
+    <street>99 Castleton St</street>
+    <city>Pleasantville</city>
+    <state>NY</state>
+    <zip>10570-3403</zip>
+    <latitude>41.128024</latitude>
+    <longitude>-73.789691</longitude>
+    <country>US</country>
+  </address>
+  <phone>(914) 741-2337</phone>
+</brewery>

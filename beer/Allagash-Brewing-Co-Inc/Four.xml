@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Allagash-Brewing-Co-Inc/Four" brewery_id="Allagash-Brewing-Co-Inc">
+  <name>Four</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10000</item>
+        <reg_price>$58.74</reg_price>
+        <post_off>$46.14</post_off>
+        <net_case_price/>
+        <unit_price>$9.79</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

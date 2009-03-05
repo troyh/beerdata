@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Beer-Valley-Brewing-Co">
+  <name>Beer Valley Brewing Co‎</name>
+  <address>
+    <street>937 SE 12th Ave</street>
+    <city>Ontario</city>
+    <state>OR</state>
+    <zip>97914-4473</zip>
+    <latitude>44.015117</latitude>
+    <longitude>-116.952476</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 881-9088</phone>
+</brewery>

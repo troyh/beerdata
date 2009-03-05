@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Samuel-Smiths-Brewery/SELECTION-BOX" brewery_id="Samuel-Smiths-Brewery">
+  <name>SELECTION BOX</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-85725-21500-7">
+      <description>4/3/18.7 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>991060</item>
+        <reg_price>33.57</reg_price>
+        <post_off>33.57</post_off>
+        <net_case_price/>
+        <unit_price>8.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

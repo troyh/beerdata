@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Miller-Brewing-Company-Milwaukee-Brewery">
+  <name>Miller Brewing Company Milwaukee Brewery‎</name>
+  <address>
+    <street>4000 W State St</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53208-3132</zip>
+    <latitude>43.042190</latitude>
+    <longitude>-87.963228</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 931-2629</phone>
+</brewery>

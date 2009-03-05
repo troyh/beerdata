@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ruby-River-Steakhouse">
+  <name>Ruby River Steakhouse‎</name>
+  <address>
+    <street>4286 Riverdale Rd</street>
+    <city>Ogden</city>
+    <state>UT</state>
+    <zip>84405-3512</zip>
+    <latitude>41.185000</latitude>
+    <longitude>-111.986851</longitude>
+    <country>US</country>
+  </address>
+  <phone>(801) 622-2320</phone>
+</brewery>

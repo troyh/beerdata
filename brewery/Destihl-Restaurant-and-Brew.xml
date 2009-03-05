@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Destihl-Restaurant-and-Brew">
+  <name>Destihl Restaurant &amp; Brew‎</name>
+  <address>
+    <street>318 S Towanda Ave</street>
+    <city>Normal</city>
+    <state>IL</state>
+    <zip>61761-2212</zip>
+    <latitude>40.505875</latitude>
+    <longitude>-88.958266</longitude>
+    <country>US</country>
+  </address>
+  <phone>(309) 862-2337</phone>
+</brewery>

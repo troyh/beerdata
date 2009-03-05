@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Casco-Bay-Brewing-Co">
+  <name>Casco Bay Brewing Co‎</name>
+  <address>
+    <street>386 Fore St # 302</street>
+    <city>Portland</city>
+    <state>ME</state>
+    <zip>04101-4026</zip>
+    <latitude>43.656463</latitude>
+    <longitude>-70.252968</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 797-2020</phone>
+</brewery>

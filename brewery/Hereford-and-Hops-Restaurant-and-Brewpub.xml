@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hereford-and-Hops-Restaurant-and-Brewpub">
+  <name>Hereford &amp; Hops Restaurant &amp; Brewpub‎</name>
+  <address>
+    <street>2305 Sherman St</street>
+    <city>Wausau</city>
+    <state>WI</state>
+    <zip>54401-1708</zip>
+    <latitude>44.951745</latitude>
+    <longitude>-89.664122</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 849-3700</phone>
+</brewery>

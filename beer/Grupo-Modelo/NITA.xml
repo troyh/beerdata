@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Grupo-Modelo/NITA" brewery_id="Grupo-Modelo">
+  <name>NITA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-80660-95401-1">
+      <description>BOTTLE 4-6/7</description>
+      <distributor>
+        <name>columbia</name>
+        <item>52010</item>
+        <reg_price>$18.27</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$18.27</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$5.69</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

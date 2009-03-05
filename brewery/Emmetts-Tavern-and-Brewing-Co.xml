@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Emmetts-Tavern-and-Brewing-Co">
+  <name>Emmett's Tavern &amp; Brewing Co‎</name>
+  <address>
+    <street>128 W Main St</street>
+    <city>West Dundee</city>
+    <state>IL</state>
+    <zip>60118-2017</zip>
+    <latitude>42.098281</latitude>
+    <longitude>-88.277687</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 428-4500</phone>
+</brewery>

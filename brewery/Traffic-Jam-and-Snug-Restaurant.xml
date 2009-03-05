@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Traffic-Jam-and-Snug-Restaurant">
+  <name>Traffic Jam &amp; Snug Restaurant‎</name>
+  <address>
+    <street>511 W Canfield St</street>
+    <city>Detroit</city>
+    <state>MI</state>
+    <zip>48201-1219</zip>
+    <latitude>42.351291</latitude>
+    <longitude>-83.065391</longitude>
+    <country>US</country>
+  </address>
+  <phone>(313) 831-9470</phone>
+</brewery>

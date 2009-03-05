@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Privatbrauerei-Franz-Joseph-Sailer/DOPPLEBOCK" brewery_id="Privatbrauerei-Franz-Joseph-Sailer">
+  <name>DOPPLEBOCK</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-42572-06401-1">
+      <description>4/2L</description>
+      <distributor>
+        <name>odom</name>
+        <item>692009</item>
+        <reg_price>51.40</reg_price>
+        <post_off>51.40</post_off>
+        <net_case_price/>
+        <unit_price>12.85</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

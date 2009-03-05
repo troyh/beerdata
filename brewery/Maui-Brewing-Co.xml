@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Maui-Brewing-Co">
+  <name>Maui Brewing Co‎</name>
+  <address>
+    <street>4405 Honoapiilani Hwy # 217</street>
+    <city>Lahaina</city>
+    <state>HI</state>
+    <zip>96761-9255</zip>
+    <latitude>20.972121</latitude>
+    <longitude>-156.677134</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 669-3474</phone>
+</brewery>

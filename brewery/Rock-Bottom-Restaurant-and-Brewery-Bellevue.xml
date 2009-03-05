@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Bellevue">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>550 106th Ave NE # 103</street>
+    <city>Bellevue</city>
+    <state>WA</state>
+    <zip>98004-5005</zip>
+    <latitude>47.615041</latitude>
+    <longitude>-122.198728</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 462-9300</phone>
+</brewery>

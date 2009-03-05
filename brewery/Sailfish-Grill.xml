@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sailfish-Grill">
+  <name>Sailfish Grill‎</name>
+  <address>
+    <street>104 N Lewis St</street>
+    <city>Monroe</city>
+    <state>WA</state>
+    <zip>98272-1502</zip>
+    <latitude>47.855911</latitude>
+    <longitude>-121.970892</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 794-4056</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Durango-Brewing-Co">
+  <name>Durango Brewing Co‎</name>
+  <address>
+    <street>3000 Main Ave</street>
+    <city>Durango</city>
+    <state>CO</state>
+    <zip>81301-4245</zip>
+    <latitude>37.297646</latitude>
+    <longitude>-107.871977</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 247-3396</phone>
+</brewery>

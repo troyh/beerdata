@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mt-St-Helena-Brewing-Co">
+  <name>Mt St Helena Brewing Co‎</name>
+  <address>
+    <street>21167 Calistoga Rd</street>
+    <city>Middletown</city>
+    <state>CA</state>
+    <zip>95461-9300</zip>
+    <latitude>38.752153</latitude>
+    <longitude>-122.615521</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 987-2106</phone>
+</brewery>

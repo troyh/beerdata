@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Magic-Hat-Brewing-Co">
+  <name>Magic Hat Brewing Co‎</name>
+  <address>
+    <street>5 Bartlett Bay Rd</street>
+    <city>South Burlington</city>
+    <state>VT</state>
+    <zip>05403-7727</zip>
+    <latitude>44.428218</latitude>
+    <longitude>-73.215351</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 658-2739</phone>
+</brewery>

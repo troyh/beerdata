@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Angry-Minnow">
+  <name>Angry Minnow‎</name>
+  <address>
+    <street>10440 Florida Ave</street>
+    <city>Hayward</city>
+    <state>WI</state>
+    <zip>54843-7112</zip>
+    <latitude>46.011614</latitude>
+    <longitude>-91.490367</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 934-3055</phone>
+</brewery>

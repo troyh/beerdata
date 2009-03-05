@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boston-Beerworks-Canal-St">
+  <name>Boston Beerworks-Canal St‎</name>
+  <address>
+    <street>110 Canal St</street>
+    <city>Boston</city>
+    <state>MA</state>
+    <zip>02114-1805</zip>
+    <latitude>42.364556</latitude>
+    <longitude>-71.060348</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 896-2337</phone>
+</brewery>

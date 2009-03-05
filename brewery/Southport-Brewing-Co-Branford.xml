@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Southport-Brewing-Co-Branford">
+  <name>Southport Brewing Co-Branford‎</name>
+  <address>
+    <street>850 W Main St</street>
+    <city>Branford</city>
+    <state>CT</state>
+    <zip>06405-3422</zip>
+    <latitude>41.276564</latitude>
+    <longitude>-72.837070</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 481-2739</phone>
+</brewery>

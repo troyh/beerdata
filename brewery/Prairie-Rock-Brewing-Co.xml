@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Prairie-Rock-Brewing-Co">
+  <name>Prairie Rock Brewing Co‎</name>
+  <address>
+    <street>127 S Grove Ave</street>
+    <city>Elgin</city>
+    <state>IL</state>
+    <zip>60120-6407</zip>
+    <latitude>42.034685</latitude>
+    <longitude>-88.281943</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 622-8888</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery">
+  <name>Gordon Biersch Brewery‎</name>
+  <address>
+    <street>640 Emerson St</street>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94301-1609</zip>
+    <latitude>37.443461</latitude>
+    <longitude>-122.161104</longitude>
+    <country>US</country>
+  </address>
+  <phone>(650) 323-7723</phone>
+</brewery>

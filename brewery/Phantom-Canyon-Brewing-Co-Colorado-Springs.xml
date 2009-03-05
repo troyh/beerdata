@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Phantom-Canyon-Brewing-Co-Colorado-Springs">
+  <name>Phantom Canyon Brewing Co‎</name>
+  <address>
+    <street>2 E Pikes Peak Ave</street>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+    <zip>80903-1504</zip>
+    <latitude>38.834045</latitude>
+    <longitude>-104.825044</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 635-2800</phone>
+</brewery>

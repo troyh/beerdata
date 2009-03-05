@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lovejoys">
+  <name>Lovejoy's‎</name>
+  <address>
+    <street>604 Neches St</street>
+    <city>Austin</city>
+    <state>TX</state>
+    <zip>78701-3325</zip>
+    <latitude>30.266954</latitude>
+    <longitude>-97.738321</longitude>
+    <country>US</country>
+  </address>
+  <phone>(512) 477-1268</phone>
+</brewery>

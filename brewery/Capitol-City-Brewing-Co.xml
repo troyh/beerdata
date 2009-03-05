@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Capitol-City-Brewing-Co">
+  <name>Capitol City Brewing Co‎</name>
+  <address>
+    <street>2700 S Quincy St</street>
+    <city>Arlington</city>
+    <state>VA</state>
+    <zip>22206-2205</zip>
+    <latitude>38.841737</latitude>
+    <longitude>-77.086739</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 578-3888</phone>
+</brewery>

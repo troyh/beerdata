@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Willamette-Brewery">
+  <name>Willamette Brewery‎</name>
+  <address>
+    <street>1055 Madera St</street>
+    <city>Eugene</city>
+    <state>OR</state>
+    <zip>97402-2019</zip>
+    <latitude>44.072944</latitude>
+    <longitude>-123.140966</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 688-4555</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rattle-N-Hum-Bar-and-Restaurant">
+  <name>Rattle N Hum Bar &amp; Restaurant‎</name>
+  <address>
+    <street>14 E 33RD St</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>11234</zip>
+    <latitude>40.617062</latitude>
+    <longitude>-73.943236</longitude>
+    <country>US</country>
+  </address>
+  <phone>(212) 481-1586</phone>
+</brewery>

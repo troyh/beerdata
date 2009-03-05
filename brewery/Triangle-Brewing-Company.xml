@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triangle-Brewing-Company">
+  <name>Triangle Brewing Company‎</name>
+  <address>
+    <street>918 Pearl St</street>
+    <city>Durham</city>
+    <state>NC</state>
+    <zip>27701-3500</zip>
+    <latitude>35.996226</latitude>
+    <longitude>-78.889371</longitude>
+    <country>US</country>
+  </address>
+  <phone>(919) 683-2337</phone>
+</brewery>

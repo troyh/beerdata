@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Avery-Brewing-Company/OKTOBF" brewery_id="Avery-Brewing-Company">
+  <name>OKTOBF</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-96363-00120-3">
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81180</item>
+        <reg_price>$75.52</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$75.52</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$7.89</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

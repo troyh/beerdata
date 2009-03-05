@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Edelweiss-Brewery-and-Restaurant">
+  <name>Edelweiss Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>209 W Holland Ave</street>
+    <city>Alpine</city>
+    <state>TX</state>
+    <zip>79830-4634</zip>
+    <latitude>30.357365</latitude>
+    <longitude>-103.662567</longitude>
+    <country>US</country>
+  </address>
+  <phone>(432) 837-9454</phone>
+</brewery>

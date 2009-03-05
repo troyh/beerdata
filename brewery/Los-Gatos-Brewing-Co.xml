@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Los-Gatos-Brewing-Co">
+  <name>Los Gatos Brewing Co‎</name>
+  <address>
+    <street>130 N Santa Cruz Ave</street>
+    <city>Los Gatos</city>
+    <state>CA</state>
+    <zip>95030-5933</zip>
+    <latitude>37.225284</latitude>
+    <longitude>-121.982544</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 395-9929</phone>
+</brewery>

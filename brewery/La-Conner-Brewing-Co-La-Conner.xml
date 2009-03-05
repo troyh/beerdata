@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="La-Conner-Brewing-Co-La-Conner">
+  <name>La Conner Brewing Co‎</name>
+  <address>
+    <street>117 1st St</street>
+    <city>La Conner</city>
+    <state>WA</state>
+    <zip>98257-9800</zip>
+    <latitude>48.392388</latitude>
+    <longitude>-122.495983</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 466-1415</phone>
+</brewery>

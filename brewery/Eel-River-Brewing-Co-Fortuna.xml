@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Eel-River-Brewing-Co-Fortuna">
+  <name>Eel River Brewing Co‎</name>
+  <address>
+    <street>1777 Alamar Way</street>
+    <city>Fortuna</city>
+    <state>CA</state>
+    <zip>95540-9548</zip>
+    <latitude>40.578838</latitude>
+    <longitude>-124.152507</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 725-2739</phone>
+</brewery>

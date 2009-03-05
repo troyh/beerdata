@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Heads-Up-Brewery">
+  <name>Heads Up Brewery‎</name>
+  <address>
+    <street>9960 Silverdale Way Northwest</street>
+    <city>Silverdale</city>
+    <state>WA</state>
+    <zip>98383-8926</zip>
+    <latitude>47.653388</latitude>
+    <longitude>-122.690714</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 337-2739</phone>
+</brewery>

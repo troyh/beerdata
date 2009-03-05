@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Bear-Mountain-Brewery">
+  <name>Big Bear Mountain Brewery‎</name>
+  <address>
+    <street>40260 Big Bear Blvd</street>
+    <city>Big Bear Lake</city>
+    <state>CA</state>
+    <zip>92315</zip>
+    <latitude>34.239046</latitude>
+    <longitude>-116.923572</longitude>
+    <country>US</country>
+  </address>
+  <phone>(909) 866-2337</phone>
+</brewery>

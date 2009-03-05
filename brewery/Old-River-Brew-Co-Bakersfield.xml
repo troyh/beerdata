@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-River-Brew-Co-Bakersfield">
+  <name>Old River Brew Co‎</name>
+  <address>
+    <street>8524 Old River Rd</street>
+    <city>Bakersfield</city>
+    <state>CA</state>
+    <zip>93311-9733</zip>
+    <latitude>35.277134</latitude>
+    <longitude>-119.109681</longitude>
+    <country>US</country>
+  </address>
+  <phone>(661) 398-0454</phone>
+</brewery>

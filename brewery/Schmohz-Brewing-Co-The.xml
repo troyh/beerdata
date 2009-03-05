@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Schmohz-Brewing-Co-The">
+  <name>Schmohz Brewing Co The‎</name>
+  <address>
+    <street>2600 Patterson Ave SE</street>
+    <city>Grand Rapids</city>
+    <state>MI</state>
+    <zip>49546</zip>
+    <latitude>42.915757</latitude>
+    <longitude>-85.549004</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 949-0860</phone>
+</brewery>

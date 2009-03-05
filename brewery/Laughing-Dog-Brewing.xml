@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Laughing-Dog-Brewing">
+  <name>Laughing Dog Brewing‎</name>
+  <address>
+    <street>55 Emerald Industrial Park Rd</street>
+    <city>Ponderay</city>
+    <state>ID</state>
+    <zip>83864</zip>
+    <latitude>48.299739</latitude>
+    <longitude>-116.537684</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 263-9222</phone>
+</brewery>

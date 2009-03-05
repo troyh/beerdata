@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Terminal-Gravity-Brewing">
+  <name>Terminal Gravity Brewing‎</name>
+  <address>
+    <street>803 SE School St</street>
+    <city>Enterprise</city>
+    <state>OR</state>
+    <zip>97828-1674</zip>
+    <latitude>45.419283</latitude>
+    <longitude>-117.272014</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 426-0158</phone>
+</brewery>

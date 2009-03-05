@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewzzis">
+  <name>Brewzzi's‎</name>
+  <address>
+    <street>2222 Glades Rd</street>
+    <city>Boca Raton</city>
+    <state>FL</state>
+    <zip>33431-7314</zip>
+    <latitude>26.367959</latitude>
+    <longitude>-80.125665</longitude>
+    <country>US</country>
+  </address>
+  <phone>(561) 392-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Murphys-Wagon-Wheel">
+  <name>Murphy's Wagon Wheel‎</name>
+  <address>
+    <street>107 N Lincoln Ave</street>
+    <city>Hastings</city>
+    <state>NE</state>
+    <zip>68901-5116</zip>
+    <latitude>40.584404</latitude>
+    <longitude>-98.391294</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 463-3011</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Santa-Cruz-Mountain-Brewing-Santa-Cruz">
+  <name>Santa Cruz Mountain Brewing‎</name>
+  <address>
+    <street>402 Ingalls St # 27</street>
+    <city>Santa Cruz</city>
+    <state>CA</state>
+    <zip>95060-5815</zip>
+    <latitude>36.958790</latitude>
+    <longitude>-122.047446</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 425-4900</phone>
+</brewery>

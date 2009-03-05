@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Titanic-Restaurant-and-Brewery-Miami">
+  <name>Titanic Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>5813 Ponce de Leon Blvd.</street>
+    <city>Miami</city>
+    <state>FL</state>
+    <zip>33146-2422</zip>
+    <latitude>25.710572</latitude>
+    <longitude>-80.282885</longitude>
+    <country>US</country>
+  </address>
+  <phone>(305) 668-1742</phone>
+</brewery>

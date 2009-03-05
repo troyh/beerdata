@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-Lindemans/POMME-LAMBIC-APPLE" brewery_id="Brouwerij-Lindemans">
+  <name>POMME LAMBIC (APPLE)</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="9-99999-99999-0">
+      <description>25L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>991083</item>
+        <reg_price>194.00</reg_price>
+        <post_off>194.00</post_off>
+        <net_case_price/>
+        <unit_price>194.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

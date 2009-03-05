@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Market-Street-Pub">
+  <name>Market Street Pub‎</name>
+  <address>
+    <street>120 SW 1st Ave</street>
+    <city>Gainesville</city>
+    <state>FL</state>
+    <zip>32601-6243</zip>
+    <latitude>29.651182</latitude>
+    <longitude>-82.326040</longitude>
+    <country>US</country>
+  </address>
+  <phone>(352) 377-2927</phone>
+</brewery>

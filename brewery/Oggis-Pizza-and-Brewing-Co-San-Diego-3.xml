@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oggis-Pizza-and-Brewing-Co-San-Diego-3">
+  <name>Oggi's Pizza &amp; Brewing Co‎</name>
+  <address>
+    <street>12840 Carmel Country Rd</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92130-2155</zip>
+    <latitude>32.954035</latitude>
+    <longitude>-117.229269</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 481-7883</phone>
+</brewery>

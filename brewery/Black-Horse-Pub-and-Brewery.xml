@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Black-Horse-Pub-and-Brewery">
+  <name>Black Horse Pub &amp; Brewery‎</name>
+  <address>
+    <street>132 Franklin St</street>
+    <city>Clarksville</city>
+    <state>TN</state>
+    <zip>37040-3438</zip>
+    <latitude>36.527280</latitude>
+    <longitude>-87.359698</longitude>
+    <country>US</country>
+  </address>
+  <phone>(931) 552-3726</phone>
+</brewery>

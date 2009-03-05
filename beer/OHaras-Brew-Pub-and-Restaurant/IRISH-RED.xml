@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="OHaras-Brew-Pub-and-Restaurant/IRISH-RED" brewery_id="OHaras-Brew-Pub-and-Restaurant">
+  <name>IRISH RED</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>4/6/11.2Z BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>320001</item>
+        <reg_price>41.95</reg_price>
+        <post_off>41.95</post_off>
+        <net_case_price/>
+        <unit_price>6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size upc="8-01333-00025-1">
+      <description>50L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>320002</item>
+        <reg_price>160.00</reg_price>
+        <post_off>160.00</post_off>
+        <net_case_price/>
+        <unit_price>160.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

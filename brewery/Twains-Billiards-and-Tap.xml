@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Twains-Billiards-and-Tap">
+  <name>Twain's Billiards &amp; Tap‎</name>
+  <address>
+    <street>211 E Trinity Pl</street>
+    <city>Decatur</city>
+    <state>GA</state>
+    <zip>30030-3414</zip>
+    <latitude>33.772393</latitude>
+    <longitude>-84.294515</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 373-0063</phone>
+</brewery>

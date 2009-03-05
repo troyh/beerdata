@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="JJ-Bitting-Brewing-Co">
+  <name>JJ Bitting Brewing Co‎</name>
+  <address>
+    <street>33 Main St</street>
+    <city>Woodbridge</city>
+    <state>NJ</state>
+    <zip>07095-3335</zip>
+    <latitude>40.554988</latitude>
+    <longitude>-74.276906</longitude>
+    <country>US</country>
+  </address>
+  <phone>(732) 634-2929</phone>
+</brewery>

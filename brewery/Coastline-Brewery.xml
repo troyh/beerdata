@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Coastline-Brewery">
+  <name>Coastline Brewery‎</name>
+  <address>
+    <street>910 41st Ave</street>
+    <city>Santa Cruz</city>
+    <state>CA</state>
+    <zip>95062-4457</zip>
+    <latitude>36.964651</latitude>
+    <longitude>-121.964691</longitude>
+    <country>US</country>
+  </address>
+  <phone>(831) 476-2378</phone>
+</brewery>

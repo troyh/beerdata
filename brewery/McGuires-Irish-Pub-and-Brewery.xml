@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McGuires-Irish-Pub-and-Brewery">
+  <name>McGuire's Irish Pub &amp; Brewery‎</name>
+  <address>
+    <street>33 Highway 98</street>
+    <city>Destin</city>
+    <state>FL</state>
+    <zip>32541-2309</zip>
+    <latitude>30.395637</latitude>
+    <longitude>-86.511868</longitude>
+    <country>US</country>
+  </address>
+  <phone>(850) 654-0567</phone>
+</brewery>

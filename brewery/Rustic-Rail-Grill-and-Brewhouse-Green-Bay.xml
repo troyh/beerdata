@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rustic-Rail-Grill-and-Brewhouse-Green-Bay">
+  <name>Rustic Rail Grill &amp; Brewhouse‎</name>
+  <address>
+    <street>1966 Velp Avenue</street>
+    <city>Green Bay</city>
+    <state>WI</state>
+    <zip>54303-6450</zip>
+    <latitude>44.557756</latitude>
+    <longitude>-88.061471</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 494-2755</phone>
+</brewery>

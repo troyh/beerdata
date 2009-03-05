@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Titletown-Brewing-Company">
+  <name>Titletown Brewing Company‎</name>
+  <address>
+    <street>200 Dousman St</street>
+    <city>Green Bay</city>
+    <state>WI</state>
+    <zip>54303-2712</zip>
+    <latitude>44.518836</latitude>
+    <longitude>-88.018476</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 437-2337</phone>
+</brewery>

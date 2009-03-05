@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Penn-Brewery">
+  <name>Penn Brewery‎</name>
+  <address>
+    <street>800 Vinial St</street>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+    <zip>15212-5128</zip>
+    <latitude>40.456918</latitude>
+    <longitude>-79.991355</longitude>
+    <country>US</country>
+  </address>
+  <phone>(412) 237-9402</phone>
+</brewery>

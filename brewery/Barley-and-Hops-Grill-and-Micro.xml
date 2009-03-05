@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barley-and-Hops-Grill-and-Micro">
+  <name>Barley &amp; Hops Grill &amp; Micro‎</name>
+  <address>
+    <street>5473 Urbana Pike</street>
+    <city>Frederick</city>
+    <state>MD</state>
+    <zip>21704-7275</zip>
+    <latitude>39.381660</latitude>
+    <longitude>-77.400027</longitude>
+    <country>US</country>
+  </address>
+  <phone>(301) 668-5555</phone>
+</brewery>

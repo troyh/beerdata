@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boulevard-Brewing-Co">
+  <name>Boulevard Brewing Co‎</name>
+  <address>
+    <street>2501 Southwest Blvd</street>
+    <city>Kansas City</city>
+    <state>MO</state>
+    <zip>64108-2345</zip>
+    <latitude>39.082307</latitude>
+    <longitude>-94.596724</longitude>
+    <country>US</country>
+  </address>
+  <phone>(816) 474-7095</phone>
+</brewery>

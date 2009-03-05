@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="New-Old-Lompoc">
+  <name>New Old Lompoc‎</name>
+  <address>
+    <street>1616 NW 23rd Ave</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97210-2502</zip>
+    <latitude>45.534244</latitude>
+    <longitude>-122.698584</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 225-1855</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sixpoint-Craft-Ales-Brooklyn">
+  <name>Sixpoint Craft Ales‎</name>
+  <address>
+    <street>40 Van Dyke St</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11231-1529</zip>
+    <latitude>40.674006</latitude>
+    <longitude>-74.012012</longitude>
+    <country>US</country>
+  </address>
+  <phone>(917) 696-0438</phone>
+</brewery>

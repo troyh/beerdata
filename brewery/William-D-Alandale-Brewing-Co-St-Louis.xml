@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="William-D-Alandale-Brewing-Co-St-Louis">
+  <name>William D Alandale Brewing Co‎</name>
+  <address>
+    <street>105 E Jefferson Ave</street>
+    <city>St Louis</city>
+    <state>MO</state>
+    <zip>63122-4025</zip>
+    <latitude>38.582395</latitude>
+    <longitude>-90.406008</longitude>
+    <country>US</country>
+  </address>
+  <phone>(314) 966-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Olde-Peninsula-Brew-Pub">
+  <name>Olde Peninsula Brew Pub‎</name>
+  <address>
+    <street>200 E Michigan Ave</street>
+    <city>Kalamazoo</city>
+    <state>MI</state>
+    <zip>49007-3910</zip>
+    <latitude>42.291670</latitude>
+    <longitude>-85.581625</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 343-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Carolina-Brewery-and-Grill">
+  <name>Carolina Brewery &amp; Grill‎</name>
+  <address>
+    <street>120 Lowes Dr</street>
+    <city>Pittsboro</city>
+    <state>NC</state>
+    <zip>27312</zip>
+    <latitude>35.744422</latitude>
+    <longitude>-79.165553</longitude>
+    <country>US</country>
+  </address>
+  <phone>(919) 545-2330</phone>
+</brewery>

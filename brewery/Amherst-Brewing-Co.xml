@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Amherst-Brewing-Co">
+  <name>Amherst Brewing Co‎</name>
+  <address>
+    <street>24 N Pleasant St</street>
+    <city>Amherst</city>
+    <state>MA</state>
+    <zip>01002-1703</zip>
+    <latitude>42.376343</latitude>
+    <longitude>-72.520060</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 253-4400</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Braintree-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>250 Granite St # A</street>
+    <city>Braintree</city>
+    <state>MA</state>
+    <zip>02184-2801</zip>
+    <latitude>42.220475</latitude>
+    <longitude>-71.027805</longitude>
+    <country>US</country>
+  </address>
+  <phone>(781) 356-2739</phone>
+</brewery>

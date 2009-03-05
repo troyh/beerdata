@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Harpoon-Brewery-Boston">
+  <name>Harpoon Brewery‎</name>
+  <address>
+    <street>306 Northern Ave</street>
+    <city>Boston</city>
+    <state>MA</state>
+    <zip>02210-2316</zip>
+    <latitude>42.346596</latitude>
+    <longitude>-71.034730</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 574-0019</phone>
+</brewery>

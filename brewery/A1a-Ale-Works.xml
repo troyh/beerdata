@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="A1a-Ale-Works">
+  <name>A1a Ale Works‎</name>
+  <address>
+    <street>1 King St</street>
+    <city>St Augustine</city>
+    <state>FL</state>
+    <zip>32084-4414</zip>
+    <latitude>29.892215</latitude>
+    <longitude>-81.311022</longitude>
+    <country>US</country>
+  </address>
+  <phone>(904) 829-2977</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Padre-Island-Brewing-Co">
+  <name>Padre Island Brewing Co‎</name>
+  <address>
+    <street>3400 Padre Blvd</street>
+    <city>S Padre Island</city>
+    <state>TX</state>
+    <zip>78597-7002</zip>
+    <latitude>26.109167</latitude>
+    <longitude>-97.168792</longitude>
+    <country>US</country>
+  </address>
+  <phone>(956) 761-9585</phone>
+</brewery>

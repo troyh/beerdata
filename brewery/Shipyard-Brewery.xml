@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shipyard-Brewery">
+  <name>Shipyard Brewery‎</name>
+  <address>
+    <street>86 Newbury St</street>
+    <city>Portland</city>
+    <state>ME</state>
+    <zip>04101-4219</zip>
+    <latitude>43.661649</latitude>
+    <longitude>-70.249066</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 761-0807</phone>
+</brewery>

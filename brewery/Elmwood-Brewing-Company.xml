@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elmwood-Brewing-Company">
+  <name>Elmwood Brewing Company‎</name>
+  <address>
+    <street>118 E Main St</street>
+    <city>Elmwood</city>
+    <state>IL</state>
+    <zip>61529-7963</zip>
+    <latitude>40.777853</latitude>
+    <longitude>-89.965790</longitude>
+    <country>US</country>
+  </address>
+  <phone>(309) 742-4200</phone>
+</brewery>

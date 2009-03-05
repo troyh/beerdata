@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Buzzards-Bay-Brewing-Inc">
+  <name>Buzzard's Bay Brewing Inc‎</name>
+  <address>
+    <street>98 Horseneck Rd</street>
+    <city>Westport</city>
+    <state>MA</state>
+    <zip>02790-1328</zip>
+    <latitude>41.566969</latitude>
+    <longitude>-71.054171</longitude>
+    <country>US</country>
+  </address>
+  <phone>(508) 636-2288</phone>
+</brewery>

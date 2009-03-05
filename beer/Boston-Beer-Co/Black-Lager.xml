@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Black-Lager" brewery_id="Boston-Beer-Co" calories_per_ml="0.538206520042304" abv="4.90" og="14Plato">
+  <name>Black Lager</name>
+  <description>When one sees a beer with a darker complexion these days, more often than not itâs a Porter or Stout. However looks can be deceiving. There exists a style older than both and generally less well known; the Schwarzbier, which literally translated is âBlack Beer.â Unlike its dark cousins which both hail from Britain and are highly hopped ales, Schwarzbier comes from Germany, is lightly hopped and is fermented using a bottom fermenting lager yeast.  Samuel AdamsÂ® Black Lager is brewed in the tradition of the latter. A medium bodied beer brewed using several different roasts of malt to give the end product a smooth body and a depth of malt character that has to be tasted to be believed.
+CarafaÂ® is a registered trademark of Weyermann Malt, Bamburg, Germany.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains>Two row pale, Munich, Weyermann dehusked Carafa</grains>
+  <hops>Spalt Spalter</hops>
+  <yeast>Bottom-fermented lager yeast</yeast>
+  <otherings/>
+  <sizes>
+    <size upc="0-87692-96102-4">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32430</item>
+        <reg_price>$25.36</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.36</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

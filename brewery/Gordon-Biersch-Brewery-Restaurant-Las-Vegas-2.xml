@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-Las-Vegas-2">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>5757 Wayne Newton Blvd</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89111-5000</zip>
+    <latitude>36.084908</latitude>
+    <longitude>-115.150094</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 261-7382</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Iron-Barley-Eating">
+  <name>Iron Barley Eating‎</name>
+  <address>
+    <street>5510 Virginia Ave</street>
+    <city>St Louis</city>
+    <state>MO</state>
+    <zip>63111-1939</zip>
+    <latitude>38.564897</latitude>
+    <longitude>-90.245942</longitude>
+    <country>US</country>
+  </address>
+  <phone>(314) 351-4500</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Institute-For-Food-and-Health">
+  <name>Institute For Food &amp; Health‎</name>
+  <address>
+    <street>48 W 21st St # 2</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10010-6901</zip>
+    <latitude>40.740800</latitude>
+    <longitude>-73.992163</longitude>
+    <country>US</country>
+  </address>
+  <phone>(212) 645-5170</phone>
+</brewery>

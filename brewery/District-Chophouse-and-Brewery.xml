@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="District-Chophouse-and-Brewery">
+  <name>District Chophouse &amp; Brewery‎</name>
+  <address>
+    <street>509 7th St NW # 1</street>
+    <city>Washington</city>
+    <state>DC</state>
+    <zip>20004-1601</zip>
+    <latitude>38.896295</latitude>
+    <longitude>-77.021774</longitude>
+    <country>US</country>
+  </address>
+  <phone>(202) 347-3434</phone>
+</brewery>

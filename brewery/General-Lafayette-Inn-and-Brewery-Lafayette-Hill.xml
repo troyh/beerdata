@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="General-Lafayette-Inn-and-Brewery-Lafayette-Hill">
+  <name>General Lafayette Inn &amp; Brewery‎</name>
+  <address>
+    <street>646 Germantown Pike</street>
+    <city>Lafayette Hill</city>
+    <state>PA</state>
+    <zip>19444-1641</zip>
+    <latitude>40.084623</latitude>
+    <longitude>-75.250366</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 941-0600</phone>
+</brewery>

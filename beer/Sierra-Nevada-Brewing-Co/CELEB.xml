@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Sierra-Nevada-Brewing-Co/CELEB" brewery_id="Sierra-Nevada-Brewing-Co">
+  <name>CELEB</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-83783-22812-0">
+      <description>BOTTLE 2/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>37390</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$1.50</post_off>
+        <net_case_price>$23.98</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$14.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

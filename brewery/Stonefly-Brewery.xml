@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stonefly-Brewery">
+  <name>Stonefly Brewery‎</name>
+  <address>
+    <street>735 E. Center Street</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53212-2944</zip>
+    <latitude>43.067332</latitude>
+    <longitude>-87.902311</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 264-3630</phone>
+</brewery>

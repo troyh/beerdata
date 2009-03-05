@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Lazy-Boy-Brewing-Co/PORTER" brewery_id="Lazy-Boy-Brewing-Co">
+  <name>PORTER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="4-46007-11111-1">
+      <description>1/6 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>446007</item>
+        <reg_price>55.00</reg_price>
+        <post_off>55.00</post_off>
+        <net_case_price/>
+        <unit_price>55.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

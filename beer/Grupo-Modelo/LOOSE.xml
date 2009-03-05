@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Grupo-Modelo/LOOSE" brewery_id="Grupo-Modelo">
+  <name>LOOSE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-80660-95628-2">
+      <description>BOTTLE 24/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>52022</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$3.20</post_off>
+        <net_case_price>$22.28</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$27.89</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

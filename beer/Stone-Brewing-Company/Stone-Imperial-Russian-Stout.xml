@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Stone-Brewing-Company/Stone-Imperial-Russian-Stout" brewery_id="Stone-Brewing-Company">
+  <name>Stone Imperial Russian Stout</name>
+  <description/>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="63625179035">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>12140</item>
+        <reg_price>58.68</reg_price>
+        <post_off>      </post_off>
+        <net_case_price/>
+        <unit_price>$4.89</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

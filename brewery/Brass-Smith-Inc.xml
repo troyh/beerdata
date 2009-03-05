@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brass-Smith-Inc">
+  <name>Brass Smith Inc‎</name>
+  <address>
+    <street>3880 Holly St</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80207-1214</zip>
+    <latitude>39.770595</latitude>
+    <longitude>-104.922149</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 331-8777</phone>
+</brewery>

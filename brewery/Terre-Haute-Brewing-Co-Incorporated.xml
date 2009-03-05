@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Terre-Haute-Brewing-Co-Incorporated">
+  <name>Terre Haute Brewing Co Incorporated‎</name>
+  <address>
+    <street>812 Oak St</street>
+    <city>Terre Haute</city>
+    <state>IN</state>
+    <zip>47807-4430</zip>
+    <latitude>39.461567</latitude>
+    <longitude>-87.405443</longitude>
+    <country>US</country>
+  </address>
+  <phone>(812) 234-2800</phone>
+</brewery>

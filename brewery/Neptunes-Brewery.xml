@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Neptunes-Brewery">
+  <name>Neptune's Brewery‎</name>
+  <address>
+    <street>119 N L St</street>
+    <city>Livingston</city>
+    <state>MT</state>
+    <zip>59047-2819</zip>
+    <latitude>45.668232</latitude>
+    <longitude>-110.549653</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 222-7837</phone>
+</brewery>

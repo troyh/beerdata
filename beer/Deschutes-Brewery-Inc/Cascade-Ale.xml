@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Cascade-Ale" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.408586101602796" abv="4.50" ibu="28">
+  <name>Cascade Ale</name>
+  <description>Gracing the expansive Western skyline in Central Oregon, the Three SistersâFaith, Hope and Charityâare three prominent peaks in the Cascade mountain range.Â  Local folklore credits the naming to 19th Century fur trappers.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-63176-40006-6">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32855</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.48</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$6.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

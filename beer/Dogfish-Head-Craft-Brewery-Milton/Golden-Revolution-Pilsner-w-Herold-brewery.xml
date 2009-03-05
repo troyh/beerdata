@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Golden-Revolution-Pilsner-w-Herold-brewery" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+  <name>Golden Revolution Pilsner (w/Herold brewery)</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>6/750ml</description>
+      <distributor>
+        <name>click</name>
+        <item>13704</item>
+        <reg_price>$41.94</reg_price>
+        <post_off>$33.54</post_off>
+        <net_case_price/>
+        <unit_price>$6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

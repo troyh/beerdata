@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Maiden-Peak-Pale-Ale" brewery_id="Deschutes-Brewery-Inc" abv="4.70" ibu="38">
+  <name>Maiden Peak Pale Ale</name>
+  <description>This presidential brew is a beer thatÂ takes note of the change of power.Â  This new pale on the block comes with new ideas in grist formulationin the way of it's constituents: biscuit, caramel, chocolate, and carafoam malts.Â  It is equally represented by bipartisan hop additions of noble and Yakima valley hops.Â  Cheers to change.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>13.2</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

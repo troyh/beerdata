@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/World-Wide-Stout" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="1.04823468824993" abv="18">
+  <name>World Wide Stout</name>
+  <description>YES! This is the beer you've heard so much about. Dark, rich, roasty and complex, World Wide Stout has more in common with a fine port than a can of cheap, mass-marketed beer. Brewed with a ridiculous amount of barley. Have one with (or as!) dessert tonight!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>33500</item>
+        <reg_price>$175.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$175.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$218.79</deposit>
+      </distributor>
+    </size>
+    <size upc="638489000237">
+      <description>24/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10692</item>
+        <reg_price>167.76</reg_price>
+        <post_off>      </post_off>
+        <net_case_price/>
+        <unit_price>$6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lumberyard-Brewing-Co">
+  <name>Lumberyard Brewing Co‎</name>
+  <address>
+    <street>19040 Standard Rd</street>
+    <city>Sonora</city>
+    <state>CA</state>
+    <zip>95370-7542</zip>
+    <latitude>37.968218</latitude>
+    <longitude>-120.313088</longitude>
+    <country>US</country>
+  </address>
+  <phone>(209) 536-1445</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alameda-Wine-Company">
+  <name>Alameda Wine Company‎</name>
+  <address>
+    <street>2315 Central Avenue</street>
+    <city>Alameda</city>
+    <state>CA</state>
+    <zip>94501-4513</zip>
+    <latitude>37.764765</latitude>
+    <longitude>-122.243773</longitude>
+    <country>US</country>
+  </address>
+  <phone>(510) 523-9463</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Iron-Springs-Pub-and-Brewery-Fairfax">
+  <name>Iron Springs Pub &amp; Brewery‎</name>
+  <address>
+    <street>765 Center Blvd.</street>
+    <city>Fairfax</city>
+    <state>CA</state>
+    <zip>94930-1764</zip>
+    <latitude>37.986496</latitude>
+    <longitude>-122.585439</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 485-1005</phone>
+</brewery>

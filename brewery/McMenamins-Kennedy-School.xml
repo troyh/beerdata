@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Kennedy-School">
+  <name>McMenamins Kennedy School‎</name>
+  <address>
+    <street>5736 N.E. 33rd Ave.</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97211-7302</zip>
+    <latitude>45.564106</latitude>
+    <longitude>-122.630514</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 249-3983</phone>
+</brewery>

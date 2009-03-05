@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sarasota-Brewing-Co">
+  <name>Sarasota Brewing Co‎</name>
+  <address>
+    <street>6607 Gateway Ave</street>
+    <city>Sarasota</city>
+    <state>FL</state>
+    <zip>34231-5805</zip>
+    <latitude>27.260091</latitude>
+    <longitude>-82.516272</longitude>
+    <country>US</country>
+  </address>
+  <phone>(941) 925-2337</phone>
+</brewery>

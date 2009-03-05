@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Stone-Brewing-Company/Stone-Vertical-Epic-Ale" brewery_id="Stone-Brewing-Company">
+  <name>Stone Vertical Epic Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="636251404047">
+      <description>6/25.4 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>12148</item>
+        <reg_price>62.88</reg_price>
+        <post_off>      </post_off>
+        <net_case_price/>
+        <unit_price>$5.24</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sea-Dog-Brewing-Co">
+  <name>Sea Dog Brewing Co‎</name>
+  <address>
+    <street>26 Front St</street>
+    <city>Bangor</city>
+    <state>ME</state>
+    <zip>04401-6418</zip>
+    <latitude>44.796765</latitude>
+    <longitude>-68.770023</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 947-8004</phone>
+</brewery>

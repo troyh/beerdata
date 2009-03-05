@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="New-York-Marriott-at-the-Brooklyn-Bridge">
+  <name>New York Marriott at the Brooklyn Bridge‎</name>
+  <address>
+    <street>333 Adams Street</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11201-3714</zip>
+    <latitude>40.692926</latitude>
+    <longitude>-73.988576</longitude>
+    <country>US</country>
+  </address>
+  <phone>(888) 436-3759</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="One-Guy-Brewing-Company">
+  <name>One Guy Brewing Company‎</name>
+  <address>
+    <street>328 W Front St</street>
+    <city>Berwick</city>
+    <state>PA</state>
+    <zip>18603-4705</zip>
+    <latitude>41.052684</latitude>
+    <longitude>-76.237519</longitude>
+    <country>US</country>
+  </address>
+  <phone>(570) 709-1056</phone>
+</brewery>

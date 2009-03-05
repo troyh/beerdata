@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Santa-Fe-Brewing-Company">
+  <name>Santa Fe Brewing Company‎</name>
+  <address>
+    <street>35 Fire Place</street>
+    <city>Santa Fe</city>
+    <state>NM</state>
+    <zip>87508-4493</zip>
+    <latitude>35.597329</latitude>
+    <longitude>-106.049078</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 424-3333</phone>
+</brewery>

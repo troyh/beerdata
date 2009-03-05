@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/RUSIMP" brewery_id="Rogue-Brewery">
+  <name>RUSIMP</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13050-1">
+      <description>BOTTLE 6/750</description>
+      <distributor>
+        <name>columbia</name>
+        <item>31530</item>
+        <reg_price>$67.45</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$67.45</net_case_price>
+        <unit_price>$0.30</unit_price>
+        <deposit>$14.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

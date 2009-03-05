@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Middle-Villa-Inn">
+  <name>Middle Villa Inn‎</name>
+  <address>
+    <street>4611 N. M-37 Hwy</street>
+    <city>Middleville</city>
+    <state>MI</state>
+    <zip>49333</zip>
+    <latitude>42.733160</latitude>
+    <longitude>-85.482039</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 891-1287</phone>
+</brewery>

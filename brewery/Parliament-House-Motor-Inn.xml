@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Parliament-House-Motor-Inn">
+  <name>Parliament House Motor Inn‎</name>
+  <address>
+    <street>410 N Orange Blossom Trl</street>
+    <city>Orlando</city>
+    <state>FL</state>
+    <zip>32805-1706</zip>
+    <latitude>28.547781</latitude>
+    <longitude>-81.397520</longitude>
+    <country>US</country>
+  </address>
+  <phone>(407) 425-7571</phone>
+</brewery>

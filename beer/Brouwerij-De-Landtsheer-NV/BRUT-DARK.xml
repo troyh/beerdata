@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-De-Landtsheer-NV/BRUT-DARK" brewery_id="Brouwerij-De-Landtsheer-NV">
+  <name>BRUT DARK</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="5-41397-01501-2">
+      <description>BOTTLE 6/26</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83020</item>
+        <reg_price>$126.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$126.00</net_case_price>
+        <unit_price>$0.30</unit_price>
+        <deposit>$26.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dumfries-Edinburgh-Road-Golf-SW-bound">
+  <name>Dumfries, Edinburgh Road Golf (SW-bound)‎</name>
+  <address>
+    <street>Edinburgh Rd</street>
+    <city>Dumfries</city>
+    <state>DG1 1JX</state>
+    <zip>GB</zip>
+    <latitude>55.078450</latitude>
+    <longitude>-3.602959</longitude>
+    <country/>
+  </address>
+  <phone>+44 1387 249921</phone>
+</brewery>

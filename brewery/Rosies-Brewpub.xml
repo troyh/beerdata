@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rosies-Brewpub">
+  <name>Rosie's Brewpub‎</name>
+  <address>
+    <street>115 E 7th Street</street>
+    <city>Leadville</city>
+    <state>CO</state>
+    <zip>80461-3505</zip>
+    <latitude>39.249523</latitude>
+    <longitude>-106.291635</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 486-2349</phone>
+</brewery>

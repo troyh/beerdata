@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Bosteels-Brewery/TRIPEL-KARMELIET" brewery_id="Bosteels-Brewery">
+  <name>TRIPEL KARMELIET</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="5-41069-31004-1">
+      <description>6/4/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621010</item>
+        <reg_price>75.43</reg_price>
+        <post_off>75.43</post_off>
+        <net_case_price/>
+        <unit_price>12.57</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

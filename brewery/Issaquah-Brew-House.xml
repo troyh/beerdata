@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Issaquah-Brew-House">
+  <name>Issaquah Brew House‎</name>
+  <address>
+    <street>35 W Sunset Way # C</street>
+    <city>Issaquah</city>
+    <state>OR</state>
+    <zip>US</zip>
+    <latitude>47.530071</latitude>
+    <longitude>-122.033798</longitude>
+    <country/>
+  </address>
+  <phone>(425) 557-1911</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-Brewery-West-Palm-Beach">
+  <name>Hops Restaurant Bar Brewery‎</name>
+  <address>
+    <street>4576 Okeechobee Blvd</street>
+    <city>West Palm Beach</city>
+    <state>FL</state>
+    <zip>33417-4622</zip>
+    <latitude>26.706663</latitude>
+    <longitude>-80.112931</longitude>
+    <country>US</country>
+  </address>
+  <phone>(561) 616-5074</phone>
+</brewery>

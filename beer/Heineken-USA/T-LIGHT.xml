@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Heineken-USA/T-LIGHT" brewery_id="Heineken-USA">
+  <name>T LIGHT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-72890-00194-8">
+      <description>CAN 2/5</description>
+      <distributor>
+        <name>columbia</name>
+        <item>59402</item>
+        <reg_price>$35.00</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$32.00</net_case_price>
+        <unit_price>$0.10</unit_price>
+        <deposit>$19.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tommyknocker-Brewery-and-Pub">
+  <name>Tommyknocker Brewery &amp; Pub‎</name>
+  <address>
+    <street>1401 Miner</street>
+    <city>Idaho Springs</city>
+    <state>CO</state>
+    <zip>80452</zip>
+    <latitude>39.741737</latitude>
+    <longitude>-105.517953</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 567-2688</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Weasel-Boy-Brewing">
+  <name>Weasel Boy Brewing‎</name>
+  <address>
+    <street>126 Muskingum Ave. Suite E</street>
+    <city>Zanesville</city>
+    <state>OH</state>
+    <zip>43701-4921</zip>
+    <latitude>39.936883</latitude>
+    <longitude>-82.010606</longitude>
+    <country>US</country>
+  </address>
+  <phone>(740) 605-7468</phone>
+</brewery>

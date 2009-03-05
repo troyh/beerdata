@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bear-Brew-Pub">
+  <name>Bear Brew Pub‎</name>
+  <address>
+    <street>36 Main St</street>
+    <city>Orono</city>
+    <state>ME</state>
+    <zip>04473-4006</zip>
+    <latitude>44.883281</latitude>
+    <longitude>-68.672184</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 866-2739</phone>
+</brewery>

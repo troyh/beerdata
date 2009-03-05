@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pacific-Coast-Brewing-Co">
+  <name>Pacific Coast Brewing Co‎</name>
+  <address>
+    <street>906 Washington St</street>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94607-4032</zip>
+    <latitude>37.801433</latitude>
+    <longitude>-122.274398</longitude>
+    <country>US</country>
+  </address>
+  <phone>(510) 836-2739</phone>
+</brewery>

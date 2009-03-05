@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Roslyn-Brewing-Co">
+  <name>Roslyn Brewing Co‎</name>
+  <address>
+    <street>W Pennsylvania Ave</street>
+    <city>Roslyn</city>
+    <state>WA</state>
+    <zip>98941</zip>
+    <latitude>47.222715</latitude>
+    <longitude>-120.993979</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 649-2232</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rocky-River-Brewing-Co-Cleveland">
+  <name>Rocky River Brewing Co‎</name>
+  <address>
+    <street>21290 Center Ridge Rd</street>
+    <city>Cleveland</city>
+    <state>OH</state>
+    <zip>44145</zip>
+    <latitude>41.456670</latitude>
+    <longitude>-81.874149</longitude>
+    <country>US</country>
+  </address>
+  <phone>(440) 895-2739</phone>
+</brewery>

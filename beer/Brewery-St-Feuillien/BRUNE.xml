@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-St-Feuillien/BRUNE" brewery_id="Brewery-St-Feuillien">
+  <name>BRUNE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-47934-22036-3">
+      <description>12/25.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621028</item>
+        <reg_price>88.39</reg_price>
+        <post_off>88.39</post_off>
+        <net_case_price/>
+        <unit_price>7.37</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

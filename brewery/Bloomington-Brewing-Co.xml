@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bloomington-Brewing-Co">
+  <name>Bloomington Brewing Co‎</name>
+  <address>
+    <street>1795 E 10th St</street>
+    <city>Bloomington</city>
+    <state>IN</state>
+    <zip>47408-3975</zip>
+    <latitude>39.171706</latitude>
+    <longitude>-86.511084</longitude>
+    <country>US</country>
+  </address>
+  <phone>(812) 323-2112</phone>
+</brewery>

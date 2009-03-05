@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Sapporo-Breweries-Ltd/LIGHT" brewery_id="Sapporo-Breweries-Ltd">
+  <name>LIGHT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-87975-91355-9">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83640</item>
+        <reg_price>$25.47</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$25.47</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$7.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

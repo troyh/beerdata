@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hornpout-Brewing-Co">
+  <name>Hornpout Brewing Co‎</name>
+  <address>
+    <street>1713 Industrial Pkwy</street>
+    <city>Lyndonville</city>
+    <state>VT</state>
+    <zip>05851-4424</zip>
+    <latitude>44.501322</latitude>
+    <longitude>-72.014496</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 748-2198</phone>
+</brewery>

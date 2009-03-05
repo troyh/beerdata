@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mt-Tallac-Brewing-Co">
+  <name>Mt Tallac Brewing Co‎</name>
+  <address>
+    <street>2060 Eloise Ave</street>
+    <city>South Lake Tahoe</city>
+    <state>CA</state>
+    <zip>96150-4304</zip>
+    <latitude>38.915737</latitude>
+    <longitude>-120.003287</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 541-7405</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Woodward-Avenue-Brewers">
+  <name>Woodward Avenue Brewers‎</name>
+  <address>
+    <street>22646 Woodward Ave</street>
+    <city>Ferndale</city>
+    <state>MI</state>
+    <zip>48220-1810</zip>
+    <latitude>42.459272</latitude>
+    <longitude>-83.133235</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 546-3696</phone>
+</brewery>

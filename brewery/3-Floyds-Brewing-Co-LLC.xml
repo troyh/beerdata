@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="3-Floyds-Brewing-Co-LLC">
+  <name>3 Floyds Brewing Co LLC‎</name>
+  <address>
+    <street>9750 Indiana Pkwy</street>
+    <city>Munster</city>
+    <state>IN</state>
+    <zip>46321-4004</zip>
+    <latitude>41.536648</latitude>
+    <longitude>-87.515906</longitude>
+    <country>US</country>
+  </address>
+  <phone>(219) 922-3565</phone>
+</brewery>

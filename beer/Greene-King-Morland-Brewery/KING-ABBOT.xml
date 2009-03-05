@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Greene-King-Morland-Brewery/KING-ABBOT" brewery_id="Greene-King-Morland-Brewery">
+  <name>KING ABBOT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-43015-11111-1">
+      <description>50L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>743015</item>
+        <reg_price>160.00</reg_price>
+        <post_off>160.00</post_off>
+        <net_case_price/>
+        <unit_price>160.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size upc="0-84662-00500-9">
+      <description>6/4/14.9 CAN</description>
+      <distributor>
+        <name>odom</name>
+        <item>743014</item>
+        <reg_price>41.96</reg_price>
+        <post_off>41.96</post_off>
+        <net_case_price/>
+        <unit_price>6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

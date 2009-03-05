@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Columbus-Bar">
+  <name>Columbus Bar‎</name>
+  <address>
+    <street>322 4th St</street>
+    <city>Columbus</city>
+    <state>IN</state>
+    <zip>47201-6726</zip>
+    <latitude>39.202536</latitude>
+    <longitude>-85.922242</longitude>
+    <country>US</country>
+  </address>
+  <phone>(812) 375-8800</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Amos-Howards-Restaurant-and-Brew-Works">
+  <name>Amos Howards Restaurant &amp; Brew Works‎</name>
+  <address>
+    <street>2828 Us Highway 70 SW</street>
+    <city>Hickory</city>
+    <state>NC</state>
+    <zip>28602-4630</zip>
+    <latitude>35.721332</latitude>
+    <longitude>-81.387119</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 323-8753</phone>
+</brewery>

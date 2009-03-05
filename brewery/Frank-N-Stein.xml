@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Frank-N-Stein">
+  <name>Frank N Stein‎</name>
+  <address>
+    <street>2030 Main St</street>
+    <city>Ferndale</city>
+    <state>WA</state>
+    <zip>98248-9468</zip>
+    <latitude>48.846951</latitude>
+    <longitude>-122.591487</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 383-0707</phone>
+</brewery>

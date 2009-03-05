@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Skyscraper-Brewing">
+  <name>Skyscraper Brewing‎</name>
+  <address>
+    <street>3229 Durfee Ave</street>
+    <city>El Monte</city>
+    <state>CA</state>
+    <zip>91732-3217</zip>
+    <latitude>34.061631</latitude>
+    <longitude>-118.012542</longitude>
+    <country>US</country>
+  </address>
+  <phone>(626) 575-0770</phone>
+</brewery>

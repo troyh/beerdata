@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Becks-Sports-Grill">
+  <name>Beck's Sports Grill‎</name>
+  <address>
+    <street>2210 College St</street>
+    <city>Cedar Falls</city>
+    <state>IA</state>
+    <zip>50613-3622</zip>
+    <latitude>42.517574</latitude>
+    <longitude>-92.455608</longitude>
+    <country>US</country>
+  </address>
+  <phone>(319) 277-2646</phone>
+</brewery>

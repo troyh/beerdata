@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Freeport-Brewing-Co">
+  <name>Freeport Brewing Co‎</name>
+  <address>
+    <street>46 Durham Rd</street>
+    <city>Freeport</city>
+    <state>ME</state>
+    <zip>04032-6702</zip>
+    <latitude>43.870626</latitude>
+    <longitude>-70.107370</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 865-9760</phone>
+</brewery>

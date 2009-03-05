@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Cinder-Cone-Red" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.50721033302416" abv="5.40" ibu="55">
+  <name>Cinder Cone Red</name>
+  <description>Cinder Cone Red's diverse selection of hops and barley captivates thirsty palates with its toffee-like flavor, intense citrus aroma and defined bitterness. â¨â¨Located on the northern slope of Mt. Bachelor, the Cinder Cone was also known as "Red Hill"" due to its reddish color that is revealed as the seasons change, the weather warms and the snow melts. It's spring. Time to get outside.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32940</item>
+        <reg_price>$58.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$72.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

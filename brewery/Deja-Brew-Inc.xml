@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Deja-Brew-Inc">
+  <name>Deja Brew Inc.‎</name>
+  <address>
+    <street>510 B Boston Turnpike Rd.</street>
+    <city>Shrewsbury</city>
+    <state>MA</state>
+    <zip>US</zip>
+    <latitude>42.290475</latitude>
+    <longitude>-71.721989</longitude>
+    <country/>
+  </address>
+  <phone>(508) 842-8991</phone>
+</brewery>

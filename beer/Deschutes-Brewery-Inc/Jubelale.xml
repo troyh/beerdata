@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Jubelale" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.608652399628993" abv="6.70" ibu="60">
+  <name>Jubelale</name>
+  <description>Did you know that Jubelale was the first beer ever bottled by Deschutes Brewery? Every year, fallâs crisp, cool air signals the imminent arrival of winter. Thoughts of snow, friends and family, the holidays, and â Jubelale. Brewed with dark crystal malt creating a luscious holiday note with bountiful hops to excite your taste budsâ itâs easy to see why Jubelale is the perfect complement to the season.â¨â¨Every year Deschutes Brewery selects a Northwest artist to create an image evocative of the seasonâs festive atmosphere. In 2008, Pam Jersey Bird, who lives in Sisters, painted a winding, abstract river running through the open spaces of Central Oregonâs desert, surrounded by fluttering snowfall.â¨â¨âBecause Jubelale is 'A Festive Winter Ale,' I wanted to portray a scene that was lively and colorful but also captured Central Oregonâs snowy climate,â says Pam Jersey Bird. âI decided to focus on the river that is the namesake of the brewery and also inspired the name of our town. Emphasizing the curve of the bank, I added snowflakes and ice crystals, which surround the blue moving waters of the Deschutes River.â More of Pam's work can be viewed at www.pamjerseybird.com.Â  </description>
+  <availability>fall/winter</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32944</item>
+        <reg_price>$58.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$58.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$72.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

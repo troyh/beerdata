@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wiltses-Brew-Pub-and-Family">
+  <name>Wiltse's Brew Pub &amp; Family‎</name>
+  <address>
+    <street>5606 F 41</street>
+    <city>Oscoda</city>
+    <state>MI</state>
+    <zip>48750-8611</zip>
+    <latitude>44.442578</latitude>
+    <longitude>-83.344647</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 739-2231</phone>
+</brewery>

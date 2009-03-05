@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Florida-Beer-Co">
+  <name>Florida Beer Co‎</name>
+  <address>
+    <street>2500 S Harbor City Blvd</street>
+    <city>Melbourne</city>
+    <state>FL</state>
+    <zip>32901-7206</zip>
+    <latitude>28.070355</latitude>
+    <longitude>-80.600711</longitude>
+    <country>US</country>
+  </address>
+  <phone>(321) 728-4473</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Seven-Bridges-Grille-and-Brewery">
+  <name>Seven Bridges Grille &amp; Brewery‎</name>
+  <address>
+    <street>9735 Gate Pkwy</street>
+    <city>Jacksonville</city>
+    <state>FL</state>
+    <zip>32246-8221</zip>
+    <latitude>30.261265</latitude>
+    <longitude>-81.553580</longitude>
+    <country>US</country>
+  </address>
+  <phone>(904) 997-1999</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blueberry-Hill">
+  <name>Blueberry Hill‎</name>
+  <address>
+    <street>2381 Sullivant Ave</street>
+    <city>Columbus</city>
+    <state>OH</state>
+    <zip>43204-3137</zip>
+    <latitude>39.945490</latitude>
+    <longitude>-83.062429</longitude>
+    <country>US</country>
+  </address>
+  <phone>(614) 272-9536</phone>
+</brewery>

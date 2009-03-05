@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Belhaven-Brewery/9-SCOT" brewery_id="Belhaven-Brewery">
+  <name>9 SCOT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-86950-00004-7">
+      <description>CAN 24/14</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82783</item>
+        <reg_price>$44.10</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$44.10</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$2.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

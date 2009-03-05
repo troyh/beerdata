@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-Star-Restaurant">
+  <name>North Star Restaurant‎</name>
+  <address>
+    <street>85 Westchester Ave</street>
+    <city>Pound Ridge</city>
+    <state>NY</state>
+    <zip>10576-1702</zip>
+    <latitude>41.191447</latitude>
+    <longitude>-73.553813</longitude>
+    <country>US</country>
+  </address>
+  <phone>(914) 764-0200</phone>
+</brewery>

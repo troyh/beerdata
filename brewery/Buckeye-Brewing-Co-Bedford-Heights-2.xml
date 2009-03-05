@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Buckeye-Brewing-Co-Bedford-Heights-2">
+  <name>Buckeye Brewing Co‎</name>
+  <address>
+    <street>25200 Miles Rd</street>
+    <city>Bedford Heights</city>
+    <state>OH</state>
+    <zip>44146-1321</zip>
+    <latitude>41.424164</latitude>
+    <longitude>-81.501148</longitude>
+    <country>US</country>
+  </address>
+  <phone>(216) 292-2739</phone>
+</brewery>

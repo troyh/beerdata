@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Keweenaw-Brewing-Co">
+  <name>Keweenaw Brewing Co‎</name>
+  <address>
+    <street>408 Shelden Ave</street>
+    <city>Houghton</city>
+    <state>MI</state>
+    <zip>49931-2138</zip>
+    <latitude>47.121979</latitude>
+    <longitude>-88.569167</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 482-5596</phone>
+</brewery>

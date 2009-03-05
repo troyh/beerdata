@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dodging-Duck-Brewhaus">
+  <name>Dodging Duck Brewhaus‎</name>
+  <address>
+    <street>402 River Rd</street>
+    <city>Boerne</city>
+    <state>TX</state>
+    <zip>78006-2312</zip>
+    <latitude>29.789588</latitude>
+    <longitude>-98.726021</longitude>
+    <country>US</country>
+  </address>
+  <phone>(830) 248-3825</phone>
+</brewery>

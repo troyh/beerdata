@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Chicago-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>1 W Grand Ave</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60610-4806</zip>
+    <latitude>41.891545</latitude>
+    <longitude>-87.628249</longitude>
+    <country>US</country>
+  </address>
+  <phone>(312) 755-9339</phone>
+</brewery>

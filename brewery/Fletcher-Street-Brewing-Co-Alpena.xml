@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fletcher-Street-Brewing-Co-Alpena">
+  <name>Fletcher Street Brewing Co‎</name>
+  <address>
+    <street>124 W Fletcher St</street>
+    <city>Alpena</city>
+    <state>MI</state>
+    <zip>49707-2302</zip>
+    <latitude>45.064724</latitude>
+    <longitude>-83.430058</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 356-2314</phone>
+</brewery>

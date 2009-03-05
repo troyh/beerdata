@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-St-Feuillien/TRIPEL" brewery_id="Brewery-St-Feuillien">
+  <name>TRIPEL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-47934-20233-8">
+      <description>4/1.5L BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621029</item>
+        <reg_price>82.16</reg_price>
+        <post_off>82.16</post_off>
+        <net_case_price/>
+        <unit_price>20.54</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

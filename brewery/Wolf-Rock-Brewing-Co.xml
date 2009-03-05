@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wolf-Rock-Brewing-Co">
+  <name>Wolf Rock Brewing Co‎</name>
+  <address>
+    <street>91 River Run Rd</street>
+    <city>Keystone</city>
+    <state>CO</state>
+    <zip>80435-7700</zip>
+    <latitude>39.606737</latitude>
+    <longitude>-105.944240</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 262-2202</phone>
+</brewery>

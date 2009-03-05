@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boulder-Beer-Company/NEVER-SUMMER-ALE" brewery_id="Boulder-Beer-Company">
+  <name>NEVER SUMMER ALE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-50939-61206-5">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>729027</item>
+        <reg_price>27.98</reg_price>
+        <post_off>23.97</post_off>
+        <net_case_price/>
+        <unit_price>7.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

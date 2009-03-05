@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gore-Range-Brewery">
+  <name>Gore Range Brewery‎</name>
+  <address>
+    <street>105 Edwards Village Blvd</street>
+    <city>Edwards</city>
+    <state>CO</state>
+    <zip>81632-9914</zip>
+    <latitude>39.643746</latitude>
+    <longitude>-106.595293</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 926-2739</phone>
+</brewery>

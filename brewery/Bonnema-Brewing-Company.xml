@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bonnema-Brewing-Company">
+  <name>Bonnema Brewing Company‎</name>
+  <address>
+    <street>6900 El Camino Real</street>
+    <city>Atascadero</city>
+    <state>CA</state>
+    <zip>93422-4209</zip>
+    <latitude>35.486869</latitude>
+    <longitude>-120.665958</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 462-3660</phone>
+</brewery>

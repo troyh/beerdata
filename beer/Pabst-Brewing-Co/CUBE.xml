@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Pabst-Brewing-Co/CUBE" brewery_id="Pabst-Brewing-Co">
+  <name>CUBE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-22100-00171-8">
+      <description>CAN 24/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>14452</item>
+        <reg_price>$13.20</reg_price>
+        <post_off>-$1.61</post_off>
+        <net_case_price>$11.59</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$14.49</deposit>
+      </distributor>
+    </size>
+    <size upc="0-22100-47510-6">
+      <description>CAN 1-24/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>14562</item>
+        <reg_price>$13.20</reg_price>
+        <post_off>-$1.61</post_off>
+        <net_case_price>$11.59</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$14.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

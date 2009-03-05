@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Humperdinks-Restaurant-Arlington-2">
+  <name>Humperdink's Restaurant‎</name>
+  <address>
+    <street>700 Six Flags Dr</street>
+    <city>Arlington</city>
+    <state>TX</state>
+    <zip>US</zip>
+    <latitude>32.735600</latitude>
+    <longitude>-97.107719</longitude>
+    <country/>
+  </address>
+  <phone>(817) 640-8553</phone>
+</brewery>

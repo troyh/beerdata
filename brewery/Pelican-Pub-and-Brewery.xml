@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pelican-Pub-and-Brewery">
+  <name>Pelican Pub and Brewery‎</name>
+  <address>
+    <street>33180 Cape Kiwanda Dr</street>
+    <city>Cloverdale</city>
+    <state>OR</state>
+    <zip>97112</zip>
+    <latitude>45.215589</latitude>
+    <longitude>-123.969906</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 965-7007</phone>
+</brewery>

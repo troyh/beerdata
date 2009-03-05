@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-and-Brewery">
+  <name>Hops Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>180 E Blackstock Rd</street>
+    <city>Spartanburg</city>
+    <state>SC</state>
+    <zip>29301-2605</zip>
+    <latitude>34.930836</latitude>
+    <longitude>-81.989247</longitude>
+    <country>US</country>
+  </address>
+  <phone>(864) 576-9511</phone>
+</brewery>

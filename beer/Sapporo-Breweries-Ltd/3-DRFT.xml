@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Sapporo-Breweries-Ltd/3-DRFT" brewery_id="Sapporo-Breweries-Ltd">
+  <name>3 DRFT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-87975-00630-5">
+      <description>BOTTLE 12/20</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83643</item>
+        <reg_price>$22.70</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$22.70</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$2.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

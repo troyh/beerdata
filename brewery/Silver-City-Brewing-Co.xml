@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silver-City-Brewing-Co">
+  <name>Silver City Brewing Co‎</name>
+  <address>
+    <street>101 E College Ave</street>
+    <city>Silver City</city>
+    <state>NM</state>
+    <zip>88061-5457</zip>
+    <latitude>32.774386</latitude>
+    <longitude>-108.275652</longitude>
+    <country>US</country>
+  </address>
+  <phone>(575) 534-2739</phone>
+</brewery>

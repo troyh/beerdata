@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Papago-Brewing-Co-Inc-Scottsdale">
+  <name>Papago Brewing Co Inc‎</name>
+  <address>
+    <street>7107 E Mcdowell Rd</street>
+    <city>Scottsdale</city>
+    <state>AZ</state>
+    <zip>85257-3315</zip>
+    <latitude>33.465492</latitude>
+    <longitude>-111.928497</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 425-7439</phone>
+</brewery>

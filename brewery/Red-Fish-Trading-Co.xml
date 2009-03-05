@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Red-Fish-Trading-Co">
+  <name>Red Fish Trading Co‎</name>
+  <address>
+    <street>3605 Pontchartrain Dr</street>
+    <city>Slidell</city>
+    <state>LA</state>
+    <zip>70458-4815</zip>
+    <latitude>30.256250</latitude>
+    <longitude>-89.788980</longitude>
+    <country>US</country>
+  </address>
+  <phone>(985) 643-1120</phone>
+</brewery>

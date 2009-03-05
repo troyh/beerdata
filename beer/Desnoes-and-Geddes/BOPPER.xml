@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Desnoes-and-Geddes/BOPPER" brewery_id="Desnoes-and-Geddes">
+  <name>BOPPER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-83820-56796-0">
+      <description>BOTTLE 12/24</description>
+      <distributor>
+        <name>columbia</name>
+        <item>58446</item>
+        <reg_price>$25.11</reg_price>
+        <post_off>-$4.20</post_off>
+        <net_case_price>$20.91</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$2.19</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

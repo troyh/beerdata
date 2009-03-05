@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Castlebay-Irish-Pub">
+  <name>Castlebay Irish Pub‎</name>
+  <address>
+    <street>193-A Main St</street>
+    <city>Annapolis</city>
+    <state>MD</state>
+    <zip>21401-2006</zip>
+    <latitude>38.977780</latitude>
+    <longitude>-76.490679</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 626-0165</phone>
+</brewery>

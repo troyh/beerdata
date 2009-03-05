@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bootleggers-Restaurant-and-Brewery">
+  <name>Bootleggers Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>101 S Madison Ave</street>
+    <city>Aurora</city>
+    <state>MO</state>
+    <zip>65605-1426</zip>
+    <latitude>36.974747</latitude>
+    <longitude>-93.721067</longitude>
+    <country>US</country>
+  </address>
+  <phone>(417) 678-2888</phone>
+</brewery>

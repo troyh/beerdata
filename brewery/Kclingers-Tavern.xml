@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kclingers-Tavern">
+  <name>Kclinger's Tavern‎</name>
+  <address>
+    <street>304 Poplar St</street>
+    <city>Hanover</city>
+    <state>PA</state>
+    <zip>17331-2358</zip>
+    <latitude>39.798575</latitude>
+    <longitude>-76.992236</longitude>
+    <country>US</country>
+  </address>
+  <phone>(717) 633-9197</phone>
+</brewery>

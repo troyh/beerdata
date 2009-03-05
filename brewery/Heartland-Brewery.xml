@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Heartland-Brewery">
+  <name>Heartland Brewery‎</name>
+  <address>
+    <street>35 Union Sq W # 1</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10003-3219</zip>
+    <latitude>40.736646</latitude>
+    <longitude>-73.990760</longitude>
+    <country>US</country>
+  </address>
+  <phone>(212) 645-3400</phone>
+</brewery>

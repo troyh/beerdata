@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tin-Mill-Brewing-Co">
+  <name>Tin Mill Brewing Co‎</name>
+  <address>
+    <street>114 Gutenberg St</street>
+    <city>Hermann</city>
+    <state>MO</state>
+    <zip>65041-1138</zip>
+    <latitude>38.706542</latitude>
+    <longitude>-91.433081</longitude>
+    <country>US</country>
+  </address>
+  <phone>(573) 486-2275</phone>
+</brewery>

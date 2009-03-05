@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Upstream-Brewing-Co">
+  <name>Upstream Brewing Co‎</name>
+  <address>
+    <street>17070 Wright Plz</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68130-2083</zip>
+    <latitude>41.233278</latitude>
+    <longitude>-96.179386</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 778-0100</phone>
+</brewery>

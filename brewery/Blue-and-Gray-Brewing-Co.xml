@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blue-and-Gray-Brewing-Co">
+  <name>Blue &amp; Gray Brewing Co‎</name>
+  <address>
+    <street>3321 Dill Smith Dr</street>
+    <city>Fredericksburg</city>
+    <state>VA</state>
+    <zip>22408-7319</zip>
+    <latitude>38.280562</latitude>
+    <longitude>-77.447066</longitude>
+    <country>US</country>
+  </address>
+  <phone>(540) 371-7799</phone>
+</brewery>

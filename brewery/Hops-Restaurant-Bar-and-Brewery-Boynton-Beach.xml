@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Restaurant-Bar-and-Brewery-Boynton-Beach">
+  <name>Hops Restaurant Bar &amp; Brewery‎</name>
+  <address>
+    <street>545 N Congress Ave</street>
+    <city>Boynton Beach</city>
+    <state>FL</state>
+    <zip>33426-3446</zip>
+    <latitude>26.532699</latitude>
+    <longitude>-80.090823</longitude>
+    <country>US</country>
+  </address>
+  <phone>(561) 731-3313</phone>
+</brewery>

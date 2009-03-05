@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Backcountry-Brewery-Frisco">
+  <name>Backcountry Brewery‎</name>
+  <address>
+    <street>720 Main St</street>
+    <city>Frisco</city>
+    <state>CO</state>
+    <zip>80443</zip>
+    <latitude>39.576522</latitude>
+    <longitude>-106.093166</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 668-2337</phone>
+</brewery>

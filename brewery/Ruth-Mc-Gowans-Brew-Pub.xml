@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ruth-Mc-Gowans-Brew-Pub">
+  <name>Ruth Mc Gowans Brew Pub‎</name>
+  <address>
+    <street>131 E 1st St</street>
+    <city>Cloverdale</city>
+    <state>CA</state>
+    <zip>95425-3701</zip>
+    <latitude>38.805263</latitude>
+    <longitude>-123.016541</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 894-9610</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bend-Brewing-Co">
+  <name>Bend Brewing Co‎</name>
+  <address>
+    <street>1019 NW Brooks St</street>
+    <city>Bend</city>
+    <state>OR</state>
+    <zip>97701-2018</zip>
+    <latitude>44.060219</latitude>
+    <longitude>-121.313848</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 383-1599</phone>
+</brewery>

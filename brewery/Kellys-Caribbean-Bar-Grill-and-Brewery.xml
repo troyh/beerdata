@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kellys-Caribbean-Bar-Grill-and-Brewery">
+  <name>Kelly's Caribbean Bar-Grill &amp; Brewery‎</name>
+  <address>
+    <street>301 Whitehead St</street>
+    <city>Key West</city>
+    <state>FL</state>
+    <zip>33040-6542</zip>
+    <latitude>24.557336</latitude>
+    <longitude>-81.805357</longitude>
+    <country>US</country>
+  </address>
+  <phone>(305) 293-7897</phone>
+</brewery>

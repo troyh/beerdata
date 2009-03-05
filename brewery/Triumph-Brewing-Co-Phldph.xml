@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triumph-Brewing-Co-Phldph">
+  <name>Triumph Brewing Co-Phldph‎</name>
+  <address>
+    <street>117 Chestnut St</street>
+    <city>Philadelphia</city>
+    <state>PA</state>
+    <zip>19106-3017</zip>
+    <latitude>39.948359</latitude>
+    <longitude>-75.143384</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 625-0855</phone>
+</brewery>

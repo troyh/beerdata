@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Yellowstone-Valley-Brewing-Co">
+  <name>Yellowstone Valley Brewing Co‎</name>
+  <address>
+    <street>2123 1st Ave N # B</street>
+    <city>Billings</city>
+    <state>MT</state>
+    <zip>59101-2404</zip>
+    <latitude>45.786250</latitude>
+    <longitude>-108.497497</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 245-0918</phone>
+</brewery>

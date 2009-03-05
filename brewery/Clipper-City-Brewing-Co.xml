@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Clipper-City-Brewing-Co">
+  <name>Clipper City Brewing Co‎</name>
+  <address>
+    <street>4615 Hollins Ferry Rd</street>
+    <city>Halethorpe</city>
+    <state>MD</state>
+    <zip>21227-4601</zip>
+    <latitude>39.232263</latitude>
+    <longitude>-76.675993</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 247-7822</phone>
+</brewery>

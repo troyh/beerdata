@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Berkshire-Brewing-Co">
+  <name>Berkshire Brewing Co‎</name>
+  <address>
+    <street>12 Railroad St</street>
+    <city>South Deerfield</city>
+    <state>MA</state>
+    <zip>01373-1034</zip>
+    <latitude>42.477981</latitude>
+    <longitude>-72.610212</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 665-6600</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Coddington-Brewing-Co">
+  <name>Coddington Brewing Co‎</name>
+  <address>
+    <street>210 Coddington Hwy</street>
+    <city>Middletown</city>
+    <state>RI</state>
+    <zip>02842-4884</zip>
+    <latitude>41.518789</latitude>
+    <longitude>-71.305813</longitude>
+    <country>US</country>
+  </address>
+  <phone>(401) 847-6690</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ukiah-Brewing-Co">
+  <name>Ukiah Brewing Co‎</name>
+  <address>
+    <street>102 S State St</street>
+    <city>Ukiah</city>
+    <state>CA</state>
+    <zip>95482-4903</zip>
+    <latitude>39.149892</latitude>
+    <longitude>-123.207681</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 468-5898</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wild-Mountain-Smokehouse-Nederland">
+  <name>Wild Mountain Smokehouse‎</name>
+  <address>
+    <street>70 E 1st St</street>
+    <city>Nederland</city>
+    <state>CO</state>
+    <zip>80466</zip>
+    <latitude>39.961749</latitude>
+    <longitude>-105.509233</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 258-9453</phone>
+</brewery>

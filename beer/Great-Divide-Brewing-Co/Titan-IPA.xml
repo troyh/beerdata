@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Great-Divide-Brewing-Co/Titan-IPA" brewery_id="Great-Divide-Brewing-Co">
+  <name>Titan IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="790586006144">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11024</item>
+        <reg_price>33.56</reg_price>
+        <post_off>$30.76</post_off>
+        <net_case_price/>
+        <unit_price>$8.39</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

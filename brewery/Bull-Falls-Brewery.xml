@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bull-Falls-Brewery">
+  <name>Bull Falls Brewery‎</name>
+  <address>
+    <street>901 E Thomas St</street>
+    <city>Wausau</city>
+    <state>WI</state>
+    <zip>54403-6450</zip>
+    <latitude>44.951364</latitude>
+    <longitude>-89.617974</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 359-0024</phone>
+</brewery>

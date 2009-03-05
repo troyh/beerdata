@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sprecher-Brewing-Co-Inc">
+  <name>Sprecher Brewing Co Inc‎</name>
+  <address>
+    <street>701 W Glendale Ave</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53209-6509</zip>
+    <latitude>43.100021</latitude>
+    <longitude>-87.919496</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 964-7837</phone>
+</brewery>

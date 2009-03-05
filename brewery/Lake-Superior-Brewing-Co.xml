@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lake-Superior-Brewing-Co">
+  <name>Lake Superior Brewing Co‎</name>
+  <address>
+    <street>N14283 Lake Ave</street>
+    <city>Grand Marais</city>
+    <state>MI</state>
+    <zip>49839</zip>
+    <latitude>46.674719</latitude>
+    <longitude>-85.985021</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 494-2337</phone>
+</brewery>

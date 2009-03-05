@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="North-Coast-Brewing-Co/Scrimshaw-Pilsner" brewery_id="North-Coast-Brewing-Co">
+  <name>Scrimshaw Pilsner</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="727344000076">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11520</item>
+        <reg_price>27.96</reg_price>
+        <post_off>$25.18</post_off>
+        <net_case_price/>
+        <unit_price>$6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

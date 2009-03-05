@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Horse-Brew-Pub">
+  <name>Big Horse Brew Pub‎</name>
+  <address>
+    <street>115 State St</street>
+    <city>Hood River</city>
+    <state>OR</state>
+    <zip>97031-2315</zip>
+    <latitude>45.708010</latitude>
+    <longitude>-121.511456</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 386-4411</phone>
+</brewery>

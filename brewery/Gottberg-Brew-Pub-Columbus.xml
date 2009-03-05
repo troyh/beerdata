@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gottberg-Brew-Pub-Columbus">
+  <name>Gottberg Brew Pub‎</name>
+  <address>
+    <street>2804 13th St</street>
+    <city>Columbus</city>
+    <state>NE</state>
+    <zip>68601-4919</zip>
+    <latitude>41.429449</latitude>
+    <longitude>-97.362112</longitude>
+    <country>US</country>
+  </address>
+  <phone>(402) 562-6488</phone>
+</brewery>

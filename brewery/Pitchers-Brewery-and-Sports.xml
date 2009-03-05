@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pitchers-Brewery-and-Sports">
+  <name>Pitcher's Brewery &amp; Sports‎</name>
+  <address>
+    <street>2501 11th Ave</street>
+    <city>Greeley</city>
+    <state>CO</state>
+    <zip>80631-6927</zip>
+    <latitude>40.397181</latitude>
+    <longitude>-104.697141</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 353-3393</phone>
+</brewery>

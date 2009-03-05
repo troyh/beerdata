@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-Savannah-Brewing-Company">
+  <name>Old Savannah Brewing Company‎</name>
+  <address>
+    <street>1108 Lexington Ave</street>
+    <city>Savannah</city>
+    <state>GA</state>
+    <zip>31404-5503</zip>
+    <latitude>32.033783</latitude>
+    <longitude>-81.090546</longitude>
+    <country>US</country>
+  </address>
+  <phone>(912) 236-7202</phone>
+</brewery>

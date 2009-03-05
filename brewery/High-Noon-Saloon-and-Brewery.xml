@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="High-Noon-Saloon-and-Brewery">
+  <name>High Noon Saloon &amp; Brewery‎</name>
+  <address>
+    <street>206 Choctaw St</street>
+    <city>Leavenworth</city>
+    <state>KS</state>
+    <zip>66048-2821</zip>
+    <latitude>39.316890</latitude>
+    <longitude>-94.910577</longitude>
+    <country>US</country>
+  </address>
+  <phone>(913) 682-4876</phone>
+</brewery>

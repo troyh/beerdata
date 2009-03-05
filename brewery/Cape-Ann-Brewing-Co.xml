@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cape-Ann-Brewing-Co">
+  <name>Cape Ann Brewing Co‎</name>
+  <address>
+    <street>27 Commercial St</street>
+    <city>Gloucester</city>
+    <state>MA</state>
+    <zip>01930-5033</zip>
+    <latitude>42.610325</latitude>
+    <longitude>-70.666246</longitude>
+    <country>US</country>
+  </address>
+  <phone>(978) 281-4782</phone>
+</brewery>

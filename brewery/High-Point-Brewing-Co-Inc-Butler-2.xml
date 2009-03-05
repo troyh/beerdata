@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="High-Point-Brewing-Co-Inc-Butler-2">
+  <name>High Point Brewing Co Inc‎</name>
+  <address>
+    <street>22 Park Pl</street>
+    <city>Butler</city>
+    <state>NJ</state>
+    <zip>07405-1311</zip>
+    <latitude>41.001815</latitude>
+    <longitude>-74.340319</longitude>
+    <country>US</country>
+  </address>
+  <phone>(973) 838-7400</phone>
+</brewery>

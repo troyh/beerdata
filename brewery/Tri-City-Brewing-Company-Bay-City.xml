@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tri-City-Brewing-Company-Bay-City">
+  <name>Tri-City Brewing Company‎</name>
+  <address>
+    <street>3020 N. Water St.</street>
+    <city>Bay City</city>
+    <state>MI</state>
+    <zip>48708-5454</zip>
+    <latitude>43.608790</latitude>
+    <longitude>-83.865761</longitude>
+    <country>US</country>
+  </address>
+  <phone>(989) 894-4950</phone>
+</brewery>

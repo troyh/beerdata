@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Franklins-General-Store">
+  <name>Franklin's General Store‎</name>
+  <address>
+    <street>27 Coogan Boulevard</street>
+    <city>4-C Olde Mistick Village</city>
+    <state>Mystic</state>
+    <zip>US</zip>
+    <latitude>41.350160</latitude>
+    <longitude>-71.959474</longitude>
+    <country/>
+  </address>
+  <phone>(860) 536-1038</phone>
+</brewery>

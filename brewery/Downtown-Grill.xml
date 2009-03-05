@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Downtown-Grill">
+  <name>Downtown Grill‎</name>
+  <address>
+    <street>562 Mulberry Street Ln</street>
+    <city>Macon</city>
+    <state>GA</state>
+    <zip>31201-2758</zip>
+    <latitude>32.836790</latitude>
+    <longitude>-83.628085</longitude>
+    <country>US</country>
+  </address>
+  <phone>(478) 742-5999</phone>
+</brewery>

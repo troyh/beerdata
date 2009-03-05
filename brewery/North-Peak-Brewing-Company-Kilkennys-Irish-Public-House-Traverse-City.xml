@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-Peak-Brewing-Company-Kilkennys-Irish-Public-House-Traverse-City">
+  <name>North Peak Brewing Company/Kilkenny's Irish Public House‎</name>
+  <address>
+    <street>400 W Front Street</street>
+    <city>Traverse City</city>
+    <state>MI</state>
+    <zip>49684-2206</zip>
+    <latitude>44.764172</latitude>
+    <longitude>-85.628561</longitude>
+    <country>US</country>
+  </address>
+  <phone>(231) 941-7325</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Liberty-Steakhouse-and-Brewery">
+  <name>Liberty Steakhouse &amp; Brewery‎</name>
+  <address>
+    <street>1321 Celebrity Cir # R4</street>
+    <city>Myrtle Beach</city>
+    <state>SC</state>
+    <zip>29577-7445</zip>
+    <latitude>33.714614</latitude>
+    <longitude>-78.884360</longitude>
+    <country>US</country>
+  </address>
+  <phone>(843) 626-4677</phone>
+</brewery>

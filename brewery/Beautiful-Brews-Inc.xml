@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Beautiful-Brews-Inc">
+  <name>Beautiful Brews Inc‎</name>
+  <address>
+    <street>404 South L Street</street>
+    <city>Lake Worth</city>
+    <state>FL</state>
+    <zip>33460-4516</zip>
+    <latitude>26.610776</latitude>
+    <longitude>-80.054407</longitude>
+    <country>US</country>
+  </address>
+  <phone>(561) 582-6308</phone>
+</brewery>

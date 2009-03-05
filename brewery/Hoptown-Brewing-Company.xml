@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hoptown-Brewing-Company">
+  <name>Hoptown Brewing Company‎</name>
+  <address>
+    <street>5937 Graham Ct # D</street>
+    <city>Livermore</city>
+    <state>CA</state>
+    <zip>94550-9710</zip>
+    <latitude>37.677946</latitude>
+    <longitude>-121.719401</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 426-5665</phone>
+</brewery>

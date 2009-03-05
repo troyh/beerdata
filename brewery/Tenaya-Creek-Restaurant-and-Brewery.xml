@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tenaya-Creek-Restaurant-and-Brewery">
+  <name>Tenaya Creek Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>3101 N Tenaya Way</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89128-0437</zip>
+    <latitude>36.216713</latitude>
+    <longitude>-115.251435</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 362-7335</phone>
+</brewery>

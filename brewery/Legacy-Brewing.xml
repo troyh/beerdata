@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Legacy-Brewing">
+  <name>Legacy Brewing‎</name>
+  <address>
+    <street>535 Canal St</street>
+    <city>Reading</city>
+    <state>PA</state>
+    <zip>19602-2675</zip>
+    <latitude>40.325363</latitude>
+    <longitude>-75.927411</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 376-9996</phone>
+</brewery>

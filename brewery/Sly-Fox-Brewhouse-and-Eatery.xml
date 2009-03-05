@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sly-Fox-Brewhouse-and-Eatery">
+  <name>Sly Fox Brewhouse &amp; Eatery‎</name>
+  <address>
+    <street>519 Kimberton Rd</street>
+    <city>Phoenixville</city>
+    <state>PA</state>
+    <zip>19460-4745</zip>
+    <latitude>40.129631</latitude>
+    <longitude>-75.549217</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 935-4540</phone>
+</brewery>

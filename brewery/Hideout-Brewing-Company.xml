@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hideout-Brewing-Company">
+  <name>Hideout Brewing Company‎</name>
+  <address>
+    <street>3113 Plaza Dr NE</street>
+    <city>Grand Rapids</city>
+    <state>MI</state>
+    <zip>49525-2901</zip>
+    <latitude>43.017838</latitude>
+    <longitude>-85.629618</longitude>
+    <country>US</country>
+  </address>
+  <phone>(616) 361-9658</phone>
+</brewery>

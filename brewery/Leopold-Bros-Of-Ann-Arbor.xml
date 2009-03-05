@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Leopold-Bros-Of-Ann-Arbor">
+  <name>Leopold Bros Of Ann Arbor‎</name>
+  <address>
+    <street>523 S Main St</street>
+    <city>Ann Arbor</city>
+    <state>MI</state>
+    <zip>48104-2920</zip>
+    <latitude>42.275307</latitude>
+    <longitude>-83.748643</longitude>
+    <country>US</country>
+  </address>
+  <phone>(734) 747-9806</phone>
+</brewery>

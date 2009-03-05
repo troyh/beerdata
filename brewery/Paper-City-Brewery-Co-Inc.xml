@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Paper-City-Brewery-Co-Inc">
+  <name>Paper City Brewery Co Inc‎</name>
+  <address>
+    <street>108 Cabot St</street>
+    <city>Holyoke</city>
+    <state>MA</state>
+    <zip>01040-6061</zip>
+    <latitude>42.201406</latitude>
+    <longitude>-72.609982</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 535-1588</phone>
+</brewery>

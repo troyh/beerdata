@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Blue-Moon-Brewing-Co/LNNR" brewery_id="Blue-Moon-Brewing-Co">
+  <name>LNNR</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-71990-09516-1">
+      <description>BOTTLE 2/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>10820</item>
+        <reg_price>$25.16</reg_price>
+        <post_off>-$5.68</post_off>
+        <net_case_price>$19.48</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$12.19</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

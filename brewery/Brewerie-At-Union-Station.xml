@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewerie-At-Union-Station">
+  <name>Brewerie At Union Station‎</name>
+  <address>
+    <street>123 W 14th St</street>
+    <city>Erie</city>
+    <state>PA</state>
+    <zip>16501-1717</zip>
+    <latitude>42.120943</latitude>
+    <longitude>-80.082063</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 454-2200</phone>
+</brewery>

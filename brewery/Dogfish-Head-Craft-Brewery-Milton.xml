@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dogfish-Head-Craft-Brewery-Milton">
+  <name>Dogfish Head Craft Brewery‎</name>
+  <address>
+    <street>6 Cannery Village Center</street>
+    <city>Milton</city>
+    <state>DE</state>
+    <zip>19968-1328</zip>
+    <latitude>38.771568</latitude>
+    <longitude>-75.311975</longitude>
+    <country>US</country>
+  </address>
+  <phone>(302) 684-1000</phone>
+</brewery>

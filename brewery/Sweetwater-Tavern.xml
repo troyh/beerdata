@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sweetwater-Tavern">
+  <name>Sweetwater Tavern‎</name>
+  <address>
+    <street>3066 Gate House Plz</street>
+    <city>Falls Church</city>
+    <state>VA</state>
+    <zip>22042-1028</zip>
+    <latitude>38.866495</latitude>
+    <longitude>-77.229152</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 645-8100</phone>
+</brewery>

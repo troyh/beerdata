@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triple-J-Chophouse-and-Brew-Co">
+  <name>Triple J Chophouse and Brew Co.‎</name>
+  <address>
+    <street>1807 Buddy Holly</street>
+    <city>Lubbock</city>
+    <state>TX</state>
+    <zip>79401-5136</zip>
+    <latitude>33.578803</latitude>
+    <longitude>-101.844256</longitude>
+    <country>US</country>
+  </address>
+  <phone>(806) 771-6555</phone>
+</brewery>

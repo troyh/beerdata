@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="75th-Street-Brewery">
+  <name>75th Street Brewery‎</name>
+  <address>
+    <street>520 W 75th St</street>
+    <city>Kansas City</city>
+    <state>MO</state>
+    <zip>64114-1513</zip>
+    <latitude>38.992604</latitude>
+    <longitude>-94.596099</longitude>
+    <country>US</country>
+  </address>
+  <phone>(816) 523-4677</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lafayette-Brewing-Co">
+  <name>Lafayette Brewing Co‎</name>
+  <address>
+    <street>622 Main St</street>
+    <city>Lafayette</city>
+    <state>IN</state>
+    <zip>47901-1451</zip>
+    <latitude>40.419327</latitude>
+    <longitude>-86.890071</longitude>
+    <country>US</country>
+  </address>
+  <phone>(765) 742-2591</phone>
+</brewery>

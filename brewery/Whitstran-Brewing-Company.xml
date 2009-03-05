@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Whitstran-Brewing-Company">
+  <name>Whitstran Brewing Company‎</name>
+  <address>
+    <street>2880 Lee Rd</street>
+    <city>Prosser</city>
+    <state>WA</state>
+    <zip>99350-5520</zip>
+    <latitude>46.218572</latitude>
+    <longitude>-119.728602</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 786-3883</phone>
+</brewery>

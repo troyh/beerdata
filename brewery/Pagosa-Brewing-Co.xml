@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pagosa-Brewing-Co">
+  <name>Pagosa Brewing Co‎</name>
+  <address>
+    <street>100 N Pagosa Blvd</street>
+    <city>Pagosa Springs</city>
+    <state>CO</state>
+    <zip>81147-8470</zip>
+    <latitude>37.255037</latitude>
+    <longitude>-107.078851</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 731-2739</phone>
+</brewery>

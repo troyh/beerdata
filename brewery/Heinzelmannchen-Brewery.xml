@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Heinzelmannchen-Brewery">
+  <name>Heinzelmannchen Brewery‎</name>
+  <address>
+    <street>545 Mill St</street>
+    <city>Sylva</city>
+    <state>NC</state>
+    <zip>28779-5546</zip>
+    <latitude>35.373821</latitude>
+    <longitude>-83.222823</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 631-4466</phone>
+</brewery>

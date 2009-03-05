@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Indianapolis-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>10 W Washington St</street>
+    <city>Indianapolis</city>
+    <state>IN</state>
+    <zip>46204-3402</zip>
+    <latitude>39.767236</latitude>
+    <longitude>-86.158392</longitude>
+    <country>US</country>
+  </address>
+  <phone>(317) 681-8180</phone>
+</brewery>

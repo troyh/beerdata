@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="5-Seasons-Brewing-Atlanta-2">
+  <name>5 Seasons Brewing‎</name>
+  <address>
+    <street>5600 Roswell Rd NE # 21</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30342-1103</zip>
+    <latitude>33.907714</latitude>
+    <longitude>-84.378863</longitude>
+    <country>US</country>
+  </address>
+  <phone>(404) 255-5911</phone>
+</brewery>

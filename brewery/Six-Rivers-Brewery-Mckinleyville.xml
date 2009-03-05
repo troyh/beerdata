@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Six-Rivers-Brewery-Mckinleyville">
+  <name>Six Rivers Brewery‎</name>
+  <address>
+    <street>1300 Central Ave</street>
+    <city>Mckinleyville</city>
+    <state>CA</state>
+    <zip>95519-4301</zip>
+    <latitude>40.928948</latitude>
+    <longitude>-124.101049</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 839-7580</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pizzeria-Uno-Chicago-Grill-and-Brewery-Metuchen">
+  <name>Pizzeria Uno Chicago Grill &amp; Brewery‎</name>
+  <address>
+    <street>55 Parsonage Rd</street>
+    <city>Metuchen</city>
+    <state>NJ</state>
+    <zip>US</zip>
+    <latitude>40.544165</latitude>
+    <longitude>-74.363029</longitude>
+    <country/>
+  </address>
+  <phone>(732) 548-7979</phone>
+</brewery>

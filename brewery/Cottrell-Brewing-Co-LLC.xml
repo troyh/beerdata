@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cottrell-Brewing-Co-LLC">
+  <name>Cottrell Brewing Co LLC‎</name>
+  <address>
+    <street>100 Mechanic St # 22</street>
+    <city>Pawcatuck</city>
+    <state>CT</state>
+    <zip>06379</zip>
+    <latitude>41.370350</latitude>
+    <longitude>-71.834391</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 599-8213</phone>
+</brewery>

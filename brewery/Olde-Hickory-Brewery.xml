@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Olde-Hickory-Brewery">
+  <name>Olde Hickory Brewery‎</name>
+  <address>
+    <street>222 Union Sq NW</street>
+    <city>Hickory</city>
+    <state>NC</state>
+    <zip>28601-6110</zip>
+    <latitude>35.732145</latitude>
+    <longitude>-81.340454</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 322-1422</phone>
+</brewery>

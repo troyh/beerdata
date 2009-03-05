@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Roseburg-Station-Pub-and-Brewery">
+  <name>Roseburg Station Pub &amp; Brewery‎</name>
+  <address>
+    <street>700 SE Sheridan St</street>
+    <city>Roseburg</city>
+    <state>OR</state>
+    <zip>97470-3470</zip>
+    <latitude>43.209203</latitude>
+    <longitude>-123.348308</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 672-1934</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Barrington-Brewery-and-Restaurant">
+  <name>Barrington Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>420 Stockbridge Rd</street>
+    <city>Great Barrington</city>
+    <state>MA</state>
+    <zip>01230-9513</zip>
+    <latitude>42.215899</latitude>
+    <longitude>-73.343669</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 528-8282</phone>
+</brewery>

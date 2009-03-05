@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Anchor-Brewing-Co/FOGHORN" brewery_id="Anchor-Brewing-Co">
+  <name>FOGHORN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-72783-10400-8">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81433</item>
+        <reg_price>$44.95</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$44.95</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$14.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

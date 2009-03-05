@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Fish-Brewing-Co/BLONDE-BTL" brewery_id="Fish-Brewing-Co">
+  <name>BLONDE BTL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-19917-00240-5">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>992051</item>
+        <reg_price>26.56</reg_price>
+        <post_off>26.56</post_off>
+        <net_case_price/>
+        <unit_price>6.64</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

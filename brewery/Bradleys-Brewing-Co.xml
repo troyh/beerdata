@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bradleys-Brewing-Co">
+  <name>Bradley's Brewing Co‎</name>
+  <address>
+    <street>8942 Greenback Ln # C</street>
+    <city>Orangevale</city>
+    <state>CA</state>
+    <zip>95662-4633</zip>
+    <latitude>38.678337</latitude>
+    <longitude>-121.223570</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 988-2723</phone>
+</brewery>

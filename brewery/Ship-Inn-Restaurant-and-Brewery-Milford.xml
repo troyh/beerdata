@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ship-Inn-Restaurant-and-Brewery-Milford">
+  <name>Ship Inn Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>61 Bridge St</street>
+    <city>Milford</city>
+    <state>NJ</state>
+    <zip>08848-1264</zip>
+    <latitude>40.568551</latitude>
+    <longitude>-75.095346</longitude>
+    <country>US</country>
+  </address>
+  <phone>(908) 995-0188</phone>
+</brewery>

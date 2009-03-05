@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Allagash-Brewing-Co-Inc/Dubbel" brewery_id="Allagash-Brewing-Co-Inc">
+  <name>Dubbel</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="603675102958">
+      <description>12/25.4 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10004</item>
+        <reg_price>83.88</reg_price>
+        <post_off>$75.48</post_off>
+        <net_case_price/>
+        <unit_price>$6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

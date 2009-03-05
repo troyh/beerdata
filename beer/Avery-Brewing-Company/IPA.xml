@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Avery-Brewing-Company/IPA" brewery_id="Avery-Brewing-Company">
+  <name>IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>5.16 gal</description>
+      <distributor>
+        <name>click</name>
+        <item>60576</item>
+        <reg_price>$65.00</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+    <size>
+      <description>KEG 1/2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81659</item>
+        <reg_price>$145.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$145.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$181.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

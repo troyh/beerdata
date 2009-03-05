@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="North-Coast-Brewing-Co/Pranqster-Belgian-Style-Ale" brewery_id="North-Coast-Brewing-Co">
+  <name>Pranqster Belgian Style Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="727344000380">
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11536</item>
+        <reg_price>37.75</reg_price>
+        <post_off>$35.64</post_off>
+        <net_case_price/>
+        <unit_price>$6.29</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Weyerbacher-Brew-Pub-Easton">
+  <name>Weyerbacher Brew Pub‎</name>
+  <address>
+    <street>905 Line St</street>
+    <city>Easton</city>
+    <state>PA</state>
+    <zip>18042-7312</zip>
+    <latitude>40.673314</latitude>
+    <longitude>-75.224631</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 559-5561</phone>
+</brewery>

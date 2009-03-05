@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-River-Grille-and-Brewing-Works">
+  <name>Big River Grille &amp; Brewing Works‎</name>
+  <address>
+    <street>111 Broadway</street>
+    <city>Nashville</city>
+    <state>TN</state>
+    <zip>37138-2401</zip>
+    <latitude>36.225545</latitude>
+    <longitude>-86.626433</longitude>
+    <country>US</country>
+  </address>
+  <phone>(615) 251-4677</phone>
+</brewery>

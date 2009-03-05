@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Liberal-Cup-Public-House-and-Brewery">
+  <name>Liberal Cup Public House and Brewery‎</name>
+  <address>
+    <street>115 Water St</street>
+    <city>Hallowell</city>
+    <state>ME</state>
+    <zip>04347-1314</zip>
+    <latitude>44.286367</latitude>
+    <longitude>-69.790234</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 623-2739</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="23rd-Street-Brewery">
+  <name>23rd Street Brewery‎</name>
+  <address>
+    <street>3512 Clinton Pkwy</street>
+    <city>Lawrence</city>
+    <state>KS</state>
+    <zip>66047-2145</zip>
+    <latitude>38.942847</latitude>
+    <longitude>-95.280332</longitude>
+    <country>US</country>
+  </address>
+  <phone>(785) 856-2337</phone>
+</brewery>

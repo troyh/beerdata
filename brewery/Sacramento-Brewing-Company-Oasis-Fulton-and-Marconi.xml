@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sacramento-Brewing-Company-Oasis-Fulton-and-Marconi">
+  <name>Sacramento Brewing Company Oasis: Fulton &amp; Marconi‎</name>
+  <address>
+    <street>2713 El Paseo Ln</street>
+    <city>Sacramento</city>
+    <state>CA</state>
+    <zip>95821-4905</zip>
+    <latitude>38.619262</latitude>
+    <longitude>-121.400511</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 485-4677</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brays-Brew-Pub-and-Eatery">
+  <name>Bray's Brew Pub &amp; Eatery‎</name>
+  <address>
+    <street>678 Roosevelt Trl</street>
+    <city>Naples</city>
+    <state>ME</state>
+    <zip>04055-5335</zip>
+    <latitude>43.969849</latitude>
+    <longitude>-70.599421</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 693-6806</phone>
+</brewery>

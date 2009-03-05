@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Piece-Brewery">
+  <name>Piece Brewery‎</name>
+  <address>
+    <street>1927 W North Ave</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60622-1316</zip>
+    <latitude>41.910364</latitude>
+    <longitude>-87.676022</longitude>
+    <country>US</country>
+  </address>
+  <phone>(773) 772-4422</phone>
+</brewery>

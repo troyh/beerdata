@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McGuires-Irish-Pub-and-Brewery-Pensacola">
+  <name>McGuire's Irish Pub &amp; Brewery‎</name>
+  <address>
+    <street>600 E Gregory St</street>
+    <city>Pensacola</city>
+    <state>FL</state>
+    <zip>32502-4140</zip>
+    <latitude>30.417607</latitude>
+    <longitude>-87.204125</longitude>
+    <country>US</country>
+  </address>
+  <phone>(850) 433-6789</phone>
+</brewery>

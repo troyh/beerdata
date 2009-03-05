@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Michigan-House-Cafe-and-Brew-Pub">
+  <name>Michigan House Cafe &amp; Brew Pub‎</name>
+  <address>
+    <street>300 6th St</street>
+    <city>Calumet</city>
+    <state>MI</state>
+    <zip>49913-1508</zip>
+    <latitude>47.246531</latitude>
+    <longitude>-88.453581</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 337-1910</phone>
+</brewery>

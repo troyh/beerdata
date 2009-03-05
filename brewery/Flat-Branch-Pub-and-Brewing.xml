@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flat-Branch-Pub-and-Brewing">
+  <name>Flat Branch Pub &amp; Brewing‎</name>
+  <address>
+    <street>115 S 5th St</street>
+    <city>Columbia</city>
+    <state>MO</state>
+    <zip>65201-4230</zip>
+    <latitude>38.950341</latitude>
+    <longitude>-92.332059</longitude>
+    <country>US</country>
+  </address>
+  <phone>(573) 499-0400</phone>
+</brewery>

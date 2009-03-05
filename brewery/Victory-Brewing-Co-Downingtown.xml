@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Victory-Brewing-Co-Downingtown">
+  <name>Victory Brewing Co‎</name>
+  <address>
+    <street>420 Acorn Ln</street>
+    <city>Downingtown</city>
+    <state>PA</state>
+    <zip>19335-3040</zip>
+    <latitude>40.006024</latitude>
+    <longitude>-75.693788</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 873-0881</phone>
+</brewery>

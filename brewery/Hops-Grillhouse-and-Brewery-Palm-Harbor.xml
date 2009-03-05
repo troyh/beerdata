@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-and-Brewery-Palm-Harbor">
+  <name>Hops Grillhouse &amp; Brewery‎</name>
+  <address>
+    <street>34684 Us-19</street>
+    <city>Palm Harbor</city>
+    <state>FL</state>
+    <zip>34684</zip>
+    <latitude>28.087355</latitude>
+    <longitude>-82.739687</longitude>
+    <country>US</country>
+  </address>
+  <phone>(727) 789-5678</phone>
+</brewery>

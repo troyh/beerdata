@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McCall-Brewing-Company-Mccall">
+  <name>McCall Brewing Company‎</name>
+  <address>
+    <street>807 N 3rd St</street>
+    <city>Mccall</city>
+    <state>ID</state>
+    <zip>83638-3806</zip>
+    <latitude>44.904998</latitude>
+    <longitude>-116.097571</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 634-3309</phone>
+</brewery>

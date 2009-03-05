@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Avery-Brewing-Company">
+  <name>Avery Brewing Company‎</name>
+  <address>
+    <street>5763 Arapahoe Ave # E</street>
+    <city>Boulder</city>
+    <state>CO</state>
+    <zip>80303-1331</zip>
+    <latitude>40.014850</latitude>
+    <longitude>-105.217898</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 440-4324</phone>
+</brewery>

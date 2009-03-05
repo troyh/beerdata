@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Three-Needs">
+  <name>Three Needs‎</name>
+  <address>
+    <street>207 College St</street>
+    <city>Burlington</city>
+    <state>VT</state>
+    <zip>05401-8306</zip>
+    <latitude>44.477011</latitude>
+    <longitude>-73.211839</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 658-0889</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elk-Creek-Cafe-Aleworks">
+  <name>Elk Creek Cafe Aleworks‎</name>
+  <address>
+    <street>100 W Main St</street>
+    <city>Millheim</city>
+    <state>PA</state>
+    <zip>16854</zip>
+    <latitude>40.891045</latitude>
+    <longitude>-77.476948</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 349-8850</phone>
+</brewery>

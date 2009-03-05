@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Copper-Creek-Brewing-Co">
+  <name>Copper Creek Brewing Co‎</name>
+  <address>
+    <street>140 E Washington St</street>
+    <city>Athens</city>
+    <state>GA</state>
+    <zip>30601-2747</zip>
+    <latitude>33.958992</latitude>
+    <longitude>-83.376666</longitude>
+    <country>US</country>
+  </address>
+  <phone>(706) 546-1102</phone>
+</brewery>

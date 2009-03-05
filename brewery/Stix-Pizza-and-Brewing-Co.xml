@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stix-Pizza-and-Brewing-Co">
+  <name>Stix Pizza &amp; Brewing Co.‎</name>
+  <address>
+    <street>1001 Fairview Ave N</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98109-4416</zip>
+    <latitude>47.628006</latitude>
+    <longitude>-122.332056</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 749-9088</phone>
+</brewery>

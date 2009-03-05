@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Flat-Earth-Brewing-Co">
+  <name>Flat Earth Brewing Co‎</name>
+  <address>
+    <street>2035 Benson Ave</street>
+    <city>St Paul</city>
+    <state>MN</state>
+    <zip>55116-3213</zip>
+    <latitude>44.908551</latitude>
+    <longitude>-93.153803</longitude>
+    <country>US</country>
+  </address>
+  <phone>(651) 698-1945</phone>
+</brewery>

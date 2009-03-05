@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Green-Point-Beerworks-Brooklyn">
+  <name>Green Point Beerworks‎</name>
+  <address>
+    <street>529 Waverly Ave</street>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zip>11238-2701</zip>
+    <latitude>40.682624</latitude>
+    <longitude>-73.965580</longitude>
+    <country>US</country>
+  </address>
+  <phone>(718) 398-2731</phone>
+</brewery>

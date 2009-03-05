@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hunter-Gatherer-Brewery-and-Ale">
+  <name>Hunter-Gatherer Brewery &amp; Ale‎</name>
+  <address>
+    <street>900 Main St</street>
+    <city>Columbia</city>
+    <state>SC</state>
+    <zip>29201-3964</zip>
+    <latitude>33.997332</latitude>
+    <longitude>-81.031644</longitude>
+    <country>US</country>
+  </address>
+  <phone>(803) 748-0540</phone>
+</brewery>

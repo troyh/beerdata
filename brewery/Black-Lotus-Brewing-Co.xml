@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Black-Lotus-Brewing-Co">
+  <name>Black Lotus Brewing Co‎</name>
+  <address>
+    <street>1 E 14 Mile Rd</street>
+    <city>Clawson</city>
+    <state>MI</state>
+    <zip>48017-2132</zip>
+    <latitude>42.533544</latitude>
+    <longitude>-83.146107</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 577-1878</phone>
+</brewery>

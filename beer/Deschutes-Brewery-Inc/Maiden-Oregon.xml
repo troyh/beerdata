@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Deschutes-Brewery-Inc/Maiden-Oregon" brewery_id="Deschutes-Brewery-Inc" abv="8.00" ibu="21">
+  <name>Maiden Oregon</name>
+  <description>Createdto celebrate Oregon's 150th anniversary, this Belgian amber ale was brewed using all Oregon ingredients.Â  Crystal hops form the Willamette Valley, organic 2-row barley from Klamath Falls, water from Mt. Hood, Oregon beet sugar from Nyssa, and yeast from Wyeast labs in Hood River are all it took to brew this fabulous ale.Â  Happy Birthday Oregon!</description>
+  <availability>special release</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="16B">Belgian Pale Ale</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>13.2</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Schooners-Grille-and-Brewery">
+  <name>Schooner's Grille &amp; Brewery‎</name>
+  <address>
+    <street>4250 Lone Tree Way</street>
+    <city>Antioch</city>
+    <state>CA</state>
+    <zip>94531-7442</zip>
+    <latitude>37.967642</latitude>
+    <longitude>-121.785302</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 776-1800</phone>
+</brewery>

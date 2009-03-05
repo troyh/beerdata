@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Steelhead-Micro-Brewery">
+  <name>Steelhead Micro Brewery‎</name>
+  <address>
+    <street>4175 Campus Dr</street>
+    <city>Irvine</city>
+    <state>CA</state>
+    <zip>92612-2618</zip>
+    <latitude>33.649833</latitude>
+    <longitude>-117.840363</longitude>
+    <country>US</country>
+  </address>
+  <phone>(949) 856-2227</phone>
+</brewery>

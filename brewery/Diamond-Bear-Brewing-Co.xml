@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Diamond-Bear-Brewing-Co">
+  <name>Diamond Bear Brewing Co‎</name>
+  <address>
+    <street>323 S Cross St # C</street>
+    <city>Little Rock</city>
+    <state>AR</state>
+    <zip>72201-1911</zip>
+    <latitude>34.747611</latitude>
+    <longitude>-92.283691</longitude>
+    <country>US</country>
+  </address>
+  <phone>(501) 708-2739</phone>
+</brewery>

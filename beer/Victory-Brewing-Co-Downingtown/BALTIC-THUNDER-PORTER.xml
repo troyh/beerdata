@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Victory-Brewing-Co-Downingtown/BALTIC-THUNDER-PORTER" brewery_id="Victory-Brewing-Co-Downingtown">
+  <name>BALTIC THUNDER PORTER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="---">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>436016</item>
+        <reg_price>46.96</reg_price>
+        <post_off>46.96</post_off>
+        <net_case_price/>
+        <unit_price>3.91</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size upc="---">
+      <description>12/22 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>436016</item>
+        <reg_price>46.96</reg_price>
+        <post_off>46.96</post_off>
+        <net_case_price/>
+        <unit_price>3.91</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elysian-Tangletown-Seattle-2">
+  <name>Elysian-Tangletown‎</name>
+  <address>
+    <street>2106 N 55th St</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98103-6202</zip>
+    <latitude>47.668754</latitude>
+    <longitude>-122.333554</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 547-5929</phone>
+</brewery>

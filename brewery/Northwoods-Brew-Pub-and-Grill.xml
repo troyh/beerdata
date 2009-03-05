@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Northwoods-Brew-Pub-and-Grill">
+  <name>Northwoods Brew Pub &amp; Grill‎</name>
+  <address>
+    <street>3560 Oakwood Mall Dr</street>
+    <city>Eau Claire</city>
+    <state>WI</state>
+    <zip>54701-2609</zip>
+    <latitude>44.780051</latitude>
+    <longitude>-91.440717</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 552-0510</phone>
+</brewery>

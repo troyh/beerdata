@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Moosejaw-Pizza-and-Dells-Brewing-Company">
+  <name>Moosejaw Pizza &amp; Dells Brewing Company‎</name>
+  <address>
+    <street>110 Wisconsin Dells Pkwy S</street>
+    <city>Wisconsin Dells</city>
+    <state>WI</state>
+    <zip>53965</zip>
+    <latitude>43.588968</latitude>
+    <longitude>-89.791874</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 254-1122</phone>
+</brewery>

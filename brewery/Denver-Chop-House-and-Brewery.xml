@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Denver-Chop-House-and-Brewery">
+  <name>Denver Chop House &amp; Brewery‎</name>
+  <address>
+    <street>1735 19th St # 100</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80202-1005</zip>
+    <latitude>39.754831</latitude>
+    <longitude>-104.997319</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 296-0800</phone>
+</brewery>

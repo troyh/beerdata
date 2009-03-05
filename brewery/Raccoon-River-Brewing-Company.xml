@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Raccoon-River-Brewing-Company">
+  <name>Raccoon River Brewing Company‎</name>
+  <address>
+    <street>200 10th Street</street>
+    <city>Des Moines</city>
+    <state>IA</state>
+    <zip>50309-3656</zip>
+    <latitude>41.583967</latitude>
+    <longitude>-93.629342</longitude>
+    <country>US</country>
+  </address>
+  <phone>(515) 362-5222</phone>
+</brewery>

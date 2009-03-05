@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mohegan-Sun-Casino-Uncasville">
+  <name>Mohegan Sun Casino‎</name>
+  <address>
+    <street>1 Mohegan Sun Blvd</street>
+    <city>Uncasville</city>
+    <state>CT</state>
+    <zip>06382-1355</zip>
+    <latitude>41.492244</latitude>
+    <longitude>-72.095740</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 862-8000</phone>
+</brewery>

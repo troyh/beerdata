@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boston-Beer-Co">
+  <name>Boston Beer Co‎</name>
+  <address>
+    <street>30 Germania St</street>
+    <city>Jamaica Plain</city>
+    <state>MA</state>
+    <zip>02130-2373</zip>
+    <latitude>42.314138</latitude>
+    <longitude>-71.102888</longitude>
+    <country>US</country>
+  </address>
+  <phone>(617) 983-9036</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="New-Belgium-Brewing/M-ARROW" brewery_id="New-Belgium-Brewing">
+  <name>M ARROW</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-54527-00082-0">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>34510</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$1.70</post_off>
+        <net_case_price>$23.78</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$7.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

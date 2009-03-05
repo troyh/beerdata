@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Bridgeport-Brewing-Co/HOP-HRVEST" brewery_id="Bridgeport-Brewing-Co">
+  <name>HOP HRVEST</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/4</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32812</item>
+        <reg_price>$90.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$90.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$112.49</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

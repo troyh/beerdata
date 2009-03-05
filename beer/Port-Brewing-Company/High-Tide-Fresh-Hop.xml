@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Port-Brewing-Company/High-Tide-Fresh-Hop" brewery_id="Port-Brewing-Company">
+  <name>High Tide Fresh Hop</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="689926001041">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11804</item>
+        <reg_price>62.88</reg_price>
+        <post_off>$54.48</post_off>
+        <net_case_price/>
+        <unit_price>$5.24</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

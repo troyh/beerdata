@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Speedway-Brewing-Company">
+  <name>Speedway Brewing Company‎</name>
+  <address>
+    <street>1225 Ruddell Rd. SE, Suite 'F'</street>
+    <city>Lacey</city>
+    <state>WA</state>
+    <zip>US</zip>
+    <latitude>47.044465</latitude>
+    <longitude>-122.823189</longitude>
+    <country/>
+  </address>
+  <phone>(360) 493-1616</phone>
+</brewery>

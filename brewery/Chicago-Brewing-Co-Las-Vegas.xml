@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Chicago-Brewing-Co-Las-Vegas">
+  <name>Chicago Brewing Co‎</name>
+  <address>
+    <street>2201 S Fort Apache Rd</street>
+    <city>Las Vegas</city>
+    <state>NV</state>
+    <zip>89117-5704</zip>
+    <latitude>36.150998</latitude>
+    <longitude>-115.295492</longitude>
+    <country>US</country>
+  </address>
+  <phone>(702) 254-3333</phone>
+</brewery>

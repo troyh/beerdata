@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Walldorff-Brew-Pub-and-Bistro">
+  <name>Walldorff Brew Pub &amp; Bistro‎</name>
+  <address>
+    <street>105 E State St</street>
+    <city>Hastings</city>
+    <state>MI</state>
+    <zip>49058-1808</zip>
+    <latitude>42.648853</latitude>
+    <longitude>-85.287392</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 945-4400</phone>
+</brewery>

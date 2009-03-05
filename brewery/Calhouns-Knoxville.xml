@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Calhouns-Knoxville">
+  <name>Calhoun's‎</name>
+  <address>
+    <street>6515 Kingston Pike</street>
+    <city>Knoxville</city>
+    <state>TN</state>
+    <zip>37919-4826</zip>
+    <latitude>35.931936</latitude>
+    <longitude>-84.010249</longitude>
+    <country>US</country>
+  </address>
+  <phone>(865) 673-3377</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rikenjaks-Brewing-Co">
+  <name>Rikenjaks Brewing Co‎</name>
+  <address>
+    <street>333 Broad St</street>
+    <city>Lake Charles</city>
+    <state>LA</state>
+    <zip>70601-4223</zip>
+    <latitude>30.229451</latitude>
+    <longitude>-93.216528</longitude>
+    <country>US</country>
+  </address>
+  <phone>(504) 634-5771</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Anacapa-Brewing-Company-Ventura">
+  <name>Anacapa Brewing Company‎</name>
+  <address>
+    <street>472 E Main St</street>
+    <city>Ventura</city>
+    <state>CA</state>
+    <zip>93001-2627</zip>
+    <latitude>34.280677</latitude>
+    <longitude>-119.293592</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 643-2337</phone>
+</brewery>

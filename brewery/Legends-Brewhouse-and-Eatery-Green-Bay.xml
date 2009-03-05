@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Legends-Brewhouse-and-Eatery-Green-Bay">
+  <name>Legends Brewhouse &amp; Eatery‎</name>
+  <address>
+    <street>2840 Shawano Ave</street>
+    <city>Green Bay</city>
+    <state>WI</state>
+    <zip>54313-6725</zip>
+    <latitude>44.553765</latitude>
+    <longitude>-88.098396</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 662-1111</phone>
+</brewery>

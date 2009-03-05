@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Panther-Brewing-Co">
+  <name>Panther Brewing Co‎</name>
+  <address>
+    <street>159 Morse St</street>
+    <city>Norwood</city>
+    <state>MA</state>
+    <zip>02062-4600</zip>
+    <latitude>42.170519</latitude>
+    <longitude>-71.198876</longitude>
+    <country>US</country>
+  </address>
+  <phone>(781) 762-8739</phone>
+</brewery>

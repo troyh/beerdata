@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-and-Restaurant-Tempe-2">
+  <name>Gordon Biersch Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>420 S Mill Ave # 201</street>
+    <city>Tempe</city>
+    <state>AZ</state>
+    <zip>85281-2810</zip>
+    <latitude>33.426281</latitude>
+    <longitude>-111.940214</longitude>
+    <country>US</country>
+  </address>
+  <phone>(480) 736-0033</phone>
+</brewery>

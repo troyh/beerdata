@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Lion-Nathan/4" brewery_id="Lion-Nathan">
+  <name>4</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-72509-00005-8">
+      <description>BOTTLE 12/25</description>
+      <distributor>
+        <name>columbia</name>
+        <item>56400</item>
+        <reg_price>$24.95</reg_price>
+        <post_off>-$3.99</post_off>
+        <net_case_price>$20.96</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$2.19</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

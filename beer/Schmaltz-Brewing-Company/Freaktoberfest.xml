@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Schmaltz-Brewing-Company/Freaktoberfest" brewery_id="Schmaltz-Brewing-Company">
+  <name>Freaktoberfest</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="642855900045">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11954</item>
+        <reg_price>46.08</reg_price>
+        <post_off>$41.88</post_off>
+        <net_case_price/>
+        <unit_price>$3.84</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Russian-River-Brewing-Co">
+  <name>Russian River Brewing Co‎</name>
+  <address>
+    <street>725 4th St</street>
+    <city>Santa Rosa</city>
+    <state>CA</state>
+    <zip>95404-4407</zip>
+    <latitude>38.441546</latitude>
+    <longitude>-122.711962</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 545-2337</phone>
+</brewery>

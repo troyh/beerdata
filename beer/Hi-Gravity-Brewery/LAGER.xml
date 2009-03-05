@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Hi-Gravity-Brewery/LAGER" brewery_id="Hi-Gravity-Brewery">
+  <name>LAGER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-78250-00328-7">
+      <description>CAN 12/24</description>
+      <distributor>
+        <name>columbia</name>
+        <item>18140</item>
+        <reg_price>$13.36</reg_price>
+        <post_off>-$0.81</post_off>
+        <net_case_price>$12.55</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$1.29</deposit>
+      </distributor>
+    </size>
+    <size upc="0-78250-00336-2">
+      <description>CAN 4-6/16</description>
+      <distributor>
+        <name>columbia</name>
+        <item>18130</item>
+        <reg_price>$14.14</reg_price>
+        <post_off>-$1.01</post_off>
+        <net_case_price>$13.13</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$4.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

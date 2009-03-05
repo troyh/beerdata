@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Ginga-Kogen-Brewery/WHEAT" brewery_id="Ginga-Kogen-Brewery">
+  <name>WHEAT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="5-15841-00611-6">
+      <description>BOTTLE 20/300</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83449</item>
+        <reg_price>$83.95</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$83.95</net_case_price>
+        <unit_price>$1.00</unit_price>
+        <deposit>$5.29</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

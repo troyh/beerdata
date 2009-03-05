@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Water-Street-Brewery">
+  <name>Water Street Brewery‎</name>
+  <address>
+    <street>1101 N Water St</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53202-3107</zip>
+    <latitude>43.044715</latitude>
+    <longitude>-87.911134</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 272-1195</phone>
+</brewery>

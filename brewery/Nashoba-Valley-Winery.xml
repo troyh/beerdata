@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Nashoba-Valley-Winery">
+  <name>Nashoba Valley Winery‎</name>
+  <address>
+    <street>92 Wattaquadock Hill Rd</street>
+    <city>Bolton</city>
+    <state>MA</state>
+    <zip>01740-1238</zip>
+    <latitude>42.431699</latitude>
+    <longitude>-71.613290</longitude>
+    <country>US</country>
+  </address>
+  <phone>(978) 779-5521</phone>
+</brewery>

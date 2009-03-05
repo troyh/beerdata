@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mash-House-Brewery-and-Restaurant">
+  <name>Mash House Brewery &amp; Restaurant‎</name>
+  <address>
+    <street>4150 Sycamore Dairy Rd</street>
+    <city>Fayetteville</city>
+    <state>NC</state>
+    <zip>28303-3459</zip>
+    <latitude>35.071801</latitude>
+    <longitude>-78.955945</longitude>
+    <country>US</country>
+  </address>
+  <phone>(910) 867-9223</phone>
+</brewery>

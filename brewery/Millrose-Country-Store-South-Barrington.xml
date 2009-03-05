@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Millrose-Country-Store-South-Barrington">
+  <name>Millrose Country Store‎</name>
+  <address>
+    <street>55 S Barrington Rd</street>
+    <city>South Barrington</city>
+    <state>IL</state>
+    <zip>60010-9508</zip>
+    <latitude>42.069676</latitude>
+    <longitude>-88.143818</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 381-5900</phone>
+</brewery>

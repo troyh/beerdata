@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Corvallis">
+  <name>McMenamins-Corvallis‎</name>
+  <address>
+    <street>420 NW 3rd St</street>
+    <city>Corvallis</city>
+    <state>OR</state>
+    <zip>97330-6403</zip>
+    <latitude>44.567619</latitude>
+    <longitude>-123.259463</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 758-6044</phone>
+</brewery>

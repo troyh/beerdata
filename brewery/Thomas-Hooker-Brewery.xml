@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Thomas-Hooker-Brewery">
+  <name>Thomas Hooker Brewery‎</name>
+  <address>
+    <street>16 Tobey Rd</street>
+    <city>Bloomfield</city>
+    <state>CT</state>
+    <zip>06002-3522</zip>
+    <latitude>41.808840</latitude>
+    <longitude>-72.710625</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 242-3111</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cape-Cod-Package-Store-Inc">
+  <name>Cape Cod Package Store Inc‎</name>
+  <address>
+    <street>1495 Falmouth Rd</street>
+    <city>Centerville</city>
+    <state>MA</state>
+    <zip>02632-2945</zip>
+    <latitude>41.657162</latitude>
+    <longitude>-70.341633</longitude>
+    <country>US</country>
+  </address>
+  <phone>(508) 775-2065</phone>
+</brewery>

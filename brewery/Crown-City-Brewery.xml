@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Crown-City-Brewery">
+  <name>Crown City Brewery‎</name>
+  <address>
+    <street>300 S Raymond Ave # 2</street>
+    <city>Pasadena</city>
+    <state>CA</state>
+    <zip>91105-2608</zip>
+    <latitude>34.140335</latitude>
+    <longitude>-118.148664</longitude>
+    <country>US</country>
+  </address>
+  <phone>(626) 577-5548</phone>
+</brewery>

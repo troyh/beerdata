@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kellys-Brewery-Albuquerque">
+  <name>Kellys Brewery‎</name>
+  <address>
+    <street>3222 Central Ave SE</street>
+    <city>Albuquerque</city>
+    <state>NM</state>
+    <zip>87106-1442</zip>
+    <latitude>35.080229</latitude>
+    <longitude>-106.609194</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 262-2739</phone>
+</brewery>

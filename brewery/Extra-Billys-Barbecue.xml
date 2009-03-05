@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Extra-Billys-Barbecue">
+  <name>Extra Billy's Barbecue‎</name>
+  <address>
+    <street>5205 W Broad St</street>
+    <city>Richmond</city>
+    <state>VA</state>
+    <zip>23230-3009</zip>
+    <latitude>37.585428</latitude>
+    <longitude>-77.498346</longitude>
+    <country>US</country>
+  </address>
+  <phone>(804) 282-3949</phone>
+</brewery>

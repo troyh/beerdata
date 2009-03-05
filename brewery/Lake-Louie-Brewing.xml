@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lake-Louie-Brewing">
+  <name>Lake Louie Brewing‎</name>
+  <address>
+    <street>7556 Pine Rd</street>
+    <city>Arena</city>
+    <state>WI</state>
+    <zip>53503-9236</zip>
+    <latitude>43.170761</latitude>
+    <longitude>-89.932517</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 753-2675</phone>
+</brewery>

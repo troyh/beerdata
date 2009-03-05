@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Springfield-Brewing-Co">
+  <name>Springfield Brewing Co‎</name>
+  <address>
+    <street>301 S Market Ave</street>
+    <city>Springfield</city>
+    <state>MO</state>
+    <zip>65806-2023</zip>
+    <latitude>37.207839</latitude>
+    <longitude>-93.295604</longitude>
+    <country>US</country>
+  </address>
+  <phone>(417) 832-8277</phone>
+</brewery>

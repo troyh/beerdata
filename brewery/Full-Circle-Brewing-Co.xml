@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Full-Circle-Brewing-Co">
+  <name>Full Circle Brewing Co‎</name>
+  <address>
+    <street>620 F St</street>
+    <city>Fresno</city>
+    <state>CA</state>
+    <zip>93706-3413</zip>
+    <latitude>36.726859</latitude>
+    <longitude>-119.790754</longitude>
+    <country>US</country>
+  </address>
+  <phone>(559) 264-6323</phone>
+</brewery>

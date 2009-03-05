@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-La-Jolla-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>8980 Villa La Jolla Dr</street>
+    <city>La Jolla</city>
+    <state>CA</state>
+    <zip>92037-1701</zip>
+    <latitude>32.871178</latitude>
+    <longitude>-117.234006</longitude>
+    <country>US</country>
+  </address>
+  <phone>(858) 450-9277</phone>
+</brewery>

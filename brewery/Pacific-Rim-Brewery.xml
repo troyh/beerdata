@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pacific-Rim-Brewery">
+  <name>Pacific Rim Brewery‎</name>
+  <address>
+    <street>9832 14th Ave SW</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98106-2816</zip>
+    <latitude>47.514875</latitude>
+    <longitude>-122.352614</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 764-3844</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kraftbrau-Brewery">
+  <name>Kraftbrau Brewery‎</name>
+  <address>
+    <street>402 E Kalamazoo Ave</street>
+    <city>Kalamazoo</city>
+    <state>MI</state>
+    <zip>49007-3810</zip>
+    <latitude>42.294488</latitude>
+    <longitude>-85.578168</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 384-0288</phone>
+</brewery>

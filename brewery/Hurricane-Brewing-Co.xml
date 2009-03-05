@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hurricane-Brewing-Co">
+  <name>Hurricane Brewing Co‎</name>
+  <address>
+    <street>225 Dauphin St</street>
+    <city>Mobile</city>
+    <state>AL</state>
+    <zip>36602-2717</zip>
+    <latitude>30.691246</latitude>
+    <longitude>-88.043369</longitude>
+    <country>US</country>
+  </address>
+  <phone>(251) 445-2544</phone>
+</brewery>

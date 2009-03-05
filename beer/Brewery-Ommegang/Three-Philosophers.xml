@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brewery-Ommegang/Three-Philosophers" brewery_id="Brewery-Ommegang">
+  <name>Three Philosophers</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="649440000142">
+      <description>6/4/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10816</item>
+        <reg_price>75.36</reg_price>
+        <post_off>$66.96</post_off>
+        <net_case_price/>
+        <unit_price>$12.56</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fire-House-Grill">
+  <name>Fire House Grill‎</name>
+  <address>
+    <street>750 Chicago Ave</street>
+    <city>Evanston</city>
+    <state>IL</state>
+    <zip>60202-2311</zip>
+    <latitude>42.031846</latitude>
+    <longitude>-87.679144</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 733-1911</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-E-Ales">
+  <name>Big E Ales‎</name>
+  <address>
+    <street>5030 208th St SW</street>
+    <city>Lynnwood</city>
+    <state>WA</state>
+    <zip>98036-7632</zip>
+    <latitude>47.809980</latitude>
+    <longitude>-122.301053</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 672-7051</phone>
+</brewery>

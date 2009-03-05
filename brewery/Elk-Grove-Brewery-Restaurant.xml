@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elk-Grove-Brewery-Restaurant">
+  <name>Elk Grove Brewery Restaurant‎</name>
+  <address>
+    <street>9085 Elk Grove Blvd</street>
+    <city>Elk Grove</city>
+    <state>CA</state>
+    <zip>95624-2047</zip>
+    <latitude>38.409182</latitude>
+    <longitude>-121.363262</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 685-2537</phone>
+</brewery>

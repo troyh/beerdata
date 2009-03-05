@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Boscos-Squared">
+  <name>Boscos Squared‎</name>
+  <address>
+    <street>2120 Madison Ave</street>
+    <city>Memphis</city>
+    <state>TN</state>
+    <zip>38104-6502</zip>
+    <latitude>35.136826</latitude>
+    <longitude>-89.990755</longitude>
+    <country>US</country>
+  </address>
+  <phone>(901) 432-2222</phone>
+</brewery>

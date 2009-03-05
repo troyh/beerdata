@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stockholms">
+  <name>Stockholm's‎</name>
+  <address>
+    <street>306 W State St</street>
+    <city>Geneva</city>
+    <state>IL</state>
+    <zip>60134-2103</zip>
+    <latitude>41.887822</latitude>
+    <longitude>-88.308135</longitude>
+    <country>US</country>
+  </address>
+  <phone>(630) 208-7070</phone>
+</brewery>

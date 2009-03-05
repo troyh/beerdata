@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Full-Sail-Brewing-Co-Riverpl">
+  <name>Full Sail Brewing Co Riverpl‎</name>
+  <address>
+    <street>307 SW Montgomery St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97201-5125</zip>
+    <latitude>45.509549</latitude>
+    <longitude>-122.674007</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 222-5343</phone>
+</brewery>

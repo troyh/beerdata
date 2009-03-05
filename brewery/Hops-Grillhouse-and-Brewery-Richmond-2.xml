@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-and-Brewery-Richmond-2">
+  <name>Hops Grillhouse &amp; Brewery‎</name>
+  <address>
+    <street>1570 W Koger Center Blvd</street>
+    <city>Richmond</city>
+    <state>VA</state>
+    <zip>23235-4721</zip>
+    <latitude>37.511573</latitude>
+    <longitude>-77.611655</longitude>
+    <country>US</country>
+  </address>
+  <phone>(804) 794-2727</phone>
+</brewery>

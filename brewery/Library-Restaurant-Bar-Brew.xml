@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Library-Restaurant-Bar-Brew">
+  <name>Library Restaurant Bar Brew‎</name>
+  <address>
+    <street>62 Isle Royale St</street>
+    <city>Houghton</city>
+    <state>MI</state>
+    <zip>49931-1827</zip>
+    <latitude>47.122224</latitude>
+    <longitude>-88.567112</longitude>
+    <country>US</country>
+  </address>
+  <phone>(906) 487-5882</phone>
+</brewery>

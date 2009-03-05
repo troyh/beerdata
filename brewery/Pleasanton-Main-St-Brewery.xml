@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pleasanton-Main-St-Brewery">
+  <name>Pleasanton Main St Brewery‎</name>
+  <address>
+    <street>830 Main St</street>
+    <city>Pleasanton</city>
+    <state>CA</state>
+    <zip>94566-6069</zip>
+    <latitude>37.664357</latitude>
+    <longitude>-121.873971</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 462-8218</phone>
+</brewery>

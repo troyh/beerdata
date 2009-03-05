@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Telegraph-Brewing-Co-Inc">
+  <name>Telegraph Brewing Co Inc‎</name>
+  <address>
+    <street>416 N Salsipuedes St</street>
+    <city>Santa Barbara</city>
+    <state>CA</state>
+    <zip>93103-3127</zip>
+    <latitude>34.422640</latitude>
+    <longitude>-119.687686</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 963-5018</phone>
+</brewery>

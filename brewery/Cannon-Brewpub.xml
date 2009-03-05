@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cannon-Brewpub">
+  <name>Cannon Brewpub‎</name>
+  <address>
+    <street>1041 Broadway</street>
+    <city>Columbus</city>
+    <state>GA</state>
+    <zip>31901-5256</zip>
+    <latitude>32.465625</latitude>
+    <longitude>-84.993484</longitude>
+    <country>US</country>
+  </address>
+  <phone>(706) 653-2337</phone>
+</brewery>

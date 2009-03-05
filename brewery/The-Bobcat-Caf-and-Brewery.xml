@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="The-Bobcat-Caf-and-Brewery">
+  <name>The Bobcat Caf� &amp; Brewery‎</name>
+  <address>
+    <street>5 Main St</street>
+    <city>Bristol</city>
+    <state>VT</state>
+    <zip>05443-1317</zip>
+    <latitude>44.132964</latitude>
+    <longitude>-73.078117</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 453-3311</phone>
+</brewery>

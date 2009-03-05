@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-Country-Brewing-Co">
+  <name>North Country Brewing Co‎</name>
+  <address>
+    <street>141 S Main St</street>
+    <city>Slippery Rock</city>
+    <state>PA</state>
+    <zip>16057-1246</zip>
+    <latitude>41.063798</latitude>
+    <longitude>-80.055901</longitude>
+    <country>US</country>
+  </address>
+  <phone>(724) 794-2337</phone>
+</brewery>

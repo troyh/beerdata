@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sherwood-Forest-Brewers-Ltd-Marlborough">
+  <name>Sherwood Forest Brewers Ltd‎</name>
+  <address>
+    <street>655 Farm Rd</street>
+    <city>Marlborough</city>
+    <state>MA</state>
+    <zip>01752</zip>
+    <latitude>42.342793</latitude>
+    <longitude>-71.513517</longitude>
+    <country>US</country>
+  </address>
+  <phone>(508) 466-8082</phone>
+</brewery>

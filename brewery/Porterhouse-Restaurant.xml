@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Porterhouse-Restaurant">
+  <name>Porterhouse Restaurant‎</name>
+  <address>
+    <street>126 Old Graves Mill Rd</street>
+    <city>Lynchburg</city>
+    <state>VA</state>
+    <zip>24502-4165</zip>
+    <latitude>37.353874</latitude>
+    <longitude>-79.225479</longitude>
+    <country>US</country>
+  </address>
+  <phone>(434) 237-5655</phone>
+</brewery>

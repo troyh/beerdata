@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Main-Street-Ale-House">
+  <name>Main Street Ale House‎</name>
+  <address>
+    <street>333 N Main Ave</street>
+    <city>Gresham</city>
+    <state>OR</state>
+    <zip>97030-7209</zip>
+    <latitude>45.499940</latitude>
+    <longitude>-122.431167</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 669-0569</phone>
+</brewery>

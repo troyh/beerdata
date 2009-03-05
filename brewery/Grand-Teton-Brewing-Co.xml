@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Grand-Teton-Brewing-Co">
+  <name>Grand Teton Brewing Co‎</name>
+  <address>
+    <street>430 Old Jackson Hwy</street>
+    <city>Victor</city>
+    <state>ID</state>
+    <zip>83455-5500</zip>
+    <latitude>43.592384</latitude>
+    <longitude>-111.101298</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 787-9000</phone>
+</brewery>

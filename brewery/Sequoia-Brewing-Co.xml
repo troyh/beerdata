@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sequoia-Brewing-Co">
+  <name>Sequoia Brewing Co‎</name>
+  <address>
+    <street>1188 E Champlain Dr</street>
+    <city>Fresno</city>
+    <state>CA</state>
+    <zip>93720-5025</zip>
+    <latitude>36.871565</latitude>
+    <longitude>-119.763242</longitude>
+    <country>US</country>
+  </address>
+  <phone>(559) 434-2739</phone>
+</brewery>

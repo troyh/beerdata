@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oceanside-Ale-Works-Oceanside">
+  <name>Oceanside Ale Works‎</name>
+  <address>
+    <street>3800 Oceanic Drive #105</street>
+    <city>Oceanside</city>
+    <state>CA</state>
+    <zip>92056-5834</zip>
+    <latitude>33.205830</latitude>
+    <longitude>-117.304654</longitude>
+    <country>US</country>
+  </address>
+  <phone>(760) 758-2064</phone>
+</brewery>

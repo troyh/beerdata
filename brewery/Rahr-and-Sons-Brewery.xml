@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rahr-and-Sons-Brewery">
+  <name>Rahr &amp; Sons Brewery‎</name>
+  <address>
+    <street>701 Galveston Ave</street>
+    <city>Fort Worth</city>
+    <state>TX</state>
+    <zip>76104-3355</zip>
+    <latitude>32.737115</latitude>
+    <longitude>-97.327329</longitude>
+    <country>US</country>
+  </address>
+  <phone>(817) 810-9266</phone>
+</brewery>

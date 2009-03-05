@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hoppy-Brewing-Co">
+  <name>Hoppy Brewing Co‎</name>
+  <address>
+    <street>6300 Folsom Blvd</street>
+    <city>Sacramento</city>
+    <state>CA</state>
+    <zip>95819-4619</zip>
+    <latitude>38.555164</latitude>
+    <longitude>-121.429833</longitude>
+    <country>US</country>
+  </address>
+  <phone>(916) 451-4677</phone>
+</brewery>

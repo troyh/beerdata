@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Randys-Restaurant-Brewery-and-Banquet-Facility">
+  <name>Randy's Restaurant, Brewery &amp; Banquet Facility‎</name>
+  <address>
+    <street>841 E. Milwaukee St.</street>
+    <city>Whitewater</city>
+    <state>WI</state>
+    <zip>53190-2126</zip>
+    <latitude>42.832272</latitude>
+    <longitude>-88.714625</longitude>
+    <country>US</country>
+  </address>
+  <phone>(262) 473-8000</phone>
+</brewery>

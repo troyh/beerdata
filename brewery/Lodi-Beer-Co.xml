@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lodi-Beer-Co">
+  <name>Lodi Beer Co‎</name>
+  <address>
+    <street>105 S School St</street>
+    <city>Lodi</city>
+    <state>CA</state>
+    <zip>95240-3509</zip>
+    <latitude>38.132826</latitude>
+    <longitude>-121.273978</longitude>
+    <country>US</country>
+  </address>
+  <phone>(209) 368-9931</phone>
+</brewery>

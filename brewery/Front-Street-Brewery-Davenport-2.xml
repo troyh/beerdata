@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Front-Street-Brewery-Davenport-2">
+  <name>Front Street Brewery‎</name>
+  <address>
+    <street>208 E River Dr</street>
+    <city>Davenport</city>
+    <state>IA</state>
+    <zip>52801-1609</zip>
+    <latitude>41.520389</latitude>
+    <longitude>-90.572418</longitude>
+    <country>US</country>
+  </address>
+  <phone>(563) 322-1569</phone>
+</brewery>

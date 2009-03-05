@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bens-Brewing-Co">
+  <name>Ben's Brewing Co‎</name>
+  <address>
+    <street>222 W 3rd St</street>
+    <city>Yankton</city>
+    <state>SD</state>
+    <zip>57078-4323</zip>
+    <latitude>42.869953</latitude>
+    <longitude>-97.394240</longitude>
+    <country>US</country>
+  </address>
+  <phone>(605) 260-4844</phone>
+</brewery>

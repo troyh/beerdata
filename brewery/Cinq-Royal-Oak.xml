@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cinq-Royal-Oak">
+  <name>Cinq‎</name>
+  <address>
+    <street>419 S Main St</street>
+    <city>Royal Oak</city>
+    <state>MI</state>
+    <zip>48067-2615</zip>
+    <latitude>42.487078</latitude>
+    <longitude>-83.144007</longitude>
+    <country>US</country>
+  </address>
+  <phone>(248) 544-6250</phone>
+</brewery>

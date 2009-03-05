@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ellicott-Mills-Brewing-Co-Ellicott-City-2">
+  <name>Ellicott Mills Brewing Co‎</name>
+  <address>
+    <street>8308 Main St</street>
+    <city>Ellicott City</city>
+    <state>MD</state>
+    <zip>21043-4601</zip>
+    <latitude>39.267989</latitude>
+    <longitude>-76.799495</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 313-8141</phone>
+</brewery>

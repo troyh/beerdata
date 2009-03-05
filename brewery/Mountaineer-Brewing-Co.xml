@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mountaineer-Brewing-Co">
+  <name>Mountaineer Brewing Co‎</name>
+  <address>
+    <street>219 Lawn St</street>
+    <city>Martinsburg</city>
+    <state>WV</state>
+    <zip>25405-5009</zip>
+    <latitude>39.434161</latitude>
+    <longitude>-77.990205</longitude>
+    <country>US</country>
+  </address>
+  <phone>(304) 264-9001</phone>
+</brewery>

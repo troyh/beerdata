@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Snowshoe-Brewing-Company">
+  <name>Snowshoe Brewing Company‎</name>
+  <address>
+    <street>2050 Ca-4</street>
+    <city>Arnold</city>
+    <state>CA</state>
+    <zip>95223</zip>
+    <latitude>38.242241</latitude>
+    <longitude>-120.361173</longitude>
+    <country>US</country>
+  </address>
+  <phone>(209) 795-2272</phone>
+</brewery>

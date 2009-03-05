@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Imperial-Stout" brewery_id="Boston-Beer-Co" calories_per_ml="0.890435917975748" abv="9.20" og="24.5Plato">
+  <name>Imperial Stout</name>
+  <description>Samuel AdamsÂ® Imperial Stout is our take on the traditional Russian Imperial Stouts from the 18th century.   While this style originated in England, it is a style now known for being uniquely American as craft Brewers have taken this it to whole new level of flavor and complexity.  We think we raised the bar again.  Samuel AdamsÂ® Imperial Stout is a massive beer filled with big, dark flavors.  It has been a brewery favorite in recent years and we are excited to share this intense brew with you.
+The first thing you notice about this beer is its color.  It is black as night and almost completely opaque.  Next is the cappuccino colored head: the aroma is filled with notes of coffee, smoky chocolate and licorice.
+
+Samuel AdamsÂ® Imperial Stout was brewed with seven different varieties of malted barley, each delivering its own unique flavor for the beer.  But this beer is not a âmalt bombâ.  It is balanced by 50 BUs of East Kent Goldings hops that have a clean earthy aroma and pleasant bitterness.  This is a colossal beer that should be savored and enjoyed.
+
+For a cheese pairing, we recommend pairing the stout with aged strong cheeses like Stilton blue cheese or aged Gouda.  Cioppino or rare roast beef will also pair well as they will cut some of the sweetness of the beer.  The dark roasted malt in the Imperial Stout brings out chocolate aromas and flavors making it a tasty pairing with coffee or chocolate desserts.
+
+But the classic pairing for stouts are a plate of raw oysters.  The roasted bitterness of the stout is contrasted by the saltiness and subtle sweetness from the shellfish.  Simply amazing.
+Due to legal restrictions, the Samuel Adams Imperial Series beers are not offered in the states of Alabama, Idaho, Iowa, Mississippi, Montana, South Carolina and West Virginia.</description>
+  <availability>year round</availability>
+  <ingredients/>
+  <grains>Two row Harrington, Metcalfe, Caramel 60, Munich, Special B, Smoked malted barley, roasted unmalted barley and malted wheat</grains>
+  <hops>East Kent Goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="13F">Russian Imperial Stout</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>BOTTLE 12/24</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

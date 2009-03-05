@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tallgrass-Brewing-Co">
+  <name>Tallgrass Brewing Co‎</name>
+  <address>
+    <street>8845 Quail Ln # 1</street>
+    <city>Manhattan</city>
+    <state>KS</state>
+    <zip>66502-1439</zip>
+    <latitude>39.197536</latitude>
+    <longitude>-96.509909</longitude>
+    <country>US</country>
+  </address>
+  <phone>(785) 537-1131</phone>
+</brewery>

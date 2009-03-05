@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Broken-Drum-Brewery-and-Wood-Grill">
+  <name>Broken Drum Brewery &amp; Wood Grill‎</name>
+  <address>
+    <street>1132 4th St</street>
+    <city>San Rafael</city>
+    <state>CA</state>
+    <zip>94901-3007</zip>
+    <latitude>37.973312</latitude>
+    <longitude>-122.528648</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 456-4677</phone>
+</brewery>

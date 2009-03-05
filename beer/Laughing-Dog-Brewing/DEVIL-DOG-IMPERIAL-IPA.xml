@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Laughing-Dog-Brewing/DEVIL-DOG-IMPERIAL-IPA" brewery_id="Laughing-Dog-Brewing">
+  <name>DEVIL DOG IMPERIAL IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="4-35020-11111-1">
+      <description>1/6 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>435020</item>
+        <reg_price>80.00</reg_price>
+        <post_off>80.00</post_off>
+        <net_case_price/>
+        <unit_price>80.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

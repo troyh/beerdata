@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Karlsson-Brewing-Co">
+  <name>Karlsson Brewing Co‎</name>
+  <address>
+    <street>35900 Industrial Way</street>
+    <city>Sandy</city>
+    <state>OR</state>
+    <zip>97055-5374</zip>
+    <latitude>45.404305</latitude>
+    <longitude>-122.296716</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 826-8770</phone>
+</brewery>

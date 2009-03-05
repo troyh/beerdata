@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Brouwerij-Lindemans/CASSIS-LAMBIC-BLACK-CURRANT" brewery_id="Brouwerij-Lindemans">
+  <name>CASSIS LAMBIC (BLACK CURRANT)</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-85725-10811-8">
+      <description>12/25.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>991028</item>
+        <reg_price>92.32</reg_price>
+        <post_off>92.32</post_off>
+        <net_case_price/>
+        <unit_price>7.69</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

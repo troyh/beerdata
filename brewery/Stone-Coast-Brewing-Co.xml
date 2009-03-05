@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stone-Coast-Brewing-Co">
+  <name>Stone Coast Brewing Co‎</name>
+  <address>
+    <street>23 Rice St</street>
+    <city>Portland</city>
+    <state>ME</state>
+    <zip>04103-1411</zip>
+    <latitude>43.710029</latitude>
+    <longitude>-70.305732</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 773-2337</phone>
+</brewery>

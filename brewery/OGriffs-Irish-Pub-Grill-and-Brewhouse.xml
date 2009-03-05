@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="OGriffs-Irish-Pub-Grill-and-Brewhouse">
+  <name>O'Griff's Irish Pub, Grill and Brewhouse‎</name>
+  <address>
+    <street>415 Hampshire</street>
+    <city>Quincy</city>
+    <state>IL</state>
+    <zip>62301-2927</zip>
+    <latitude>39.933432</latitude>
+    <longitude>-91.409703</longitude>
+    <country>US</country>
+  </address>
+  <phone>(217) 224-2002</phone>
+</brewery>

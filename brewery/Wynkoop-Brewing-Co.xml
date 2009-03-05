@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wynkoop-Brewing-Co">
+  <name>Wynkoop Brewing Co‎</name>
+  <address>
+    <street>1634 18th St</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80202-1212</zip>
+    <latitude>39.753263</latitude>
+    <longitude>-104.998081</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 297-2700</phone>
+</brewery>

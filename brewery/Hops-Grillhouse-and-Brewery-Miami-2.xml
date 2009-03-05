@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-and-Brewery-Miami-2">
+  <name>Hops Grillhouse &amp; Brewery‎</name>
+  <address>
+    <street>9000 SW 136th St</street>
+    <city>Miami</city>
+    <state>FL</state>
+    <zip>33176</zip>
+    <latitude>25.647166</latitude>
+    <longitude>-80.340134</longitude>
+    <country>US</country>
+  </address>
+  <phone>(305) 259-6890</phone>
+</brewery>

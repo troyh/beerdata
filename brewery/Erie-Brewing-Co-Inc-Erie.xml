@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Erie-Brewing-Co-Inc-Erie">
+  <name>Erie Brewing Co Inc‎</name>
+  <address>
+    <street>1213 Veshecco Dr</street>
+    <city>Erie</city>
+    <state>PA</state>
+    <zip>16501-1570</zip>
+    <latitude>42.111164</latitude>
+    <longitude>-80.113820</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 459-7741</phone>
+</brewery>

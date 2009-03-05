@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Time-Brewery-and-Alehouse">
+  <name>Big Time Brewery &amp; Alehouse‎</name>
+  <address>
+    <street>4133 University Way NE</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98105-6213</zip>
+    <latitude>47.657372</latitude>
+    <longitude>-122.313414</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 545-4509</phone>
+</brewery>

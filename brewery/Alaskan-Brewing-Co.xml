@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alaskan-Brewing-Co">
+  <name>Alaskan Brewing Co‎</name>
+  <address>
+    <street>5429 Shaune Dr</street>
+    <city>Juneau</city>
+    <state>AK</state>
+    <zip>99801-9540</zip>
+    <latitude>58.356871</latitude>
+    <longitude>-134.489903</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 780-5866</phone>
+</brewery>

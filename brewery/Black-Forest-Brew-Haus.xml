@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Black-Forest-Brew-Haus">
+  <name>Black Forest Brew Haus‎</name>
+  <address>
+    <street>2015 New Hwy</street>
+    <city>Farmingdale</city>
+    <state>NY</state>
+    <zip>11735-1103</zip>
+    <latitude>40.755158</latitude>
+    <longitude>-73.414697</longitude>
+    <country>US</country>
+  </address>
+  <phone>(631) 845-4715</phone>
+</brewery>

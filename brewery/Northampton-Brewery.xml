@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Northampton-Brewery">
+  <name>Northampton Brewery‎</name>
+  <address>
+    <street>11 Brewster Ct</street>
+    <city>Northampton</city>
+    <state>MA</state>
+    <zip>01060-3801</zip>
+    <latitude>42.317360</latitude>
+    <longitude>-72.630891</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 584-9903</phone>
+</brewery>

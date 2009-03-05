@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Winter-Lager" brewery_id="Boston-Beer-Co" calories_per_ml="0.563567036693511" abv="5.80" og="15Plate">
+  <name>Winter Lager</name>
+  <description>The first thing one notices in a Samuel AdamsÂ® Winter Lager is its color: the deep brown of winter. Then comes the magical aroma which promises something special on the tongue. The warm aroma of cinnamon and ginger which blends with the roasty sweetness of the malted barley and hint of citrus from the orange peel. And after that first sip the promise is fulfilled. On the palate Samuel AdamsÂ® Winter Lager is rich and full bodied, robust and warming, a wonderful way to enjoy the cold evenings that come with this season.</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Caramel 60, Wheat Malt, Munich</grains>
+  <hops>East Kent Goldings, tettnang-Hallertauer and tettnang-tettnanger Noble</hops>
+  <yeast>Bottom fermented lager</yeast>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>32538</item>
+        <reg_price>$119.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$119.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$148.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

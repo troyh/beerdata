@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Eddie-Mcstiffs-Restaurant">
+  <name>Eddie Mcstiff's Restaurant‎</name>
+  <address>
+    <street>57 S Main St</street>
+    <city>Moab</city>
+    <state>UT</state>
+    <zip>84532-2502</zip>
+    <latitude>38.572424</latitude>
+    <longitude>-109.550612</longitude>
+    <country>US</country>
+  </address>
+  <phone>(435) 259-2337</phone>
+</brewery>

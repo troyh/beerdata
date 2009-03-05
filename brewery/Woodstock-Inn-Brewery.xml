@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Woodstock-Inn-Brewery">
+  <name>Woodstock Inn Brewery‎</name>
+  <address>
+    <street>135 Main St</street>
+    <city>North Woodstock</city>
+    <state>NH</state>
+    <zip>03262</zip>
+    <latitude>44.032551</latitude>
+    <longitude>-71.686724</longitude>
+    <country>US</country>
+  </address>
+  <phone>(603) 745-3951</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Taps-Fish-House-and-Brewery">
+  <name>Taps Fish House &amp; Brewery‎</name>
+  <address>
+    <street>101 E Imperial Hwy</street>
+    <city>Brea</city>
+    <state>CA</state>
+    <zip>92821-4924</zip>
+    <latitude>33.916598</latitude>
+    <longitude>-117.900155</longitude>
+    <country>US</country>
+  </address>
+  <phone>(714) 257-0101</phone>
+</brewery>

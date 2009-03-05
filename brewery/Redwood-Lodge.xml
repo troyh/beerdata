@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Redwood-Lodge">
+  <name>Redwood Lodge‎</name>
+  <address>
+    <street>5304 Gateway Ctr</street>
+    <city>Flint</city>
+    <state>MI</state>
+    <zip>48507-3930</zip>
+    <latitude>42.947043</latitude>
+    <longitude>-83.721298</longitude>
+    <country>US</country>
+  </address>
+  <phone>(810) 233-8000</phone>
+</brewery>

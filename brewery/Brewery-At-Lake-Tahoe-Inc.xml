@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewery-At-Lake-Tahoe-Inc">
+  <name>Brewery At Lake Tahoe Inc‎</name>
+  <address>
+    <street>3542 Lake Tahoe Blvd</street>
+    <city>South Lake Tahoe</city>
+    <state>CA</state>
+    <zip>96150-8900</zip>
+    <latitude>38.946785</latitude>
+    <longitude>-119.961752</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 544-2739</phone>
+</brewery>

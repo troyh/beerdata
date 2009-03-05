@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Terrapin-Beer-Co-Athens">
+  <name>Terrapin Beer Co.‎</name>
+  <address>
+    <street>265 Newton Bridge Road</street>
+    <city>Athens</city>
+    <state>GA</state>
+    <zip>30607-1145</zip>
+    <latitude>33.980560</latitude>
+    <longitude>-83.395850</longitude>
+    <country>US</country>
+  </address>
+  <phone>(706) 549-3377</phone>
+</brewery>

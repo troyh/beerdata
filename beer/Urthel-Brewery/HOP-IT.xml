@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Urthel-Brewery/HOP-IT" brewery_id="Urthel-Brewery">
+  <name>HOP IT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-21009-11111-1">
+      <description>30L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621009</item>
+        <reg_price>220.00</reg_price>
+        <post_off>220.00</post_off>
+        <net_case_price/>
+        <unit_price>220.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size upc="7-47934-88039-0">
+      <description>6/4/11.2 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>621007</item>
+        <reg_price>75.74</reg_price>
+        <post_off>75.74</post_off>
+        <net_case_price/>
+        <unit_price>12.62</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

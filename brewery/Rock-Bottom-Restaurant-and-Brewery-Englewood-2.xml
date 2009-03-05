@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Englewood-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>9627 E County Line Rd</street>
+    <city>Englewood</city>
+    <state>CO</state>
+    <zip>80112-3502</zip>
+    <latitude>39.566245</latitude>
+    <longitude>-104.878043</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 792-9090</phone>
+</brewery>

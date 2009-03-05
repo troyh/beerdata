@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stone-Cellar-Brewpub-Inc">
+  <name>Stone Cellar Brewpub Inc‎</name>
+  <address>
+    <street>1004 S Olde Oneida St</street>
+    <city>Appleton</city>
+    <state>WI</state>
+    <zip>54915-1394</zip>
+    <latitude>44.252895</latitude>
+    <longitude>-88.404513</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 731-3322</phone>
+</brewery>

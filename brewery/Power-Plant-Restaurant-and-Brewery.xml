@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Power-Plant-Restaurant-and-Brewery">
+  <name>Power Plant Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>2 Main St</street>
+    <city>Parkville</city>
+    <state>MO</state>
+    <zip>64152-3754</zip>
+    <latitude>39.188661</latitude>
+    <longitude>-94.684220</longitude>
+    <country>US</country>
+  </address>
+  <phone>(816) 746-5051</phone>
+</brewery>

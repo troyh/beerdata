@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Manhattan-Beach-Brewing-Co">
+  <name>Manhattan Beach Brewing Co‎</name>
+  <address>
+    <street>124 Manhattan Beach Blvd</street>
+    <city>Manhattan Beach</city>
+    <state>CA</state>
+    <zip>90266-5432</zip>
+    <latitude>33.884489</latitude>
+    <longitude>-118.411221</longitude>
+    <country>US</country>
+  </address>
+  <phone>(310) 798-2744</phone>
+</brewery>

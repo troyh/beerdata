@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Peaks-Brew-Pub-Port-Angeles">
+  <name>Peaks Brew Pub‎</name>
+  <address>
+    <street>130 S Lincoln St</street>
+    <city>Port Angeles</city>
+    <state>WA</state>
+    <zip>98362-2911</zip>
+    <latitude>48.118034</latitude>
+    <longitude>-123.432195</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 452-2802</phone>
+</brewery>

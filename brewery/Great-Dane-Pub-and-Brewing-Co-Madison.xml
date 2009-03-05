@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Dane-Pub-and-Brewing-Co-Madison">
+  <name>Great Dane Pub &amp; Brewing Co‎</name>
+  <address>
+    <street>123 E Doty St # 1</street>
+    <city>Madison</city>
+    <state>WI</state>
+    <zip>53703-3319</zip>
+    <latitude>43.074075</latitude>
+    <longitude>-89.380643</longitude>
+    <country>US</country>
+  </address>
+  <phone>(608) 284-0000</phone>
+</brewery>

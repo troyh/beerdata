@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lagunitas-Brewing-Co">
+  <name>Lagunitas Brewing Co‎</name>
+  <address>
+    <street>1280 N Mcdowell Blvd</street>
+    <city>Petaluma</city>
+    <state>CA</state>
+    <zip>94954-1113</zip>
+    <latitude>38.271498</latitude>
+    <longitude>-122.662479</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 769-4495</phone>
+</brewery>

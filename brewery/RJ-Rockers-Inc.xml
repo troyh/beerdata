@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="RJ-Rockers-Inc">
+  <name>RJ Rockers Inc‎</name>
+  <address>
+    <street>113 Belton Dr # D</street>
+    <city>Spartanburg</city>
+    <state>SC</state>
+    <zip>29301-4302</zip>
+    <latitude>34.969351</latitude>
+    <longitude>-81.983446</longitude>
+    <country>US</country>
+  </address>
+  <phone>(864) 587-1435</phone>
+</brewery>

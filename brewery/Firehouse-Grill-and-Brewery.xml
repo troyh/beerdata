@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Firehouse-Grill-and-Brewery">
+  <name>Firehouse Grill &amp; Brewery‎</name>
+  <address>
+    <street>111 S Murphy Ave</street>
+    <city>Sunnyvale</city>
+    <state>CA</state>
+    <zip>94086-6113</zip>
+    <latitude>37.377376</latitude>
+    <longitude>-122.030144</longitude>
+    <country>US</country>
+  </address>
+  <phone>(408) 773-9500</phone>
+</brewery>

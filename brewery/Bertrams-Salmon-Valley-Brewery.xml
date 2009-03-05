@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bertrams-Salmon-Valley-Brewery">
+  <name>Bertram's Salmon Valley Brewery‎</name>
+  <address>
+    <street>101 S Andrews St</street>
+    <city>Salmon</city>
+    <state>ID</state>
+    <zip>83467-4246</zip>
+    <latitude>45.175198</latitude>
+    <longitude>-113.893102</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 756-3391</phone>
+</brewery>

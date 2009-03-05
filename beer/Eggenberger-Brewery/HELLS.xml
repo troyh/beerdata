@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Eggenberger-Brewery/HELLS" brewery_id="Eggenberger-Brewery">
+  <name>HELLS</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>BOTTLE 6/11</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81732</item>
+        <reg_price>$100.70</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$100.70</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$20.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Triumph-Brewing-Co-New-Hope-2">
+  <name>Triumph Brewing Co‎</name>
+  <address>
+    <street>400 Union Square Dr</street>
+    <city>New Hope</city>
+    <state>PA</state>
+    <zip>18938-1367</zip>
+    <latitude>40.366223</latitude>
+    <longitude>-74.954367</longitude>
+    <country>US</country>
+  </address>
+  <phone>(215) 862-8300</phone>
+</brewery>

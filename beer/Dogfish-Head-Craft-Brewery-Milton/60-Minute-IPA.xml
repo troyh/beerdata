@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/60-Minute-IPA" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.58892755334472" abv="6" ibu="60">
+  <name>60 Minute IPA</name>
+  <description>Our flagship beer. A session India Pale Ale brewed with Warrior, Amarillo &amp; 'Mystery Hop X.' A lot of citrusy hop character. THE session beer for beer geeks like us!</description>
+  <availability>Year round</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="14">India Pale Ale(IPA)</style>
+  </styles>
+  <sizes>
+    <size upc="638489000299">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>10604</item>
+        <reg_price>39.16</reg_price>
+        <post_off>$33.56</post_off>
+        <net_case_price/>
+        <unit_price>$9.79</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+    <size>
+      <description>KEG 1/2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82870</item>
+        <reg_price>$155.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$155.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$193.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

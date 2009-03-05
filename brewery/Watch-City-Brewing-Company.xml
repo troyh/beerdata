@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Watch-City-Brewing-Company">
+  <name>Watch City Brewing Company‎</name>
+  <address>
+    <street>256 Moody Street</street>
+    <city>Waltham</city>
+    <state>MA</state>
+    <zip>02453-5303</zip>
+    <latitude>42.371828</latitude>
+    <longitude>-71.236698</longitude>
+    <country>US</country>
+  </address>
+  <phone>(781) 647-4000</phone>
+</brewery>

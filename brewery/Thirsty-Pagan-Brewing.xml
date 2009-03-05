@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Thirsty-Pagan-Brewing">
+  <name>Thirsty Pagan Brewing‎</name>
+  <address>
+    <street>1623 Broadway St</street>
+    <city>Superior</city>
+    <state>WI</state>
+    <zip>54880-1616</zip>
+    <latitude>46.726747</latitude>
+    <longitude>-92.101302</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 394-2500</phone>
+</brewery>

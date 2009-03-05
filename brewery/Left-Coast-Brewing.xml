@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Left-Coast-Brewing">
+  <name>Left Coast Brewing‎</name>
+  <address>
+    <street>1245 Puerta del Sol</street>
+    <city>San Clemente</city>
+    <state>CA</state>
+    <zip>92673-6310</zip>
+    <latitude>33.457312</latitude>
+    <longitude>-117.588927</longitude>
+    <country>US</country>
+  </address>
+  <phone>(949) 361-9972</phone>
+</brewery>

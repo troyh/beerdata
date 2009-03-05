@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Moylans-Brewery-and-Restaurant/DOUBLE-IPA-MOYLANDER" brewery_id="Moylans-Brewery-and-Restaurant">
+  <name>DOUBLE IPA (MOYLANDER)</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="---">
+      <description>1/2 BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>735024</item>
+        <reg_price>280.00</reg_price>
+        <post_off>280.00</post_off>
+        <net_case_price/>
+        <unit_price>280.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Vertigo-Brewing-LLC">
+  <name>Vertigo Brewing LLC‎</name>
+  <address>
+    <street>21420 NW Nicholas Ct</street>
+    <city>Hillsboro</city>
+    <state>OR</state>
+    <zip>97124-6618</zip>
+    <latitude>45.531784</latitude>
+    <longitude>-122.897905</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 645-6644</phone>
+</brewery>

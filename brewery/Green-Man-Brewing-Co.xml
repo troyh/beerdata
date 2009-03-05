@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Green-Man-Brewing-Co">
+  <name>Green Man Brewing Co‎</name>
+  <address>
+    <street>23 Buxton Ave</street>
+    <city>Asheville</city>
+    <state>NC</state>
+    <zip>28801-4019</zip>
+    <latitude>35.588673</latitude>
+    <longitude>-82.553620</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 252-5502</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Buckeye-Brewing-Co">
+  <name>Buckeye Brewing Co‎</name>
+  <address>
+    <street>9985 Walford Ave</street>
+    <city>Cleveland</city>
+    <state>OH</state>
+    <zip>44102-4660</zip>
+    <latitude>41.455669</latitude>
+    <longitude>-81.753165</longitude>
+    <country>US</country>
+  </address>
+  <phone>(216) 281-5347</phone>
+</brewery>

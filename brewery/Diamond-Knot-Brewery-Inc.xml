@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Diamond-Knot-Brewery-Inc">
+  <name>Diamond Knot Brewery Inc‎</name>
+  <address>
+    <street>621A Front St</street>
+    <city>Mukilteo</city>
+    <state>WA</state>
+    <zip>98275-1557</zip>
+    <latitude>47.948568</latitude>
+    <longitude>-122.304845</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 355-4488</phone>
+</brewery>

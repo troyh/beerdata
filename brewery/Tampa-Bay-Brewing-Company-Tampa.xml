@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tampa-Bay-Brewing-Company-Tampa">
+  <name>Tampa Bay Brewing Company‎</name>
+  <address>
+    <street>1600 E 8th Ave # A123</street>
+    <city>Tampa</city>
+    <state>FL</state>
+    <zip>33605-3736</zip>
+    <latitude>27.961132</latitude>
+    <longitude>-82.441719</longitude>
+    <country>US</country>
+  </address>
+  <phone>(813) 247-1422</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Stumptown-Brewery-Guerneville-2">
+  <name>Stumptown Brewery‎</name>
+  <address>
+    <street>15045 River Rd</street>
+    <city>Guerneville</city>
+    <state>CA</state>
+    <zip>95446</zip>
+    <latitude>38.513674</latitude>
+    <longitude>-122.983502</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 869-0705</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/DEADLY" brewery_id="Rogue-Brewery">
+  <name>DEADLY</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13067-9">
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name>columbia</name>
+        <item>30644</item>
+        <reg_price>$48.51</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$48.51</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$5.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

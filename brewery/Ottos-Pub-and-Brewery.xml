@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ottos-Pub-and-Brewery">
+  <name>Otto's Pub &amp; Brewery‎</name>
+  <address>
+    <street>2105 N Atherton St</street>
+    <city>State College</city>
+    <state>PA</state>
+    <zip>16803-1527</zip>
+    <latitude>40.809786</latitude>
+    <longitude>-77.909480</longitude>
+    <country>US</country>
+  </address>
+  <phone>(814) 867-6886</phone>
+</brewery>

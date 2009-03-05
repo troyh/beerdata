@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Draught-House-Pub-and-Brewery">
+  <name>Draught House Pub &amp; Brewery‎</name>
+  <address>
+    <street>4112 Medical Pkwy</street>
+    <city>Austin</city>
+    <state>TX</state>
+    <zip>78756-3722</zip>
+    <latitude>30.310129</latitude>
+    <longitude>-97.742767</longitude>
+    <country>US</country>
+  </address>
+  <phone>(512) 452-6258</phone>
+</brewery>

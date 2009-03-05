@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lemp-Brewery">
+  <name>Lemp Brewery‎</name>
+  <address>
+    <street>3500 Lemp Ave</street>
+    <city>St Louis</city>
+    <state>MO</state>
+    <zip>63118-3256</zip>
+    <latitude>38.590734</latitude>
+    <longitude>-90.218788</longitude>
+    <country>US</country>
+  </address>
+  <phone>(314) 577-0405</phone>
+</brewery>

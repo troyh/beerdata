@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Southport-Brewing-Co-Milford-2">
+  <name>Southport Brewing Co‎</name>
+  <address>
+    <street>33 New Haven Ave</street>
+    <city>Milford</city>
+    <state>CT</state>
+    <zip>06460-3308</zip>
+    <latitude>41.222674</latitude>
+    <longitude>-73.055154</longitude>
+    <country>US</country>
+  </address>
+  <phone>(203) 874-2337</phone>
+</brewery>

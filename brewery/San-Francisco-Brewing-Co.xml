@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="San-Francisco-Brewing-Co">
+  <name>San Francisco Brewing Co‎</name>
+  <address>
+    <street>155 Columbus Ave</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94133-5114</zip>
+    <latitude>37.796613</latitude>
+    <longitude>-122.405042</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 434-3344</phone>
+</brewery>

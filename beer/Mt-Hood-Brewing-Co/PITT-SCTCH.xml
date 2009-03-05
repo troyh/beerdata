@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Mt-Hood-Brewing-Co/PITT-SCTCH" brewery_id="Mt-Hood-Brewing-Co">
+  <name>PITT SCTCH</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>KEG 1/2</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81913</item>
+        <reg_price>$148.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$148.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$184.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Smugglers-Brew-Pub-and-Grill">
+  <name>Smuggler's Brew Pub &amp; Grill‎</name>
+  <address>
+    <street>1571 Ogden Rd</street>
+    <city>Montrose</city>
+    <state>CO</state>
+    <zip>81401-5683</zip>
+    <latitude>38.451050</latitude>
+    <longitude>-107.864131</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 249-0919</phone>
+</brewery>

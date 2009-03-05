@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Southern-Oregon-Brewing-Co">
+  <name>Southern Oregon Brewing Co‎</name>
+  <address>
+    <street>1922 United Way</street>
+    <city>Medford</city>
+    <state>OR</state>
+    <zip>97504-4970</zip>
+    <latitude>42.356525</latitude>
+    <longitude>-122.860158</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 776-9898</phone>
+</brewery>

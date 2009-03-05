@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cornerstone-Brewery-Co">
+  <name>Cornerstone Brewery Co‎</name>
+  <address>
+    <street>58 Front St</street>
+    <city>Berea</city>
+    <state>OH</state>
+    <zip>44017-1911</zip>
+    <latitude>41.366893</latitude>
+    <longitude>-81.852932</longitude>
+    <country>US</country>
+  </address>
+  <phone>(440) 239-9820</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Oak-Creek-Brewing-Co">
+  <name>Oak Creek Brewing Co‎</name>
+  <address>
+    <street>2050 Yavapai Dr</street>
+    <city>Sedona</city>
+    <state>AZ</state>
+    <zip>86336-4517</zip>
+    <latitude>34.866334</latitude>
+    <longitude>-111.796263</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 204-1300</phone>
+</brewery>

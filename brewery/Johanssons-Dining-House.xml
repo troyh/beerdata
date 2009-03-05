@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Johanssons-Dining-House">
+  <name>Johanssons Dining House‎</name>
+  <address>
+    <street>4 W Main St</street>
+    <city>Westminster</city>
+    <state>MD</state>
+    <zip>21157-4816</zip>
+    <latitude>39.575458</latitude>
+    <longitude>-76.996049</longitude>
+    <country>US</country>
+  </address>
+  <phone>(410) 876-0101</phone>
+</brewery>

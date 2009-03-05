@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Weihenstephan-Brewery/HEFE-WEISSBIER" brewery_id="Weihenstephan-Brewery">
+  <name>HEFE-WEISSBIER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-48009-11111-1">
+      <description>50L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>748009</item>
+        <reg_price>150.00</reg_price>
+        <post_off>150.00</post_off>
+        <net_case_price/>
+        <unit_price>150.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Old-Market-Pub-and-Brewery">
+  <name>Old Market Pub &amp; Brewery‎</name>
+  <address>
+    <street>6959 SW Multnomah Blvd # 101</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97223-3439</zip>
+    <latitude>45.466016</latitude>
+    <longitude>-122.748020</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 244-2337</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mooses-Tooth-Brewing-Co-Anchorage">
+  <name>Moose's Tooth Brewing Co‎</name>
+  <address>
+    <street>2021 Spar Ave</street>
+    <city>Anchorage</city>
+    <state>AK</state>
+    <zip>99501-1815</zip>
+    <latitude>61.222740</latitude>
+    <longitude>-149.843146</longitude>
+    <country>US</country>
+  </address>
+  <phone>(907) 278-4999</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Arbor-Brewing-Co-Ann-Arbor">
+  <name>Arbor Brewing Co‎</name>
+  <address>
+    <street>114 E Washington St</street>
+    <city>Ann Arbor</city>
+    <state>MI</state>
+    <zip>48104-1905</zip>
+    <latitude>42.280343</latitude>
+    <longitude>-83.748306</longitude>
+    <country>US</country>
+  </address>
+  <phone>(734) 213-1393</phone>
+</brewery>

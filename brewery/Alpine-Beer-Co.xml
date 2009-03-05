@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alpine-Beer-Co">
+  <name>Alpine Beer Co‎</name>
+  <address>
+    <street>2351 Alpine Blvd</street>
+    <city>Alpine</city>
+    <state>CA</state>
+    <zip>91901-2202</zip>
+    <latitude>32.835270</latitude>
+    <longitude>-116.763338</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 445-2337</phone>
+</brewery>

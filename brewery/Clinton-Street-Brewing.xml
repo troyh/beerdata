@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Clinton-Street-Brewing">
+  <name>Clinton Street Brewing‎</name>
+  <address>
+    <street>2520 SE Clinton St</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97202-1239</zip>
+    <latitude>45.503215</latitude>
+    <longitude>-122.640193</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 238-5588</phone>
+</brewery>

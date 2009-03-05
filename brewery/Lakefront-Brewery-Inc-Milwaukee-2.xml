@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lakefront-Brewery-Inc-Milwaukee-2">
+  <name>Lakefront Brewery Inc‎</name>
+  <address>
+    <street>1872 N Commerce St</street>
+    <city>Milwaukee</city>
+    <state>WI</state>
+    <zip>53212-3701</zip>
+    <latitude>43.054970</latitude>
+    <longitude>-87.905257</longitude>
+    <country>US</country>
+  </address>
+  <phone>(414) 372-8800</phone>
+</brewery>

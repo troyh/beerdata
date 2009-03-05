@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Speakeasy-Ales-and-Lagers">
+  <name>Speakeasy Ales &amp; Lagers‎</name>
+  <address>
+    <street>1195 Evans Ave # A</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94124-1704</zip>
+    <latitude>37.738555</latitude>
+    <longitude>-122.380969</longitude>
+    <country>US</country>
+  </address>
+  <phone>(415) 642-3371</phone>
+</brewery>

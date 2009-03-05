@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="San-Pedro-Brewing-Co">
+  <name>San Pedro Brewing Co‎</name>
+  <address>
+    <street>331 W 6th St</street>
+    <city>San Pedro</city>
+    <state>CA</state>
+    <zip>90731-3317</zip>
+    <latitude>33.738598</latitude>
+    <longitude>-118.284237</longitude>
+    <country>US</country>
+  </address>
+  <phone>(310) 831-5663</phone>
+</brewery>

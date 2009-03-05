@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Abita-Brewing-Co-LLC">
+  <name>Abita Brewing Co LLC‎</name>
+  <address>
+    <street>21084 Highway 36</street>
+    <city>Covington</city>
+    <state>LA</state>
+    <zip>70433-9200</zip>
+    <latitude>30.482547</latitude>
+    <longitude>-90.054400</longitude>
+    <country>US</country>
+  </address>
+  <phone>(985) 893-3143</phone>
+</brewery>

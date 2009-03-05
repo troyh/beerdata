@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silverado-Brewing-Co">
+  <name>Silverado Brewing Co‎</name>
+  <address>
+    <street>3020 Saint Helena Hwy N</street>
+    <city>Saint Helena</city>
+    <state>CA</state>
+    <zip>94574-9656</zip>
+    <latitude>38.524364</latitude>
+    <longitude>-122.496819</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 967-9876</phone>
+</brewery>

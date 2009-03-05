@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Scuttlebutt-Brewing-Co-Everett/Maibock" brewery_id="Scuttlebutt-Brewing-Co-Everett">
+  <name>Maibock</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description>15.5 gal</description>
+      <distributor>
+        <name>click</name>
+        <item>62760</item>
+        <reg_price>$125.00</reg_price>
+        <post_off/>
+        <net_case_price/>
+        <unit_price>    </unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

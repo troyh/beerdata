@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Waimea-Brewing-Co-Waimea">
+  <name>Waimea Brewing Co‎</name>
+  <address>
+    <street>9400 Kaumualii Hwy</street>
+    <city>Waimea</city>
+    <state>HI</state>
+    <zip>US</zip>
+    <latitude>21.955047</latitude>
+    <longitude>-159.667348</longitude>
+    <country/>
+  </address>
+  <phone>(808) 338-9733</phone>
+</brewery>

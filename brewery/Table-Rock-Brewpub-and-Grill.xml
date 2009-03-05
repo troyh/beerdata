@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Table-Rock-Brewpub-and-Grill">
+  <name>Table Rock Brewpub &amp; Grill‎</name>
+  <address>
+    <street>705 Fulton St</street>
+    <city>Boise</city>
+    <state>ID</state>
+    <zip>83702-7126</zip>
+    <latitude>43.611157</latitude>
+    <longitude>-116.206259</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 342-0944</phone>
+</brewery>

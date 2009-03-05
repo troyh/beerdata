@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Double-Bock" brewery_id="Boston-Beer-Co" calories_per_ml="0.901707258709618" abv="9.50" og="24.5Plato">
+  <name>Double Bock</name>
+  <description>Samuel AdamsÂ® Double Bock was first brewed 20 years ago as the first of our Samuel AdamsÂ® seasonal offerings, and it is now one of our most acclaimed beers.  Double Bock became one the first big beers to be brewed here in the US, and we are now happy to offer it year round.  We use an enormous amount of malted barley, half a pound per bottle, to brew this intensely rich lager. Its deep mahogany color and velvet smooth flavor is a testament to the beerâs high quality two-row malted barley.  Samuel AdamsÂ® Double Bock, as with all of the beers in the Imperial Series, is brewed using only first wort (wort that has not been sparged in the lauter tun) to obtain a liquid that is very high in gravity. This high gravity allows for a fuller body and higher alcohol content in the final beer.  We age this beer for over 4 weeks to allow all of those intense flavors to develop and mature.
+
+Harrington, Metcalfe and Caramel 60 malted barely is used to obtain that gorgeous mahogany color and intense flavor.  The malt character is balanced with a subtle piney, citrus hop note from the Tettnang Tettnanger and Tettnang Hallertauer hops.
+
+The intense flavors of Double Bock go well with rich meats like duck, quail or pork tenderloin.  You can also match the rich sweet flavors with some hearty desserts like cheesecake or crÃ¨me brulee.  But in all honesty, you could just have a pint on its own for dessert and be completely satisfied.  Due to legal restrictions, the Samuel Adams Imperial Series beers are not offered in the states of Alabama, Idaho, Iowa, Mississippi, Montana, South Carolina and West Virginia.</description>
+  <availability>Year round</availability>
+  <ingredients/>
+  <grains>Two Row Harrington, Metcalfe, Caramel 60</grains>
+  <hops>Hallertau Mittlefrueh, Tettnang-tettnanger Noble</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="5C">Doppelbock</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

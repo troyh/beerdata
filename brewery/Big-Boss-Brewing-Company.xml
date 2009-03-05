@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Big-Boss-Brewing-Company">
+  <name>Big Boss Brewing Company‎</name>
+  <address>
+    <street>1249 Wicker Dr</street>
+    <city>Raleigh</city>
+    <state>NC</state>
+    <zip>27604-1427</zip>
+    <latitude>35.809833</latitude>
+    <longitude>-78.618182</longitude>
+    <country>US</country>
+  </address>
+  <phone>(919) 834-0045</phone>
+</brewery>

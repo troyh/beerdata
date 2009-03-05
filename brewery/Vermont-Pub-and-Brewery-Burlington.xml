@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Vermont-Pub-and-Brewery-Burlington">
+  <name>Vermont Pub &amp; Brewery‎</name>
+  <address>
+    <street>144 College St</street>
+    <city>Burlington</city>
+    <state>VT</state>
+    <zip>05401-8416</zip>
+    <latitude>44.477167</latitude>
+    <longitude>-73.214699</longitude>
+    <country>US</country>
+  </address>
+  <phone>(802) 865-0500</phone>
+</brewery>

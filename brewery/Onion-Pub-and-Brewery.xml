@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Onion-Pub-and-Brewery">
+  <name>Onion Pub &amp; Brewery‎</name>
+  <address>
+    <street>22N221 Pepper Rd</street>
+    <city>Lake Barrington</city>
+    <state>IL</state>
+    <zip>60010</zip>
+    <latitude>42.186683</latitude>
+    <longitude>-88.184598</longitude>
+    <country>US</country>
+  </address>
+  <phone>(847) 381-7308</phone>
+</brewery>

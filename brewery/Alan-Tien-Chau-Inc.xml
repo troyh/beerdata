@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Alan-Tien-Chau-Inc">
+  <name>Alan Tien Chau Inc‎</name>
+  <address>
+    <street>8585 Westminster Ave</street>
+    <city>Garden Grove</city>
+    <state>CA</state>
+    <zip>92844-2501</zip>
+    <latitude>33.759487</latitude>
+    <longitude>-117.979643</longitude>
+    <country>US</country>
+  </address>
+  <phone>(714) 799-1599</phone>
+</brewery>

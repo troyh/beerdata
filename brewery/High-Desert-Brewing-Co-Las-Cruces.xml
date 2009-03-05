@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="High-Desert-Brewing-Co-Las-Cruces">
+  <name>High Desert Brewing Co‎</name>
+  <address>
+    <street>1201 W Hadley Ave</street>
+    <city>Las Cruces</city>
+    <state>NM</state>
+    <zip>88005-2422</zip>
+    <latitude>32.309784</latitude>
+    <longitude>-106.793493</longitude>
+    <country>US</country>
+  </address>
+  <phone>(575) 525-6752</phone>
+</brewery>

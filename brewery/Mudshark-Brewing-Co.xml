@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Mudshark-Brewing-Co">
+  <name>Mudshark Brewing Co‎</name>
+  <address>
+    <street>210 Swanson Ave</street>
+    <city>Lake Havasu City</city>
+    <state>AZ</state>
+    <zip>86403-0966</zip>
+    <latitude>34.467973</latitude>
+    <longitude>-114.341048</longitude>
+    <country>US</country>
+  </address>
+  <phone>(928) 453-2981</phone>
+</brewery>

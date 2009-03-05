@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="T-Bonz-Gill-and-Grill">
+  <name>T-Bonz Gill &amp; Grill‎</name>
+  <address>
+    <street>80 N Market St</street>
+    <city>Charleston</city>
+    <state>SC</state>
+    <zip>29401-3118</zip>
+    <latitude>32.781103</latitude>
+    <longitude>-79.929874</longitude>
+    <country>US</country>
+  </address>
+  <phone>(843) 577-2511</phone>
+</brewery>

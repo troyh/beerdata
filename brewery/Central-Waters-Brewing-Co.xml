@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Central-Waters-Brewing-Co">
+  <name>Central Waters Brewing Co‎</name>
+  <address>
+    <street>Allen St</street>
+    <city>Amherst</city>
+    <state>WI</state>
+    <zip>54406</zip>
+    <latitude>44.450065</latitude>
+    <longitude>-89.279444</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 824-2739</phone>
+</brewery>

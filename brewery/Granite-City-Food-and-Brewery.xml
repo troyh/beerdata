@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Granite-City-Food-and-Brewery">
+  <name>Granite City Food &amp; Brewery‎</name>
+  <address>
+    <street>16 Nathan Ln N</street>
+    <city>Minneapolis</city>
+    <state>MN</state>
+    <zip>55441-6306</zip>
+    <latitude>44.979191</latitude>
+    <longitude>-93.408109</longitude>
+    <country>US</country>
+  </address>
+  <phone>(763) 544-6600</phone>
+</brewery>

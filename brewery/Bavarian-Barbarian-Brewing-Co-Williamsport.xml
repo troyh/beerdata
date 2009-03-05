@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bavarian-Barbarian-Brewing-Co-Williamsport">
+  <name>Bavarian Barbarian Brewing Co‎</name>
+  <address>
+    <street>429 W 3rd St # 12</street>
+    <city>Williamsport</city>
+    <state>PA</state>
+    <zip>17701-6007</zip>
+    <latitude>41.238066</latitude>
+    <longitude>-77.009013</longitude>
+    <country>US</country>
+  </address>
+  <phone>(570) 322-5050</phone>
+</brewery>

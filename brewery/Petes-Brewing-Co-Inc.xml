@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Petes-Brewing-Co-Inc">
+  <name>Pete's Brewing Co Inc‎</name>
+  <address>
+    <street>14800 San Pedro Ave</street>
+    <city>San Antonio</city>
+    <state>TX</state>
+    <zip>78232-3709</zip>
+    <latitude>29.576394</latitude>
+    <longitude>-98.477686</longitude>
+    <country>US</country>
+  </address>
+  <phone>(210) 490-9128</phone>
+</brewery>

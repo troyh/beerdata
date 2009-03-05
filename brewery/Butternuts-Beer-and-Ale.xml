@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Butternuts-Beer-and-Ale">
+  <name>Butternuts Beer &amp; Ale‎</name>
+  <address>
+    <street>4021 State Highway 51</street>
+    <city>Garrattsville</city>
+    <state>NY</state>
+    <zip>13342-1705</zip>
+    <latitude>42.625163</latitude>
+    <longitude>-75.189868</longitude>
+    <country>US</country>
+  </address>
+  <phone>(607) 263-5070</phone>
+</brewery>

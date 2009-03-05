@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="River-City-Brewing-Co-Jacksonville">
+  <name>River City Brewing Co‎</name>
+  <address>
+    <street>835 Museum Cir</street>
+    <city>Jacksonville</city>
+    <state>FL</state>
+    <zip>32207-9003</zip>
+    <latitude>30.318650</latitude>
+    <longitude>-81.661323</longitude>
+    <country>US</country>
+  </address>
+  <phone>(904) 398-2299</phone>
+</brewery>

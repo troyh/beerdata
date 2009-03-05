@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dostal-Alley-Brewing-Co">
+  <name>Dostal Alley Brewing Co‎</name>
+  <address>
+    <street>Dostal Alley</street>
+    <city>Central City</city>
+    <state>CO</state>
+    <zip>80427</zip>
+    <latitude>39.800360</latitude>
+    <longitude>-105.512264</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 582-1610</phone>
+</brewery>

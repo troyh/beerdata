@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Island-Brewing-Co">
+  <name>Island Brewing Co‎</name>
+  <address>
+    <street>5049 6th St</street>
+    <city>Carpinteria</city>
+    <state>CA</state>
+    <zip>93013-2001</zip>
+    <latitude>34.395917</latitude>
+    <longitude>-119.521033</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 745-8272</phone>
+</brewery>

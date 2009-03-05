@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Woodstock-Brewing-Co">
+  <name>Woodstock Brewing Co‎</name>
+  <address>
+    <street>1951 Canton Rd</street>
+    <city>Marietta</city>
+    <state>GA</state>
+    <zip>30066-6307</zip>
+    <latitude>33.996924</latitude>
+    <longitude>-84.524307</longitude>
+    <country>US</country>
+  </address>
+  <phone>(770) 795-1428</phone>
+</brewery>

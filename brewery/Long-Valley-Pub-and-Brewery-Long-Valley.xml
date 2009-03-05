@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Long-Valley-Pub-and-Brewery-Long-Valley">
+  <name>Long Valley Pub &amp; Brewery‎</name>
+  <address>
+    <street>1 Fairmount Rd</street>
+    <city>Long Valley</city>
+    <state>NJ</state>
+    <zip>07853-3107</zip>
+    <latitude>40.783630</latitude>
+    <longitude>-74.779742</longitude>
+    <country>US</country>
+  </address>
+  <phone>(908) 876-1122</phone>
+</brewery>

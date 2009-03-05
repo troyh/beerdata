@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Harbor-City-Brewing-Co">
+  <name>Harbor City Brewing Co‎</name>
+  <address>
+    <street>535 W Grand Ave</street>
+    <city>Port Washington</city>
+    <state>WI</state>
+    <zip>53074-2102</zip>
+    <latitude>43.386933</latitude>
+    <longitude>-87.880204</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 284-3118</phone>
+</brewery>

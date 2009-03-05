@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Slopes-Northern-Maine-Restaurant">
+  <name>Slopes/Northern Maine Restaurant‎</name>
+  <address>
+    <street>150 Maysville Rd</street>
+    <city>Presque Isle</city>
+    <state>ME</state>
+    <zip>04769-3239</zip>
+    <latitude>46.693375</latitude>
+    <longitude>-67.997732</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 769-2739</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Blue-Moon-Brewing-Co/SUMMER" brewery_id="Blue-Moon-Brewing-Co">
+  <name>SUMMER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-71990-09535-2">
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>10708</item>
+        <reg_price>$51.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$51.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$63.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

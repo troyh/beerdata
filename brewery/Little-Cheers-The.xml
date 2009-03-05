@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Little-Cheers-The">
+  <name>Little Cheers The‎</name>
+  <address>
+    <street>329 Main St</street>
+    <city>Evansville</city>
+    <state>IN</state>
+    <zip>47708-1443</zip>
+    <latitude>37.971070</latitude>
+    <longitude>-87.571731</longitude>
+    <country>US</country>
+  </address>
+  <phone>(812) 423-9740</phone>
+</brewery>

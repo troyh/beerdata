@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pyramid-Alehouse-Walnut-Creek">
+  <name>Pyramid Alehouse‎</name>
+  <address>
+    <street>1410 Locust Street</street>
+    <city>Walnut Creek</city>
+    <state>CA</state>
+    <zip>94596-4514</zip>
+    <latitude>37.899125</latitude>
+    <longitude>-122.061944</longitude>
+    <country>US</country>
+  </address>
+  <phone>(925) 946-1520</phone>
+</brewery>

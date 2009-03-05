@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Blue-Cat-Brew-Pub-Rock-Island">
+  <name>Blue Cat Brew Pub‎</name>
+  <address>
+    <street>113 18th St</street>
+    <city>Rock Island</city>
+    <state>IL</state>
+    <zip>61201-8708</zip>
+    <latitude>41.511933</latitude>
+    <longitude>-90.574465</longitude>
+    <country>US</country>
+  </address>
+  <phone>(309) 788-8247</phone>
+</brewery>

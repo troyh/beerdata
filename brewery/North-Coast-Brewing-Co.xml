@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="North-Coast-Brewing-Co">
+  <name>North Coast Brewing Co‎</name>
+  <address>
+    <street>455 N Main St</street>
+    <city>Fort Bragg</city>
+    <state>CA</state>
+    <zip>95437-3215</zip>
+    <latitude>39.446177</latitude>
+    <longitude>-123.806067</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 964-3400</phone>
+</brewery>

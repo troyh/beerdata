@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bethlehem-Brew-Works-Bethlehem">
+  <name>Bethlehem Brew Works‎</name>
+  <address>
+    <street>569 Main Street</street>
+    <city>Bethlehem</city>
+    <state>PA</state>
+    <zip>18018-5810</zip>
+    <latitude>40.621912</latitude>
+    <longitude>-75.382107</longitude>
+    <country>US</country>
+  </address>
+  <phone>(610) 882-1300</phone>
+</brewery>

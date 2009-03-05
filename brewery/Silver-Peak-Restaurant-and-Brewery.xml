@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Silver-Peak-Restaurant-and-Brewery">
+  <name>Silver Peak Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>124 Wonder St</street>
+    <city>Reno</city>
+    <state>NV</state>
+    <zip>89502-2424</zip>
+    <latitude>39.513919</latitude>
+    <longitude>-119.806056</longitude>
+    <country>US</country>
+  </address>
+  <phone>(775) 324-1864</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Depot-Deli-and-Lounge">
+  <name>Depot Deli &amp; Lounge‎</name>
+  <address>
+    <street>101 N Railroad St</street>
+    <city>Shenandoah</city>
+    <state>IA</state>
+    <zip>51601-1158</zip>
+    <latitude>40.765089</latitude>
+    <longitude>-95.376764</longitude>
+    <country>US</country>
+  </address>
+  <phone>(712) 246-4444</phone>
+</brewery>

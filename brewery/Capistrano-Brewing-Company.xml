@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Capistrano-Brewing-Company">
+  <name>Capistrano Brewing Company‎</name>
+  <address>
+    <street>27545 Paseo Toluca</street>
+    <city>San Juan Capistrano</city>
+    <state>CA</state>
+    <zip>92675-5344</zip>
+    <latitude>33.489823</latitude>
+    <longitude>-117.651375</longitude>
+    <country>US</country>
+  </address>
+  <phone>(949) 240-2967</phone>
+</brewery>

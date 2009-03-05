@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Brewhouse-At-Eastlake">
+  <name>Brewhouse At Eastlake‎</name>
+  <address>
+    <street>871 Showroom Pl # 102</street>
+    <city>Chula Vista</city>
+    <state>CA</state>
+    <zip>91914-3626</zip>
+    <latitude>32.652674</latitude>
+    <longitude>-116.954833</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 656-2739</phone>
+</brewery>

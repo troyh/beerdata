@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Worth-Brewing-Co">
+  <name>Worth Brewing Co‎</name>
+  <address>
+    <street>826 Central Ave</street>
+    <city>Northwood</city>
+    <state>IA</state>
+    <zip>50459-1533</zip>
+    <latitude>43.444181</latitude>
+    <longitude>-93.220484</longitude>
+    <country>US</country>
+  </address>
+  <phone>(641) 324-9899</phone>
+</brewery>

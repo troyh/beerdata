@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="John-Harvards-Brew-House-Manchester-2">
+  <name>John Harvard's Brew House‎</name>
+  <address>
+    <street>1487 Pleasant Valley Rd</street>
+    <city>Manchester</city>
+    <state>CT</state>
+    <zip>06042-1664</zip>
+    <latitude>41.805202</latitude>
+    <longitude>-72.557941</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 644-2739</phone>
+</brewery>

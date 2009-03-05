@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Eskes-Brew-Pub">
+  <name>Eske's Brew Pub‎</name>
+  <address>
+    <street>106 Des Georges</street>
+    <city>Taos</city>
+    <state>NM</state>
+    <zip>87571-6179</zip>
+    <latitude>36.406626</latitude>
+    <longitude>-105.573561</longitude>
+    <country>US</country>
+  </address>
+  <phone>(575) 758-1517</phone>
+</brewery>

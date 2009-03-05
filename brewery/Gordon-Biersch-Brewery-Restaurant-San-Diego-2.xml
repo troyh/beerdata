@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-Restaurant-San-Diego-2">
+  <name>Gordon Biersch Brewery Restaurant‎</name>
+  <address>
+    <street>5010 Mission Center Rd</street>
+    <city>San Diego</city>
+    <state>CA</state>
+    <zip>92108-3211</zip>
+    <latitude>32.767124</latitude>
+    <longitude>-117.153602</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 688-1120</phone>
+</brewery>

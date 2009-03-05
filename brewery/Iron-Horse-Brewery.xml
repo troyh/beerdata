@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Iron-Horse-Brewery">
+  <name>Iron Horse Brewery‎</name>
+  <address>
+    <street>1000 N Prospect St # 4</street>
+    <city>Ellensburg</city>
+    <state>WA</state>
+    <zip>98926-8359</zip>
+    <latitude>46.999644</latitude>
+    <longitude>-120.565076</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 933-3134</phone>
+</brewery>

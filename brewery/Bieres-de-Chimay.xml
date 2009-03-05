@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Bieres-de-Chimay">
+  <name>Bieres de Chimay</name>
+    <address>
+        <street></street>
+	    <city></city>
+	        <state></state>
+		    <zip></zip>
+		        <country>Belgium</country>
+			  </address>
+			    <phone></phone>
+			    </brewery>
+

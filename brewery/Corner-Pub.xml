@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Corner-Pub">
+  <name>Corner Pub‎</name>
+  <address>
+    <street>1123 N Mason St</street>
+    <city>Appleton</city>
+    <state>WI</state>
+    <zip>54914-3640</zip>
+    <latitude>44.271501</latitude>
+    <longitude>-88.425860</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 730-1097</phone>
+</brewery>

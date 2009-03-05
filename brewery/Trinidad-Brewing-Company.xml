@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Trinidad-Brewing-Company">
+  <name>Trinidad Brewing Company‎</name>
+  <address>
+    <street>516 Elm St</street>
+    <city>Trinidad</city>
+    <state>CO</state>
+    <zip>81082-2764</zip>
+    <latitude>37.170640</latitude>
+    <longitude>-104.501072</longitude>
+    <country>US</country>
+  </address>
+  <phone>(719) 846-7069</phone>
+</brewery>

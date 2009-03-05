@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Boston-Beer-Co/Millennium" brewery_id="Boston-Beer-Co" calories_per_ml="0.811536532838657" abv="20" og="37Plato">
+  <name>Millennium</name>
+  <description>Samuel AdamsÂ® Millennium is an example of the brewers' art at its most remarkable: a rich though very drinkable brew with mouth-filling flavors of malt and oak, overtones of vanilla, butterscotch and pear, with a hint of cinnamon. Rare Noble hops give Samuel AdamsÂ® Millennium a crisp, balanced finish. Served at cellar temperature (about 60 degrees) in two-ounce servings, Samuel AdamsÂ® Millennium makes a wonderful aperitif or after-dinner drink. To create Samuel AdamsÂ® Millennium, our brewers worked with ingredients common to fine beers including Noble hops and two row barley. The beer spent three weeks in primary fermentation and was then aged in used bourbon barrels for up to 6 years. The brewers made a single batch of the beer at the Samuel Adams Brewery in Boston
+Due to legal restrictions, Samuel AdamsÂ® Millennium can not be sold in the states of Alabama, Arkansas, Florida, Georgia, Idaho, Iowa, Missouri, New Hampshire, North Carolina, Ohio, Oregon, South Carolina, Washington, and West Virginia.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains>Two row Pale, Caramel 60, Vienna</grains>
+  <hops>Spalt-Spalter, Czech Saaz, Tettnang-tettnager, hallertau-Mittlefrueh</hops>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size>
+      <description/>
+      <distributor>
+        <name/>
+        <item/>
+        <reg_price/>
+        <post_off/>
+        <net_case_price/>
+        <unit_price/>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

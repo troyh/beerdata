@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gannett-Grill">
+  <name>Gannett Grill‎</name>
+  <address>
+    <street>126 W Main St</street>
+    <city>Lander</city>
+    <state>WY</state>
+    <zip>82520-8821</zip>
+    <latitude>42.497230</latitude>
+    <longitude>-108.735617</longitude>
+    <country>US</country>
+  </address>
+  <phone>(307) 332-8228</phone>
+</brewery>

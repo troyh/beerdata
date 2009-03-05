@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Lost-Coast-Brewery-and-Cafe/IDIC" brewery_id="Lost-Coast-Brewery-and-Cafe">
+  <name>IDIC</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-51249-11128-5">
+      <description>BOTTLE 12/22</description>
+      <distributor>
+        <name>columbia</name>
+        <item>59511</item>
+        <reg_price>$29.35</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$29.35</net_case_price>
+        <unit_price>$0.60</unit_price>
+        <deposit>$3.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

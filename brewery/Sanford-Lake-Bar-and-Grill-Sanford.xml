@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Sanford-Lake-Bar-and-Grill-Sanford">
+  <name>Sanford Lake Bar and Grill‎</name>
+  <address>
+    <street>3770 N Bailey Rd</street>
+    <city>Sanford</city>
+    <state>MI</state>
+    <zip>48657-9302</zip>
+    <latitude>43.720094</latitude>
+    <longitude>-84.390391</longitude>
+    <country>US</country>
+  </address>
+  <phone>(986) 687-5620</phone>
+</brewery>

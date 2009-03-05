@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/Olde-School-Barleywine" brewery_id="Dogfish-Head-Craft-Brewery-Milton" abv="15">
+  <name>Olde School Barleywine</name>
+  <description>Bold, yet smooth! Fermented with dates and figs, this bone-crusher has a completely unique flavor.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style bjcp_style_id="19C">American Barleywine</style>
+  </styles>
+  <sizes>
+    <size>
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>82876</item>
+        <reg_price>$67.10</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$67.10</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$20.99</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

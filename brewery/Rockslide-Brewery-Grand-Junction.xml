@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rockslide-Brewery-Grand-Junction">
+  <name>Rockslide Brewery‎</name>
+  <address>
+    <street>401 Main St</street>
+    <city>Grand Junction</city>
+    <state>CO</state>
+    <zip>81501-2511</zip>
+    <latitude>39.067245</latitude>
+    <longitude>-108.565958</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 245-2111</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Tamarack-Brewing-Company">
+  <name>Tamarack Brewing Company‎</name>
+  <address>
+    <street>105 Blacktail Road Suite #1</street>
+    <city>Lakeside</city>
+    <state>MT</state>
+    <zip>US</zip>
+    <latitude>48.017885</latitude>
+    <longitude>-114.224669</longitude>
+    <country/>
+  </address>
+  <phone>(406) 844-0244</phone>
+</brewery>

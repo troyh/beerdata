@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dragonmead-Microbrewery">
+  <name>Dragonmead Microbrewery‎</name>
+  <address>
+    <street>14600 E 11 Mile Rd</street>
+    <city>Warren</city>
+    <state>MI</state>
+    <zip>48089-1556</zip>
+    <latitude>42.492962</latitude>
+    <longitude>-82.974923</longitude>
+    <country>US</country>
+  </address>
+  <phone>(586) 776-9428</phone>
+</brewery>

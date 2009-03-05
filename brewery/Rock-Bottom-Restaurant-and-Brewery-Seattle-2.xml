@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Seattle-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>1333 5th Ave</street>
+    <city>Seattle</city>
+    <state>WA</state>
+    <zip>98101-2601</zip>
+    <latitude>47.608902</latitude>
+    <longitude>-122.334231</longitude>
+    <country>US</country>
+  </address>
+  <phone>(206) 623-3070</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Vintage-50-Restaurant">
+  <name>Vintage 50 Restaurant‎</name>
+  <address>
+    <street>50 Catoctin Circle</street>
+    <city>Leesburg</city>
+    <state>VA</state>
+    <zip>20176-3100</zip>
+    <latitude>39.112389</latitude>
+    <longitude>-77.554177</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 777-2169</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Columbus-Brewing-Co-Inc">
+  <name>Columbus Brewing Co Inc‎</name>
+  <address>
+    <street>525 Short St</street>
+    <city>Columbus</city>
+    <state>OH</state>
+    <zip>43215-5614</zip>
+    <latitude>39.950460</latitude>
+    <longitude>-83.003715</longitude>
+    <country>US</country>
+  </address>
+  <phone>(614) 464-2739</phone>
+</brewery>

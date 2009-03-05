@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Keoki-Brewing-Company">
+  <name>Keoki Brewing Company‎</name>
+  <address>
+    <street>2976 Aukele St</street>
+    <city>Lihue</city>
+    <state>HI</state>
+    <zip>96766-1462</zip>
+    <latitude>21.965947</latitude>
+    <longitude>-159.356433</longitude>
+    <country>US</country>
+  </address>
+  <phone>(808) 245-8884</phone>
+</brewery>

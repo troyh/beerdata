@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Shenandoah-Brewing">
+  <name>Shenandoah Brewing‎</name>
+  <address>
+    <street>652 S Pickett St</street>
+    <city>Alexandria</city>
+    <state>VA</state>
+    <zip>22304-4620</zip>
+    <latitude>38.804309</latitude>
+    <longitude>-77.132083</longitude>
+    <country>US</country>
+  </address>
+  <phone>(703) 823-9508</phone>
+</brewery>

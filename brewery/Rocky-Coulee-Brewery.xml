@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rocky-Coulee-Brewery">
+  <name>Rocky Coulee Brewery‎</name>
+  <address>
+    <street>205 E 1st Ave</street>
+    <city>Odessa</city>
+    <state>WA</state>
+    <zip>99159-9865</zip>
+    <latitude>47.333207</latitude>
+    <longitude>-118.686793</longitude>
+    <country>US</country>
+  </address>
+  <phone>(509) 345-2216</phone>
+</brewery>

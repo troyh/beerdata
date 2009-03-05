@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Olde-Auburn-Ale-House">
+  <name>Olde Auburn Ale House‎</name>
+  <address>
+    <street>124 Tichenor Ave</street>
+    <city>Auburn</city>
+    <state>AL</state>
+    <zip>36830-4704</zip>
+    <latitude>32.608192</latitude>
+    <longitude>-85.481203</longitude>
+    <country>US</country>
+  </address>
+  <phone>(334) 821-6773</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Summit-Brewing-Company">
+  <name>Summit Brewing Company‎</name>
+  <address>
+    <street>910 Montreal Cir</street>
+    <city>Saint Paul</city>
+    <state>MN</state>
+    <zip>55102-4246</zip>
+    <latitude>44.913982</latitude>
+    <longitude>-93.140497</longitude>
+    <country>US</country>
+  </address>
+  <phone>(651) 265-7800</phone>
+</brewery>

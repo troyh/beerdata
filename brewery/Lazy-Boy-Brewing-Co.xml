@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Lazy-Boy-Brewing-Co">
+  <name>Lazy Boy Brewing Co‎</name>
+  <address>
+    <street>715 100th St SE # A1</street>
+    <city>Everett</city>
+    <state>WA</state>
+    <zip>98208-3727</zip>
+    <latitude>47.907528</latitude>
+    <longitude>-122.222932</longitude>
+    <country>US</country>
+  </address>
+  <phone>(425) 423-7700</phone>
+</brewery>

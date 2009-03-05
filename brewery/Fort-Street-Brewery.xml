@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fort-Street-Brewery">
+  <name>Fort Street Brewery‎</name>
+  <address>
+    <street>1660 Fort St</street>
+    <city>Lincoln Park</city>
+    <state>MI</state>
+    <zip>48146-1909</zip>
+    <latitude>42.252007</latitude>
+    <longitude>-83.175982</longitude>
+    <country>US</country>
+  </address>
+  <phone>(313) 389-9620</phone>
+</brewery>

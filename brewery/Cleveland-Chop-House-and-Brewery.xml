@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Cleveland-Chop-House-and-Brewery">
+  <name>Cleveland Chop House &amp; Brewery‎</name>
+  <address>
+    <street>824 W Saint Clair Ave</street>
+    <city>Cleveland</city>
+    <state>OH</state>
+    <zip>44113-1266</zip>
+    <latitude>41.499116</latitude>
+    <longitude>-81.699870</longitude>
+    <country>US</country>
+  </address>
+  <phone>(216) 623-0909</phone>
+</brewery>

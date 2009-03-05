@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Great-Northern-Brewing">
+  <name>Great Northern Brewing‎</name>
+  <address>
+    <street>2 Central Ave</street>
+    <city>Whitefish</city>
+    <state>MT</state>
+    <zip>59937-2547</zip>
+    <latitude>48.412390</latitude>
+    <longitude>-114.336771</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 863-1000</phone>
+</brewery>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Kettlehouse-Brewing-Co">
+  <name>Kettlehouse Brewing Co‎</name>
+  <address>
+    <street>602 Myrtle St</street>
+    <city>Missoula</city>
+    <state>MT</state>
+    <zip>59801-2704</zip>
+    <latitude>46.865847</latitude>
+    <longitude>-113.998839</longitude>
+    <country>US</country>
+  </address>
+  <phone>(406) 728-1660</phone>
+</brewery>

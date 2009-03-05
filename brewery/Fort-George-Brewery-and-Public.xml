@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Fort-George-Brewery-and-Public">
+  <name>Fort George Brewery &amp; Public‎</name>
+  <address>
+    <street>1483 Duane St</street>
+    <city>Astoria</city>
+    <state>OR</state>
+    <zip>97103-3819</zip>
+    <latitude>46.188427</latitude>
+    <longitude>-123.827511</longitude>
+    <country>US</country>
+  </address>
+  <phone>(503) 325-7468</phone>
+</brewery>

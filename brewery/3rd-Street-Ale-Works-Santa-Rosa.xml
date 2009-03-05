@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="3rd-Street-Ale-Works-Santa-Rosa">
+  <name>3rd Street Ale Works‎</name>
+  <address>
+    <street>610 3rd St</street>
+    <city>Santa Rosa</city>
+    <state>CA</state>
+    <zip>95404-4418</zip>
+    <latitude>38.439673</latitude>
+    <longitude>-122.713008</longitude>
+    <country>US</country>
+  </address>
+  <phone>(707) 523-3060</phone>
+</brewery>

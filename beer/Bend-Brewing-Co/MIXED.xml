@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Bend-Brewing-Co/MIXED" brewery_id="Bend-Brewing-Co">
+  <name>MIXED</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-41163-45948-9">
+      <description>2/12/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>700075</item>
+        <reg_price>25.16</reg_price>
+        <post_off>21.60</post_off>
+        <net_case_price/>
+        <unit_price>12.58</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

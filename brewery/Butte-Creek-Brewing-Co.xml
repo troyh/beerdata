@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Butte-Creek-Brewing-Co">
+  <name>Butte Creek Brewing Co‎</name>
+  <address>
+    <street>945 W 2nd St</street>
+    <city>Chico</city>
+    <state>CA</state>
+    <zip>95928-5002</zip>
+    <latitude>39.725053</latitude>
+    <longitude>-121.848126</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 894-7906</phone>
+</brewery>

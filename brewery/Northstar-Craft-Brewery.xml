@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Northstar-Craft-Brewery">
+  <name>Northstar Craft Brewery‎</name>
+  <address>
+    <street>3501 Iron Ct</street>
+    <city>Shasta Lake</city>
+    <state>CA</state>
+    <zip>96019-9132</zip>
+    <latitude>40.657980</latitude>
+    <longitude>-122.386075</longitude>
+    <country>US</country>
+  </address>
+  <phone>(530) 275-2739</phone>
+</brewery>

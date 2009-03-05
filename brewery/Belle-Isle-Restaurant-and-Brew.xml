@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Belle-Isle-Restaurant-and-Brew">
+  <name>Belle Isle Restaurant &amp; Brew‎</name>
+  <address>
+    <street>1900 NW Expressway # 44</street>
+    <city>Oklahoma City</city>
+    <state>OK</state>
+    <zip>73118-1616</zip>
+    <latitude>35.522684</latitude>
+    <longitude>-97.546130</longitude>
+    <country>US</country>
+  </address>
+  <phone>(405) 840-1911</phone>
+</brewery>

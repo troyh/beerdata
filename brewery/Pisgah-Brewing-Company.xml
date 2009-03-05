@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Pisgah-Brewing-Company">
+  <name>Pisgah Brewing Company‎</name>
+  <address>
+    <street>150 Eastside Drive</street>
+    <city>Black Mountain</city>
+    <state>NC</state>
+    <zip>28711-8208</zip>
+    <latitude>35.608433</latitude>
+    <longitude>-82.361060</longitude>
+    <country>US</country>
+  </address>
+  <phone>(828) 669-2491</phone>
+</brewery>

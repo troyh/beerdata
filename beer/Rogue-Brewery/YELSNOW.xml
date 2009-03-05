@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/YELSNOW" brewery_id="Rogue-Brewery">
+  <name>YELSNOW</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13150-8">
+      <description>BOTTLE 6/64</description>
+      <distributor>
+        <name>columbia</name>
+        <item>31305</item>
+        <reg_price>$52.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$52.00</net_case_price>
+        <unit_price>$0.30</unit_price>
+        <deposit>$10.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

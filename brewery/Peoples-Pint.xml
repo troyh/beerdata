@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Peoples-Pint">
+  <name>People's Pint‎</name>
+  <address>
+    <street>24 Federal St</street>
+    <city>Greenfield</city>
+    <state>MA</state>
+    <zip>01301-3302</zip>
+    <latitude>42.588544</latitude>
+    <longitude>-72.600053</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 773-0333</phone>
+</brewery>

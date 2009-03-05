@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Gordon-Biersch-Brewery-New-Orleans-2">
+  <name>Gordon Biersch Brewery‎</name>
+  <address>
+    <street>200 Poydras St</street>
+    <city>New Orleans</city>
+    <state>LA</state>
+    <zip>70130-1641</zip>
+    <latitude>29.948185</latitude>
+    <longitude>-90.064884</longitude>
+    <country>US</country>
+  </address>
+  <phone>(504) 552-2739</phone>
+</brewery>

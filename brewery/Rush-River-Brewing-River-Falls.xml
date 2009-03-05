@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rush-River-Brewing-River-Falls">
+  <name>Rush River Brewing‎</name>
+  <address>
+    <street>Antler Ct</street>
+    <city>River Falls</city>
+    <state>WI</state>
+    <zip>54022</zip>
+    <latitude>44.890216</latitude>
+    <longitude>-92.637677</longitude>
+    <country>US</country>
+  </address>
+  <phone>(715) 426-2054</phone>
+</brewery>

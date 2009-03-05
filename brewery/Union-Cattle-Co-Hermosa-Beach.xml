@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Union-Cattle-Co-Hermosa-Beach">
+  <name>Union Cattle Co‎</name>
+  <address>
+    <street>1301 Manhattan Ave</street>
+    <city>Hermosa Beach</city>
+    <state>CA</state>
+    <zip>90254-3654</zip>
+    <latitude>33.863374</latitude>
+    <longitude>-118.399518</longitude>
+    <country>US</country>
+  </address>
+  <phone>(310) 798-8227</phone>
+</brewery>

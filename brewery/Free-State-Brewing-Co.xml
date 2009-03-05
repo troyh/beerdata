@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Free-State-Brewing-Co">
+  <name>Free State Brewing Co‎</name>
+  <address>
+    <street>636 Massachusetts St</street>
+    <city>Lawrence</city>
+    <state>KS</state>
+    <zip>66044-2236</zip>
+    <latitude>38.972360</latitude>
+    <longitude>-95.235750</longitude>
+    <country>US</country>
+  </address>
+  <phone>(785) 843-4555</phone>
+</brewery>

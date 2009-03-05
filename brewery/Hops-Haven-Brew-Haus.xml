@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Haven-Brew-Haus">
+  <name>Hops Haven Brew Haus‎</name>
+  <address>
+    <street>1327 N 14th St</street>
+    <city>Sheboygan</city>
+    <state>WI</state>
+    <zip>53081-3247</zip>
+    <latitude>43.758918</latitude>
+    <longitude>-87.722854</longitude>
+    <country>US</country>
+  </address>
+  <phone>(920) 457-4677</phone>
+</brewery>

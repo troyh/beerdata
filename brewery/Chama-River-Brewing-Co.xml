@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Chama-River-Brewing-Co">
+  <name>Chama River Brewing Co‎</name>
+  <address>
+    <street>4931 Pan American Fwy NE</street>
+    <city>Albuquerque</city>
+    <state>NM</state>
+    <zip>87109-2230</zip>
+    <latitude>35.138817</latitude>
+    <longitude>-106.600698</longitude>
+    <country>US</country>
+  </address>
+  <phone>(505) 342-1800</phone>
+</brewery>

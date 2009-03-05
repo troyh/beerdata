@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Hales-Ales-Pub/Red-Menace" brewery_id="Hales-Ales-Pub">
+  <name>Red Menace</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="798644150402">
+      <description>4/6/12 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11228</item>
+        <reg_price>$27.96</reg_price>
+        <post_off>$23.76</post_off>
+        <net_case_price/>
+        <unit_price>$6.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

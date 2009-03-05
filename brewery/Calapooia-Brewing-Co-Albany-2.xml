@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Calapooia-Brewing-Co-Albany-2">
+  <name>Calapooia Brewing Co.‎</name>
+  <address>
+    <street>140 Hill St. NE</street>
+    <city>Albany</city>
+    <state>OR</state>
+    <zip>97321</zip>
+    <latitude>44.639016</latitude>
+    <longitude>-123.093757</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 928-1931</phone>
+</brewery>

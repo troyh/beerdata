@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="McMenamins-Inc">
+  <name>McMenamins Inc‎</name>
+  <address>
+    <street>2001 NW Monroe Ave</street>
+    <city>Corvallis</city>
+    <state>OR</state>
+    <zip>97330-5577</zip>
+    <latitude>44.568031</latitude>
+    <longitude>-123.275171</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 752-9463</phone>
+</brewery>

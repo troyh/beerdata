@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Andrews-Brewing-Co">
+  <name>Andrew's Brewing Co‎</name>
+  <address>
+    <street>353 High St</street>
+    <city>Lincolnville</city>
+    <state>ME</state>
+    <zip>04849-5846</zip>
+    <latitude>44.306090</latitude>
+    <longitude>-69.140048</longitude>
+    <country>US</country>
+  </address>
+  <phone>(207) 763-3305</phone>
+</brewery>

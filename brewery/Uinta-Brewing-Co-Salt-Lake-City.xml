@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Uinta-Brewing-Co-Salt-Lake-City">
+  <name>Uinta Brewing Co‎</name>
+  <address>
+    <street>1722 Fremont Dr</street>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84104-4215</zip>
+    <latitude>40.732421</latitude>
+    <longitude>-111.953514</longitude>
+    <country>US</country>
+  </address>
+  <phone>(801) 467-0909</phone>
+</brewery>

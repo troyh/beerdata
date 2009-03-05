@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Eel-River-Brewing-Co-Fortuna/ORGANIC-IPA" brewery_id="Eel-River-Brewing-Co-Fortuna">
+  <name>ORGANIC IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-10097-22410-6">
+      <description>4/6/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>447001</item>
+        <reg_price>25.18</reg_price>
+        <post_off>25.18</post_off>
+        <net_case_price/>
+        <unit_price>6.30</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

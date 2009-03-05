@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Taylor-Brewing-Co">
+  <name>Taylor Brewing Co‎</name>
+  <address>
+    <street>717 E Butterfield Rd</street>
+    <city>Lombard</city>
+    <state>IL</state>
+    <zip>60148-5614</zip>
+    <latitude>41.839626</latitude>
+    <longitude>-87.998672</longitude>
+    <country>US</country>
+  </address>
+  <phone>(630) 990-8700</phone>
+</brewery>

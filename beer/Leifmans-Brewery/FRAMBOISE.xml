@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Leifmans-Brewery/FRAMBOISE" brewery_id="Leifmans-Brewery">
+  <name>FRAMBOISE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-69596-10057-9">
+      <description>12/25.4 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>700073</item>
+        <reg_price>90.00</reg_price>
+        <post_off>86.88</post_off>
+        <net_case_price/>
+        <unit_price>7.50</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

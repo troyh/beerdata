@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Anheuser-Busch-Co">
+  <name>Anheuser-Busch Co‎</name>
+  <address>
+    <street>2885 Belgium Rd</street>
+    <city>Baldwinsville</city>
+    <state>NY</state>
+    <zip>13027-2706</zip>
+    <latitude>43.165773</latitude>
+    <longitude>-76.309117</longitude>
+    <country>US</country>
+  </address>
+  <phone>(315) 638-0365</phone>
+</brewery>

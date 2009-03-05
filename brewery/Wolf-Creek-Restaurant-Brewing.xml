@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wolf-Creek-Restaurant-Brewing">
+  <name>Wolf Creek Restaurant/Brewing‎</name>
+  <address>
+    <street>27746 McBean Pkwy</street>
+    <city>Santa Clarita</city>
+    <state>CA</state>
+    <zip>91355</zip>
+    <latitude>34.427420</latitude>
+    <longitude>-118.561039</longitude>
+    <country>US</country>
+  </address>
+  <phone>(661) 263-9653</phone>
+</brewery>

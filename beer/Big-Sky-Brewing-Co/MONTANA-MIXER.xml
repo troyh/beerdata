@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Big-Sky-Brewing-Co/MONTANA-MIXER" brewery_id="Big-Sky-Brewing-Co">
+  <name>MONTANA MIXER</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-00283-11004-9">
+      <description>2/12/12 BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>541034</item>
+        <reg_price>27.97</reg_price>
+        <post_off>25.80</post_off>
+        <net_case_price/>
+        <unit_price>13.99</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

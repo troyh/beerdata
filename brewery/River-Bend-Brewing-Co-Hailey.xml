@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="River-Bend-Brewing-Co-Hailey">
+  <name>River Bend Brewing Co‎</name>
+  <address>
+    <street>113 River Bend Rd</street>
+    <city>Hailey</city>
+    <state>ID</state>
+    <zip>83333-5139</zip>
+    <latitude>43.595651</latitude>
+    <longitude>-114.346115</longitude>
+    <country>US</country>
+  </address>
+  <phone>(208) 788-8087</phone>
+</brewery>

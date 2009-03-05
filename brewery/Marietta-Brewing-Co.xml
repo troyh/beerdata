@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Marietta-Brewing-Co">
+  <name>Marietta Brewing Co‎</name>
+  <address>
+    <street>167 Front St</street>
+    <city>Marietta</city>
+    <state>OH</state>
+    <zip>45750-3125</zip>
+    <latitude>39.411940</latitude>
+    <longitude>-81.453622</longitude>
+    <country>US</country>
+  </address>
+  <phone>(740) 373-2739</phone>
+</brewery>

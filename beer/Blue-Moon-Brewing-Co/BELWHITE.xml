@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Blue-Moon-Brewing-Co/BELWHITE" brewery_id="Blue-Moon-Brewing-Co">
+  <name>BELWHITE</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-71990-09511-6">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>10800</item>
+        <reg_price>$25.16</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$25.16</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$7.89</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

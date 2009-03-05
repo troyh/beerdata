@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Elliot-Glacier-Public-House">
+  <name>Elliot Glacier Public House‎</name>
+  <address>
+    <street>4945 Baseline Dr</street>
+    <city>Mt Hood Parkdale</city>
+    <state>OR</state>
+    <zip>97041-8703</zip>
+    <latitude>45.519553</latitude>
+    <longitude>-121.596457</longitude>
+    <country>US</country>
+  </address>
+  <phone>(541) 352-1022</phone>
+</brewery>

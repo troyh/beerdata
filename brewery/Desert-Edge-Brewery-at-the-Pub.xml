@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Desert-Edge-Brewery-at-the-Pub">
+  <name>Desert Edge Brewery at the Pub‎</name>
+  <address>
+    <street>602 S 500 E</street>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84102-3587</zip>
+    <latitude>40.756113</latitude>
+    <longitude>-111.876904</longitude>
+    <country>US</country>
+  </address>
+  <phone>(801) 521-8917</phone>
+</brewery>

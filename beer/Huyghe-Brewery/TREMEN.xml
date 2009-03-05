@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Huyghe-Brewery/TREMEN" brewery_id="Huyghe-Brewery">
+  <name>TREMEN</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="6-08782-52300-9">
+      <description>BOTTLE 4-6/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>83271</item>
+        <reg_price>$92.34</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$92.34</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$19.19</deposit>
+      </distributor>
+    </size>
+    <size>
+      <description>KEG 1/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>81744</item>
+        <reg_price>$195.00</reg_price>
+        <post_off>0</post_off>
+        <net_case_price>$195.00</net_case_price>
+        <unit_price>$30.00</unit_price>
+        <deposit>$243.79</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Coronado-Brewing-Co">
+  <name>Coronado Brewing Co‎</name>
+  <address>
+    <street>170 Orange Ave</street>
+    <city>Coronado</city>
+    <state>CA</state>
+    <zip>92118-1409</zip>
+    <latitude>32.697894</latitude>
+    <longitude>-117.173113</longitude>
+    <country>US</country>
+  </address>
+  <phone>(619) 437-4452</phone>
+</brewery>

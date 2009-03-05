@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Hales-Ales-Pub/El-Jefe-Weizen" brewery_id="Hales-Ales-Pub">
+  <name>El Jefe Weizen</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="798644140700">
+      <description>12/22 oz</description>
+      <distributor>
+        <name>click</name>
+        <item>11252</item>
+        <reg_price>$33.48</reg_price>
+        <post_off>$29.28</post_off>
+        <net_case_price/>
+        <unit_price>$2.79</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

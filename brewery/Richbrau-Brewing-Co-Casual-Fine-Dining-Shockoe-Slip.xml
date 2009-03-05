@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Richbrau-Brewing-Co-Casual-Fine-Dining-Shockoe-Slip">
+  <name>Richbrau Brewing Co: Casual-Fine Dining Shockoe Slip‎</name>
+  <address>
+    <street>1214 E Cary St</street>
+    <city>Richmond</city>
+    <state>VA</state>
+    <zip>23219-4116</zip>
+    <latitude>37.535844</latitude>
+    <longitude>-77.434393</longitude>
+    <country>US</country>
+  </address>
+  <phone>(804) 644-3018</phone>
+</brewery>

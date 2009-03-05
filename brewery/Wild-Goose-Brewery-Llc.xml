@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wild-Goose-Brewery-Llc">
+  <name>Wild Goose Brewery Llc‎</name>
+  <address>
+    <street>4607 Wedgewood Blvd</street>
+    <city>Frederick</city>
+    <state>MD</state>
+    <zip>21703-7120</zip>
+    <latitude>39.361926</latitude>
+    <longitude>-77.424804</longitude>
+    <country>US</country>
+  </address>
+  <phone>(301) 694-7899</phone>
+</brewery>

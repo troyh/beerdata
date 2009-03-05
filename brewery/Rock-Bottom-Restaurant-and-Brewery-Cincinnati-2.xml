@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Rock-Bottom-Restaurant-and-Brewery-Cincinnati-2">
+  <name>Rock Bottom Restaurant &amp; Brewery‎</name>
+  <address>
+    <street>10 Fountain Square Plz</street>
+    <city>Cincinnati</city>
+    <state>OH</state>
+    <zip>45202-3126</zip>
+    <latitude>39.101253</latitude>
+    <longitude>-84.512678</longitude>
+    <country>US</country>
+  </address>
+  <phone>(513) 621-1588</phone>
+</brewery>

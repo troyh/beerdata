@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Wolverine-Gardens">
+  <name>Wolverine Gardens‎</name>
+  <address>
+    <street>12891 Cleveland Ave</street>
+    <city>Buchanan</city>
+    <state>MI</state>
+    <zip>49107-9339</zip>
+    <latitude>41.885421</latitude>
+    <longitude>-86.493971</longitude>
+    <country>US</country>
+  </address>
+  <phone>(269) 422-1113</phone>
+</brewery>

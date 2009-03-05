@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Hops-Grillhouse-And-Brewery">
+  <name>Hops Grillhouse And Brewery‎</name>
+  <address>
+    <street>110 Buckland Hills Drive</street>
+    <city>Manchester</city>
+    <state>CT</state>
+    <zip>06042-8700</zip>
+    <latitude>41.809003</latitude>
+    <longitude>-72.549559</longitude>
+    <country>US</country>
+  </address>
+  <phone>(860) 648-4677</phone>
+</brewery>

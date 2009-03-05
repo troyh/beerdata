@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Dicks-Brewing-Co">
+  <name>Dick's Brewing Co‎</name>
+  <address>
+    <street>5945 Prather Rd SW</street>
+    <city>Centralia</city>
+    <state>WA</state>
+    <zip>98531-9618</zip>
+    <latitude>46.771667</latitude>
+    <longitude>-123.008141</longitude>
+    <country>US</country>
+  </address>
+  <phone>(360) 736-7760</phone>
+</brewery>

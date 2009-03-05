@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Left-Hand-Brewing-Co">
+  <name>Left Hand Brewing Co‎</name>
+  <address>
+    <street>1265 Boston Ave</street>
+    <city>Longmont</city>
+    <state>CO</state>
+    <zip>80501-5809</zip>
+    <latitude>40.158629</latitude>
+    <longitude>-105.115111</longitude>
+    <country>US</country>
+  </address>
+  <phone>(303) 772-0258</phone>
+</brewery>

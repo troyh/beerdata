@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Ragtime-Tavern-and-Seafood-Grill">
+  <name>Ragtime Tavern &amp; Seafood Grill‎</name>
+  <address>
+    <street>207 Atlantic Blvd</street>
+    <city>Atlantic Beach</city>
+    <state>FL</state>
+    <zip>32233-5273</zip>
+    <latitude>30.324796</latitude>
+    <longitude>-81.396331</longitude>
+    <country>US</country>
+  </address>
+  <phone>(904) 241-7877</phone>
+</brewery>

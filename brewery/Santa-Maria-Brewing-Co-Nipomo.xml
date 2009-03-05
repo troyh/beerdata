@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Santa-Maria-Brewing-Co-Nipomo">
+  <name>Santa Maria Brewing Co‎</name>
+  <address>
+    <street>112 Cuyama Ln</street>
+    <city>Nipomo</city>
+    <state>CA</state>
+    <zip>93444-9058</zip>
+    <latitude>34.996228</latitude>
+    <longitude>-120.435771</longitude>
+    <country>US</country>
+  </address>
+  <phone>(805) 349-2090</phone>
+</brewery>

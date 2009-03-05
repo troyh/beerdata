@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Odell-Brewing-Co-Fort-Collins-2">
+  <name>Odell Brewing Co‎</name>
+  <address>
+    <street>800 E Lincoln Ave</street>
+    <city>Fort Collins</city>
+    <state>CO</state>
+    <zip>80524-2507</zip>
+    <latitude>40.588911</latitude>
+    <longitude>-105.060393</longitude>
+    <country>US</country>
+  </address>
+  <phone>(970) 498-9070</phone>
+</brewery>

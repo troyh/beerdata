@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery id="Opa-Opa-Steakhouse-and-Brewery">
+  <name>Opa Opa Steakhouse &amp; Brewery‎</name>
+  <address>
+    <street>169 College Hwy</street>
+    <city>Southampton</city>
+    <state>MA</state>
+    <zip>01073-9320</zip>
+    <latitude>42.236129</latitude>
+    <longitude>-72.724955</longitude>
+    <country>US</country>
+  </address>
+  <phone>(413) 527-0808</phone>
+</brewery>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Grupo-Modelo/DARK" brewery_id="Grupo-Modelo">
+  <name>DARK</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-80660-95787-6">
+      <description>BOTTLE 2/12</description>
+      <distributor>
+        <name>columbia</name>
+        <item>52002</item>
+        <reg_price>$25.48</reg_price>
+        <post_off>-$3.00</post_off>
+        <net_case_price>$22.48</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$14.09</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

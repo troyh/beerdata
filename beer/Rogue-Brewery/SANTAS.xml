@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Rogue-Brewery/SANTAS" brewery_id="Rogue-Brewery">
+  <name>SANTAS</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="0-95301-13098-3">
+      <description>BOTTLE 4/6</description>
+      <distributor>
+        <name>columbia</name>
+        <item>30620</item>
+        <reg_price>$32.00</reg_price>
+        <post_off>-$5.03</post_off>
+        <net_case_price>$26.97</net_case_price>
+        <unit_price>$1.20</unit_price>
+        <deposit>$8.39</deposit>
+      </distributor>
+    </size>
+  </sizes>
+</beer>
