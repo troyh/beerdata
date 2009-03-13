@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="Hennesseys-Tavern-Dana-Point-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Bar</type>
-	<name>Hennessey&#x27;s Tavern</name>
-	<description></description>
-	<phone>(949) 488-0121</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>34111 La Plaza</street>
-		<city>Dana Point</city>
-		<state>California</state>
-		<zip>92629</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Bar</type>
+  <name>Hennessey's Tavern</name>
+  <description/>
+  <phone>(949) 488-0121</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>34111 La Plaza</street>
+    <city>Dana Point</city>
+    <state>California</state>
+    <neighborhood/>
+    <zip>92629-2511</zip>
+    <latitude>33.467873</latitude>
+    <longitude>-117.699484</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

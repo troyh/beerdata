@@ -1,31 +1,37 @@
+<?xml version="1.0"?>
 <place id="Deschutes-Brewery-Bend-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="yes" growlers_to_go="yes" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewery</type>
-	<name>Deschutes Brewery</name>
-	<description>Deschutes Brewery, located in Central Oregon along the banks of the wild and scenic Deschutes River, has brewed a family of handcrafted ales since 1988. Starting out as a small brewpub in the heart of downtown Bend, Deschutes&#xD5; first beers were Black Butte Porter, Bachelor Bitter and Cascade Golden Ale.In 1993, Deschutes moved into its current brewing facility and has continued expanding and improving the facilities. With a 50-barrel traditional gravity brew house and a new one-of-a-kind 131-barrel Huppmann brew system from Germany, Deschutes now creates and experiments with specialty batches of limited beers like The Abyss and Hop Trip while brewing large quantities of everyone&#xD5;s favorites like Mirror Pond Pale Ale. Consistently producing the highest quality beers is always Deschutes&#xD5; number one priority and commitment.</description>
-	<phone>(541) 385-8606</phone>
-	<uri>http://www.deschutesbrewery.com/</uri>
-	<established>1988</established>
-	<address>
-		<street>901 SW Simpson Ave.</street>
-		<city>Bend</city>
-		<state>Oregon</state>
-		<zip>97702</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open>Monday - Thursday 11am-11pm Friday and Saturday 11am-12am Sunday 11am-10pm</open>
-		<tour>yes</tour>
-		<tasting>Tasting Room Hours Monday - Saturday  12 pm to 5 pm</tasting>
-	</hours>
-	<tour_info>Free Guided Brewery Tours Monday through Saturday 12 - 4 pm (Tours start on the hour)</tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewery</type>
+  <name>Deschutes Brewery</name>
+  <description>Deschutes Brewery, located in Central Oregon along the banks of the wild and scenic Deschutes River, has brewed a family of handcrafted ales since 1988. Starting out as a small brewpub in the heart of downtown Bend, Deschutes&#xD5; first beers were Black Butte Porter, Bachelor Bitter and Cascade Golden Ale.
+
+In 1993, Deschutes moved into its current brewing facility and has continued expanding and improving the facilities. With a 50-barrel traditional gravity brew house and a new one-of-a-kind 131-barrel Huppmann brew system from Germany, Deschutes now creates and experiments with specialty batches of limited beers like The Abyss and Hop Trip while brewing large quantities of everyone&#xD5;s favorites like Mirror Pond Pale Ale. Consistently producing the highest quality beers is always Deschutes&#xD5; number one priority and commitment.</description>
+  <phone>(541) 385-8606</phone>
+  <uri>http://www.deschutesbrewery.com/</uri>
+  <established>1988</established>
+  <address>
+    <street>901 SW Simpson Ave.</street>
+    <city>Bend</city>
+    <state>Oregon</state>
+    <neighborhood/>
+    <zip>97702-3118</zip>
+    <latitude>44.047600</latitude>
+    <longitude>-121.321956</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open>Monday - Thursday 11am-11pm Friday and Saturday 11am-12am Sunday 11am-10pm</open>
+    <tour>yes</tour>
+    <tasting>Tasting Room Hours Monday - Saturday  12 pm to 5 pm</tasting>
+  </hours>
+  <tour_info>Free Guided Brewery Tours Monday through Saturday 12 - 4 pm (Tours start on the hour)</tour_info>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

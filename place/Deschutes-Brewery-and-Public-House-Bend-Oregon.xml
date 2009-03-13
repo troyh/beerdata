@@ -1,31 +1,37 @@
+<?xml version="1.0"?>
 <place id="Deschutes-Brewery-and-Public-House-Bend-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewpub</type>
-	<name>Deschutes Brewery &#x26; Public House</name>
-	<description>The Deschutes Brewery and Public House, located in downtown Bend on Bond Street (the namesake for the brewery&#xD5;s popular Bond Street Series beers), was the original home of Deschutes Brewery when it opening it&#x27;s doors back on June 27th, 1988.Whether a pub regular or an out-of-town guest, everyone is greeted with a warm reception, friendly service, creative menu items and unique specials that complement the full range of Deschutes Brewery beers. Pub brewer, Paul Arney, makes sure all 18 taps are pouring not only the core line of brews but also a variety of pub exclusive beers, brewed on site. Be sure to check out the X-Tap for the day&#xD5;s most experimental offering.The Bend pub&#xD5;s Executive Chef, Matt Neltner, uses only the finest ingredients in the production of the food. The emphasis is on fresh and handcrafted products with everything possible made on premise including the sausage, breads and mustard. Even the burgers come from freshly ground locally farmed Borlen Cattle Company beef raised on Deschutes Brewery&#x27;s spent grain and hops. </description>
-	<phone>(541) 382-9242</phone>
-	<uri>http://www.deschutesbrewery.com/</uri>
-	<established></established>
-	<address>
-		<street>1044 NW Bond Street</street>
-		<city>Bend</city>
-		<state>Oregon</state>
-		<zip>97701</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open>Monday - Thursday 11am-11pm Friday and Saturday 11am-12am Sunday 11am-10pm</open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="for 8 or more" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewpub</type>
+  <name>Deschutes Brewery &amp; Public House</name>
+  <description>The Deschutes Brewery and Public House, located in downtown Bend on Bond Street (the namesake for the brewery&#xD5;s popular Bond Street Series beers), was the original home of Deschutes Brewery when it opening it's doors back on June 27th, 1988.
+Whether a pub regular or an out-of-town guest, everyone is greeted with a warm reception, friendly service, creative menu items and unique specials that complement the full range of Deschutes Brewery beers. Pub brewer, Paul Arney, makes sure all 18 taps are pouring not only the core line of brews but also a variety of pub exclusive beers, brewed on site. Be sure to check out the X-Tap for the day&#xD5;s most experimental offering.
+The Bend pub&#xD5;s Executive Chef, Matt Neltner, uses only the finest ingredients in the production of the food. The emphasis is on fresh and handcrafted products with everything possible made on premise including the sausage, breads and mustard. Even the burgers come from freshly ground locally farmed Borlen Cattle Company beef raised on Deschutes Brewery's spent grain and hops. </description>
+  <phone>(541) 382-9242</phone>
+  <uri>http://www.deschutesbrewery.com/</uri>
+  <established/>
+  <address>
+    <street>1044 NW Bond Street</street>
+    <city>Bend</city>
+    <state>Oregon</state>
+    <neighborhood/>
+    <zip>97701-2002</zip>
+    <latitude>44.059358</latitude>
+    <longitude>-121.311600</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open>Monday - Thursday 11am-11pm Friday and Saturday 11am-12am Sunday 11am-10pm</open>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="for 8 or more" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

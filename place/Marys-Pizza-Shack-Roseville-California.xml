@@ -1,31 +1,34 @@
+<?xml version="1.0"?>
 <place id="Marys-Pizza-Shack-Roseville-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="yes" brew_on_premises="no" taps="" casks="yes" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewpub</type>
-	<name>Mary&#x27;s Pizza Shack</name>
-	<description></description>
-	<phone>(916) 780-7600</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>711 Pleasant Grove Blvd</street>
-		<city>Roseville</city>
-		<state> California</state>
-		<zip></zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewpub</type>
+  <name>Mary's Pizza Shack</name>
+  <description/>
+  <phone>(916) 780-7600</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>711 Pleasant Grove Blvd</street>
+    <city>Roseville</city>
+    <state> California</state>
+    <neighborhood/>
+    <zip>95678-6153</zip>
+    <latitude>38.791690</latitude>
+    <longitude>-121.279325</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service/>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

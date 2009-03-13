@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="Liberator-Brewing-Company-and-HomeBrew-Supply-Troutdale-Oregon" in_operation="no" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewery</type>
-	<name>Liberator Brewing Company &#x26; HomeBrew Supply</name>
-	<description></description>
-	<phone>(800) 269-2739 </phone>
-	<uri>http://www.liberatorbrewing.com/</uri>
-	<established></established>
-	<address>
-		<street>411 East Columbia River Highway</street>
-		<city>Troutdale</city>
-		<state>Oregon</state>
-		<zip>97060</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewery</type>
+  <name>Liberator Brewing Company &amp; HomeBrew Supply</name>
+  <description/>
+  <phone>(800) 269-2739 </phone>
+  <uri>http://www.liberatorbrewing.com/</uri>
+  <established/>
+  <address>
+    <street>411 East Columbia River Highway</street>
+    <city>Troutdale</city>
+    <state>Oregon</state>
+    <neighborhood/>
+    <zip>97060-2072</zip>
+    <latitude>45.540882</latitude>
+    <longitude>-122.385139</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="Trader-Joes-Riverside-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Store</type>
-	<name>Trader Joe&#x27;s</name>
-	<description></description>
-	<phone>(951) 682-4684</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>6225 Riverside Ave.</street>
-		<city>Riverside</city>
-		<state>California</state>
-		<zip>92506</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Store</type>
+  <name>Trader Joe's</name>
+  <description/>
+  <phone>(951) 682-4684</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>6225 Riverside Ave.</street>
+    <city>Riverside</city>
+    <state>California</state>
+    <neighborhood/>
+    <zip>92506-2179</zip>
+    <latitude>33.955867</latitude>
+    <longitude>-117.388097</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

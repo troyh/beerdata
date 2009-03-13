@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="Union-Cattle-Company-Hermosa-Beach-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewpub</type>
-	<name>Union Cattle Company</name>
-	<description></description>
-	<phone>(310) 798-8227</phone>
-	<uri>http://www.unioncattlecompany.com/</uri>
-	<established></established>
-	<address>
-		<street>1301 Manhattan Ave.</street>
-		<city>Hermosa Beach</city>
-		<state>California</state>
-		<zip>90254</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewpub</type>
+  <name>Union Cattle Company</name>
+  <description/>
+  <phone>(310) 798-8227</phone>
+  <uri>http://www.unioncattlecompany.com/</uri>
+  <established/>
+  <address>
+    <street>1301 Manhattan Ave.</street>
+    <city>Hermosa Beach</city>
+    <state>California</state>
+    <neighborhood/>
+    <zip>90254-3654</zip>
+    <latitude>33.863374</latitude>
+    <longitude>-118.399518</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

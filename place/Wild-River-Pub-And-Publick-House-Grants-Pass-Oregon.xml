@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="Wild-River-Pub-And-Publick-House-Grants-Pass-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Bar</type>
-	<name>Wild River Pub And Publick House</name>
-	<description></description>
-	<phone>(541) 474-4456</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>533 Northeast</street>
-		<city>Grants Pass</city>
-		<state>Oregon</state>
-		<zip>97526-2360</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Bar</type>
+  <name>Wild River Pub And Publick House</name>
+  <description/>
+  <phone>(541) 474-4456</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>533 Northeast</street>
+    <city>Grants Pass</city>
+    <state>Oregon</state>
+    <neighborhood/>
+    <zip>97526</zip>
+    <latitude>42.448000</latitude>
+    <longitude>-123.319239</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

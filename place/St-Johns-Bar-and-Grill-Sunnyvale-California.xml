@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="St-Johns-Bar-and-Grill-Sunnyvale-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Bar</type>
-	<name>St John&#x27;s Bar &#x26; Grill</name>
-	<description></description>
-	<phone>(408) 738-8515</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>510 Lawrence Expy Ste 110</street>
-		<city>Sunnyvale</city>
-		<state>California</state>
-		<zip>94086</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Bar</type>
+  <name>St John's Bar &amp; Grill</name>
+  <description/>
+  <phone>(408) 738-8515</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>510 Lawrence Expy Ste 110</street>
+    <city>Sunnyvale</city>
+    <state>California</state>
+    <neighborhood/>
+    <zip>94085-4014</zip>
+    <latitude>37.382569</latitude>
+    <longitude>-121.995654</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>

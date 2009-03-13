@@ -1,31 +1,35 @@
+<?xml version="1.0"?>
 <place id="First-Street-Ale-House-Livermore-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewpub</type>
-	<name>First Street Ale House</name>
-	<description></description>
-	<phone>(925) 371-6588</phone>
-	<uri></uri>
-	<established></established>
-	<address>
-		<street>2086 1st Street</street>
-		<city>Livermore</city>
-		<state>California</state>
-		<zip>94550</zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting></tasting>
-	</hours>
-	<tour_info></tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewpub</type>
+  <name>First Street Ale House</name>
+  <description/>
+  <phone>(925) 371-6588</phone>
+  <uri/>
+  <established/>
+  <address>
+    <street>2086 1st Street</street>
+    <city>Livermore</city>
+    <state>California</state>
+    <neighborhood/>
+    <zip>94550-4406</zip>
+    <latitude>37.681346</latitude>
+    <longitude>-121.769927</longitude>
+    <country>US</country>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting/>
+  </hours>
+  <tour_info/>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>
