@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <place id="Pelican-Pub-and-Brewery-Pacific-City-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
   <type>Brewpub</type>
   <name>Pelican Pub &amp; Brewery</name>
@@ -14,7 +14,7 @@
     <zip>US</zip>
     <latitude>45.201935</latitude>
     <longitude>-123.962619</longitude>
-    <country></country>
+    <country/>
   </address>
   <hours>
     <open/>

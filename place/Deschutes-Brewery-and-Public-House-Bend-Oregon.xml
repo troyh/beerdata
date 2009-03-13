@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <place id="Deschutes-Brewery-and-Public-House-Bend-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
   <type>Brewpub</type>
   <name>Deschutes Brewery &amp; Public House</name>
-  <description>The Deschutes Brewery and Public House, located in downtown Bend on Bond Street (the namesake for the brewery&#xD5;s popular Bond Street Series beers), was the original home of Deschutes Brewery when it opening it's doors back on June 27th, 1988.
-Whether a pub regular or an out-of-town guest, everyone is greeted with a warm reception, friendly service, creative menu items and unique specials that complement the full range of Deschutes Brewery beers. Pub brewer, Paul Arney, makes sure all 18 taps are pouring not only the core line of brews but also a variety of pub exclusive beers, brewed on site. Be sure to check out the X-Tap for the day&#xD5;s most experimental offering.
-The Bend pub&#xD5;s Executive Chef, Matt Neltner, uses only the finest ingredients in the production of the food. The emphasis is on fresh and handcrafted products with everything possible made on premise including the sausage, breads and mustard. Even the burgers come from freshly ground locally farmed Borlen Cattle Company beef raised on Deschutes Brewery's spent grain and hops. </description>
+  <description>The Deschutes Brewery and Public House, located in downtown Bend on Bond Street (the namesake for the breweryÕs popular Bond Street Series beers), was the original home of Deschutes Brewery when it opening it's doors back on June 27th, 1988.
+Whether a pub regular or an out-of-town guest, everyone is greeted with a warm reception, friendly service, creative menu items and unique specials that complement the full range of Deschutes Brewery beers. Pub brewer, Paul Arney, makes sure all 18 taps are pouring not only the core line of brews but also a variety of pub exclusive beers, brewed on site. Be sure to check out the X-Tap for the dayÕs most experimental offering.
+The Bend pubÕs Executive Chef, Matt Neltner, uses only the finest ingredients in the production of the food. The emphasis is on fresh and handcrafted products with everything possible made on premise including the sausage, breads and mustard. Even the burgers come from freshly ground locally farmed Borlen Cattle Company beef raised on Deschutes Brewery's spent grain and hops. </description>
   <phone>(541) 382-9242</phone>
   <uri>http://www.deschutesbrewery.com/</uri>
   <established/>

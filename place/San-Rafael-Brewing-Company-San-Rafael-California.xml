@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <place id="San-Rafael-Brewing-Company-San-Rafael-California" in_operation="no" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
   <type>Brewery</type>
   <name>San Rafael Brewing Company</name>
@@ -14,7 +14,7 @@
     <zip>US</zip>
     <latitude>37.974570</latitude>
     <longitude>-122.532474</longitude>
-    <country></country>
+    <country/>
   </address>
   <hours>
     <open/>

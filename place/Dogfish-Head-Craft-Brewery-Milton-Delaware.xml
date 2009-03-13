@@ -1,31 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <place id="Dogfish-Head-Craft-Brewery-Milton-Delaware" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="yes" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
-	<type>Brewpub</type>
-	<name>Dogfish Head Craft Brewery</name>
-	<description>Off-centered&#xCA;ales, for off-centered people... that&#x27;s what we do here at Dogfish Head! Whether it&#x27;s weird ingredients,&#xCA;super-strong extreme beers, or crazy, made-up styles, you can be sure that a beer from Dogfish will challenge your perceptions of what beer is supposed to be! We make, bottle and keg most of our beer in our Milton, Delaware brewery - check out our brewery tour for a peek! We also have a small brewery inside our Rehoboth Beach, Delaware brewpub. That&#x27;s where we do our experimental batches - the funkiest of the funky!&#xCA;</description>
-	<phone></phone>
-	<uri>http://www.dogfish.com/</uri>
-	<established></established>
-	<address>
-		<street></street>
-		<city>Milton</city>
-		<state>Delaware</state>
-		<zip></zip>
-		<country>United States</country>
-		<neighborhood></neighborhood>
-	</address>
-	<hours>
-		<open></open>
-		<tour></tour>
-		<tasting>11-5 tues-sat</tasting>
-	</hours>
-	<tour_info>tues-sat</tour_info>
-	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
-		<food_description></food_description>
-		<menu_uri></menu_uri>
-		<price_range></price_range>
-		<attire></attire>
-		<waiter_service></waiter_service>
-	</restaurant>
-	<parking></parking>
-	<kid_friendly></kid_friendly>
+  <type>Brewpub</type>
+  <name>Dogfish Head Craft Brewery</name>
+  <description>Off-centeredÊales, for off-centered people... that's what we do here at Dogfish Head! Whether it's weird ingredients,Êsuper-strong extreme beers, or crazy, made-up styles, you can be sure that a beer from Dogfish will challenge your perceptions of what beer is supposed to be! We make, bottle and keg most of our beer in our Milton, Delaware brewery - check out our brewery tour for a peek! We also have a small brewery inside our Rehoboth Beach, Delaware brewpub. That's where we do our experimental batches - the funkiest of the funky!Ê</description>
+  <phone/>
+  <uri>http://www.dogfish.com/</uri>
+  <established/>
+  <address>
+    <street/>
+    <city>Milton</city>
+    <state>Delaware</state>
+    <zip/>
+    <country>United States</country>
+    <neighborhood/>
+  </address>
+  <hours>
+    <open/>
+    <tour/>
+    <tasting>11-5 tues-sat</tasting>
+  </hours>
+  <tour_info>tues-sat</tour_info>
+  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+    <food_description/>
+    <menu_uri/>
+    <price_range/>
+    <attire/>
+    <waiter_service>
+</waiter_service>
+  </restaurant>
+  <parking/>
+  <kid_friendly/>
 </place>
