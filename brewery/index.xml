@@ -28,6 +28,9 @@
   </address>
   <phone>(619) 688-1120</phone>
 </brewery>
+<brewery id="Asahi-Breweries-Ltd">
+  <name>Asahi Breweries Ltd</name>
+</brewery>
 <brewery id="Nocturnal-Brewing-Co">
   <name>Nocturnal Brewing Co‎</name>
   <address>
@@ -236,6 +239,9 @@
   </address>
   <phone>(415) 461-4677</phone>
 </brewery>
+<brewery id="Pinkus-Muller-Brewery">
+  <name>Pinkus Muller Brewery</name>
+</brewery>
 <brewery id="Half-Acre-Beer-Company-Chicago">
   <name>Half Acre Beer Company‎</name>
   <address>
@@ -430,6 +436,9 @@
     <country>US</country>
   </address>
   <phone>(814) 695-2931</phone>
+</brewery>
+<brewery id="St-Peters-Brewery">
+  <name>St Peters Brewery</name>
 </brewery>
 <brewery id="Petes-Brewing-Co-Inc">
   <name>Pete's Brewing Co Inc‎</name>
@@ -678,6 +687,9 @@
   </address>
   <phone>(207) 773-2337</phone>
 </brewery>
+<brewery id="Oranjeboom-Brewery">
+  <name>Oranjeboom Brewery</name>
+</brewery>
 <brewery id="Big-Buck-Brewery-and-Steakhouse-Gaylord">
   <name>Big Buck Brewery &amp; Steakhouse‎</name>
   <address>
@@ -691,6 +703,9 @@
   </address>
   <phone>(989) 732-5781</phone>
 </brewery>
+<brewery id="Allgäuer-Brauhaus-AG">
+  <name>Allgäuer Brauhaus AG</name>
+</brewery>
 <brewery id="St-Paul-City-Hall">
   <name>St Paul City Hall‎</name>
   <address>
@@ -703,6 +718,9 @@
     <country>US</country>
   </address>
   <phone>(651) 266-8500</phone>
+</brewery>
+<brewery id="Franziskaner-Brewery">
+  <name>Franziskaner Brewery</name>
 </brewery>
 <brewery id="Fiftyfifty-Brewing-Co">
   <name>Fiftyfifty Brewing Co‎</name>
@@ -885,6 +903,9 @@
     <country>US</country>
   </address>
   <phone>(720) 566-0198</phone>
+</brewery>
+<brewery id="Samuel-Smiths-Brewery">
+  <name>Samuel Smiths Brewery</name>
 </brewery>
 <brewery id="Heinzelmannchen-Brewery">
   <name>Heinzelmannchen Brewery‎</name>
@@ -1523,6 +1544,9 @@
   </address>
   <phone>(702) 254-3333</phone>
 </brewery>
+<brewery id="Brasserie-d-Orval">
+  <name>Brasserie d Orval</name>
+</brewery>
 <brewery id="Rochester-Mills-Beer-Co">
   <name>Rochester Mills Beer Co‎</name>
   <address>
@@ -1548,6 +1572,9 @@
     <country>US</country>
   </address>
   <phone>(303) 786-9270</phone>
+</brewery>
+<brewery id="Schneider-Brewery">
+  <name>Schneider Brewery</name>
 </brewery>
 <brewery id="Atomic-Ale-Brewpub-and-Eatery">
   <name>Atomic Ale Brewpub &amp; Eatery‎</name>
@@ -1822,6 +1849,9 @@
   </address>
   <phone>(949) 494-2739</phone>
 </brewery>
+<brewery id="MacTarnahans-Brewing-Co">
+  <name>MacTarnahans Brewing Co</name>
+</brewery>
 <brewery id="Desert-Edge-Brewery-at-the-Pub">
   <name>Desert Edge Brewery at the Pub‎</name>
   <address>
@@ -1834,6 +1864,9 @@
     <country>US</country>
   </address>
   <phone>(801) 521-8917</phone>
+</brewery>
+<brewery id="Brewery-Van-Eecke">
+  <name>Brewery Van Eecke</name>
 </brewery>
 <brewery id="Snake-River-Brewery">
   <name>Snake River Brewery‎</name>
@@ -2004,6 +2037,9 @@
   </address>
   <phone>(541) 776-9898</phone>
 </brewery>
+<brewery id="Mendocino-Brewing-Co">
+  <name>Mendocino Brewing Co</name>
+</brewery>
 <brewery id="Alaskan-Brewing-Co">
   <name>Alaskan Brewing Co‎</name>
   <address>
@@ -2068,6 +2104,9 @@
     <country>US</country>
   </address>
   <phone>(307) 721-4031</phone>
+</brewery>
+<brewery id="Fosters-Brewery">
+  <name>Fosters Brewery</name>
 </brewery>
 <brewery id="Opa-Opa-Steakhouse-and-Brewery">
   <name>Opa Opa Steakhouse &amp; Brewery‎</name>
@@ -2563,6 +2602,9 @@
   </address>
   <phone>(313) 877-9205</phone>
 </brewery>
+<brewery id="St-Pauli-Brewery">
+  <name>St Pauli Brewery</name>
+</brewery>
 <brewery id="Court-Avenue-Brewing-Co-Des-Moines">
   <name>Court Avenue Brewing Co‎</name>
   <address>
@@ -2628,6 +2670,9 @@
   </address>
   <phone>(616) 355-6422</phone>
 </brewery>
+<brewery id="Brouwerij-De-Landtsheer-NV">
+  <name>Brouwerij De Landtsheer NV</name>
+</brewery>
 <brewery id="John-Harvards-Brew-House-Pittsburgh">
   <name>John Harvards Brew House‎</name>
   <address>
@@ -2692,6 +2737,9 @@
     <country>US</country>
   </address>
   <phone>(508) 875-2337</phone>
+</brewery>
+<brewery id="Dixie-Brewing-Company">
+  <name>Dixie Brewing Company</name>
 </brewery>
 <brewery id="Summit-Brewing-Company">
   <name>Summit Brewing Company‎</name>
@@ -3070,6 +3118,12 @@
   </address>
   <phone>(715) 426-2054</phone>
 </brewery>
+<brewery id="Zatec-Brewery">
+  <name>Zatec Brewery</name>
+</brewery>
+<brewery id="Eggenberger-Brewery">
+  <name>Eggenberger Brewery</name>
+</brewery>
 <brewery id="OGaras-Bar-and-Grill">
   <name>O'Gara's Bar and Grill‎</name>
   <address>
@@ -3433,6 +3487,12 @@
     <country>US</country>
   </address>
   <phone>(812) 375-8800</phone>
+</brewery>
+<brewery id="Birra-Moretti">
+  <name>Birra Moretti</name>
+</brewery>
+<brewery id="Guinness-Brewery">
+  <name>Guinness Brewery</name>
 </brewery>
 <brewery id="Engine-House-Number-9-Tacoma">
   <name>Engine House Number 9‎</name>
@@ -4927,6 +4987,9 @@
   </address>
   <phone>(206) 547-5929</phone>
 </brewery>
+<brewery id="Southern-Tier-Brewing-Co">
+  <name>Southern Tier Brewing Co</name>
+</brewery>
 <brewery id="Gordon-Biersch-Brewery-Restaurant-San-Jose-2">
   <name>Gordon Biersch Brewery Restaurant‎</name>
   <address>
@@ -5135,6 +5198,9 @@
   </address>
   <phone>(402) 463-3011</phone>
 </brewery>
+<brewery id="Tsingtao-Brewery">
+  <name>Tsingtao Brewery</name>
+</brewery>
 <brewery id="Brew-Kettle-Strongsville">
   <name>Brew Kettle‎</name>
   <address>
@@ -5265,6 +5331,9 @@
   </address>
   <phone>(305) 259-6890</phone>
 </brewery>
+<brewery id="Gulden-Draak-Brewery">
+  <name>Gulden Draak Brewery</name>
+</brewery>
 <brewery id="Lucky-Labrador-Brew-Pub-Portland">
   <name>Lucky Labrador Brew Pub‎</name>
   <address>
@@ -5303,6 +5372,9 @@
     <country>US</country>
   </address>
   <phone>(425) 257-9316</phone>
+</brewery>
+<brewery id="Cerveceria-La-Constancia-SA">
+  <name>Cerveceria La Constancia SA</name>
 </brewery>
 <brewery id="Thirsty-Bear-Brewing-Co">
   <name>Thirsty Bear Brewing Co‎</name>
@@ -5355,6 +5427,9 @@
     <country>US</country>
   </address>
   <phone>(925) 680-4253</phone>
+</brewery>
+<brewery id="Henry-Weinhards-Brewery">
+  <name>Henry Weinhards Brewery</name>
 </brewery>
 <brewery id="Tioga-Suites-Hotel-Chanute">
   <name>Tioga Suites Hotel‎</name>
@@ -5499,6 +5574,9 @@
   </address>
   <phone>(303) 935-3223</phone>
 </brewery>
+<brewery id="Aktien-Brauerei-Kaufbeuren-AG">
+  <name>Aktien Brauerei Kaufbeuren AG</name>
+</brewery>
 <brewery id="Pyramid-Alehouse-Walnut-Creek">
   <name>Pyramid Alehouse‎</name>
   <address>
@@ -5537,6 +5615,12 @@
     <country>US</country>
   </address>
   <phone>(732) 244-7566</phone>
+</brewery>
+<brewery id="Brasserie-Lefebvre">
+  <name>Brasserie Lefebvre</name>
+</brewery>
+<brewery id="IBHL-USA">
+  <name>IBHL USA</name>
 </brewery>
 <brewery id="English-Ales-Marina">
   <name>English Ales‎</name>
@@ -5720,6 +5804,9 @@
   </address>
   <phone>(509) 837-2739</phone>
 </brewery>
+<brewery id="Les-Brasseurs-de-Gayant">
+  <name>Les Brasseurs de Gayant</name>
+</brewery>
 <brewery id="Mackinaw-Brewing-Co-Traverse-City">
   <name>Mackinaw Brewing Co‎</name>
   <address>
@@ -5732,6 +5819,9 @@
     <country>US</country>
   </address>
   <phone>(231) 933-1100</phone>
+</brewery>
+<brewery id="Cuauhtémoc-Moctezuma-Brewery">
+  <name>Cuauhtémoc Moctezuma Brewery</name>
 </brewery>
 <brewery id="Hofbrauhaus-Newport-Newport">
   <name>Hofbrauhaus Newport‎</name>
@@ -5746,6 +5836,12 @@
   </address>
   <phone>(859) 491-7200</phone>
 </brewery>
+<brewery id="Brouwerij-der-Trappisten-van-Westmalle">
+  <name>Brouwerij der Trappisten van Westmalle</name>
+</brewery>
+<brewery id="Hi-Gravity-Brewery">
+  <name>Hi Gravity Brewery</name>
+</brewery>
 <brewery id="Trinidad-Brewing-Company">
   <name>Trinidad Brewing Company‎</name>
   <address>
@@ -5758,6 +5854,9 @@
     <country>US</country>
   </address>
   <phone>(719) 846-7069</phone>
+</brewery>
+<brewery id="Brouwerij-Van-Steenberge">
+  <name>Brouwerij Van Steenberge</name>
 </brewery>
 <brewery id="River-City-Brewery">
   <name>River City Brewery‎</name>
@@ -5810,6 +5909,9 @@
     <country>US</country>
   </address>
   <phone>(915) 845-6557</phone>
+</brewery>
+<brewery id="Servejaria-Sul-Brasileira">
+  <name>Servejaria Sul Brasileira</name>
 </brewery>
 <brewery id="Fire-House-Grill">
   <name>Fire House Grill‎</name>
@@ -5875,6 +5977,12 @@
     <country>US</country>
   </address>
   <phone>(605) 260-4844</phone>
+</brewery>
+<brewery id="Newcastle-Breweries">
+  <name>Newcastle Breweries</name>
+</brewery>
+<brewery id="Mt-Hood-Brewing-Co">
+  <name>Mt Hood Brewing Co</name>
 </brewery>
 <brewery id="Amicas-Inc">
   <name>Amicas Inc‎</name>
@@ -5979,6 +6087,9 @@
     <country>US</country>
   </address>
   <phone>(818) 569-5240</phone>
+</brewery>
+<brewery id="Backus-and-Johnston">
+  <name>Backus and Johnston</name>
 </brewery>
 <brewery id="Tuscan-Brewing-Co">
   <name>Tuscan Brewing Co‎</name>
@@ -6123,6 +6234,9 @@
   </address>
   <phone>(856) 489-0061</phone>
 </brewery>
+<brewery id="Leavenworth-Brewery">
+  <name>Leavenworth Brewery</name>
+</brewery>
 <brewery id="Downtown-Brewing-Co">
   <name>Downtown Brewing Co‎</name>
   <address>
@@ -6135,6 +6249,9 @@
     <country>US</country>
   </address>
   <phone>(805) 543-1843</phone>
+</brewery>
+<brewery id="Carlsberg-Breweries">
+  <name>Carlsberg Breweries</name>
 </brewery>
 <brewery id="Harpoon-Brewery-Windsor-2">
   <name>Harpoon Brewery‎</name>
@@ -6227,6 +6344,9 @@
   </address>
   <phone>(614) 485-0227</phone>
 </brewery>
+<brewery id="Pabst-Brewing-Co">
+  <name>Pabst Brewing Co</name>
+</brewery>
 <brewery id="Brass-Smith-Inc">
   <name>Brass Smith Inc‎</name>
   <address>
@@ -6252,6 +6372,9 @@
     <country>US</country>
   </address>
   <phone>(412) 462-2739</phone>
+</brewery>
+<brewery id="Belhaven-Brewery">
+  <name>Belhaven Brewery</name>
 </brewery>
 <brewery id="Roslyn-Brewing-Co">
   <name>Roslyn Brewing Co‎</name>
@@ -6617,6 +6740,9 @@
   </address>
   <phone>(203) 655-9026</phone>
 </brewery>
+<brewery id="Tetleys-Brewery">
+  <name>Tetleys Brewery</name>
+</brewery>
 <brewery id="Old-Savannah-Brewing-Company">
   <name>Old Savannah Brewing Company‎</name>
   <address>
@@ -6747,6 +6873,9 @@
   </address>
   <phone>(802) 748-2198</phone>
 </brewery>
+<brewery id="BrewDog-Brewery">
+  <name>BrewDog Brewery</name>
+</brewery>
 <brewery id="Rock-Bottom-Restaurant-and-Brewery-Minneapolis">
   <name>Rock Bottom Restaurant &amp; Brewery‎</name>
   <address>
@@ -6772,6 +6901,9 @@
     <country>US</country>
   </address>
   <phone>(206) 622-6044</phone>
+</brewery>
+<brewery id="Brouwerij-Van-Honsebrouck">
+  <name>Brouwerij Van Honsebrouck</name>
 </brewery>
 <brewery id="Barley-Brothers-Brewery-and-Grill">
   <name>Barley Brothers Brewery and Grill‎</name>
@@ -6850,6 +6982,9 @@
     <country>US</country>
   </address>
   <phone>(828) 323-8753</phone>
+</brewery>
+<brewery id="Trafalgar-Brewing-Company">
+  <name>Trafalgar Brewing Company</name>
 </brewery>
 <brewery id="Abbey-Brewing-Company-Miami-Beach-2">
   <name>Abbey Brewing Company‎</name>
@@ -6993,6 +7128,9 @@
     <country>US</country>
   </address>
   <phone>(970) 249-0919</phone>
+</brewery>
+<brewery id="Fire-Station-5-Brewing-Company">
+  <name>Fire Station 5 Brewing Company</name>
 </brewery>
 <brewery id="Firehouse-Grill-and-Brewery">
   <name>Firehouse Grill &amp; Brewery‎</name>
@@ -7175,6 +7313,9 @@
     <country>US</country>
   </address>
   <phone>(912) 447-0943</phone>
+</brewery>
+<brewery id="Molson-Coors-Brewing-Company">
+  <name>Molson Coors Brewing Company</name>
 </brewery>
 <brewery id="Gordon-Biersch-Brewery">
   <name>Gordon Biersch Brewery‎</name>
@@ -7462,6 +7603,12 @@
   </address>
   <phone>(206) 623-3070</phone>
 </brewery>
+<brewery id="City-Brewery">
+  <name>City Brewery</name>
+</brewery>
+<brewery id="Grolsch-Brewery">
+  <name>Grolsch Brewery</name>
+</brewery>
 <brewery id="Big-Rock-Chop-House">
   <name>Big Rock Chop House‎</name>
   <address>
@@ -7592,6 +7739,9 @@
   </address>
   <phone>(626) 441-1177</phone>
 </brewery>
+<brewery id="Fischer-Brewery">
+  <name>Fischer Brewery</name>
+</brewery>
 <brewery id="Belmont-Brewing">
   <name>Belmont Brewing‎</name>
   <address>
@@ -7604,6 +7754,9 @@
     <country>US</country>
   </address>
   <phone>(562) 433-3891</phone>
+</brewery>
+<brewery id="California-Organic-Brewery">
+  <name>California Organic Brewery</name>
 </brewery>
 <brewery id="Bluegrass-Brewing-Co-St-Matthews-2">
   <name>Bluegrass Brewing Co‎</name>
@@ -7852,6 +8005,9 @@
   </address>
   <phone>(425) 316-0520</phone>
 </brewery>
+<brewery id="Murphy-Brewery">
+  <name>Murphy Brewery</name>
+</brewery>
 <brewery id="Big-Boss-Brewing-Company">
   <name>Big Boss Brewing Company‎</name>
   <address>
@@ -7864,6 +8020,9 @@
     <country>US</country>
   </address>
   <phone>(919) 834-0045</phone>
+</brewery>
+<brewery id="Wychwood-Brewery">
+  <name>Wychwood Brewery</name>
 </brewery>
 <brewery id="Dempseys-Restaurant-and-Brewery">
   <name>Dempsey's Restaurant &amp; Brewery‎</name>
@@ -8021,6 +8180,12 @@
   </address>
   <phone>(303) 543-0886</phone>
 </brewery>
+<brewery id="Dundee-Brewing-Company">
+  <name>Dundee Brewing Company</name>
+</brewery>
+<brewery id="Young-and-Co-Brewery-Plc">
+  <name>Young and Co Brewery Plc</name>
+</brewery>
 <brewery id="Liberal-Cup-Public-House-and-Brewery">
   <name>Liberal Cup Public House and Brewery‎</name>
   <address>
@@ -8085,6 +8250,12 @@
     <country>US</country>
   </address>
   <phone>(248) 577-1878</phone>
+</brewery>
+<brewery id="Andelot-Brewery">
+  <name>Andelot Brewery</name>
+</brewery>
+<brewery id="Wolavers-Organic-Brewing">
+  <name>Wolavers Organic Brewing</name>
 </brewery>
 <brewery id="Free-State-Brewing-Co">
   <name>Free State Brewing Co‎</name>
@@ -8398,6 +8569,9 @@
   </address>
   <phone>(860) 599-8213</phone>
 </brewery>
+<brewery id="Paulaner-Braeuerei-GmbH">
+  <name>Paulaner Braeuerei GmbH</name>
+</brewery>
 <brewery id="Cumberland-Brews">
   <name>Cumberland Brews‎</name>
   <address>
@@ -8684,6 +8858,9 @@
   </address>
   <phone>(435) 259-2337</phone>
 </brewery>
+<brewery id="Coopers-Brewery">
+  <name>Coopers Brewery</name>
+</brewery>
 <brewery id="Gordon-Biersch-Brewing-Co-San-Jose">
   <name>Gordon Biersch Brewing Co‎</name>
   <address>
@@ -8709,6 +8886,9 @@
     <country>US</country>
   </address>
   <phone>(718) 486-7422</phone>
+</brewery>
+<brewery id="Brasserie-Unibroue-Brewery">
+  <name>Brasserie Unibroue Brewery</name>
 </brewery>
 <brewery id="Fort-Street-Brewery">
   <name>Fort Street Brewery‎</name>
@@ -8787,6 +8967,9 @@
     <country>US</country>
   </address>
   <phone>(888) 436-3759</phone>
+</brewery>
+<brewery id="Meantime-Brewing-Co">
+  <name>Meantime Brewing Co</name>
 </brewery>
 <brewery id="EJ-Phair-Brewing-Co-Concord-2">
   <name>EJ Phair Brewing Co‎</name>
@@ -9112,6 +9295,9 @@
     <country>US</country>
   </address>
   <phone>(304) 259-4221</phone>
+</brewery>
+<brewery id="Heineken-USA">
+  <name>Heineken USA</name>
 </brewery>
 <brewery id="Sebago-Brewing-Co-South-Portland">
   <name>Sebago Brewing Co‎</name>
@@ -9774,6 +9960,9 @@
   </address>
   <phone>(303) 440-4324</phone>
 </brewery>
+<brewery id="Carlton-and-United-Breweris">
+  <name>Carlton and United Breweris</name>
+</brewery>
 <brewery id="Arcadia-Brewing-Co">
   <name>Arcadia Brewing Co‎</name>
   <address>
@@ -9890,6 +10079,9 @@
     <country>US</country>
   </address>
   <phone>(212) 576-2232</phone>
+</brewery>
+<brewery id="König-Brauerei-GmbH">
+  <name>König Brauerei GmbH</name>
 </brewery>
 <brewery id="Willamette-Brewery">
   <name>Willamette Brewery‎</name>
@@ -10047,6 +10239,9 @@
   </address>
   <phone>(503) 796-2739</phone>
 </brewery>
+<brewery id="Blue-Moon-Brewing-Co">
+  <name>Blue Moon Brewing Co</name>
+</brewery>
 <brewery id="New-Belgium-Brewing">
   <name>New Belgium Brewing</name>
   <address>
@@ -10057,6 +10252,9 @@
     <country>US</country>
   </address>
   <phone/>
+</brewery>
+<brewery id="Brasseries-Kronenbourg">
+  <name>Brasseries Kronenbourg</name>
 </brewery>
 <brewery id="Castlebay-Irish-Pub">
   <name>Castlebay Irish Pub‎</name>
@@ -10122,6 +10320,9 @@
     <country>US</country>
   </address>
   <phone>(814) 867-6886</phone>
+</brewery>
+<brewery id="Bitburger-Braugruppe-GmbH">
+  <name>Bitburger Braugruppe GmbH</name>
 </brewery>
 <brewery id="Power-Plant-Restaurant-and-Brewery">
   <name>Power Plant Restaurant &amp; Brewery‎</name>
@@ -10344,6 +10545,9 @@
   </address>
   <phone>(707) 668-5680</phone>
 </brewery>
+<brewery id="Brouwerij-de-Koningshoeven">
+  <name>Brouwerij de Koningshoeven</name>
+</brewery>
 <brewery id="Amherst-Brewing-Co">
   <name>Amherst Brewing Co‎</name>
   <address>
@@ -10434,6 +10638,12 @@
     <country>US</country>
   </address>
   <phone>(434) 978-3999</phone>
+</brewery>
+<brewery id="Desnoes-and-Geddes">
+  <name>Desnoes and Geddes</name>
+</brewery>
+<brewery id="Charles-Wells-Brewery">
+  <name>Charles Wells Brewery</name>
 </brewery>
 <brewery id="Callys-Restaurant-and-Brewing-Company">
   <name>Cally's Restaurant &amp; Brewing Company‎</name>
@@ -10565,6 +10775,9 @@
   </address>
   <phone>(805) 963-5018</phone>
 </brewery>
+<brewery id="Krušovice-Brewery">
+  <name>Krušovice Brewery</name>
+</brewery>
 <brewery id="Little-Cheers-The">
   <name>Little Cheers The‎</name>
   <address>
@@ -10577,6 +10790,9 @@
     <country>US</country>
   </address>
   <phone>(812) 423-9740</phone>
+</brewery>
+<brewery id="Schlitz-Brewing-Co">
+  <name>Schlitz Brewing Co</name>
 </brewery>
 <brewery id="Island-Brewing-Co">
   <name>Island Brewing Co‎</name>
@@ -10669,6 +10885,9 @@
   </address>
   <phone>(304) 264-9001</phone>
 </brewery>
+<brewery id="Erdinger-Brewery">
+  <name>Erdinger Brewery</name>
+</brewery>
 <brewery id="Papa-Johns-Pizza-Granite-City">
   <name>Papa John's Pizza‎</name>
   <address>
@@ -10694,6 +10913,9 @@
     <country>US</country>
   </address>
   <phone>(802) 658-2739</phone>
+</brewery>
+<brewery id="Cervezas-Mexicanas">
+  <name>Cervezas Mexicanas</name>
 </brewery>
 <brewery id="John-S-Rhodell-Brewery-Inc">
   <name>John S Rhodell Brewery Inc‎</name>
@@ -10825,6 +11047,9 @@
   </address>
   <phone>(425) 697-6007</phone>
 </brewery>
+<brewery id="Estrella-de-Galicia">
+  <name>Estrella de Galicia</name>
+</brewery>
 <brewery id="Dumfries-Edinburgh-Road-Golf-SW-bound">
   <name>Dumfries, Edinburgh Road Golf (SW-bound)‎</name>
   <address>
@@ -10942,6 +11167,9 @@
   </address>
   <phone>(530) 275-2739</phone>
 </brewery>
+<brewery id="Hinano-Brewery">
+  <name>Hinano Brewery</name>
+</brewery>
 <brewery id="Gore-Range-Brewery">
   <name>Gore Range Brewery‎</name>
   <address>
@@ -11045,6 +11273,9 @@
     <country>US</country>
   </address>
   <phone>(570) 326-4700</phone>
+</brewery>
+<brewery id="Bridgeport-Brewing-Co">
+  <name>Bridgeport Brewing Co</name>
 </brewery>
 <brewery id="Mission-Brewery">
   <name>Mission Brewery‎</name>
@@ -11369,6 +11600,9 @@
   </address>
   <phone>(231) 533-6622</phone>
 </brewery>
+<brewery id="La-Brasserie-Dupont">
+  <name>La Brasserie Dupont</name>
+</brewery>
 <brewery id="Ameristar-Casino-Kansas-City">
   <name>Ameristar Casino Kansas City‎</name>
   <address>
@@ -11381,6 +11615,9 @@
     <country>US</country>
   </address>
   <phone>(816) 414-7000</phone>
+</brewery>
+<brewery id="Big-Sky-Brewing-Co">
+  <name>Big Sky Brewing Co</name>
 </brewery>
 <brewery id="Grand-Rapids-Brewing-Co">
   <name>Grand Rapids Brewing Co‎</name>
@@ -11642,6 +11879,9 @@
   </address>
   <phone>(408) 736-2739</phone>
 </brewery>
+<brewery id="Brewery-St-Feuillien">
+  <name>Brewery St Feuillien</name>
+</brewery>
 <brewery id="Columbus-Brewing-Co-Inc">
   <name>Columbus Brewing Co Inc‎</name>
   <address>
@@ -11795,6 +12035,9 @@
     <country>US</country>
   </address>
   <phone>(410) 313-8141</phone>
+</brewery>
+<brewery id="Grupo-Modelo">
+  <name>Grupo Modelo</name>
 </brewery>
 <brewery id="Capitol-City-Brewing-Company">
   <name>Capitol City Brewing Company‎</name>
@@ -12355,6 +12598,9 @@
   </address>
   <phone>(618) 877-7272</phone>
 </brewery>
+<brewery id="Greene-King-Morland-Brewery">
+  <name>Greene King Morland Brewery</name>
+</brewery>
 <brewery id="Kclingers-Tavern">
   <name>Kclinger's Tavern‎</name>
   <address>
@@ -12445,6 +12691,9 @@
     <country>US</country>
   </address>
   <phone>(919) 683-2337</phone>
+</brewery>
+<brewery id="Gouden-Carolus-Brewery">
+  <name>Gouden Carolus Brewery</name>
 </brewery>
 <brewery id="Swashbuckler-Brewing-Co">
   <name>Swashbuckler Brewing Co‎</name>
@@ -12549,6 +12798,9 @@
     <country/>
   </address>
   <phone>(228) 467-2727</phone>
+</brewery>
+<brewery id="Siletz-Brewing">
+  <name>Siletz Brewing</name>
 </brewery>
 <brewery id="Lucky-Labrador-Beer-Hall">
   <name>Lucky Labrador Beer Hall‎</name>
@@ -12797,6 +13049,9 @@
   </address>
   <phone>(412) 824-9440</phone>
 </brewery>
+<brewery id="Urthel-Brewery">
+  <name>Urthel Brewery</name>
+</brewery>
 <brewery id="Leopold-Bros-Of-Ann-Arbor">
   <name>Leopold Bros Of Ann Arbor‎</name>
   <address>
@@ -12926,6 +13181,9 @@
     <country>US</country>
   </address>
   <phone>(541) 928-1931</phone>
+</brewery>
+<brewery id="Jacob-Leinenkugel-Brewing-Co">
+  <name>Jacob Leinenkugel Brewing Co</name>
 </brewery>
 <brewery id="Cisco-Brewers">
   <name>Cisco Brewers‎</name>
@@ -13109,6 +13367,9 @@
   </address>
   <phone>(847) 381-7308</phone>
 </brewery>
+<brewery id="Spaten-Brewery">
+  <name>Spaten Brewery</name>
+</brewery>
 <brewery id="Rock-Bottom-Restaurant-and-Brewery-Portland-3">
   <name>Rock Bottom Restaurant &amp; Brewery‎</name>
   <address>
@@ -13291,6 +13552,9 @@
   </address>
   <phone>(573) 499-0400</phone>
 </brewery>
+<brewery id="Radeberger-Brewery">
+  <name>Radeberger Brewery</name>
+</brewery>
 <brewery id="Spanish-Peaks-Brewing-Micro">
   <name>Spanish Peaks Brewing - Micro‎</name>
   <address>
@@ -13303,6 +13567,9 @@
     <country>US</country>
   </address>
   <phone>(831) 385-5565</phone>
+</brewery>
+<brewery id="Ayinger-Brewery">
+  <name>Ayinger Brewery</name>
 </brewery>
 <brewery id="Clinton-Street-Brewing">
   <name>Clinton Street Brewing‎</name>
@@ -13407,6 +13674,12 @@
     <country>US</country>
   </address>
   <phone>(845) 920-8602</phone>
+</brewery>
+<brewery id="Ruddles-Brewery">
+  <name>Ruddles Brewery</name>
+</brewery>
+<brewery id="Mac-and-Jacks-Brewery">
+  <name>Mac and Jacks Brewery</name>
 </brewery>
 <brewery id="Optical-Express">
   <name>Optical Express‎</name>
@@ -13603,6 +13876,9 @@
   </address>
   <phone>(904) 241-7877</phone>
 </brewery>
+<brewery id="Black-Sheep-Brewery">
+  <name>Black Sheep Brewery</name>
+</brewery>
 <brewery id="Hops-Restaurant-Bar-and-Brewery">
   <name>Hops Restaurant Bar &amp; Brewery‎</name>
   <address>
@@ -13785,6 +14061,9 @@
   </address>
   <phone>(207) 474-3233</phone>
 </brewery>
+<brewery id="Ginga-Kogen-Brewery">
+  <name>Ginga Kogen Brewery</name>
+</brewery>
 <brewery id="Queen-City-Brewing-Ltd">
   <name>Queen City Brewing Ltd‎</name>
   <address>
@@ -13902,6 +14181,9 @@
   </address>
   <phone>(530) 345-2739</phone>
 </brewery>
+<brewery id="Harp-Brewery">
+  <name>Harp Brewery</name>
+</brewery>
 <brewery id="Full-Circle-Brewing-Co">
   <name>Full Circle Brewing Co‎</name>
   <address>
@@ -13927,6 +14209,9 @@
     <country>US</country>
   </address>
   <phone>(407) 560-0253</phone>
+</brewery>
+<brewery id="Sapporo-Breweries-Ltd">
+  <name>Sapporo Breweries Ltd</name>
 </brewery>
 <brewery id="Hunter-Gatherer-Brewery-and-Ale-House">
   <name>Hunter-Gatherer Brewery &amp; Ale House‎</name>
@@ -14149,6 +14434,9 @@
   </address>
   <phone>(920) 662-1111</phone>
 </brewery>
+<brewery id="Brasserie-de-Rochefort">
+  <name>Brasserie de Rochefort</name>
+</brewery>
 <brewery id="Rogue-Brewery">
   <name>Rogue Brewery</name>
   <address>
@@ -14199,6 +14487,9 @@
   </address>
   <phone>(209) 368-9931</phone>
 </brewery>
+<brewery id="Otter-Brewery-Ltd">
+  <name>Otter Brewery Ltd</name>
+</brewery>
 <brewery id="Papa-Johns-Pizza-Granite-City-19">
   <name>Papa John's Pizza‎</name>
   <address>
@@ -14211,6 +14502,9 @@
     <country>US</country>
   </address>
   <phone>(618) 877-7272</phone>
+</brewery>
+<brewery id="Lion-Nathan">
+  <name>Lion Nathan</name>
 </brewery>
 <brewery id="Santa-Fe-Brewing-Company">
   <name>Santa Fe Brewing Company‎</name>
@@ -14771,6 +15065,9 @@
   </address>
   <phone>(541) 386-4411</phone>
 </brewery>
+<brewery id="Fullers-Brewery">
+  <name>Fullers Brewery</name>
+</brewery>
 <brewery id="Woof-Breweries">
   <name>Woof Breweries‎</name>
   <address>
@@ -14784,6 +15081,9 @@
   </address>
   <phone>(503) 692-9666</phone>
 </brewery>
+<brewery id="Leifmans-Brewery">
+  <name>Leifmans Brewery</name>
+</brewery>
 <brewery id="Gordon-Biersch-Brewery-Restaurant-Virginia-Beach-2">
   <name>Gordon Biersch Brewery Restaurant‎</name>
   <address>
@@ -14796,6 +15096,9 @@
     <country>US</country>
   </address>
   <phone>(757) 490-2739</phone>
+</brewery>
+<brewery id="Boulder-Beer-Company">
+  <name>Boulder Beer Company</name>
 </brewery>
 <brewery id="Woodstock-Brewing-Co">
   <name>Woodstock Brewing Co‎</name>
@@ -14835,6 +15138,12 @@
     <country>US</country>
   </address>
   <phone>(509) 786-3883</phone>
+</brewery>
+<brewery id="Brouwerij-Straffe-Hendrik">
+  <name>Brouwerij Straffe Hendrik</name>
+</brewery>
+<brewery id="Camo-Brewing-Co">
+  <name>Camo Brewing Co</name>
 </brewery>
 <brewery id="One-Guy-Brewing-Company">
   <name>One Guy Brewing Company‎</name>
@@ -15200,6 +15509,9 @@
   </address>
   <phone>(504) 552-2739</phone>
 </brewery>
+<brewery id="Brasserie-Dubuisson">
+  <name>Brasserie Dubuisson</name>
+</brewery>
 <brewery id="South-Street-Brewery">
   <name>South Street Brewery‎</name>
   <address>
@@ -15368,6 +15680,9 @@
     <country>US</country>
   </address>
   <phone>(843) 343-4727</phone>
+</brewery>
+<brewery id="Brouwerij-Lindemans">
+  <name>Brouwerij Lindemans</name>
 </brewery>
 <brewery id="Oconomowoc-Brewing-Company">
   <name>Oconomowoc Brewing Company‎</name>
@@ -15590,6 +15905,9 @@
   </address>
   <phone>(216) 623-1555</phone>
 </brewery>
+<brewery id="Beamish-and-Crawford-Plc">
+  <name>Beamish and Crawford Plc</name>
+</brewery>
 <brewery id="Papa-Johns-Pizza-Granite-City-17">
   <name>Papa John's Pizza‎</name>
   <address>
@@ -15628,6 +15946,9 @@
     <country>US</country>
   </address>
   <phone>(248) 591-5459</phone>
+</brewery>
+<brewery id="Weihenstephan-Brewery">
+  <name>Weihenstephan Brewery</name>
 </brewery>
 <brewery id="Heads-Up-Brewery">
   <name>Heads Up Brewery‎</name>
@@ -15680,6 +16001,9 @@
     <country>US</country>
   </address>
   <phone>(858) 481-7883</phone>
+</brewery>
+<brewery id="Bosteels-Brewery">
+  <name>Bosteels Brewery</name>
 </brewery>
 <brewery id="Seven-Bridges-Grille-and-Brewery">
   <name>Seven Bridges Grille &amp; Brewery‎</name>
@@ -15772,6 +16096,9 @@
   </address>
   <phone>(516) 352-8612</phone>
 </brewery>
+<brewery id="Miller-Brewing-Co">
+  <name>Miller Brewing Co</name>
+</brewery>
 <brewery id="Oggis-Pizza-and-Brewing-Co-San-Diego-6">
   <name>Oggi's Pizza &amp; Brewing Co‎</name>
   <address>
@@ -15810,6 +16137,9 @@
     <country>US</country>
   </address>
   <phone>(415) 369-0900</phone>
+</brewery>
+<brewery id="Mississippi-Brewing-Co">
+  <name>Mississippi Brewing Co</name>
 </brewery>
 <brewery id="New-Knoxville-Brewing-Company">
   <name>New Knoxville Brewing Company‎</name>
@@ -15928,6 +16258,12 @@
   </address>
   <phone>(818) 340-1748</phone>
 </brewery>
+<brewery id="Brauerei-Veltins">
+  <name>Brauerei Veltins</name>
+</brewery>
+<brewery id="Privatbrauerei-Franz-Joseph-Sailer">
+  <name>Privatbrauerei Franz Joseph Sailer</name>
+</brewery>
 <brewery id="Vierling-Restaurant-and-Brewery">
   <name>Vierling Restaurant &amp; Brewery‎</name>
   <address>
@@ -16005,6 +16341,9 @@
     <country>US</country>
   </address>
   <phone>(651) 698-0353</phone>
+</brewery>
+<brewery id="Traquair-House-Brewery">
+  <name>Traquair House Brewery</name>
 </brewery>
 <brewery id="Hops-Restaurant-and-Brewery">
   <name>Hops Restaurant &amp; Brewery‎</name>
@@ -16188,6 +16527,9 @@
   </address>
   <phone>(515) 267-8900</phone>
 </brewery>
+<brewery id="Huyghe-Brewery">
+  <name>Huyghe Brewery</name>
+</brewery>
 <brewery id="Carolina-Brewery-and-Grill">
   <name>Carolina Brewery &amp; Grill‎</name>
   <address>
@@ -16214,6 +16556,9 @@
   </address>
   <phone>(207) 693-6806</phone>
 </brewery>
+<brewery id="SABMiller">
+  <name>SABMiller</name>
+</brewery>
 <brewery id="Mishawaka-Brewing-Co">
   <name>Mishawaka Brewing Co‎</name>
   <address>
@@ -16239,6 +16584,9 @@
     <country>US</country>
   </address>
   <phone>(510) 526-1160</phone>
+</brewery>
+<brewery id="Greens-Brewery">
+  <name>Greens Brewery</name>
 </brewery>
 <brewery id="Vertigo-Brewing-LLC">
   <name>Vertigo Brewing LLC‎</name>
@@ -16421,6 +16769,9 @@
     <country>US</country>
   </address>
   <phone>(760) 431-2739</phone>
+</brewery>
+<brewery id="Hacker-Pschorr-Brewery">
+  <name>Hacker Pschorr Brewery</name>
 </brewery>
 <brewery id="Pyramid-Breweries-Inc">
   <name>Pyramid Breweries Inc‎</name>
