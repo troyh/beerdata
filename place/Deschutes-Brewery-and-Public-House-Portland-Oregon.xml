@@ -1,0 +1,31 @@
+<place id="Deschutes-Brewery-and-Public-House-Portland-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
+	<type>Brewpub</type>
+	<name>Deschutes Brewery &#x26; Public House</name>
+	<description>The Portland Deschutes Brewery and Public House opened in Portland&#xD5;s Pearl District in May 2008 and has become a destination for great beer, delicious food and a relaxed urban atmosphere. The pub&#xD5;s design is similar to a Scottish pub, but with a distinct Northwest style that brings a taste of Central Oregon to the heart of Portland. The Portland brew pub produces all the traditional Deschutes year-round beers and seasonal offerings, including flagship beers Mirror Pond Pale Ale and Black Butte Porter. The brew pub&#xD5;s 16 taps also feature a selection of seasonal and experimental beers developed and brewed on-site exclusively for the Portland pub by brewer Cam O&#xD5;Connor. Executive Chef Jeff Usinowicz heads the kitchen team, crafting classic pub food taken to the next level. The pub takes great pride in producing the highest quality food from start to finish with all menu items made from scratch using the best possible local ingredients.</description>
+	<phone>(503) 296-4906</phone>
+	<uri>http://www.deschutesbrewery.com/</uri>
+	<established></established>
+	<address>
+		<street>210 NW 11th Ave</street>
+		<city>Portland</city>
+		<state>Oregon</state>
+		<zip>97209</zip>
+		<country>United States</country>
+		<neighborhood></neighborhood>
+	</address>
+	<hours>
+		<open>Sunday - Monday 11am-10pm Tuesday - Thursday 11am-11pm Friday - Saturday 11am-12am</open>
+		<tour></tour>
+		<tasting></tasting>
+	</hours>
+	<tour_info></tour_info>
+	<restaurant reservations="for 8 or more" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+		<food_description></food_description>
+		<menu_uri></menu_uri>
+		<price_range></price_range>
+		<attire></attire>
+		<waiter_service></waiter_service>
+	</restaurant>
+	<parking></parking>
+	<kid_friendly></kid_friendly>
+</place>

@@ -1,0 +1,31 @@
+<place id="Skyscraper-Brewing-Company-El-Monte-California" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
+	<type>Brewery</type>
+	<name>Skyscraper Brewing Company</name>
+	<description></description>
+	<phone>(626) 575-0770</phone>
+	<uri>http://www.skyscraperbrewing.com/</uri>
+	<established></established>
+	<address>
+		<street>3229 Durfee Ave.</street>
+		<city>El Monte</city>
+		<state>California</state>
+		<zip>91732</zip>
+		<country>United States</country>
+		<neighborhood></neighborhood>
+	</address>
+	<hours>
+		<open></open>
+		<tour></tour>
+		<tasting></tasting>
+	</hours>
+	<tour_info></tour_info>
+	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+		<food_description></food_description>
+		<menu_uri></menu_uri>
+		<price_range></price_range>
+		<attire></attire>
+		<waiter_service></waiter_service>
+	</restaurant>
+	<parking></parking>
+	<kid_friendly></kid_friendly>
+</place>

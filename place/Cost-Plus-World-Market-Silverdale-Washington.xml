@@ -1,0 +1,31 @@
+<place id="Cost-Plus-World-Market-Silverdale-Washington" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
+	<type>Store</type>
+	<name>Cost Plus World Market</name>
+	<description></description>
+	<phone>(360) 307-8930</phone>
+	<uri></uri>
+	<established></established>
+	<address>
+		<street>10315 Silverdale Way NW</street>
+		<city>Silverdale</city>
+		<state>Washington</state>
+		<zip>98383</zip>
+		<country>United States</country>
+		<neighborhood></neighborhood>
+	</address>
+	<hours>
+		<open></open>
+		<tour></tour>
+		<tasting></tasting>
+	</hours>
+	<tour_info></tour_info>
+	<restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+		<food_description></food_description>
+		<menu_uri></menu_uri>
+		<price_range></price_range>
+		<attire></attire>
+		<waiter_service></waiter_service>
+	</restaurant>
+	<parking></parking>
+	<kid_friendly></kid_friendly>
+</place>
