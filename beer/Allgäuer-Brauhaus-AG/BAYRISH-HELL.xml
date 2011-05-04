@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Allgäuer-Brauhaus-AG/BAYRISH-HELL" brewery_id="Allgäuer-Brauhaus-AG">
+  <name>BAYRISH HELL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="7-48862-01045-3">
+      <description>20/.5L BTL</description>
+      <distributor>
+        <name>odom</name>
+        <item>734007</item>
+        <reg_price>44.80</reg_price>
+        <post_off>41.88</post_off>
+        <net_case_price/>
+        <unit_price>2.24</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>

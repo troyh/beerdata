@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beer id="Krušovice-Brewery/IMPERIAL" brewery_id="Krušovice-Brewery">
+  <name>IMPERIAL</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <sizes>
+    <size upc="9-99999-99999-3">
+      <description>50L BBL</description>
+      <distributor>
+        <name>odom</name>
+        <item>692003</item>
+        <reg_price>119.00</reg_price>
+        <post_off>119.00</post_off>
+        <net_case_price/>
+        <unit_price>119.00</unit_price>
+        <deposit/>
+      </distributor>
+    </size>
+  </sizes>
+</beer>
