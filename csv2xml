@@ -58,7 +58,7 @@ while ($line=fgets($f)) {
 fclose($f);
 
 function make_id($str) {
-	return trim(preg_replace("/--+/","-",preg_replace("/[^a-z0-9]+/","-",strtolower(trim($str)))),"-");
+	return trim(preg_replace("/--+/","-",preg_replace("/[^A-Za-z0-9]+/","-",ucwords(preg_replace("/'+/","",strtolower(trim($str)))))),"-");
 }
 
 ?>

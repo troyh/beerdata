@@ -13,14 +13,14 @@ Converts comma-separated value files to XML. The input should look like this (no
 Create a sed script like this to format the output into a big XML doc:
 
 
-	/<?xml version="1.0"?>/d
 	1i\
 	<beers>
 	$a\
 	</beers>
+	/<?xml version="1.0"?>/d
 
 To run it:
 
-	./csv2xml < Sheet\ 1-beers\ from\ kelly.csv | sed -f xxx.sed > newbeers.xml
+	./csv2xml < file.csv | sed -f xxx.sed > newbeers.xml
 
 
