@@ -1,0 +1,52 @@
+#!/usr/bin/php
+<?php
+
+$f=fopen("php://stdin","r");
+while (list($brewery,$name,$size,$style,$description,$color,$ABV,$OG,$FG,$IBU,
+	$availability,$calories,$calories_serving_size,$ingredients,$grains,$hops,
+	$yeast,$other_ingredients,$distributor,$item,$upc,$reg_price,$post_off,
+	$net_case_price,$unit_price,$deposit,$suggested_20_pct,$suggested_25_pct,$suggested_30_pct,$ignore)=fgetcsv($f)) {
+		
+		$brewery_id=make_id($brewery);
+		$beer_id=$brewery_id.'/'.make_id($name);
+		
+		$xml=new XMLWriter;
+		$xml->openMemory();
+		$xml->setIndent(true);
+		
+		$xml->startDocument();
+
+		$xml->startElement('beer');
+		$xml->writeAttribute('id',$beer_id);
+		$xml->writeAttribute('brewery_id',$brewery_id);
+		if (!empty($ABV))
+			$xml->writeAttribute('abv',$ABV);
+		if (!empty($IBU))
+			$xml->writeAttribute('ibu',$IBU);
+		
+			$xml->writeElement('name',$name);
+			$xml->writeElement('description',$description);
+			$xml->writeElement('availability',$availability);
+			$xml->writeElement('ingredients',$ingredients);
+			$xml->writeElement('grains',$grains);
+			$xml->writeElement('grains',$grains);
+			$xml->writeElement('hops',$hops);
+			$xml->writeElement('yeast',$yeast);
+			$xml->writeElement('otherings',$other_ingredients);
+		
+			$xml->startElement('styles');
+				$xml->writeElement('style',$style);
+			$xml->endElement();
+		
+		$xml->endElement();
+		$xml->endDocument();
+		
+		print $xml->outputMemory();
+
+}
+
+function make_id($str) {
+	return trim(preg_replace("/--+/","-",preg_replace("/[^a-z0-9]+/","-",strtolower(trim($str)))),"-");
+}
+
+?>
