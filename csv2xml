@@ -2,10 +2,12 @@
 <?php
 
 $f=fopen("php://stdin","r");
-while (list($brewery,$name,$size,$style,$description,$color,$ABV,$OG,$FG,$IBU,
-	$availability,$calories,$calories_serving_size,$ingredients,$grains,$hops,
-	$yeast,$other_ingredients,$distributor,$item,$upc,$reg_price,$post_off,
-	$net_case_price,$unit_price,$deposit,$suggested_20_pct,$suggested_25_pct,$suggested_30_pct,$ignore)=fgetcsv($f)) {
+while ($line=fgets($f)) {
+
+	if (list($brewery,$name,$size,$style,$description,$color,$ABV,$OG,$FG,$IBU,
+		$availability,$calories,$calories_serving_size,$ingredients,$grains,$hops,
+		$yeast,$other_ingredients,$distributor,$item,$upc,$reg_price,$post_off,
+		$net_case_price,$unit_price,$deposit,$suggested_20_pct,$suggested_25_pct,$suggested_30_pct,$ignore)=str_getcsv(iconv("ISO-8859-1","utf-8",$line))) {
 		
 		$brewery_id=make_id($brewery);
 		$beer_id=$brewery_id.'/'.make_id($name);
@@ -42,8 +44,10 @@ while (list($brewery,$name,$size,$style,$description,$color,$ABV,$OG,$FG,$IBU,
 		$xml->endDocument();
 		
 		print $xml->outputMemory();
-
+	}
 }
+
+fclose($f);
 
 function make_id($str) {
 	return trim(preg_replace("/--+/","-",preg_replace("/[^a-z0-9]+/","-",strtolower(trim($str)))),"-");
