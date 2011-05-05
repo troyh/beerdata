@@ -1,9 +1,17 @@
 #!/usr/bin/php
 <?php
 
+$line_count=0;
+
 $f=fopen("php://stdin","r");
 while ($line=fgets($f)) {
 
+	++$line_count;
+
+	// Throw first line away, it's the column names
+	if ($line_count==1)
+		continue;
+	
 	if (list($brewery,$name,$size,$style,$description,$color,$ABV,$OG,$FG,$IBU,
 		$availability,$calories,$calories_serving_size,$ingredients,$grains,$hops,
 		$yeast,$other_ingredients,$distributor,$item,$upc,$reg_price,$post_off,
