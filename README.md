@@ -24,3 +24,12 @@ To run it:
 	./csv2xml < file.csv | sed -f xxx.sed > newbeers.xml
 
 
+separatebeers
+=============
+
+Separates the beer XML docs from one big XML doc containing all the beers (i.e., the output of cvs2xml).
+
+To run it:
+
+	separatebeers file.xml
+

@@ -9,17 +9,18 @@ while read beer_id ; do
 	
 	brewery_id=${beer_id%%/*}
 	# echo $(echo $beer_id|tr [A-Z] [a-z])=$(echo $brewery_id|tr [A-Z] [a-z])
+
+	if [ ! -d "beer/$brewery_id" ]; then
+		mkdir "beer/$brewery_id";
+	fi
 	
 	if grep $(echo $beer_id|tr [A-Z] [a-z]) lowercase_beerdocs_list; then
 		echo $beer_id already exists;
+	else
+		xml sel -t -m "/beers/beer[@id=&quot;$beer_id&quot;]" -c . $1 | xml fo - > beer/$beer_id.xml
 	fi
 
-	# if [ ! -d "beer/$brewery_id" ]; then
-	# 	mkdir "beer/$brewery_id";
-	# fi
-	
-	# beer_doc=$(xml sel -t -m "/beers/beer[@id=&quot;$beer_id&quot;]" -c . $1)
-	# echo $beer_doc | xml fo > foo.xml
 	
 done < <(xml sel -t -m '/beers/beer' -v '@id' -n $1)
 
+rm -f lowercase_beerdocs_list
