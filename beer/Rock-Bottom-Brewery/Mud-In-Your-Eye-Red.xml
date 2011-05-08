@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Mud-In-Your-Eye-Red" brewery_id="Rock-Bottom-Brewery">
+  <name>Mud in your Eye Red</name>
+  <description>This medium-bodied beer is made with a variety of Belgian and English caramel malts to produce a deep ruby red color. Imported hops lend a noticeable spicy aroma to this "classic" red ale. Our signature hearthstone pizzas taste great with this red ale.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

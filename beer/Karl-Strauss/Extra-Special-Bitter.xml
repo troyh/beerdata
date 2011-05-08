@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Extra-Special-Bitter" brewery_id="Karl-Strauss">
+  <name>Extra Special Bitter</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Extra Special Bitter</style>
+  </styles>
+</beer>

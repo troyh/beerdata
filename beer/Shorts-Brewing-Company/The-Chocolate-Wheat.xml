@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/The-Chocolate-Wheat" brewery_id="Shorts-Brewing-Company">
+  <name>The Chocolate Wheat</name>
+  <description>Wheat porter ale brewed with chocolate malt, wheat malt and carefully chosen specialty grains providing a rich, black beer with subtle hoppiness and rich malt tones. This beer is big bodied and finishes smooth leaving flavors of roasted caramel, coffee and chocolate.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat porter ale</style>
+  </styles>
+</beer>

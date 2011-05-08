@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Barleywine" brewery_id="Harpoon" abv="10.3" ibu="80">
+  <name>Barleywine</name>
+  <description>Our Barleywine pours a reddish, golden hue with a slight carbonation. The piney, citric aroma and flavors coupled with the sweet malt character reflect the generous amounts of ingredients used to brew this beer. The warming finish of this rich, full-bodied ale make it the perfect cold weather companion.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Barleywine</style>
+  </styles>
+</beer>

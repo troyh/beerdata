@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Next-Tradtion-Pale" brewery_id="Minneapolis-Town-Hall-Brewery" abv="5">
+  <name>Next: Tradtion Pale</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

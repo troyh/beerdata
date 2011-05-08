@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bitburger/Drive" brewery_id="Bitburger">
+  <name>Drive</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Non-Alcoholic</style>
+  </styles>
+</beer>

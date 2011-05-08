@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Harvest-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="5.7">
+  <name>harvest Ale</name>
+  <description>Harvest Ale is our celebration of the changing weather and the sowing of hops and barley that will be used in our upcoming brews. We usher in the fall with a classic English style Extra Special Bitter of the highest order. Deep ruby in color with an even deeper hop flavor... in fact, we throw fresh English hops into every brewing vessel, then dry hop after fermentation to impart a zesty kick. This beer has real hop character that mingles with fresh malted barley for an experience that will make you wish it were fall year 'round.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>english</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

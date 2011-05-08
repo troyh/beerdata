@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Volksweizen" brewery_id="Rock-Bottom-Brewery">
+  <name>Volksweizen</name>
+  <description>A delicious Northwest wheat beer with the added twist of ginger and coriander to give it a crisp, thirst quenching zing. Even zingier with our zesty buffalo wings.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

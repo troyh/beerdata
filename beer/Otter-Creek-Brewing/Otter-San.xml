@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Otter-San" brewery_id="Otter-Creek-Brewing">
+  <name>Otter San</name>
+  <description>Otter Creek Brewing's eleventh beer on the "OTTER CREEK WORLD TOUR" is inspired by Japan. Otter San is a full-bodied pale amber ale brewed with rice, pilsner malt, Hallertauer hops, authentic Koji, and sake yeast.As they say in Japan- Kanpei!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

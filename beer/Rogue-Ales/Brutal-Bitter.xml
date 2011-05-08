@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Brutal-Bitter" brewery_id="Rogue-Ales" ibu="59">
+  <name>Brutal Bitter</name>
+  <description>An Imperial bitter with exotic traditional floor malts, citrusy, hoppy flavor, stupendous hop aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains>100% Floor-malted Maris Otter, Cara Vienna, Cara Wheat.</grains>
+  <grains>100% Floor-malted Maris Otter, Cara Vienna, Cara Wheat.</grains>
+  <hops>Crystal.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Bitter</style>
+  </styles>
+</beer>

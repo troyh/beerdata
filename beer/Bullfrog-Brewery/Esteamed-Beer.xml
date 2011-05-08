@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Esteamed-Beer" brewery_id="Bullfrog-Brewery" abv="5">
+  <name>eSTEAMed Beer</name>
+  <description>A 19th century California style beer that originated during the gold rush. This ale/lager hybrid has a distinct hoppiness, a clean, slightly fruity medium body and a refreshing effervescence.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale/lager</style>
+  </styles>
+</beer>

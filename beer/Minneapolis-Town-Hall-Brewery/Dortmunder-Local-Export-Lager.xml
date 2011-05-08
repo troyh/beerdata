@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Dortmunder-Local-Export-Lager" brewery_id="Minneapolis-Town-Hall-Brewery" abv="5.4">
+  <name>Dortmunder Local Export Lager</name>
+  <description>Light and refreshing German style golden lager brewed with classic German malt, Czech Saaz and American Sterling hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains>german</grains>
+  <grains>german</grains>
+  <hops>czech saaz, and american sterling</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Maierfest-Lager" brewery_id="Rogue-Ales" ibu="29">
+  <name>Maierfest Lager</name>
+  <description>Maierfest is dark gold in color with a solid off-white foam stand. It has a rich German malt aroma and a very distinct and complex maltness with a dry finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Durst Pilsner, Durst Munich and Weyermann Acidulated</grains>
+  <grains>Durst Pilsner, Durst Munich and Weyermann Acidulated</grains>
+  <hops>Oregon Perle.</hops>
+  <yeast>Oktoberfest 2633</yeast>
+  <otherings/>
+  <styles>
+    <style>German Lager</style>
+  </styles>
+</beer>

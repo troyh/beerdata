@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Billtown-Blonde" brewery_id="Bullfrog-Brewery" abv="6">
+  <name>Billtown Blonde</name>
+  <description>This lightly colored ale has a delicate floral aroma and flavor reminiscent of Williamsports first breweries, clean and crisp with just a touch of lingering sweetness leading to a dry, balanced finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>blonde Ale</style>
+  </styles>
+</beer>

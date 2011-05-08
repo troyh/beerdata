@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Unibroue/Trois-Pistoles" brewery_id="Unibroue">
+  <name>Trois Pistoles</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Dark</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Double-Paw" brewery_id="The-Livery" abv="8.5">
+  <name>Double Paw</name>
+  <description>A single malt and single hop version of an American Brewers classic style. This is definitely our hoppiest beer and quickly becoming a hop head cult classic!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial India Pale Ale</style>
+  </styles>
+</beer>

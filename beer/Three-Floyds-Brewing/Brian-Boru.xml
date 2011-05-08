@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Brian-Boru" brewery_id="Three-Floyds-Brewing" abv="5.5" ibu="40">
+  <name>Brian Boru</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Red Ale</style>
+  </styles>
+</beer>

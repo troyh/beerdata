@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Uber-Goober-Oatmeal-Stout" brewery_id="Shorts-Brewing-Company">
+  <name>Uber Goober Oatmeal Stout</name>
+  <description>A prominent chocolate nuttiness on the nose with a big, chewy, full flavor on the palate. Creamy oatmeal fused with peanut puree compliments rich caramel and roasted malts. It's uniquely satisfying and very popular.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

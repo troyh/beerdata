@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Pomegranate-Wheat" brewery_id="Saranac" abv="4.7">
+  <name>Pomegranate Wheat</name>
+  <description>This wholesome combination of unfiltered wheat beer and real pomegranate juice makes a smooth refreshing beer with all the goodness of pomegranate. Look for a light body with a slight tart finish and golden straw color.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2 Row Malt, White Wheat Malt</grains>
+  <grains>2 Row Malt, White Wheat Malt</grains>
+  <hops>Columbus</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Fruit Ale</style>
+  </styles>
+</beer>

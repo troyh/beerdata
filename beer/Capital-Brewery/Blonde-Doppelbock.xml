@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Blonde-Doppelbock" brewery_id="Capital-Brewery">
+  <name>Blonde Doppelbock</name>
+  <description>A deep golden color leads one to an extremely flavorful, yet very drinkable beer of great character. Treat this malt monster with respect!</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Lager</style>
+  </styles>
+</beer>

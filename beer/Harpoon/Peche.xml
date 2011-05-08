@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Peche" brewery_id="Harpoon" abv="5.0" ibu="15">
+  <name>Peche</name>
+  <description>Rich Doyle, Harpoon&#xD5;s CEO and co-founder, first tasted this Belgian style beer in Brugge three years ago while traveling on a Harpoon beer culture trip. He immediately fell in love with the beer and wanted to brew a batch ever since.\nThe Harpoon P&#x90;che is reminiscent of the peach lambics Rich and other Harpoon employees enjoyed on their trip to Belgium. As you pour this hazy golden colored beer, you will immediately notice the fresh peach aroma rising from your glass. A high carbonation level assists in releasing the aromatics of this crisp, sparkling ale. The five malts used to brew this beer blend nicely with the fresh fruit added during fermentation, creating a sweetness that is full but not cloying or candy-like. This sweetness is balanced by the tart acidity in the finish of the beer. The combination creates an incredibly refreshing experience. This is a perfect beer for the summer and can be paired with a variety of cheeses and deserts, or simply enjoyed on its own.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Peche</style>
+  </styles>
+</beer>

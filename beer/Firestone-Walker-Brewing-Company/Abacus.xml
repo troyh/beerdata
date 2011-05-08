@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Abacus" brewery_id="Firestone-Walker-Brewing-Company" abv="12" ibu="24.6">
+  <name>Abacus</name>
+  <description>Abacus is a barrel aged Barley Wine.  Four barrels in total were selected for the blend.  The base of this year's o? ering was aged in Heaven Hill bourbon barrels for 3 years!  The resulting beer is strong yet extremely elegant and smooth.  Big boozy bourbon and American oak aromas combined with soft chocolate malty undertones.  Complex malt &#xDF;avors framed in oak, with hints of dark chocolate, vanilla, tobacco, coconut and just a touch of dark cherry.  Th is is de&#xDE; nitely a sipping beer, best served in a brandy snifter.  Abacus pairs well with dark chocolate and sturdy cheeses. </description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Munton's Pale, Crisp Maris Otter Pale, Munich, Dark and Light Crystal, Chocolate</grains>
+  <grains>Munton's Pale, Crisp Maris Otter Pale, Munich, Dark and Light Crystal, Chocolate</grains>
+  <hops>Bravo, East Kent Golding</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine</style>
+  </styles>
+</beer>

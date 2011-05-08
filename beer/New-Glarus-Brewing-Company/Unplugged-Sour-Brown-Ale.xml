@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Sour-Brown-Ale" brewery_id="New-Glarus-Brewing-Company">
+  <name>Unplugged Sour Brown Ale</name>
+  <description>Generally available to the exclusive few who travel off the beaten paths of Belgium this is a truly sour brown ale. A ridiculously long lager in our oak casks elevates rich round caramel malts backed with distinctly tart notes. Truly unique this "Unplugged" is brewed for those who enjoy big and complex beers, it is suitable for laying down or consuming immediately, serve at 40- 45 F.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Sour Brown Ale</style>
+  </styles>
+</beer>

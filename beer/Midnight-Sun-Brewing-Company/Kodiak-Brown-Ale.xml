@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Kodiak-Brown-Ale" brewery_id="Midnight-Sun-Brewing-Company" abv="5" ibu="24">
+  <name>Kodiak Brown Ale</name>
+  <description>Rugged yet smooth, Kodiak Brown Ale balances caramel and roasted malts with enticing Northwest hops. Inspired by the adventurous spirit readily found in Alaska, Kodiak Brown Ale invites you to take the road less traveled. Like true Alaskans, we are not afraid of the dark.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

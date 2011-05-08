@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Perkulator-Coffee-Dopplebock" brewery_id="Dark-Horse-Brewing-Company" abv="7.5">
+  <name>Perkulator Coffee Dopplebock</name>
+  <description>This is a true dopplebock and Dark Horse Brewing's only publicly distributed lager. It was so normal that we couldn't stand it so we made it into a coffee dopplebock. Ha, take that Germany, with your Reinheitsgebot purity law! Anyway, we use fare trade organic coffee from our friends at The Ugly Mug Cafe in Ypsilanti, MI</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>doppelbock</style>
+  </styles>
+</beer>

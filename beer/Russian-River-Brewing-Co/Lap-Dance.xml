@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Lap-Dance" brewery_id="Russian-River-Brewing-Co" abv="5.55" ibu="35">
+  <name>Lap Dance</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

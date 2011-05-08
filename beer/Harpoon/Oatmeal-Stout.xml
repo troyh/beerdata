@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Oatmeal-Stout" brewery_id="Harpoon" abv="5.05" ibu="33">
+  <name>Oatmeal Stout</name>
+  <description>The first session of the Harpoon 100 Barrel Series kicked off this new adventure in brewing with style. It is also the first beer that we honored by brewing it for the Encore Series.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

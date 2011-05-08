@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Dpa" brewery_id="Great-Divide-Brewing-Co" abv="5.4">
+  <name>DPA</name>
+  <description>is a world-renowned, classic pale ale with a malty middle and an equally hearty complement of hop aroma, flavor and bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Pale Ale</style>
+  </styles>
+</beer>

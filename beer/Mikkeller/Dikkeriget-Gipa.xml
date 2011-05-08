@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Dikkeriget-Gipa" brewery_id="Mikkeller" abv="6.6">
+  <name>Dikkeriget GIPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>tomahawk, tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>GIPA</style>
+  </styles>
+</beer>

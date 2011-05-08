@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Hi-p-a" brewery_id="Magic-Hat" abv="4.8" ibu="45">
+  <name>hI.P.A.</name>
+  <description>hI.P.A. is a highly hopped India Pale Ale and the Spring SeasonAle. A medium-bodied beer with a fresh and fruitful nose of vernal vitality. It begins and ends with a big hop bite that is itself forever balanced on the brink by a steady rhythm of malt. Dry-hopped for extra quenching in the face of heat and beat, it's an ideal accompaniment to chilling out, turning inward or sailing onward through the music of the night toward the dawn of the mind. It's the liquid way to say be here now lest you never come this way again.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>pale</grains>
+  <grains>pale</grains>
+  <hops>columbus</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

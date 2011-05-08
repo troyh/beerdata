@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Hard-Cider" brewery_id="The-Livery" abv="6.25">
+  <name>Hard Cider</name>
+  <description>Made with a blend of 5 different Michigan apples, including 25% Honey Crisp. Slightly sweet with a zippy ginger finish. Thanks again to Scott Husted from Husted farm market in Kalamazoo for the great juice!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Cider</style>
+  </styles>
+</beer>

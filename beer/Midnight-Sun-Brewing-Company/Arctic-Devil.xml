@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Arctic-Devil" brewery_id="Midnight-Sun-Brewing-Company" abv="13.2" ibu="20">
+  <name>Arctic Devil </name>
+  <description>Arctic Devil Barley Wine, aptly named after the ferocious wolverine of the north, is an English-style (meaning malt-inclined) barley wine. Though the recipe and process for Arctic Devil have evolved over the years, it is typically brewed in January then aged in oak barrels for several months before the entire batch is blended, bottled and released on the Friday after Thanksgiving.In its youth, Arctic Devil gnarls and snarls its way across the palate. Containing this beast of a beer for long periods in oak barrels--some having previously aged port, wine or whiskey--tames the unleashed malt and fierce hop flavors, melding and mellowing this powerful liquid into an incredible elixir worthy of a brewer's table.Each annual batch of Arctic Devil Barley Wine represents the brewers' resolve to create an intriguing and sought-after barley wine by precisely brewing to well-designed specifications, carefully selecting the type and combination of barrels to use for aging, and meticulously checking the beer as it ages. Distinct nuance and complexity are contributed by the wood's previous tenants, resulting in unique flavor profiles in each batch that continue to change over time. We invite you to savor Arctic Devil Barley Wine upon its release then cellar some for future enjoyment.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barley wine</style>
+  </styles>
+</beer>

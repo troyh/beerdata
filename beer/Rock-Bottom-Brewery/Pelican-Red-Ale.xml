@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Pelican-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Pelican Red Ale</name>
+  <description>This traditional red ale has a hint of rye malt to add to the body and ?flavor. It's great with any of our Brewery Favorites.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

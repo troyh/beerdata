@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Point-Break-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Point Break Pale Ale</name>
+  <description>This complex American Pale is like catching the perfect wave. It has a ?medium-bodied malt profile that gives it its shiny, copper color and helps carry a snappy hop finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Prelude-Special-Ale" brewery_id="Shipyard-Brewing-Co" abv="6.8">
+  <name>Prelude Special Ale</name>
+  <description>Prelude Special Ale is full-bodied in the true english style. It's a rich and nutty ale with a hoppy finish and an inviting deep amber hue. </description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Ale</style>
+  </styles>
+</beer>

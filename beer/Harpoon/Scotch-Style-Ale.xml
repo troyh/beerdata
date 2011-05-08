@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Scotch-Style-Ale" brewery_id="Harpoon" abv="6.9" ibu="34">
+  <name>Scotch Style Ale</name>
+  <description>Scotland is known for its wonderfully malty beers. This beer is in the Wee Heavy tradition with a firm body, creamy head and dark tawny color. It has a rich malty, caramel, toasted flavor, a slight alcoholic warming with a clean well balanced hop bitterness.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wee Heavy</style>
+  </styles>
+</beer>

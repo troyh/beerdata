@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Sixteen" brewery_id="Avery-Brewing" abv="7.69">
+  <name>Sixteen </name>
+  <description>"Finally, we're SIXTEEN! Dad, can we have the keys? No really, we'll totally take care of her--keep her clean--fill up her tanks--show her off to our friends and let 'em see what we can really do. Really? Thanks, dude! Promise to make you proud. Now to go find Jasmin, Peches and Miel! Well, we got her started and decided to add a few things to the tank. SIXTEEN is a harmonious combination of jasmine, peaches and honey fermented with an unmistakable Belgian yeast strain, all weaving a marvelously spicy and fruity, massively estery and dry, saison ale."</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, pale malted wheat</grains>
+  <grains>Two-row barley, pale malted wheat</grains>
+  <hops>Sterling</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Saison</style>
+  </styles>
+</beer>

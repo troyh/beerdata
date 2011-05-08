@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Garamel" brewery_id="Allagash-Brewing-Company" abv="9.2">
+  <name>Garamel</name>
+  <description>Gargamel, a Belgian Style sour ale, is the first offering in our limited release 375 ml series. Our brewers used a blend of American 2-row barley Malt, Raw and Malted wheat and selected caramel malt to brew this 9.20 % ABV beer. After primary fermentation the beer was inoculated with our house Brettanomyces aged in French Oak wine barrels with a generous amount of local raspberries for over 18 months. Gargamel's aroma is full of un-ripened raspberry, vanilla and citrus notes. This medium bodied beer has hints of biscuit and graham cracker with a clean, fruity and refreshingly tart finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian sour ale</style>
+  </styles>
+</beer>

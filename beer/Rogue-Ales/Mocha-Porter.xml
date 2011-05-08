@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Mocha-Porter" brewery_id="Rogue-Ales" ibu="54">
+  <name>Mocha Porter</name>
+  <description>Ruddy brown in color, a bittersweet balance of malt and hops with a light cream finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington &amp; Klages; 135-165, 95-115, and 70-80 Crystal; Beeston Chocolate, Black, Munich and Carastan.</grains>
+  <grains>Northwest Harrington &amp; Klages; 135-165, 95-115, and 70-80 Crystal; Beeston Chocolate, Black, Munich and Carastan.</grains>
+  <hops>Centennial &amp; Perle Hops.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

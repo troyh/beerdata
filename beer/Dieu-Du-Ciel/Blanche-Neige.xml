@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Blanche-Neige" brewery_id="Dieu-Du-Ciel" abv="7.5">
+  <name>Blanche neige</name>
+  <description>Brewed only once a year to keep you warm during the cold winter months, the Blanche Neige (&#xC7; Snow white &#xC8;) isn&#xD5;t your typical wheat beer. Firstly, the level of alochol is surprising and is perceived rapidly both in the bouquet and in the mouth. The spices come through immediately, giving very little room for the usual wheat beer aromas (coriander and cura&#x8D;ao). Cinnamon and clove dominate and the flavours are generously well-rounded thanks no doubt to residual sugars. It is therefore a very sweet beer that is best appreciated slowly.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wit </style>
+  </styles>
+</beer>

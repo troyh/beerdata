@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Belgian-Trippel" brewery_id="Karl-Strauss">
+  <name>Belgian Trippel</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Trippel</style>
+  </styles>
+</beer>

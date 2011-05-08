@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Four-Peaks/Dog-Days-Summer-Ale" brewery_id="Four-Peaks">
+  <name>Dog Days Summer Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Red</style>
+  </styles>
+</beer>

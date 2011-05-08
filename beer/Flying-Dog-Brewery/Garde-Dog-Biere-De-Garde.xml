@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Garde-Dog-Biere-De-Garde" brewery_id="Flying-Dog-Brewery" abv="5.5" ibu="27">
+  <name>Garde Dog Biere De Garde</name>
+  <description>Proving the French may actually know something we don't... Garde Dog is a traditional French Biere de Garde or "beer for keeping". This classic farmhouse ale was brewed in March for drinking during the spring and summer months. With its toasted aroma and spicy, malty sweetness Garde Dog will liberate you from the winter doldrums.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains>German Pilsner, Belgian Biscuit, Rye Malt, Flaked Wheat, Malted White Wheat</grains>
+  <grains>German Pilsner, Belgian Biscuit, Rye Malt, Flaked Wheat, Malted White Wheat</grains>
+  <hops>USA Grown French Hops</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Drink-Your-Sorrows-Away" brewery_id="Mikkeller" abv="11.99">
+  <name>Drink Your Sorrows Away</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

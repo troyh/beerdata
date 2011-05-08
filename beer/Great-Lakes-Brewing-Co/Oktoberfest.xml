@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Oktoberfest" brewery_id="Great-Lakes-Brewing-Co" abv="6.5" ibu="20">
+  <name>Oktoberfest</name>
+  <description>An amber lager with rich malt flavor balanced by fragrant noble hops. Cleveland's commemoration of Oktoberfest dates back to the mid 1800s when German immigrants celebrated at outdoor beer gardens like Haltnorth's Garden and Kindvater's St. Clair Garden. </description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oktoberfest</style>
+  </styles>
+</beer>

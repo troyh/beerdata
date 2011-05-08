@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Tangerine-Wit" brewery_id="Kuhnhenn-Brewing-Co" abv="4.2">
+  <name>Tangerine Wit</name>
+  <description>Belgian white ale that blends the flavors of Tangerine, Chamomile and Coriander. Refreshing beer to celebrate the onset of summer!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian White Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Kristall-Weizen" brewery_id="Three-Floyds-Brewing">
+  <name>Select Kristall Weizen</name>
+  <description>Our Kristall Weizen, "clear wheat" is made with malt from Weyermann, a famous German malting company. The malt bill consists of wheat malt and Pils, Vienna, and Cara pils malted barley. The beer was fermented with Weizen ale yeast obtained from Doemens, a German brewing school. The brew is lightly hopped with German Hallertau Hersbrucker hops. The result is a well balanced, gold color brew with a fine, slightly sweet body, fluffy head, and subtle flavors of clove, banana, and vanilla. The beer finishes with a fine acidity and is light on the palate.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Weiss</style>
+  </styles>
+</beer>

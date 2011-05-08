@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Fumisterie" brewery_id="Dieu-Du-Ciel" abv="5.5">
+  <name>Fumisterie</name>
+  <description>Fumisterie is a beer that sits at the intersection of an english and german ale. It is full-bodied, malty and has a slight caramel flavour. The organic hemp seeds incorporated during the brewing process give it a unique and original taste. The hop flavour comes through delicately in the after taste.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>hemp beer</style>
+  </styles>
+</beer>

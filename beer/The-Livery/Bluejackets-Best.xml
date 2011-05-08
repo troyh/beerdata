@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Bluejackets-Best" brewery_id="The-Livery" abv="6.25">
+  <name>Bluejackets Best</name>
+  <description>This is a single malt-English pale, and single hop-English Fuggles, India Pale Ale with a rich golden color and spicy finish. Named for brewery supporters John and Cindy Bundick, with reference to John's service on a submarine.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Ovation" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Ovation</name>
+  <description>Pale ale brewed with the "Bravo" hops variety. Instead of being dry hopped, "Bravo" was used in hopback.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>bravo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pale ale</style>
+  </styles>
+</beer>

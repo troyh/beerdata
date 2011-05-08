@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Tankbuster-Brown" brewery_id="Rock-Bottom-Brewery">
+  <name>Tankbuster Brown</name>
+  <description>A deep chestnut color, notes of toasted caramel, semi-sweet chocolate flavor and a smooth medium body are all characteristics derived from the line up of Victory, English-Munich, chocolate, medium crystal and pale malts. A great choice with any of our Rock Bottom Originals</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

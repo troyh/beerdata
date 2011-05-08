@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Squatters-Organic-Amber-Ale" brewery_id="Utah-Brewers-Cooperative">
+  <name>Squatters Organic Amber Ale</name>
+  <description>This refreshing amber ale is brewed with premium pale and caramel malted barley and aromatic hops. The flavor is malt driven but the essence of the hops shine through in the aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Atomique-Organic-Belgian-inspired-Dark-Ale" brewery_id="Bullfrog-Brewery">
+  <name>Atomique Organic Belgian-inspired Dark Ale</name>
+  <description>100% organic Belgian Dark Ale brewed with Organic Cacao Nibs</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dark ale</style>
+  </styles>
+</beer>

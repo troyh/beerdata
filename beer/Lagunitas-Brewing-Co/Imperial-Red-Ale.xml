@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Imperial-Red-Ale" brewery_id="Lagunitas-Brewing-Co" abv="7.8">
+  <name>Imperial Red Ale</name>
+  <description>Big on the spicy, skunky hops, bigger on the rich red malt. A variation of our original 1993 "Lagunitas Red". Still in the handy 6-pack carriers for your enjoyment.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Red Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Hangin-Frank" brewery_id="Shorts-Brewing-Company">
+  <name>Hangin Frank</name>
+  <description>Ale hopped like IPA and drinks like a Pale Ale -- Also know and a strong pale. Unlike its un-identical twin brother, Stellar Ale, this hop monster employs more toasted grains and high alpha hops. Hops are the focus of this ale, but not to be undermined with a hearty malt base. Big hop aroma is followed by the cool refreshment of a toasted sourdough biscuit covered which is then covered with zesty citrus hop marmalade.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>strong pale</style>
+  </styles>
+</beer>

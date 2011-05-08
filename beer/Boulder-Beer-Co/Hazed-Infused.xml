@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Hazed-Infused" brewery_id="Boulder-Beer-Co" abv="4.85">
+  <name>Hazed &amp; Infused</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>caramel, 2 row barley, roasted</grains>
+  <grains>caramel, 2 row barley, roasted</grains>
+  <hops>nugget, willamette, crystal, centennial, </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

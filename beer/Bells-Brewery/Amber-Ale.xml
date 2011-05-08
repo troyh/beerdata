@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Amber-Ale" brewery_id="Bells-Brewery" abv="5.8">
+  <name>Amber Ale</name>
+  <description>Our flagship beer is made from mostly pale malt with some Munich and caramel malts. This gives it a slightly sweet flavor that is balanced by a melange of American hops. The result is a deep copper color and rich flavor.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

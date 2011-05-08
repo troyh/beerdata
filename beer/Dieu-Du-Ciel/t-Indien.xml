@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/t-Indien" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>&#x83;T&#x83; INDIEN</name>
+  <description>German inspired sour wheat beer. The sourness, which is quite obvious and dominant in this beer, is obtained by letting the unboiled wort go sour for several days. The end result is a refreshing beer where the sourness is the domineering flavour. This beer is only available once a year in very limited quantities on our anniversary day in September.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>berliner weiss</style>
+  </styles>
+</beer>

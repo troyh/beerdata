@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Saucerful-Of-Merkins" brewery_id="Firestone-Walker-Brewing-Company" ibu="30">
+  <name>Saucerful of Merkins</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bend</style>
+  </styles>
+</beer>

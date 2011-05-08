@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Franziskaner/Hefe-weisse-Dark" brewery_id="Franziskaner">
+  <name>Hefe-Weisse Dark</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Wheat</style>
+  </styles>
+</beer>

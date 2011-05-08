@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Barleywine-Style-Ale" brewery_id="Green-Flash-Brewing-Co" abv="10.9" ibu="85">
+  <name>Barleywine Style Ale</name>
+  <description>Our American-style Barleywine undergoes a three hour boil to intensify the caramel malts and the enormous Pacific Northwest hop charge. The result is a rich, estery brew with toffee notes and citrus hop flavors layered throughout. Enjoy this brew fresh today or lay it down for aging to see how the flavors of each vintage evolve.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Hefe-Weizen" brewery_id="Summit-Brewing" abv="4.9" ibu="14">
+  <name>Hefe Weizen</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2row harrington, wheat malt</grains>
+  <grains>2row harrington, wheat malt</grains>
+  <hops>williamette, fuggle, tettenager</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>hefeweizen</style>
+  </styles>
+</beer>

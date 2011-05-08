@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kona-Brewing-Co/Wailua-Wheat" brewery_id="Kona-Brewing-Co" abv="5.4" ibu="15">
+  <name>Wailua Wheat</name>
+  <description>Swimming in a fresh water pool at the base of a cascading waterfall is what we all imagine we would find in paradise. On Maui, follow the old Hana Highway and you will find such a place -- Wailua Falls. This plunging cascade of clear water is the inspiration for our Limited Release Wailua Wheat Ale. This golden, sun colored ale has a bright, citrusy flavor that comes from the tropical passion fruit we brew into each batch. Sit back, relax and enjoy paradise anytime.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>pale, wheat</grains>
+  <grains>pale, wheat</grains>
+  <hops>hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Mandarin-Nectar" brewery_id="Alpine-Beer-Company" abv="6.5" ibu="6">
+  <name>Mandarin Nectar</name>
+  <description>Fresh organic orange zest and cracked coriander complement the orange blossom honey used in this ale. Like a mountain breeze through the citrus trees.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Orange Blossom Honey Ale</style>
+  </styles>
+</beer>

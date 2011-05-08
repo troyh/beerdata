@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/X-tra-Pale-Ale" brewery_id="Three-Floyds-Brewing">
+  <name>X-tra Pale Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

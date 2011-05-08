@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-old-Crustacean-Barleywine" brewery_id="Rogue-Ales" ibu="110">
+  <name>XS:Old Crustacean Barleywine</name>
+  <description>An unfiltered and unfined Barleywine. Intense, robust, malty and dark. The cognac of beers.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western Harrington, Klages, Munich and Hugh Baird Carastan.</grains>
+  <grains>Great Western Harrington, Klages, Munich and Hugh Baird Carastan.</grains>
+  <hops>Centennial and Chinook.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Barleywine </style>
+  </styles>
+</beer>

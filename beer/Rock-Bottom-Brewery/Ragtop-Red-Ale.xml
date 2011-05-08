@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Ragtop-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Ragtop Red Ale</name>
+  <description>A ruby red color and medium body best describes this award-winning beer! The caramel and toasted malts are well-balanced by the fresh, fruity hops. Great American Beer Festival 2000 Bronze Medal Winner American-style Amber/Red Ale Categor</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

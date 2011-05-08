@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Correction-Ale" brewery_id="Lagunitas-Brewing-Co">
+  <name>Correction Ale</name>
+  <description>A Beer to help remember that things go in cycles and then to help forget what you remembered.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

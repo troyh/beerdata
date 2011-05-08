@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagash-Hugh-Malone-Ale" brewery_id="Allagash-Brewing-Company" abv="8.5">
+  <name>Allagash Hugh Malone Ale</name>
+  <description>Hugh Malone Ale's base includes English two-row malt and pale crystal malts, establishing an understated sweetness. To give Hugh Malone its hop character we use generous portions of Simcoe hops at three points in the brewing process. To begin with, we use a technique referred to as first wort hopping, in which Simcoe is added to the sweet wort as it enters the kettle. When the wort comes to a boil in the kettle we add Warrior hops, adding another layer to the bitterness of the beer. Later in the brewing process we steep a large amount of Simcoe in the whirlpool to impart a distinct hop aroma. Finally, during secondary fermentation in our conditioning tanks, we dry hop the beer, which instills a hoppy aroma with notes of pine and grapefruit. This 8.5 % ABV ale has a malty palate and a pronounced bitterness. It has a pleasant dry, hoppy finish.Hugh Malone is a tribute to responsible agricultural practices and informed consumption. Allagash Brewing Company is donating $1 from every bottle of Hugh Malone sold to the Maine Organic Farmers and Gardeners Association (MOFGA), the country's oldest and largest state organic farmer coalition. MOFGA is a non-profit organization that educates farmers and gardeners about organic cultivation. They work to create resources for consumers interested in buying local and organic foods. With more than 5,500 members and 2,000 active volunteers MOFGA continues to inform consumers about the connection between healthful food and environmentally sound growing practices.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Summerfest" brewery_id="Sierra-Nevada-Brewing-Co" abv="5" ibu="32">
+  <name>Sierra Nevada Summerfest</name>
+  <description>Our Summerfest&#xA8; is a refreshing, pilsner-style lager. Its incredible smoothness comes from an extra-long lagering period. Lighter in body than our ales but just as complex in character, Summerfest&#xA8; quenches your thirst with big aroma and a tangy hop bite.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Two-row Pale &amp; Munich</grains>
+  <grains>Two-row Pale &amp; Munich</grains>
+  <hops>Perle &amp; Saaz</hops>
+  <yeast>Bottom-fermenting Lager Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Pilsner-Lager</style>
+  </styles>
+</beer>

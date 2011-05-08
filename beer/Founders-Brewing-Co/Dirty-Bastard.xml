@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Dirty-Bastard" brewery_id="Founders-Brewing-Co" abv="8.5" ibu="50">
+  <name>Dirty Bastard</name>
+  <description>So good it's almost wrong. Dark ruby in color and brewed with seven varieties of imported malts. Complex in finish with hints of smoke and peat, paired with a malty richness and a right hook of hop power to give it the bad attitude that a beer named Dirty Bastard has to live up to. Ain't for the wee lads'.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scotch Ale</style>
+  </styles>
+</beer>

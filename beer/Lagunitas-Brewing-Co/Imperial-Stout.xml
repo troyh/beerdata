@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Imperial-Stout" brewery_id="Lagunitas-Brewing-Co" abv="8.2">
+  <name>Imperial Stout</name>
+  <description>A doggone good stout!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

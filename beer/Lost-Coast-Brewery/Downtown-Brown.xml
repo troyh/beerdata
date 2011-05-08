@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lost-Coast-Brewery/Downtown-Brown" brewery_id="Lost-Coast-Brewery" abv="5">
+  <name>Downtown Brown</name>
+  <description>A smooth, full-bodied nut brown ale, lightly hopped with a hint of roasted and crystal malts. This ale is dark in color without the heavy taste of porter or stout.</description>
+  <availability/>
+  <ingredients/>
+  <grains>roasted and crystal</grains>
+  <grains>roasted and crystal</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

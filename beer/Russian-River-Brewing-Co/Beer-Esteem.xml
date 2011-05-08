@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Beer-Esteem" brewery_id="Russian-River-Brewing-Co" abv="5.6" ibu="40">
+  <name>Beer Esteem</name>
+  <description>"If you can't feel good about your beer... what else is worth feeling good about." We call Beer Esteem a California Common because it is brewed with a lager yeast and it is fermented at warmer ale temperatures. However, Beer Esteem is distinctly different from other California Commons. With a unique hop profile, a lager yeast not typically used for the style, and a "Russian River" twist, Beer Esteem is anything but "Common."</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

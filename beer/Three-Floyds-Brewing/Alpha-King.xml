@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Alpha-King" brewery_id="Three-Floyds-Brewing" abv="6" ibu="66">
+  <name>Alpha King</name>
+  <description>A bold yet balanced American pale ale with caramel malt notes and an aggressive citrus hoppiness. Three Floyds Flagship beer</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

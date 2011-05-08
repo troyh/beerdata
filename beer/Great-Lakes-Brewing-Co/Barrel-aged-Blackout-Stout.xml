@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Barrel-aged-Blackout-Stout" brewery_id="Great-Lakes-Brewing-Co" abv="9" ibu="85">
+  <name>Barrel-Aged Blackout Stout</name>
+  <description>Blackout Stout aged in oak bourbon barrels.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

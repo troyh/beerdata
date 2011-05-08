@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Golden-Ale" brewery_id="Russian-River-Brewing-Co">
+  <name>Golden Ale</name>
+  <description>Blonde in color, this mild ale is brewed with a blend of four malts to impart a subtle, malt bouquet. A smaller than normal hop addition is made in the beer to keep the flavor mild and clean.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

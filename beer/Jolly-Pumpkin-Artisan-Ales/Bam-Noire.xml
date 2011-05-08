@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Jolly-Pumpkin-Artisan-Ales/Bam-Noire" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="4.3">
+  <name>Bam Noire</name>
+  <description>Dark, smooth, delicious. Aromas of worn leather and cool autumn nights. Notes of sweet plum and toasted raisin, hints of coffee and cacao. Lingering tart and refreshing finish. Only available for a few short months. Not to be missed.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dark Ale</style>
+  </styles>
+</beer>

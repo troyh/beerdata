@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Rustic-Ale" brewery_id="Capital-Brewery" abv="4.5">
+  <name>Rustic Ale</name>
+  <description>This is an American Amber Ale. Cloudy from the yeast, this moderately rich ale is just bitter enough to balance the sweetness of the malt. Grain from Washington Island is used in this brew, but it is not the dominating malt.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Amber Ale</style>
+  </styles>
+</beer>

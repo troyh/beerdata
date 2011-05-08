@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagsh-Fluxus-08" brewery_id="Allagash-Brewing-Company" abv="8.7">
+  <name>Allagsh Fluxus '08</name>
+  <description>Another year, another batch of Fluxus has been brewed to mark the change and growth of Allagash Brewing. With a new and different recipe, our 2008 batch is a double white beer brewed with spices and fresh grated ginger. A double white beer calls for twice the amount of malted and raw wheat, which casts an elegant cloudiness over this mango-colored beer. The aroma boasts of herbal and minty notes, as well as hints of clove and candied ginger. Fluxus offers a perfectly balanced flavor with a warm, clean finish and a lingering spiciness.As part of our Tribute Series, Allagash is donating $1 from each bottle of Fluxus sold to the Allagash Pediatric Scholarship at the Maine Medical Center in Portland, Maine. The scholarship will directly support the training of a nurse, whether it be undergraduate, graduate or certification in the field of pediatric nursing. We are proud to donate to the nurses at MMC, who do an outstanding job</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

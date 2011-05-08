@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Jolly-Pumpkin-Artisan-Ales/Luciernaga-the-Firefly" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="6.5">
+  <name>Luciernaga ""The Firefly""</name>
+  <description>An artisan pale ale brewed in the Grand Cru tradition. Enjoy its golden effervescence and gentle hop aroma. Coriander and Grains of Paradise round out the spicy palate, melting o so softly into a silken finish of hoppiness and bliss! Make any season a celebration!</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pale ale</style>
+  </styles>
+</beer>

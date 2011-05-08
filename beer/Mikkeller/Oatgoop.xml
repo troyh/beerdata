@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Oatgoop" brewery_id="Mikkeller" abv="10.4">
+  <name>Oatgoop</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oat wine</style>
+  </styles>
+</beer>

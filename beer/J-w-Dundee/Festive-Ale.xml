@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="J-w-Dundee/Festive-Ale" brewery_id="J-w-Dundee">
+  <name>Festive Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Amber</style>
+  </styles>
+</beer>

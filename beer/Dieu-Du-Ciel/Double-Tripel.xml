@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Double-Tripel" brewery_id="Dieu-Du-Ciel" abv="11.5">
+  <name>Double Tripel </name>
+  <description>The Double Triple is our "New World" interpretation of the Tripel, a classic abbey-style belgian ale. It is indeed a trend in North America to bring certain styles of beer to their extreme, and tag them as "Double", everything in this beer being exagerated (mostly bitterness and alcohol) when compared to the original style. In Dieu du Ciel's Double Triple, the beer is very strong and the presence of alcohol is evident in the smell as well as in the taste of the beer. Pronounced hops aromas are also present, due to dry hopping. The whole is completed and well balanced by a strong bitterness, the usual spicy and fruity aromas of a Tripel, good malt body and and a lightly sweet finishing touch.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian ale</style>
+  </styles>
+</beer>

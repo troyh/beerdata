@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Belgian-Abbey-Red" brewery_id="Karl-Strauss">
+  <name>Belgian Abbey Red</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Red Ale</style>
+  </styles>
+</beer>

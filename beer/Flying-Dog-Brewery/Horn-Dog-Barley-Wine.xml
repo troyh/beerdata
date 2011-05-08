@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Horn-Dog-Barley-Wine" brewery_id="Flying-Dog-Brewery" abv="10.2" ibu="45">
+  <name>Horn Dog Barley Wine</name>
+  <description>By far the biggest dog in the yard... Horn Dog Barley Wine is a dark and malty English-style Barely Wine that is aged for a minimum of three months before being packaged. Like a fine wine, this beer will only get better with age when stored at optimum conditions.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Munich, 40L Carastan, 120L Crystal</grains>
+  <grains>Munich, 40L Carastan, 120L Crystal</grains>
+  <hops>German Perle, Northern Brewer, Cascad</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine </style>
+  </styles>
+</beer>

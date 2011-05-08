@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Hvedegoop" brewery_id="Mikkeller" abv="10.4">
+  <name>Hvedegoop</name>
+  <description>Hvedegoop is a so-called wheatwine, which is a barley wine style, where wheat-malt is used in the brewing. Hvedegoop has a beautiful clear amber color, moderate snow-white foam, and a very strong scent of citrus fruit and pine. The taste is dominated by hops, which stands in sharp contrast to the sweetness and rich body.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pale, wheat, cara-wheat, cara and amber</grains>
+  <grains>pale, wheat, cara-wheat, cara and amber</grains>
+  <hops>apollo and bravo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>barleywine Ale</style>
+  </styles>
+</beer>

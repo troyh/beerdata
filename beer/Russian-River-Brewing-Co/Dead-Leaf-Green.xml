@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Dead-Leaf-Green" brewery_id="Russian-River-Brewing-Co" abv="5.68" ibu="30">
+  <name>Dead Leaf Green</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Pale Ale</style>
+  </styles>
+</beer>

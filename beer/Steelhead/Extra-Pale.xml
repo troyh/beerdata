@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Steelhead/Extra-Pale" brewery_id="Steelhead">
+  <name>Extra Pale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

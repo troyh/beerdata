@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Diabolique" brewery_id="Bullfrog-Brewery" abv="8">
+  <name>Diabolique</name>
+  <description>This golden elixir has a strikingly fruity and honeyed aroma. The palette is spicier than the aroma shows yet the fruitiness won't be outdone. This beer finishes long and dry with a wonderfully complex character.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Brown-Bear-Brown" brewery_id="Rock-Bottom-Brewery">
+  <name>Brown Bear Brown</name>
+  <description>A classic, flavorful brown ale with a toasty malt and mild hop character, great depths of color and a rich, medium body.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

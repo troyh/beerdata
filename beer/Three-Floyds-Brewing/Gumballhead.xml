@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Gumballhead" brewery_id="Three-Floyds-Brewing" abv="4.5" ibu="28">
+  <name>Gumballhead</name>
+  <description>Our delicious summer seasonal brewed with Amarillo hops. An American wheat beer with a crisp citrus finish</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Blue-Point-Brewing-Co/Blueberry-Ale" brewery_id="Blue-Point-Brewing-Co" abv="4.3" ibu="14">
+  <name>Blueberry Ale</name>
+  <description>Blue Point fresh Blueberry Ale offers an unusual twist on brewing that turns out to be just perfect. A wonderful blend of fresh blueberries matched with a thirst quenching distinctive ale. We carefully add 132 lbs of blueberries to each special batch. Brewed with 100% American ingredients. Enjoy a truly unique flavorful brew!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Blueberry Ale</style>
+  </styles>
+</beer>

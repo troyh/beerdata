@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Big-A-Ipa" brewery_id="Smuttynose-Brewing-Co">
+  <name>Big A IPA</name>
+  <description>Imperial (double) IPA, a style recently developed by American craft brewers, is the IPA analog to imperial stout. In other words, take every characteristic you'd normally associate with an India Pale Ale - primarily hops and alcoholic content - punch it up a few notches, and you've got an imperial IPA. Ranging from golden to amber in color, these beers have complex flavor and aromatic qualities derived from their fruity esters, high alcohol and medium to high malt content.Our Big A IPA has earned its share of praise over the last few years. In 2004 the New York Times named it its top IPA , and in 2007 Mens Journal Magazine included it on its list of 25 best beers in America. The last of each year's edition typically leaves our warehouse around mid-May, and, as always, it doesn't last long.Stash Wojciechowski, the "Killer Kielbasa," created this bonafide India Pale Ale recipe exclusively for the Smuttynose Big Beer Series.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial IPA</style>
+  </styles>
+</beer>

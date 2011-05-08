@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Roxy-Rolles" brewery_id="Magic-Hat" abv="5.1" ibu="40">
+  <name>Roxy Rolles</name>
+  <description>Our wintry amber ramble of sweet carmelized malt and spicy hops is for those who make their own roads.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>pale, crystal, caramunich</grains>
+  <grains>pale, crystal, caramunich</grains>
+  <hops>brewer's Gold, simcoe</hops>
+  <yeast>English Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

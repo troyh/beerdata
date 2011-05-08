@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Obovoid-Oak-aged-Oatmeal-Stout" brewery_id="Boulder-Beer-Co" abv="6.8" ibu="40">
+  <name>Obovoid Oak-Aged Oatmeal Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>caramel, roasted, black, chocolate, rolled oats</grains>
+  <grains>caramel, roasted, black, chocolate, rolled oats</grains>
+  <hops>progress, cascade, fuggle</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alaskan-Brewing-Co/Esb" brewery_id="Alaskan-Brewing-Co">
+  <name>ESB</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Extra Special Bitter</style>
+  </styles>
+</beer>

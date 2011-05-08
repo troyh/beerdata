@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Heart-Of-Darkness" brewery_id="Magic-Hat" abv="5.4" ibu="30">
+  <name>Heart of Darkness</name>
+  <description>Our inky-black stout has a smooth, round palate with a dreamlike undercurrent of bittersweet chocolate. This dense liquid-silk summons hope from hibernation and balances winter's endless white snows with a rich swirl of creamy black rapture. </description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, crystal, roasted barley</grains>
+  <grains>pale, crystal, roasted barley</grains>
+  <hops>warrior, Fuggles</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

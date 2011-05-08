@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Bully-Porter" brewery_id="Boulevard-Brewing-Co" abv="5.4" ibu="47">
+  <name>Bully! Porter</name>
+  <description>The intense flavors of dark-roasted malt in Boulevard's rendition of the classic English porter are perfectly balanced by a generous and complex hop character. Bully! Porter's robust nature makes it the ideal companion to a variety of foods, from seafood to chocolate.\nSENSORY DESCRIPTION: Full body and distinct hoppiness is best paired with, hearty, full-flavored foods. Flavor hooks: chocolate, roasted flavors</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale, Caramunich, Special B &amp; Chocolate malts.</grains>
+  <grains>Pale, Caramunich, Special B &amp; Chocolate malts.</grains>
+  <hops>Magnum, Simcoe, Athanum &amp; Cascade hops.</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

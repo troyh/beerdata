@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brewdog/77-Lager" brewery_id="Brewdog" abv="4.9" ibu="35">
+  <name>77 lager</name>
+  <description>A Lager that actually tastes of something? You have to be kidding, right? 77 lager is made with 100% malt and whole leaf hops.It contains no preservatives, additives, cheap substitutes or any other junk. Maybe we are crazy. So what? Taste 77 Lager and we are pretty sure you will agree that the fine line between genius and insanity has just become a little more blurred.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pale Malt, Caramalt, Munich Malt</grains>
+  <grains>Pale Malt, Caramalt, Munich Malt</grains>
+  <hops>Motoeka Amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pilsner</style>
+  </styles>
+</beer>

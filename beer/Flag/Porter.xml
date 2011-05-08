@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flag/Porter" brewery_id="Flag">
+  <name>Porter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Adirondack-Lager" brewery_id="Saranac" abv="5.5">
+  <name>Adirondack Lager</name>
+  <description>Our classic German lager has a perfect balance of caramel malt sweetness. Look for a rich, amber color and medium body.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Two-row and Caramel</grains>
+  <grains>Two-row and Caramel</grains>
+  <hops>Cascade, Mt. Hood, German Hallertauer</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Amber Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Pumpkin-Ale" brewery_id="Bjs-Restaurant-And-Brewhouse">
+  <name>Pumpkin Ale</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pumpkin Ale</style>
+  </styles>
+</beer>

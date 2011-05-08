@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Oatmeal-Stout" brewery_id="Goose-Island-Beer-Co" abv="5.1" ibu="30">
+  <name>Oatmeal Stout</name>
+  <description>An aromatic blend of oats, chocolate and roast malts make up this classic English-Style Oatmeal Stout. A rich black over ruby hue and creamy tan head make our stout a memorable beer to behold.</description>
+  <availability/>
+  <ingredients/>
+  <grains>-Row, Roasted Barley, Oat Flake, Barley Flake, Caramel, Debittered Black</grains>
+  <grains>-Row, Roasted Barley, Oat Flake, Barley Flake, Caramel, Debittered Black</grains>
+  <hops>UK Fuggle, Willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Stout</style>
+  </styles>
+</beer>

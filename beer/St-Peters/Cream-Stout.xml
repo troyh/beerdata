@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="St-Peters/Cream-Stout" brewery_id="St-Peters">
+  <name>Cream Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout - Chocolate</style>
+  </styles>
+</beer>

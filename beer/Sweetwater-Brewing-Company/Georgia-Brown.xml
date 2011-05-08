@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Georgia-Brown" brewery_id="Sweetwater-Brewing-Company" abv="5.1">
+  <name>Georgia Brown</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Brown Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Ufo-White" brewery_id="Harpoon" abv="4.8" ibu="10">
+  <name>UFO White</name>
+  <description>Light, crisp, refreshing UFO White follows in the tradition of spiced wheat beers that have been brewed in Belgium for well over 300 years. Brewed with orange peel and a unique blend of spices, UFO White is the perfect choice for a summer's barbecue, a night out with friends or any time you?re thirsting for something a little different. Like UFO Hefeweizen and UFO Raspberry Hefeweizen, we leave UFO White UnFiltered for a more natural taste and appearance.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American White Ale</style>
+  </styles>
+</beer>

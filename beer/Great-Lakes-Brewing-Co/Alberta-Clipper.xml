@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Alberta-Clipper" brewery_id="Great-Lakes-Brewing-Co" abv="7.0" ibu="40">
+  <name>Alberta Clipper</name>
+  <description>Winter porter with Belgian chocolate and raspberries.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

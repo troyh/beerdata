@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Cohoho-Imperial-Ipa" brewery_id="Midnight-Sun-Brewing-Company" abv="8.5" ibu="85">
+  <name>CoHoHo Imperial IPA</name>
+  <description>When the loveable "hopheads" at Humpy's Great Alaskan Alehouse requested a winter version of alehouse favorite Sockeye Red IPA, our brewers instinctively spawned CoHoHo Imperial IPA.CoHoHo begins with generous measures of pale two-row and specialty malts along with spirit-boosters like brown sugar and honey. Hefty doses of Cascade, Centennial and Simcoe hops beautifully balance that outrageous malt bill while juniper berries heighten the festive character of this exuberant beer.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Cascade, Centennial and Simcoe</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial IPA</style>
+  </styles>
+</beer>

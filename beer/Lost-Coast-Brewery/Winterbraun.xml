@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lost-Coast-Brewery/Winterbraun" brewery_id="Lost-Coast-Brewery" abv="5">
+  <name>Winterbraun</name>
+  <description>A full-bodied, brown ale with a rich chocolate taste created from roasted chocolate and caramel malts. Topped with Czech Saaz Hops to give it a spicy flavor and aroma. </description>
+  <availability/>
+  <ingredients/>
+  <grains>chocolate and caramel</grains>
+  <grains>chocolate and caramel</grains>
+  <hops>czech saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>brown ale</style>
+  </styles>
+</beer>

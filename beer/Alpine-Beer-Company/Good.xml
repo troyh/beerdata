@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Good" brewery_id="Alpine-Beer-Company">
+  <name>Good</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Barleywine</style>
+  </styles>
+</beer>

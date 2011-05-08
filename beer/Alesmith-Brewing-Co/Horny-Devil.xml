@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Horny-Devil" brewery_id="Alesmith-Brewing-Co" abv="11">
+  <name>Horny Devil</name>
+  <description>This is the AleSmith incarnation of a Belgian Strong Ale. Horny Devil is an authentic Belgian Style ale, from the Belgian candi sugar right down to the yeast, a Belgian strain from a Trappist monastery in Belgium. In addition to the malts, candi sugar and fresh hops, there is also a little added twist from coriander seeds, which impart a refreshing citrus flavor to an outstanding ale. Belgian ale lovers around the world have raved about Horny Devil, and you will too.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Strong Ale</style>
+  </styles>
+</beer>

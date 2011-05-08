@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Lorelei-Dunkel-Weizen" brewery_id="Great-Lakes-Brewing-Co" abv="5.1" ibu="20">
+  <name>Lorelei Dunkel Weizen</name>
+  <description>A classic dark German wheat with roasty malt undertones.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dunkel Weizen</style>
+  </styles>
+</beer>

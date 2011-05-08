@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Williamsporter" brewery_id="Bullfrog-Brewery" abv="5">
+  <name>Williamsporter</name>
+  <description>A richly aromatic, light bodied dark ale with a chocolate-like finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dark ale</style>
+  </styles>
+</beer>

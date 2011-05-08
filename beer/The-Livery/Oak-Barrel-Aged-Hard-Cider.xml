@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Oak-Barrel-Aged-Hard-Cider" brewery_id="The-Livery" abv="6">
+  <name>Oak Barrel aged Hard Cider</name>
+  <description>Made with a blend of 5 different Michigan apples from our friend Scott Husteds' orchard, and English cider yeast. Slightly tart with a sweet red delicious finish. Aged for 5 months in a Merlot cask.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Cider</style>
+  </styles>
+</beer>

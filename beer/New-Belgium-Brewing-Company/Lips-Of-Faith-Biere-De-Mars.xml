@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Biere-De-Mars" brewery_id="New-Belgium-Brewing-Company">
+  <name>Lips of Faith Biere De Mars</name>
+  <description>For the first time in three years we are pleased to offer one of our favorite harbingers of spring, Biere de Mars.\nWith earthy tones of ripe mango and lemon verbena, this bottle-conditioned ale reflects the hearty character of the southern Belgian and northern French countrysides. Brewed with barley, oats and wheat malt, Biere de Mars' celestial orange hue inspired the planetary play on words. Brettanomyces, a wild yeast strain, added for bottle-conditioning creates a refreshingly sour flash across the palate. Lemon peel coupled with the lemon verbena imparts fruitlike character and a citrusy finish.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

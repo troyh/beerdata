@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Johns-Locker-Stock-Markus-Brau" brewery_id="Rogue-Ales" ibu="23">
+  <name>John's Locker Stock: Markus Brau </name>
+  <description>The aroma is pleasantly grainy-sweet, the color is topaz hued, and the flavor is malty with low hop bitterness that supports the malty palate. Lagered 5 weeks.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Durst Pilsner, Great Western Munich, Weyermann Carahell.</grains>
+  <grains>Durst Pilsner, Great Western Munich, Weyermann Carahell.</grains>
+  <hops>US Perle, Newport, German Spalt Select.</hops>
+  <yeast>Oktoberfest #2633 Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Munich Helles</style>
+  </styles>
+</beer>

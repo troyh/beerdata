@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/16th-St-Wheat" brewery_id="Rock-Bottom-Brewery">
+  <name>16th St. Wheat</name>
+  <description>A crisp, clean beer with a sweet, honey malt flavor. 16th Street is well-balanced and deep gold in color with a subtle, flowery, hop finish. Enjoy with salads and pastas.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Iron-Monger-Dunkel" brewery_id="Kuhnhenn-Brewing-Co" abv="6.1">
+  <name>Iron Monger Dunkel</name>
+  <description>Dark lager beer, made mostly with Munich malt, for an intense malty flavor and aroma. This beer is almost a bock beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dark Lager</style>
+  </styles>
+</beer>

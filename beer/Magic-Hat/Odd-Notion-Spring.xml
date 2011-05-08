@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Odd-Notion-Spring" brewery_id="Magic-Hat" abv="5" ibu="30">
+  <name>Odd Notion Spring</name>
+  <description>A classic European pilsner given a new springtime spin with wild sour accents of organic agave and natural blue poppy seeds planted a sweet, nutty balance.  Our Poppy Agave Pilsner is summoned by a strenthening sun from two-row Pilsner malt and Noble hops. It melts snow and taws souls with 30 IBUs and an ABV of 5%.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>pilsner, munich</grains>
+  <grains>pilsner, munich</grains>
+  <hops>hallertau</hops>
+  <yeast>lager yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

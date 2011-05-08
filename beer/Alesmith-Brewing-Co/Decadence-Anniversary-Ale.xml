@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Decadence-Anniversary-Ale" brewery_id="Alesmith-Brewing-Co" abv="11">
+  <name>Decadence Anniversary Ale</name>
+  <description>Decadence was released in 2005 to celebrate our 10 year anniversary. AleSmith will be releasing a new Decadence each year around our anniversary date in late fall. The style chosen each year will be different, but you can be sure that it will fit the description of Decadence! Decadence 2005 combines abundant malt flavors with a perfect balance of the freshest English hops that define this classic English-style Old Ale. Rich and elegant, smooth and tasty, Decadence tantalizes the palate in a way that has become the hallmark of AleSmith's premium ales.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

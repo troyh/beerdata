@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Morimoto-Soba-Ale" brewery_id="Rogue-Ales" ibu="30">
+  <name>Morimoto Soba Ale</name>
+  <description>The delicate flavor of our roasted Soba brings a nutty finish to this light and refreshing ale. A perfect accompaniment to lighter cuisine</description>
+  <availability/>
+  <ingredients/>
+  <grains>Roasted Soba, Harrington, Metcalf, Munich &amp; C-15.</grains>
+  <grains>Roasted Soba, Harrington, Metcalf, Munich &amp; C-15.</grains>
+  <hops>Crystal.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Specialty Grain</style>
+  </styles>
+</beer>

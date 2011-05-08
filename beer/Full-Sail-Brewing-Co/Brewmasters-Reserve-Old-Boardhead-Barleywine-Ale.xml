@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Old-Boardhead-Barleywine-Ale" brewery_id="Full-Sail-Brewing-Co" abv="9" ibu="91">
+  <name>Brewmaster's Reserve: Old Boardhead Barleywine Ale</name>
+  <description>A deliciously rich Barleywine that has a spectacular depth &amp; delicacy of flavor that is deep &amp; robust. Its strong sweet body is balanced with Centennial &amp;  Crystal hops for a pleasant hoppiness &amp; finish. Makes a great cellar beer.</description>
+  <availability>Coming October 2009 then available Year Round. </availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Centennial &amp;  Crystal</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine Ale</style>
+  </styles>
+</beer>

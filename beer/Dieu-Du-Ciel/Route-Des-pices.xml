@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Route-Des-pices" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Route des &#x8E;pices</name>
+  <description>Routes des &#x8E;pices (French for "Spice Route") is a rye beer brewed with both black and green peppercorns. Initially, the beer reveals flavours of fresh grain and malt, which give it notes of chocolate, caramel, and fruit. The pepper flavour and aroma is fully revealed in the finish, which leaves a pleasant, spicy, tingling sensation on the tongue.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>rye</style>
+  </styles>
+</beer>

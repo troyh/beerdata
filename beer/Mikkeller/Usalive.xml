@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Usalive" brewery_id="Mikkeller" abv="8">
+  <name>USAlive!</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pale and cara</grains>
+  <grains>pale and cara</grains>
+  <hops>tomahawk, cascade and amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

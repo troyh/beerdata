@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Wilddevil" brewery_id="Victory-Brewing-Co" abv="6.8">
+  <name>WildDevil</name>
+  <description>Bold, spicy, menacingly delicious HopDevil takes on an entirely new dimension when subjected to a 'wild' yeast fermentation. A sharp, tart edge has been added by this fermentation that plays into the caramel sweet malt deliciously and creates complex interplay with the citrus accented hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Imported, 2 row German malts</grains>
+  <grains>Imported, 2 row German malts</grains>
+  <hops>Whole flower American hops</hops>
+  <yeast>100% laboratory grown Brettanomyces</yeast>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

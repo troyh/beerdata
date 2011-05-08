@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Barley-Johns-Brew-Pub/Hefeweizen" brewery_id="Barley-Johns-Brew-Pub" abv="5">
+  <name>Hefeweizen</name>
+  <description>Traditionally brewed German-style Wheat beer. Brewed with German Wheat and Pilsner malts and hopped with German noble hops. Clove and bananna flavors from the yeast with a slight haze and goldon color appearance.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>hefeweizen </style>
+  </styles>
+</beer>

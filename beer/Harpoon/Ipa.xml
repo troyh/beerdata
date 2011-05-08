@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Ipa" brewery_id="Harpoon" abv="5.9" ibu="42">
+  <name>IPA</name>
+  <description>The high hopping of Harpoon IPA is not only noticeable in the nose but especially in the finish. The lingering bitter finish of this beer is not harsh or astringent, but crisp and pronounced. This is created, in part, by dry hopping -- a technique that involves adding fresh hops to the conditioning beer to provide a fresh hop aroma.\nThis beer is floral, medium body with an aggressive, clean hop finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

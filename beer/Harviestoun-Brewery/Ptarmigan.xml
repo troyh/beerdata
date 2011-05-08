@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harviestoun-Brewery/Ptarmigan" brewery_id="Harviestoun-Brewery" abv="4.5">
+  <name>Ptarmigan</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Premuium Ale</style>
+  </styles>
+</beer>

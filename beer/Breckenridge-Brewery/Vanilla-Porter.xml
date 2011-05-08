@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Vanilla-Porter" brewery_id="Breckenridge-Brewery" abv="4.7" ibu="16">
+  <name>Vanilla Porter</name>
+  <description>Who would have thought deep in the jungles of Papua New Guinea and Madagascar grew the perfect ingredient to build an extraordinary Porter in Colorado? An ale that has all the chocolate and roasted nut flavor of a classic Porter, with an enigmatic surprise thrown in for good measure, real vanilla bean. Breckenridge Brewery's Vanilla Porter. A vanilla kiss in a rich, dark sea.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Caramel, Chocolate, Black, Roasted Barley</grains>
+  <grains>Two Row Pale, Caramel, Chocolate, Black, Roasted Barley</grains>
+  <hops>Chinook, Tettinang, Perle, Goulding</hops>
+  <yeast>Top Fermenting Ale Yeast</yeast>
+  <otherings>Real vanilla beans from Paupau New Guinea and Madagascar.</otherings>
+  <styles>
+    <style>Herb and Spice Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Extra-Pale-Ale" brewery_id="Summit-Brewing" abv="5.3" ibu="40">
+  <name>Extra Pale Ale</name>
+  <description>Summit's first-born child and flagship beer, Extra Pale Ale has a pronounced hop flavor and a lght bronze color. </description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row harrington, caramel</grains>
+  <grains>2-row harrington, caramel</grains>
+  <hops>horizon, fuggle, cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

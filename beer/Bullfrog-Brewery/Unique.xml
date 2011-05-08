@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Unique" brewery_id="Bullfrog-Brewery" abv="5">
+  <name>Unique </name>
+  <description>Often in Trappist breweries the monks brew a beer of low alcohol strength for the brothers to consume... so I just had to put my spin on this Trappist-inspired Singel. Brewed with imported malts, a Trappist yeast strain, American Palisade, Willamette and Crystal hops plus a slew of wild yeast in the bottle for a refreshingly tart snap. This beer truely is Unique!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Belgian Abbey</style>
+  </styles>
+</beer>

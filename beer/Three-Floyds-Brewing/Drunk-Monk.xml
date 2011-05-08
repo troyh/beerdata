@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Drunk-Monk" brewery_id="Three-Floyds-Brewing" abv="5.5">
+  <name>Drunk Monk</name>
+  <description>A traditional Bavarian-style hefe weizen or wheat beer with banana and clove notes.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

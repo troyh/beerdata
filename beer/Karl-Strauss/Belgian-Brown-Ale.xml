@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Belgian-Brown-Ale" brewery_id="Karl-Strauss">
+  <name>Belgian Brown Ale</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Brown Ale</style>
+  </styles>
+</beer>

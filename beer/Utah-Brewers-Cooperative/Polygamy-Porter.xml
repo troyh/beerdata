@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Polygamy-Porter" brewery_id="Utah-Brewers-Cooperative" abv="4">
+  <name>Polygamy Porter</name>
+  <description>This dark, medium bodied ale offers the drink-ability of a much lighter beer. The inviting chocolate and malty flavors fade into a slightly dry, silky smooth finish. Why have just one? 4.0% alcohol by volume.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Porter</style>
+  </styles>
+</beer>

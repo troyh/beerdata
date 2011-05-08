@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Special-Double-Cream-Stout" brewery_id="Bells-Brewery" abv="6.1">
+  <name>Special Double Cream Stout</name>
+  <description>Sweeter and smoother than Kalamazoo Stout. A beer for special winter occasions. Great with chocolate desserts.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

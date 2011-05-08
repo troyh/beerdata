@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Velvet-Merkin" brewery_id="Firestone-Walker-Brewing-Company">
+  <name>Velvet Merkin</name>
+  <description/>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

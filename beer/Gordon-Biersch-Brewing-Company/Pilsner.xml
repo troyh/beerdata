@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Gordon-Biersch-Brewing-Company/Pilsner" brewery_id="Gordon-Biersch-Brewing-Company" abv="5.3">
+  <name>Pilsner</name>
+  <description>Pilsner is a crisp, golden, highly hopped lager. This beer was first brewed in Pilsen, Czechoslovakia in 1842 using a sample of special yeast smuggled from Germany by a Czech monk. Until this time all beers were dark and cloudy. The new Czech Pilsner was the first beer to be brewed clear and golden.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

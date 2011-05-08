@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Black-And-Tan" brewery_id="Saranac" abv="5.1">
+  <name>Black and Tan</name>
+  <description>A beer lover's dream! This classic irish stout and amber lager blend is malty, yet pleasantly bitter with many complex flavor notes. Look for a deep brown-black color and full-body</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Chocolate, Caramel, Black roasted barley</grains>
+  <grains>Chocolate, Caramel, Black roasted barley</grains>
+  <hops>Willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout - Amber Loager Blend</style>
+  </styles>
+</beer>

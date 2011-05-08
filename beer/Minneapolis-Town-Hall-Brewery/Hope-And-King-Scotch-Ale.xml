@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Hope-And-King-Scotch-Ale" brewery_id="Minneapolis-Town-Hall-Brewery" abv="6">
+  <name>Hope and King Scotch Ale</name>
+  <description>Our interpretation of the classic ale that originated in Glasgow, Scotland.  A full-body ale, rich in malt complexity.  Brewed with both English and American barley and many, many specialty malts allowing hints of roasted chocolate, caramel and raisins with very little hop presence.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scotch Ale</style>
+  </styles>
+</beer>

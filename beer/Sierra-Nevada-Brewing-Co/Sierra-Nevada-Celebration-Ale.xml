@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Celebration-Ale" brewery_id="Sierra-Nevada-Brewing-Co" abv="6.8" ibu="62">
+  <name>Sierra Nevada Celebration  Ale</name>
+  <description>The long, cold nights of winter are a little brighter with Celebration&#xA8; Ale. Wonderfully robust and rich, Celebration&#xA8; Ale is dry-hopped for a lively, intense aroma. Brewed especially for the holidays, it is perfect for a festive gathering or for a quiet evening at home.</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains>Two-row Pale &amp; English Caramel</grains>
+  <grains>Two-row Pale &amp; English Caramel</grains>
+  <hops>Cascade &amp; Centennial, Chinook</hops>
+  <yeast>Top-fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

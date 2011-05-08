@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Killer-Penguin-Barleywine" brewery_id="Boulder-Beer-Co" abv="10">
+  <name>Killer Penguin Barleywine</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine</style>
+  </styles>
+</beer>

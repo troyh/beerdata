@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Track-Town-Ales-Triple-Jump-Pale-Ale" brewery_id="Rogue-Ales" ibu="55">
+  <name>Track Town Ales: Triple Jump Pale Ale</name>
+  <description>A Northwest style Pale Ale. Light copper in color. A refreshing Ale that focuses on Hop flavor, with a slight malt presence in the background.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Pale and Munich.</grains>
+  <grains>Northwest Pale and Munich.</grains>
+  <hops>Horizon, Amarillo, Centennial and Simcoe.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

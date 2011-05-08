@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Impeche" brewery_id="The-Livery" abv="12">
+  <name>Impeche</name>
+  <description>Inspired from a conversation with good friend and editor of the Great Lakes Brewing News, Bill Metzger, Brewmaster Steve blended a Belgian Amber Ale with 120# of Michigan Harmony peaches from Husteds Farm Market in a merlot cask. 4 wild yeast fermentations later and yet another cask aging results in an exquisite sour peach ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

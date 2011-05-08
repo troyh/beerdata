@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Blue-Collar-Brown" brewery_id="Bullfrog-Brewery" abv="4.3">
+  <name>Blue Collar Brown </name>
+  <description>This cask-conditioned session ale has a luscious brown body and is lavashly hopped with American grown Centennial hops. Blue Collar Brown is a salute to Williamsports working men and women, rich in flavor but low in alcohol. Served from our 45 degree cask room via handpump.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/West-Bank-Pub-Ale" brewery_id="Minneapolis-Town-Hall-Brewery" abv="4.8">
+  <name>West Bank Pub Ale</name>
+  <description>British style pale ale featuring the the rich character of UK Golden Promise malt with a distinct finish from the use of British Fuggles and Golding hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>British Pale Ale</style>
+  </styles>
+</beer>

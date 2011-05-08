@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/The-Czar" brewery_id="Avery-Brewing" abv="11.03" ibu="60">
+  <name>The Czar</name>
+  <description>Behold the stunning crimson hues through the inky blackness. Inhale the noble Hallertau hops, spicy and floral. Savor the flavors redolent of English toffee, rich mocha, sweet molasses, candied currants and a hint of anise. We highly recommend cellaring additional bottles, as the Czar will continue to mature and become denser and more complex with age.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, black, chocolate, carafa 111, cara 8, cara 45, honey malt</grains>
+  <grains>Two-row barley, black, chocolate, carafa 111, cara 8, cara 45, honey malt</grains>
+  <hops>Magnum, German Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

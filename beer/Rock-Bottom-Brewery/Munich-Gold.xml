@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Munich-Gold" brewery_id="Rock-Bottom-Brewery">
+  <name>Munich Gold</name>
+  <description>Our German-style export lager is medium-bodied with a smooth dry finish. Brewed with imported malts and Czech Saaz hops, this award-winning beer brought home the gold. 1996 Gold Medal Winner, Great American Beer Festival -- Munchener Helles and Export Cate</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

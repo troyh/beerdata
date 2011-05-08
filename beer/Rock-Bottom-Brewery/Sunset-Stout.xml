@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Sunset-Stout" brewery_id="Rock-Bottom-Brewery">
+  <name>Sunset Stout</name>
+  <description>A smooth and peaceful opaque stout with roasted overtones. The infusion of nitrogen calms the aggressive flavors, making this a creamy, everyday stout that goes well with desserts.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

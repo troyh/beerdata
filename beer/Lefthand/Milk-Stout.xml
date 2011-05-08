@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lefthand/Milk-Stout" brewery_id="Lefthand" ibu="year-round">
+  <name>Milk Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Downtown-Pale-Ale" brewery_id="Lagunitas-Brewing-Co">
+  <name>Downtown Pale Ale</name>
+  <description>We at the Lagunitas Brewing Company hope you enjoy this genuinely handmade ale. A lot of hard work and enthusiasm go into every aspect of brewing this Mondo Ultra Mega Super Premium Ale. From building the brewery itself to putting the cap on each and every bottle, virtually every step was done by hand. Thanks for your trust and as always:</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

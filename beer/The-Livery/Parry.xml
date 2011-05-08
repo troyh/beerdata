@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Parry" brewery_id="The-Livery" abv="4.75">
+  <name>Parry</name>
+  <description>This cider is made with 3 different pear varieties from Husteds Farm Market-Asian, Bosque, and Bartlett. Semi sweet with fresh pear flavor</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pear cider</style>
+  </styles>
+</beer>

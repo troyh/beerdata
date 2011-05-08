@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Little-White-Lie" brewery_id="Russian-River-Brewing-Co" abv="4.8">
+  <name>Little White Lie</name>
+  <description/>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wit Beer</style>
+  </styles>
+</beer>

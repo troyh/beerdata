@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Jamaica/Red-Ale" brewery_id="Jamaica">
+  <name>Red Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Red</style>
+  </styles>
+</beer>

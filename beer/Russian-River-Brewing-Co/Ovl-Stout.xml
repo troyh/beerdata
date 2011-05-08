@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Ovl-Stout" brewery_id="Russian-River-Brewing-Co" abv="4.5" ibu="40">
+  <name>OVL Stout</name>
+  <description>This nitrogenated dry stout is low in alcohol but big in flavor. Its smooth roasted coffee like aromas and flavor are clean and drinkable. </description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

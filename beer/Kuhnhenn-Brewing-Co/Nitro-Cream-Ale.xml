@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Nitro-Cream-Ale" brewery_id="Kuhnhenn-Brewing-Co">
+  <name>Nitro Cream Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale</style>
+  </styles>
+</beer>

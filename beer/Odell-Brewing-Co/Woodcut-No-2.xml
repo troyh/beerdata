@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Odell-Brewing-Co/Woodcut-No-2" brewery_id="Odell-Brewing-Co" abv="11">
+  <name>Woodcut No.2</name>
+  <description>Aged in virgin oak barrels, Woodcut No.2 is definitely a cut above.  The color is a rich golden copper.  Soft tannins complement the toffee-like malt character.  And the aromas are reminiscent of fresh woodshop shavings and vanilla bean -- an irresistible combination.  Each Woodcut offering is a truly lmited-edition beer made with select hops, fine malted barley and our brewers' careful aging process.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

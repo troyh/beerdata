@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bridgeport-Brewing-Co/Blue-Heron-Pale-Ale" brewery_id="Bridgeport-Brewing-Co" abv="4.9" ibu="25">
+  <name>Blue Heron Pale Ale</name>
+  <description>Our heritage beer, Blue Heron, was first brewed in 1987 as a special release for the Audubon Society, and named after Portland's official city bird. The taste reflects its Northwest roots, drawing on indigenous ingredients from the hop fields of the Willamette Valley and the barley fields of the high Northwest desert. This pale ale is round and soft on the palate, finishes crisply.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

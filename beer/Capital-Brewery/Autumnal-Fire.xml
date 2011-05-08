@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Autumnal-Fire" brewery_id="Capital-Brewery" abv="7.26">
+  <name>Autumnal Fire</name>
+  <description>A blazing rich beer, this is a doppelbock based on an Oktoberfest personality. Warm and intriguing, the perfect "Brandy Snifter" beer. ABV 7.26% Available starting in September.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brandy Snifter</style>
+  </styles>
+</beer>

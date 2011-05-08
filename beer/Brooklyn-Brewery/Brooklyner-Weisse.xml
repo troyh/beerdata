@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyner-Weisse" brewery_id="Brooklyn-Brewery" abv="4.1">
+  <name>Brooklyner Weisse</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

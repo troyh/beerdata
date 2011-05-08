@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Smoke" brewery_id="Surly-Brewing-Co" abv="9" ibu="45">
+  <name>smoke</name>
+  <description>We brew this Baltic Porter with a good amount of smoked malt and a lager yeast to give this beer its deliciousness flavor.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>baltic Porter</style>
+  </styles>
+</beer>

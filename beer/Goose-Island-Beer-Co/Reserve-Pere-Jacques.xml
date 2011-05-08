@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Reserve-Pere-Jacques" brewery_id="Goose-Island-Beer-Co" abv="8" ibu="26">
+  <name>Reserve: Pere Jacques</name>
+  <description>Brewed with loads of malt and Belgian yeast, Pere Jacques is a wonderfully fruity, malty ale. Pere Jacques' complex flavors stand shoulder to shoulder with the Belgian Dubbels enjoyed in the world's finest beer bars. At the dining table it's the perfect alternative to a glass of vintage port.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-Row, Wheat, Caramel, Rye Flakes, Special B</grains>
+  <grains>2-Row, Wheat, Caramel, Rye Flakes, Special B</grains>
+  <hops>saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian abbey Ale</style>
+  </styles>
+</beer>

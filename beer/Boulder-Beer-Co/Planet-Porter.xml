@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Planet-Porter" brewery_id="Boulder-Beer-Co" abv="5.51">
+  <name>Planet Porter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>caramel, dark caramel, black, 2 row malted barley</grains>
+  <grains>caramel, dark caramel, black, 2 row malted barley</grains>
+  <hops>cascade, chinook, hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

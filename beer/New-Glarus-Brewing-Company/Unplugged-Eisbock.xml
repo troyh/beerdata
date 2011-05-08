@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Eisbock" brewery_id="New-Glarus-Brewing-Company">
+  <name>Unplugged Eisbock</name>
+  <description>The first of our "Unplugged" series of beers. This Eisbock was lagered a full year and then frozen to incomparable smoothness. This is a big and complex beer, suitable for laying down or consuming immediately, serve at 55&#xBC; F.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

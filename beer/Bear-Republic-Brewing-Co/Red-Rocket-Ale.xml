@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Red-Rocket-Ale" brewery_id="Bear-Republic-Brewing-Co" abv="6.8" ibu="65+">
+  <name>Red Rocket Ale</name>
+  <description>The brew of choice for mountain bikers, and adventurous types worldwide. (Are you excited now!) This fiery red ale is not for the weak at heart. It originally started out as a Scottish red ale but has taken on flavors of its own. This is a very complex recipe using five different grains to achieve its unique flavor. The caramel malt used is a mixture of Belgian Caravienne and Hugh Bairds Crystal malts. Red Rocket is a full bodied, hoppy brew which finishes on the palate with caramel malts. Centennial and Cascade hops are used for bittering and aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Belgian Caravienne and Hugh Bairds Crystal</grains>
+  <grains>Belgian Caravienne and Hugh Bairds Crystal</grains>
+  <hops>centennial &amp;  Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>red Ale</style>
+  </styles>
+</beer>

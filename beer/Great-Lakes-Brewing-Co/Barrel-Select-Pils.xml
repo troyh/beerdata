@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Barrel-Select-Pils" brewery_id="Great-Lakes-Brewing-Co" abv="5.1" ibu="40">
+  <name>Barrel Select Pils</name>
+  <description>Crisp golden pilsner loaded with noble hop flavors.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oak-Creek/Pale-Ale" brewery_id="Oak-Creek">
+  <name>Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

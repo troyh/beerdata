@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Scotty-Karate-Scotch-Ale" brewery_id="Dark-Horse-Brewing-Company" abv="9.75">
+  <name>Scotty Karate Scotch Ale</name>
+  <description>For those of you who don't know who "Scotty Karate" is... He is a local one man band who plays an amazing slurry of honky tonk influenced, punk country songs. His voice is amazing as well as his high energy shows. (Check him out @ www.scottykarate.com) So, we decided to make a beer and name it in his honor. This beer is a big, full bodied Scottish ale. It is 9.75% alc. but it is very smooth and balanced. Since Scotty is also very passionate about beer I asked him to write a description for you, so from the man himself...aAroma: Smells like A fresh caramel apple with a hint of cinnamon inside of cranberry shortbread. Or maybe fresh home made hard candy (from home economics class-7th grade).Flavor: Tastes like a smokey chocolate chip cookie, wild roadside cherry-asparagus, woody, crispy leaf on a fall day. -SK</description>
+  <availability>fall/Winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scotch Ale</style>
+  </styles>
+</beer>

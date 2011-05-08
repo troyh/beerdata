@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Fourth-Dementia-Olde-Ale" brewery_id="Kuhnhenn-Brewing-Co" abv="9.5">
+  <name>Fourth Dementia Olde Ale</name>
+  <description>Deep, ruby red ale. Extreme malt and caramel flavor, sweet up front, finishing with high hop bitterness and aroma. Aged four months yet could easily use four more!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>red ale</style>
+  </styles>
+</beer>

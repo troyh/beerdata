@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Blue-Point-Brewing-Co/Old-Howling-Bastard" brewery_id="Blue-Point-Brewing-Co" abv="10" ibu="60">
+  <name>Old Howling Bastard</name>
+  <description>Blue Point Brewing's "Old Howling Bastard," named after an infamous local character, is a strong ale with plenty of character all its own. Made with English 2 row barley and Vienna malt. Reaching an alcohol content of 10%, barleywine should be consumed in moderation. Strong malty caramel flavors are balanced by lots and lots of hops. Try this in a snifter or wineglass. The trick is to never forget that after a few glasses you may become the "Old Howling Bastard."</description>
+  <availability/>
+  <ingredients/>
+  <grains>English 2 row barley and Vienna malt</grains>
+  <grains>English 2 row barley and Vienna malt</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

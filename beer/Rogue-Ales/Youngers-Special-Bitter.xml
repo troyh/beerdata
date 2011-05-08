@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Youngers-Special-Bitter" brewery_id="Rogue-Ales" ibu="35">
+  <name>Younger's Special Bitter</name>
+  <description>A classic English-style special bitter, it has a triad of caramel maltiness, frutiness, and hop bitterness in aroma and flavor and a dry, hoppy finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington, Klages and Crystal 50-60.</grains>
+  <grains>Northwest Harrington, Klages and Crystal 50-60.</grains>
+  <hops>Willamette and Kent Golding.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

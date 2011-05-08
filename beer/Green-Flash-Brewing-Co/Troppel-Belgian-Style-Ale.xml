@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Troppel-Belgian-Style-Ale" brewery_id="Green-Flash-Brewing-Co" abv="9.7" ibu="24">
+  <name>Troppel Belgian Style Ale</name>
+  <description>Rich pale malt flavors provide a solid base for zesty Styrian Golding and Czech Saaz hopping. Trappist ale yeast contributes the fruity, spicy profile of classic, monk-brewed, Belgian ales. Our Trippel is luscious, fiery, golden brew and a contemporary rendition of traditional Belgian Trippel.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Styrian Golding and Czech Saaz</hops>
+  <yeast>Trappist ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

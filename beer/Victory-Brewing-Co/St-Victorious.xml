@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/St-Victorious" brewery_id="Victory-Brewing-Co" abv="7.6">
+  <name>St. Victorious</name>
+  <description>From the tradition started by the monks of St. Francis of Paula in 1634 comes this warming beer of rich heritage. A dark, rich lager of sublime complexity and character, St. Victorious is created from multiple German malts. Laborious decoction mashing yields the choicest elements of the malt. Long, cold aging mellows the strong temperament of this subtle beer. Celebrate the end of winter with a warming draft of St. Victorious Doppelbock!</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains>2 row German malt, including Beech smoked malt</grains>
+  <grains>2 row German malt, including Beech smoked malt</grains>
+  <hops>German whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dark Lager</style>
+  </styles>
+</beer>

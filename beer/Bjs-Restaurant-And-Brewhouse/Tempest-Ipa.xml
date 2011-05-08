@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Tempest-Ipa" brewery_id="Bjs-Restaurant-And-Brewhouse">
+  <name>Tempest IPA</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American IPA</style>
+  </styles>
+</beer>

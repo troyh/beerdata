@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Cascade-Wit" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Cascade Wit</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wit</style>
+  </styles>
+</beer>

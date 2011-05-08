@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Irish-Ale" brewery_id="Boulevard-Brewing-Co" abv="5.8" ibu="28">
+  <name>Irish Ale</name>
+  <description>Irish Ale, Boulevard's spring seasonal beer, is our Midwestern tribute to the legendary red ales of old Ireland. Our recipe combines six kinds of pale and roasted barley malts to provide a rich, toasty flavor and tawny reddish hue.\nSENSORY DESCRIPTION: Better paired with foods that aren't too sweet; medium body goes well with wide range of foods, not overpowering and not easily overpowered. Flavor hooks: toasted or baked flavors</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>Pale, Carapils, Caramunich, Caravienne Aromatic &amp; Chocolate malts.</grains>
+  <grains>Pale, Carapils, Caramunich, Caravienne Aromatic &amp; Chocolate malts.</grains>
+  <hops>Magnum &amp; Saaz hop</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Red Ale</style>
+  </styles>
+</beer>

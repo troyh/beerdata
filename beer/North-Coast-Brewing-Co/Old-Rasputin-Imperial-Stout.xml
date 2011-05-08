@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Old-Rasputin-Imperial-Stout" brewery_id="North-Coast-Brewing-Co" abv="9" ibu="75">
+  <name>Old Rasputin Imperial Stout</name>
+  <description>Produced in the tradition of 18th Century English brewers who supplied the court of Russia's Catherine the Great, Old Rasputin seems to develop a cult following wherever it goes. It's a rich, intense brew with big complex flavors and a warming finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

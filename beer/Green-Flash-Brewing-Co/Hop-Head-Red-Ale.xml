@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Hop-Head-Red-Ale" brewery_id="Green-Flash-Brewing-Co" abv="6" ibu="45">
+  <name>Hop Head Red Ale</name>
+  <description>Resinous hop character and bitterness balance the rich carmel malt base. We took it a step further and Amarillo dry-hopped the brew to 45 ibu's, creating refreshing and savory hop flavors and aromas. Is it red IPA? That's your call.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

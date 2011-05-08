@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Smoked-Porter" brewery_id="Captain-Lawrence-Brewing-Company" ibu="45">
+  <name>Smoked Porter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>english pale, german smoke, german munich, german vienna, english chocolate, english roasted barley</grains>
+  <grains>english pale, german smoke, german munich, german vienna, english chocolate, english roasted barley</grains>
+  <hops>goldings, willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>smoked porter</style>
+  </styles>
+</beer>

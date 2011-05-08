@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Un-Natural-Thrist" brewery_id="Magic-Hat" abv="6.1" ibu="16">
+  <name>Un Natural Thrist</name>
+  <description>A medium bodied amber ale with a crisp, refreshing finish of surprise. Fermented with our ancient strain of top-fermenting yeast. </description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, crystal, wheat, cara, roasted barley</grains>
+  <grains>pale, crystal, wheat, cara, roasted barley</grains>
+  <hops>tettnang, taegrtt, north down</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

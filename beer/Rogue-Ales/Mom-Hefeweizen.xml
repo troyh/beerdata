@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Mom-Hefeweizen" brewery_id="Rogue-Ales" ibu="34">
+  <name>Mom Hefeweizen</name>
+  <description>This Belgian-style blonde ale is an unfiltered fusion of wheat and barley malts, spiced with coriander and ginger.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western Harrington, Klages and Wheat.</grains>
+  <grains>Great Western Harrington, Klages and Wheat.</grains>
+  <hops>Saaz.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

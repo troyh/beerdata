@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Dads-Little-Helper" brewery_id="Rogue-Ales" ibu="25">
+  <name>Dad's Little Helper</name>
+  <description>This ain't your Dad's malt liquor. Brewmaster John Maier has Roguerized the recipe by adding 40% Midwest corn, lightly hopping it with Oregon Crystal Hops, and then lagering it at a warmer temperature to help bring out the sweet, crisp flavors of the corn.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Harrington &amp; Klages.</grains>
+  <grains>Harrington &amp; Klages.</grains>
+  <hops>Crystal.</hops>
+  <yeast>Czech Pils Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Malt liquor</style>
+  </styles>
+</beer>

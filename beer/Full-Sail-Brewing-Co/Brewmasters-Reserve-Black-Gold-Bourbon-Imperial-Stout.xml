@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Black-Gold-Bourbon-Imperial-Stout" brewery_id="Full-Sail-Brewing-Co" abv="10.5" ibu="65">
+  <name>Brewmaster's Reserve: Black Gold Bourbon Imperial Stout</name>
+  <description>A hearty brew that is black as night with a strong roasted malt character and a full body. After its initial release in Febuary 2008, our Imperial Stout was aged for about 10 months in Bourbon casks from Kentucky. This extended aging presents hints vanilla and oak. This, combined with the robust character of the Imperial Stout make for a smooth, wonderful taste experience. A hearty cellar beer. </description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

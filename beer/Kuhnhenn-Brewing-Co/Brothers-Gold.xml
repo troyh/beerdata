@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Brothers-Gold" brewery_id="Kuhnhenn-Brewing-Co" abv="5.5">
+  <name>Brothers Gold</name>
+  <description>A pristine gold ale, Brewed in the traditional style from Cologne, Germany. This ale is meduim bodied and yields a fulfilling head that gives way to it's malty and noble hop aroma. Made from Franconian malted barley and all German hops. Look for it's delectable noble hop flavor, crisp, clean balanced finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>golden Ale</style>
+  </styles>
+</beer>

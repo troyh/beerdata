@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Balboas-Barleywine" brewery_id="Karl-Strauss">
+  <name>Balboa's Barleywine</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine</style>
+  </styles>
+</beer>

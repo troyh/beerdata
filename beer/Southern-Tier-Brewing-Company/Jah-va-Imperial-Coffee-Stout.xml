@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Jah-va-Imperial-Coffee-Stout" brewery_id="Southern-Tier-Brewing-Company" abv="12">
+  <name>jah*va Imperial Coffee Stout</name>
+  <description>Three thousand feet above sea level in the misty mountains of Jamaica, some of the world's finest Arabica beans are hand picked on their way to becoming Blue Mountain Coffee. Halfway around the world, plump spring barley grows to maturity in the loamy soil of North America while aromatic hops are cultivated to exacting standards. Here in our kettles, these three special ingredients are blended to create a heady mixture of sweet sugar, dark roast, and complex flavor. Please enjoy this brew in moderation.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>2 row pale, caramel, chocolate, black, roasted barley</grains>
+  <grains>2 row pale, caramel, chocolate, black, roasted barley</grains>
+  <hops>cascade and columbus</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Coffee stout</style>
+  </styles>
+</beer>

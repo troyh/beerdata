@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Oaktoberfest" brewery_id="Firestone-Walker-Brewing-Company" abv="5.0" ibu="24">
+  <name>Oaktoberfest</name>
+  <description>Oaktoberfest is a true German Marzen bier brewed with premium imported Pilsner and Vienna malts and is spiced with Bavarian hop from the mother land. Light Amber in color, soft malty profile, full bodied lager beer. Fermented with the famous Bavarian Augustiner Lager yeast from Munich. We utilized German Hallertauer Traditions for both bittering and aroma additions adding a rich, noble hop presence to this beer. </description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Weyerman Pilsner Malt, Weyermann and Durst Vienna Malts, Munich, Cara-Hell, Cara-Red</grains>
+  <grains>Weyerman Pilsner Malt, Weyermann and Durst Vienna Malts, Munich, Cara-Hell, Cara-Red</grains>
+  <hops>Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Marzen</style>
+  </styles>
+</beer>

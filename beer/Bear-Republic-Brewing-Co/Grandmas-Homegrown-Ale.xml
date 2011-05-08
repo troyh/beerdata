@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Grandmas-Homegrown-Ale" brewery_id="Bear-Republic-Brewing-Co">
+  <name>Grandma's Homegrown Ale</name>
+  <description>Homegrown hops from Grandma Athena's (Tami's Gramdma's) property are blended with a nice malt bill. Made with fresh Centennial and Cascade hops and styled like a pale ale, this beer is one of a kind!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>centennial and cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

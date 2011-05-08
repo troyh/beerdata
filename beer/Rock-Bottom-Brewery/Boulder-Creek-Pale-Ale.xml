@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Boulder-Creek-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Boulder Creek Pale Ale</name>
+  <description>Copper in color, this brew has a malty sweetness with an extra tang of hops. Try it with something spicy.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

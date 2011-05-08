@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Up-in-smoke-Ale" brewery_id="Bear-Republic-Brewing-Co" abv="5.9">
+  <name>Up-In-Smoke Ale</name>
+  <description>The base style for this ale is similar to that of a pale ale. Its unique flavor profile is derived from the "special" lagering process. A.k.a. "California Common Beer", it's a part of our local brewing history.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pale Ale</style>
+  </styles>
+</beer>

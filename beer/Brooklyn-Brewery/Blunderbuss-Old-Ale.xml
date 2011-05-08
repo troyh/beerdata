@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Blunderbuss-Old-Ale" brewery_id="Brooklyn-Brewery" abv="8.2">
+  <name>Blunderbuss Old Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Old Ale</style>
+  </styles>
+</beer>

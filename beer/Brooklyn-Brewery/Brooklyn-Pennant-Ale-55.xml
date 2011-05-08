@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyn-Pennant-Ale-55" brewery_id="Brooklyn-Brewery" abv="5">
+  <name>Brooklyn Pennant Ale 55</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>British Pale Ale</style>
+  </styles>
+</beer>

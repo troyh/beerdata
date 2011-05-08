@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Gordon-Biersch-Brewing-Company/Blonde-Bock" brewery_id="Gordon-Biersch-Brewing-Company" abv="7">
+  <name>Blonde Bock</name>
+  <description>Blonde Bock is a medium hopped beer with a rich, malty flavor. Made popular in the early 1600s, bock beers were originally brewed by monks to minimize hunger pangs during fasting periods. Most Bock beers are dark in color. Our Gordon Biersch Blonde Bock is golden with a rich creamy head.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bock</style>
+  </styles>
+</beer>

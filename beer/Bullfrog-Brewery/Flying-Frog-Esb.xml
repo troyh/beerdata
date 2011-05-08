@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Flying-Frog-Esb" brewery_id="Bullfrog-Brewery" abv="5.3">
+  <name>Flying Frog ESB</name>
+  <description>This traditional English Extra Special Bitter has a rich, biscuity malt character balanced by a generous dose of East Kent Goldings and Fuggle hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

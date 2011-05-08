@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Christmas-Ale" brewery_id="Goose-Island-Beer-Co" abv="7" ibu="55">
+  <name>Christmas Ale </name>
+  <description>Every year to celebrate the holiday season, we brew up our Christmas Ale, and with each year we change the recipe slightly so that you have something special to look forward to. Traditionally, our Christmas Ale is a complex brown ale that develops well in the bottle for up to five years.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Pale, Extra Special Briess, Dark</grains>
+  <grains>Pale, Extra Special Briess, Dark</grains>
+  <hops>Ahtanum</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>brown ale</style>
+  </styles>
+</beer>

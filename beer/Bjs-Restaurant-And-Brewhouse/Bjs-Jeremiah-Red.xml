@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-Jeremiah-Red" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="7.3" ibu="25">
+  <name>BJ's Jeremiah Red</name>
+  <description>An Irish-style red ale with the full-bodied richness of an English old ale. Brewed with a secret blend of five imported specialty malts. Not too hoppy in order to emphasize the complex malt flavor and fruity aroma.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row pale, munich, belgian, crystal, chocolate</grains>
+  <grains>2-row pale, munich, belgian, crystal, chocolate</grains>
+  <hops>northern brewer</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Red Ale</style>
+  </styles>
+</beer>

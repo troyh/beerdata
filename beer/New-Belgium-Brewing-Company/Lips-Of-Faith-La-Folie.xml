@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-La-Folie" brewery_id="New-Belgium-Brewing-Company">
+  <name>Lips of Faith La Folie</name>
+  <description>La Folie Wood-Aged Biere, is our original wood-conditioned beer, resting in French Oak barrels between one and three years before being hand bottled, numbered and corked for your enjoyment. Brewmaster, Peter Bouckaert, came to us from Rodenbach -- home of the fabled sour red. Our La Folie emulates the spontaneous fermentation beers of Peter's beloved Flanders with sour apple notes, a dry effervescence, and earthy undertones.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Sour Brown Ale</style>
+  </styles>
+</beer>

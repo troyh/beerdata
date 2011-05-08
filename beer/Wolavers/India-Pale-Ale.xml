@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Wolavers/India-Pale-Ale" brewery_id="Wolavers" ibu="55">
+  <name>India Pale Ale</name>
+  <description>Made with a generous amount of hops to produce the classic IPA. Crisp and clean, with a delicious hop spiciness and subtle malt balance. A strong beer, great with spicy foods and for those who enjoy a good, full-flavored, well hopped beer.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

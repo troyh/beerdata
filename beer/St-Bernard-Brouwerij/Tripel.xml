@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="St-Bernard-Brouwerij/Tripel" brewery_id="St-Bernard-Brouwerij" abv="8">
+  <name>Tripel</name>
+  <description>This beer, with high fermentation, has a pale amber colour and a flowery, fruity taste with a harmonious balance between sweet and sour (8% alcohol content). This beer has a thick and vivid froth and strikes by its balanced taste with a delicate bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>tripel</style>
+  </styles>
+</beer>

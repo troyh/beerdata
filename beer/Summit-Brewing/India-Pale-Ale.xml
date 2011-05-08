@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/India-Pale-Ale" brewery_id="Summit-Brewing" abv="6.4" ibu="60">
+  <name>India Pale Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row harrington, caramel, special B</grains>
+  <grains>2-row harrington, caramel, special B</grains>
+  <hops>northern brewer, east kent golding, warrior, us golding</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>india Pale Ale</style>
+  </styles>
+</beer>

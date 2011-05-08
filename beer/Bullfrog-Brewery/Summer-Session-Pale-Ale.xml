@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Summer-Session-Pale-Ale" brewery_id="Bullfrog-Brewery" abv="3.8">
+  <name>Summer Session Pale Ale</name>
+  <description>A creamy, amber colored English-styled ale loaded with East Kent Golding hops, caramelized malt and Maris Otter pale ale malt prized for its biscuity bouquet and hearty flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>maris otter</grains>
+  <grains>maris otter</grains>
+  <hops>east kent goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

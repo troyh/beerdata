@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Windansea-Wheat-Hefeweizen" brewery_id="Karl-Strauss" abv="5.1" ibu="12">
+  <name>Windansea Wheat Hefeweizen</name>
+  <description>n the world of unfiltered wheat beers, what sets Windansea Wheat Hefeweizen apart is perfectly clear. We use a centuries-old pure strain of Bavarian yeast known for producing unique banana, clove, and vanilla flavors during fermentation. A mix of pale barley, white wheat, and Tettnanger hops gives the beer a refreshing taste and no need for an orange or lemon.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

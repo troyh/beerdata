@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Union-Street-Revival-Ale" brewery_id="Harpoon" abv="6.6" ibu="36">
+  <name>Union Street Revival Ale</name>
+  <description>This old brewery favorite is rich in malt flavor with a hoppy aroma. Union Street is unfiltered and has a deep chestnut color. The full body and crisp bitterness make a perfect beer for autumn.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

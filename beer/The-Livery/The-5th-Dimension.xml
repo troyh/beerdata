@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/The-5th-Dimension" brewery_id="The-Livery" abv="9">
+  <name>The 5th Dimension</name>
+  <description>This unique IPA is made with Belgian malt and a blend of Czech, English, German, and American hops. Aged in Merlot casks for 5 months, then blended. Look for a grand reserve coming out in February of 2009.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian IPA</style>
+  </styles>
+</beer>

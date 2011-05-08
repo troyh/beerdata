@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Otter-Kilter" brewery_id="Otter-Creek-Brewing">
+  <name>Otter Kilter</name>
+  <description>Wee Heavy is a traditional Scotch ale. The rich, malty character can be attributed to the native strain of barley known as Golden Promise. This barley is prized by both ale brewers and Scotch whiskey distillers. And it's not hard to see why once you've tried it. Wee Heavy ales feature a rich caramel flavor that is achieved by boiling the wort in the brew kettle for an extra long time. Hops only grow in the southern part of Britain in England, home of the "Sassenachs" the ancient enemy of the Scots. Needless to say hops are used sparingly in Scotch ales. As they say in Scotland, Slainte!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wee Heavy</style>
+  </styles>
+</beer>

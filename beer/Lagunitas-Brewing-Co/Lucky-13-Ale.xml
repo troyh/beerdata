@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Lucky-13-Ale" brewery_id="Lagunitas-Brewing-Co">
+  <name>Lucky 13 Ale</name>
+  <description>Our 13th Birthday Beer was a staff favorite, so we'll do it again - BIG on the hops and dark malts.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

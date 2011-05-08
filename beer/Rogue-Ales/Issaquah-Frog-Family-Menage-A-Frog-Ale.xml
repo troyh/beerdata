@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Issaquah-Frog-Family-Menage-A-Frog-Ale" brewery_id="Rogue-Ales" ibu="30">
+  <name>Issaquah Frog Family: Menage A Frog Ale</name>
+  <description>WBC judges noted Menage A Frog was a "brilliant golden amber color. Inviting aromas of toasty baguette, orange blossom honey, and delicate bubblegum spice follow through on a round entry to a fruity-yet-dry medium-to-full body with caramel pear and peach custard tart notes. Finishes in a bold peppery spice, delicate grassy herbal and citrusy hops, and toffee fade with lingering warming alcohol. Very nice."</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pilsner.</grains>
+  <grains>Pilsner.</grains>
+  <hops>Saaz</hops>
+  <yeast>Belgian Candi Sugar, Water and Abbey Yeast.</yeast>
+  <otherings/>
+  <styles>
+    <style>Belgian Style Tripel Ale</style>
+  </styles>
+</beer>

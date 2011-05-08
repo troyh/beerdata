@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Cup-A-Joe-Coffee-Creme-Stout" brewery_id="Shorts-Brewing-Company">
+  <name>Cup A Joe Coffee Creme Stout</name>
+  <description>Deep aromatics of malt, sweet espresso and roasted cocoa. Flavor is robust with big malt character covered with cream and coffee. It's everyone's favorite coffee stout.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

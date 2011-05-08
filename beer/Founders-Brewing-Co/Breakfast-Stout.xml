@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Breakfast-Stout" brewery_id="Founders-Brewing-Co" abv="8.3" ibu="60">
+  <name>Breakfast Stout</name>
+  <description>The coffee lovers consummate beer. Brewed with an abundance of flaked oats, bitter and imported chocolates, Sumatra and Kona coffee, this stout has an intense fresh roasted java nose topped with a cinnamon colored frothy head that goes forever.</description>
+  <availability>falll</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="J-w-Dundee/Amber-Lager" brewery_id="J-w-Dundee">
+  <name>Amber Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

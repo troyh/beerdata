@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Little-Kings/Cream-Ale" brewery_id="Little-Kings">
+  <name>Cream Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Cream</style>
+  </styles>
+</beer>

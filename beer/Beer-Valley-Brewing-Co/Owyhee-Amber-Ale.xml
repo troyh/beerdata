@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Beer-Valley-Brewing-Co/Owyhee-Amber-Ale" brewery_id="Beer-Valley-Brewing-Co">
+  <name>Owyhee Amber Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Amber</style>
+  </styles>
+</beer>

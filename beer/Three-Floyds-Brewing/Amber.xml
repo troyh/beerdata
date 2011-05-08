@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Amber" brewery_id="Three-Floyds-Brewing" abv="4.5" ibu="17">
+  <name>Amber</name>
+  <description>Amber is a Munich style lager brewed with crystal malt and Perle hops. It has a smooth, malty, slightly caramel flavor and a rich amber color. Abita Amber was the first beer offered by the brewery and continues to be our leading seller. Amber is Abita's most versatile beer for pairing with food. It has been voted "best beer" in numerous New Orleans reader polls and is used frequently in recipes of great Louisiana chefs.\nBecause of its smooth, malty flavor, try it with smoked sausages, Louisiana boudin, or even with caviar. It's great with crawfish and Cajun food. You might also enjoy it paired with a spicy gumbo or tomato-based pasta sauce. It goes well also with fried catfish dipped in a tart, lemony tartar sauce. Parmesan, Pecorino and Romano cheeses are good pairings with Abita Amber.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Munich Lager</style>
+  </styles>
+</beer>

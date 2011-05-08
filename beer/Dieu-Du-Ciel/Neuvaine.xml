@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Neuvaine" brewery_id="Dieu-Du-Ciel" abv="8">
+  <name>NEUVAINE</name>
+  <description>Neuvaine is a very special beer created to highlight the pronounced bitterness of absinth. It is amber in color, lightly sweet and with just a hint of hops. However, the absinth (we're talking here about the plant, and not the liquor!) added during the boil brings an extreme bitterness to the beer. Fennel was also added to tentatively balance the flavours, and also to recall the mythic liquor made with absinth. Neuvaine is without a doubt the most bitter beer we ever brewed!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>absinth beer</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Golden-Delicious" brewery_id="Captain-Lawrence-Brewing-Company">
+  <name>Golden Delicious</name>
+  <description/>
+  <availability>falll</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Trippel Ale</style>
+  </styles>
+</beer>

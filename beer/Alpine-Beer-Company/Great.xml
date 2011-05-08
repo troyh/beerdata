@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Great" brewery_id="Alpine-Beer-Company">
+  <name>Great</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Whisky barrel aged barleywin</style>
+  </styles>
+</beer>

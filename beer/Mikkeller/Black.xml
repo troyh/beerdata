@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Black" brewery_id="Mikkeller" abv="17.5">
+  <name>Black</name>
+  <description>The strongest beer in Scandinavia. This imperial stout is the craziest, wildest, strongest beer from Mikkeller to this date. Not for sissies.......! Sample it fresh or store it for many meny years to come!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial Stout</style>
+  </styles>
+</beer>

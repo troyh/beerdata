@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/White-Horse-Porter" brewery_id="Selins-Grove-Brewing-Company">
+  <name>White Horse Porter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

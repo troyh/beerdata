@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oggies-Pizza-Brewing-Co/Sweet-Spot-Hefe" brewery_id="Oggies-Pizza-Brewing-Co">
+  <name>Sweet Spot Hefe</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

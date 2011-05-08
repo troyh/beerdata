@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Chicago-Gold" brewery_id="Rock-Bottom-Brewery">
+  <name>Chicago Gold</name>
+  <description>This American-style Pale Ale combines the smooth flavor of pale malt with a touch of crystal and Munich malts. Generous portions of Pacific Northwest hops are then added to create a citrus flavor and floral finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

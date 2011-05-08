@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Cellar-Dweller" brewery_id="Great-Lakes-Brewing-Co" abv="5" ibu="45">
+  <name>Cellar Dweller</name>
+  <description>Light, crisp German Ale with a noble hop presence.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

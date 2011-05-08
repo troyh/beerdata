@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Santa-Fe/Wheat" brewery_id="Santa-Fe">
+  <name>Wheat</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bavarian Wheat</style>
+  </styles>
+</beer>

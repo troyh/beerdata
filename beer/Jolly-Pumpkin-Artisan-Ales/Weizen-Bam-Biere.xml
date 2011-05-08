@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Jolly-Pumpkin-Artisan-Ales/Weizen-Bam-Biere" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="4.5">
+  <name>Weizen Bam Biere</name>
+  <description>Ruddy golden, with yeast driven esters of banana, spicy clove, and nutmeg all wrapped up with a generous dose of rapscillion delight.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat</style>
+  </styles>
+</beer>

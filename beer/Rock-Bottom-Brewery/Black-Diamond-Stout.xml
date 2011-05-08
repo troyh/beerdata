@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Black-Diamond-Stout" brewery_id="Rock-Bottom-Brewery">
+  <name>Black Diamond Stout</name>
+  <description>Brewed in the tradition of the dry Irish stout, this beer is full on flavors. Roasted malts impart a toasted flavor, with hints of coffee, chocolate and licorice.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

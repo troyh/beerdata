@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Evil-Dead-Red" brewery_id="Alesmith-Brewing-Co" abv="6.66">
+  <name>Evil Dead Red</name>
+  <description>Halloween is time for our annual Evil Dead Red specialty brew (available on draft only). Vivid mahogany color, good head formation and retention. Rich, chewy, toasty, malty flavors perfectly balanced by a moderate hoppy bitterness.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

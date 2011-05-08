@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Irish-Red-Ale" brewery_id="Saranac" abv="4.5">
+  <name>Irish Red Ale</name>
+  <description>Irish Reds get their deep garnet color from carefully selected batches of 2 row malts that are specially kilned to develop their sugars and then roasted to produce the wonderful, caramel and toffee notes that accompany the rich color. You'll find the complexity and drinkability of Saranac Irish Red to be second to none. </description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains>2 row, Crystal</grains>
+  <grains>2 row, Crystal</grains>
+  <hops>vanguard</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Red Ale</style>
+  </styles>
+</beer>

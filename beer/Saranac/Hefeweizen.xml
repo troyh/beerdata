@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Hefeweizen" brewery_id="Saranac" abv="5.6">
+  <name>Hefeweizen</name>
+  <description>his traditional style German Wheat beer (pronounced) Hah-fuh-vite-zen) remains unfiltered to preserve it's natural smooth flavor and aroma. Don't be alarmed by its cloudy appearance or noticeable sediment. The slight banana and clove aroma comes from the authentic German Hefeweizen yeast. It has a light refreshing finish.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>german pilsner, wheat</grains>
+  <grains>german pilsner, wheat</grains>
+  <hops>german perle, wheat</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>german Hefeweizen</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/India-Pale-Lager" brewery_id="Karl-Strauss" abv="7.8" ibu="65">
+  <name>India Pale Lager</name>
+  <description>You read that right. This experimental beer was brewed like an IPA with Continental hops, but with lager yeast instead of ale yeast. The result is dry and crisp like a lager, but flowery and earthy like a hoppy ale.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

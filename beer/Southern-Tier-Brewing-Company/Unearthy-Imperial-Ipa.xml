@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Unearthy-Imperial-Ipa" brewery_id="Southern-Tier-Brewing-Company" abv="11">
+  <name>unearthy imperial IPA</name>
+  <description>At the Southern Tier Brewing Company, vigorously hopped beer is our standard and inspiration. We continue a commitment to innovation with our most aggressive offering yet. Unearthly is a manifestation of the brewer's craft; skillfully balancing art and the forces of nature to produce a divine liquid. Delicately pour a taste into a fluted glass. Smell the enchanting aromas of the hops waft forward as your first sip divulges this beer's fervent soul. To underestimate Unearthly is to trifle with the mysteries of the universe, so please consume wisely.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial IPA</style>
+  </styles>
+</beer>

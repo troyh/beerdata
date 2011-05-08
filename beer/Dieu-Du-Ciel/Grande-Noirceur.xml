@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Grande-Noirceur" brewery_id="Dieu-Du-Ciel" abv="9">
+  <name>GRANDE NOIRCEUR</name>
+  <description>The Grande Noirceur is an intensely black and dense beer with pronounced roasted flavours. The bitterness is very imposing but is balanced by a malty-caramel taste. The alcohol content is quite high, but its presence remains discrete in this beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial stout</style>
+  </styles>
+</beer>

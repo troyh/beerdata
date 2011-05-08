@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/The-Trip-2-with-Elysian-Brewing" brewery_id="New-Belgium-Brewing-Company" abv="6.5" ibu="55">
+  <name>The Trip 2 (with Elysian Brewing)</name>
+  <description>The second collaboration between New Belgium Brewing and Elysian Brewing, Trip 2, is a deep, golden ale generously hopped with Magnum and the seldom-used Citra hop, which produces flavors of grapefruit, peach and passion fruit. Spiced with lemongrass and grains of paradise, Trip 2 is fermented with a Belgian yeast strain for a hop-forward ale and swirling fruit undertones. What's this Trip about? Described as an artisanal collaboration, New Belgium and Elysian have agreed to let their brewing teams use each other's brewhouses while remaining independent enterprises. By coming together, New Belgium and Elysian have the ability to increase efficiency, encourage creative experimentation, and take a bold collaborative step into the future of American craft brewing. The Trip beers will only be available on draft in the Northwest.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

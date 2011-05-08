@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Island-Wheat" brewery_id="Capital-Brewery" abv="4.2">
+  <name>Island Wheat</name>
+  <description>An American Style Wheat Ale brewed with wheat grown on Wisconsin's famous Washington Island. Bring a special part of Wisconsin to any occasion with this brew.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Old-English-Porter" brewery_id="New-Glarus-Brewing-Company" abv="5.5">
+  <name>Unplugged Old English Porter</name>
+  <description>A few times a year we will cut Dan loose to brew whatever he chooses, uncensored, uncut, unplugged. Always handcrafted, the bottle you hold is brewed for the adventurous soul. This is a very limited edition and we make no promises to ever brew this style again. \nThis beer was inspired by the writings of Graham Wheeler, a noted English Beer Historian. \nMr. Wheeler describes the original Porters as: \n"... the least understood of the old British beers. The subject (of the Porter Beer Style) is complicated and confused because porter's heyday lasted from about 1700 to the pale ale revolution of the mid 1800's. During that time it passed through many transformations. Porter was simply a mixture of two brown beers. The only characteristic that set the porter apart from any other beer of the day was that porter was deliberately soured by adding a percentage of sour beer to freshly brewed beer. The original porters were not, as is commonly supposed, jet-black in colour, but a translucent brown. They had a rich, smoky flavor derived from the use of brown malt and a winey aftertang produced by the deliberate souring, highly regarded by Londoners." \nOur interpretation is a Brown Porter based on the style popular in 1870's London. It was brewed with mostly floor malted English malts including the famed pale ale malt, Maris Otter. A touch of smoked malt produced by Briess Malting Company of Chilton Wisconsin was also used. Half of the batch went through a souring fermentation, in the traditional way, to promote the characteristic wine-like acidity. Lastly the beer was aged on wood to extract sweetness from toasted oak.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Porter</style>
+  </styles>
+</beer>

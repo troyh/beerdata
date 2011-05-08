@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Raptor-Red" brewery_id="Rock-Bottom-Brewery">
+  <name>Raptor Red</name>
+  <description>This medium-bodied, full flavored brew exhibits light toffee flavors and a sweet malty character. The addition of Goldings hops adds just a touch of hoppiness in the finish to balance out this favored session beer.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

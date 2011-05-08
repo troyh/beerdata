@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Heavy-Weizen-Imperial-Unfiltered-Wheat-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="8">
+  <name>heavy weizen Imperial Unfiltered Wheat Ale</name>
+  <description>Heavy Weizen explores the inner depths of creativity and craftsmanship, taking a style of ale that is delicate and quaffable and shaping it into something exuberant and sturdy. The foundation of Heavy Weizen begins with prodigious quantities of North American malted barley and wheat. Next, the finest European hops are added to complement this ale's unique disposition by giving it spicy aromas. Its spirit is forged during fermentation where our Bavarian weizen yeast consumes sugars and creates flavors reminiscent of bananas and cloves. then by aging this ale, we allow the divergent characteristics to blend together, becoming one. To capture Heavy Weizen's spirit, this wheat ale remains unfiltered to leave some of the yeast in the bottle. Serving this ale with a wedge of lemon is recommended, but optional.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial wheat ale</style>
+  </styles>
+</beer>

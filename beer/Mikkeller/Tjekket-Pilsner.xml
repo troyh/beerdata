@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Tjekket-Pilsner" brewery_id="Mikkeller" abv="6.9">
+  <name>Tjekket Pilsner</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pilsner, munich, and cara-pils</grains>
+  <grains>pilsner, munich, and cara-pils</grains>
+  <hops>saaz.</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

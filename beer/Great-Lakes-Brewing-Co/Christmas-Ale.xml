@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Christmas-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="7.5" ibu="40">
+  <name>Christmas Ale</name>
+  <description>A holiday ale brewed with honey and spiced with fresh ginger and cinnamon.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Holiday Ale</style>
+  </styles>
+</beer>

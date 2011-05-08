@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smithwicks/Ale" brewery_id="Smithwicks">
+  <name>Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Irish</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Apricot-Wheat" brewery_id="Minneapolis-Town-Hall-Brewery" abv="5.5">
+  <name>Apricot Wheat</name>
+  <description>A light American wheat beer infused with natural apricot extract.  Crisp and refreshing, perfect for the patio season at Town Hall.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat</style>
+  </styles>
+</beer>

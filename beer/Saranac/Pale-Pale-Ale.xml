@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Pale-Pale-Ale" brewery_id="Saranac" abv="4.7">
+  <name>Pale Pale Ale</name>
+  <description>Finally a Pale Ale true to it's name! We've created a crisp, hoppy Pale Ale that is truly pale in color without sacrificing the hop character and malt balance you expect in an American Pale Ale. We've selected citrusy centennial hops balance by the background nuttiness of Maris Otter Malt. We think you'll find this the most refreshing Pale Ale you've ever had.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Marris Otter</grains>
+  <grains>Marris Otter</grains>
+  <hops>Centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

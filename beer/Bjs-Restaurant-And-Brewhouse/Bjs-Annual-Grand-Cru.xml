@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-Annual-Grand-Cru" brewery_id="Bjs-Restaurant-And-Brewhouse">
+  <name>BJ's Annual Grand Cru</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Pale Strong Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Grandsun-Of-Spot-Ipa" brewery_id="Full-Sail-Brewing-Co" abv="6" ibu="100">
+  <name>Brewmaster's Reserve: Grandsun of Spot IPA</name>
+  <description>The next beer in our summer ""sun"" series that began with Sunspot IPA. This beer is brewed in the aggressive IPA style with Columbus hops accentuating a malt blend featuring Munich and Honey malts for full malt flavor.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Columbus, Munich, Honey</grains>
+  <grains>Columbus, Munich, Honey</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

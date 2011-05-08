@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Staghorn-Octoberfest" brewery_id="New-Glarus-Brewing-Company" abv="6.25">
+  <name>Staghorn Octoberfest</name>
+  <description>100% Natural - Great Midwest barleys, the world's most expensive hops, fresh yeast from Germany, and clear Wisconsin water make our Staghorn Octoberfest "Wisconsin's Real Red." You will find absolutely no additives, preservatives, or artificial agents of any kind in this bier. \nBrewed using the time honored methods and an extra slow lager to release the smooth flavor of our roasted malts. Over 1,100 lbs. of malted barley in every handcrafted batch! \nExpect this bier to pour with a rich head of foam that will enhance its incredible spice bouquet. Staghorn Octoberfest combines a smooth amber body with a clean crisp finish. Be sure to hold this one up to the light of any harvest moon and enjoy "Wisconsin's Real Red."</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Octoberfest</style>
+  </styles>
+</beer>

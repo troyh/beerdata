@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Ruby" brewery_id="Mcmenamins" abv="4.39">
+  <name>Ruby</name>
+  <description>In 1986, McMenamins first used fruit in the creation of its ales. While many other breweries have followed suit, we still make this Ruby exactly as we first did: Light, crisp and refreshingly fruity. 42 pounds of Oregon-grown and processed raspberry puree are used in every batch. Taste the original!</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>pale malt</grains>
+  <grains>pale malt</grains>
+  <hops>varies</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

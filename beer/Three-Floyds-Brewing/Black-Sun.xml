@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Black-Sun" brewery_id="Three-Floyds-Brewing" abv="6.5" ibu="50">
+  <name>Black Sun</name>
+  <description/>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

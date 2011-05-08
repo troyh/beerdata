@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Bi-re-Officielle-Du-14e-Mondial-De-La-Bi-re" brewery_id="Dieu-Du-Ciel" abv="9">
+  <name>BI&#xE9;RE OFFICIELLE DU 14E MONDIAL DE LA BI&#xE9;RE</name>
+  <description>The Imperial Cream Ale is not really a style unto itself. It was created by Dieu du Ciel specifically for the 14th annual Mondial beer festival in Montreal. It is actually a hybrid between an Irish Cream Ale and an Imperial Pale Ale (or Double IPA). The beer is an amber ale with strong flavours of caramel malt as well as a fruity taste typically produced with English yeast. The Imperial side of the coin makes it boldly bitter, both in aroma and taste, due in part to the dry hopping as well as the high alcohol content (9%). The presence of the alcohol, although discrete, brings out the other flavours to make it a complex and full bodied beer, without loosing any of its balance. Like a true Irish Cream Ale, it is conditioned with a mixture of nitrogen and carbon dioxide, giving it less effervescence but a smooth, long lasting head.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial cream ale</style>
+  </styles>
+</beer>

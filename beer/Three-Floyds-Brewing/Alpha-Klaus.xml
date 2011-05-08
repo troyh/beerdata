@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Alpha-Klaus" brewery_id="Three-Floyds-Brewing" abv="6" ibu="38">
+  <name>Alpha Klaus</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Christmas Porter</style>
+  </styles>
+</beer>

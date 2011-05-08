@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/The-Trip-Trippel-Ipa-with-Elysian-Brewing" brewery_id="New-Belgium-Brewing-Company">
+  <name>The Trip Trippel IPA (with Elysian Brewing)</name>
+  <description>Bringing together what we both do best, New Belgium and Elysian's brewmasters create a Belgian-inspired India Pale Ale. Hop-forward with a Belgian strong yeast, this Trippel IPA opens with citrus and floral tones from generous hopping, then gives way to soft peachy notes implied by the yeast. What's this Trip about? An artisinal collaboration, New Belgium and Elysian are brewing limited small batches together. We've described this new adventure as The Trip, and each beer we release will fall under this brand. By joining, we have the ability to increase efficiency, encourage creative experimentation, and take a bold step into the future of American craft brewing.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Trippel IPA</style>
+  </styles>
+</beer>

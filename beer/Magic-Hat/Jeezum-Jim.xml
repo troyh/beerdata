@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Jeezum-Jim" brewery_id="Magic-Hat" abv="10.5" ibu="retired">
+  <name>Jeezum Jim</name>
+  <description/>
+  <availability/>
+  <ingredients>maris otter pale, chocolate</ingredients>
+  <grains>english challenger, fuggles</grains>
+  <grains>english challenger, fuggles</grains>
+  <hops>english Ale</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

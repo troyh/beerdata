@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/El-Hefe" brewery_id="Bullfrog-Brewery" abv="5.8">
+  <name>El Hefe</name>
+  <description>This Bavarian-styled Hefeweizen combines the flavors of banana, clove, bubblegum and citrus in a wonderfully refreshing summertime ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen </style>
+  </styles>
+</beer>

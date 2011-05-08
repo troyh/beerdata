@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Apple-Ale" brewery_id="New-Glarus-Brewing-Company">
+  <name>Unplugged Apple Ale</name>
+  <description>Apple Ale sings with the fresh crisp taste of Wisconsin Apples. Our Brewmaster begins with a brown ale base employing Wisconsin farmed wheat and a blend of Cortland, Macintosh and Jonathan apples. Our apple growing friends squeeze them especially for this brew. Expect this Ale to pour a beautiful copper color. The fresh bouquet of Apple will rise to meet you even before the glass touches your lips. So be sure to sip slowly and enjoy the fruits of a Wisconsin harvest.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

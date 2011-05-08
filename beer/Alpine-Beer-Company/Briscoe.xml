@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Briscoe" brewery_id="Alpine-Beer-Company">
+  <name>Briscoe </name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Lambic</style>
+  </styles>
+</beer>

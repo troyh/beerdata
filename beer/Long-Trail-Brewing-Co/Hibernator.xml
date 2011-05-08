@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Hibernator" brewery_id="Long-Trail-Brewing-Co" abv="6" ibu="25">
+  <name>Hibernator</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Unfiltered Scottish Ale</style>
+  </styles>
+</beer>

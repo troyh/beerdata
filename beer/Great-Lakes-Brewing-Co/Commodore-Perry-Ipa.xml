@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Commodore-Perry-Ipa" brewery_id="Great-Lakes-Brewing-Co" abv="7.5" ibu="80">
+  <name>Commodore Perry IPA</name>
+  <description>A medium-bodied and well hopped India Pale Ale with a dry, fruity aftertaste. This monumental India Pale Ale honors the hero from The War of 1812 who battled the enemy on Lake Erie</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

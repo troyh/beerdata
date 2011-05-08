@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/North-Star-Amber" brewery_id="Rock-Bottom-Brewery">
+  <name>North Star Amber</name>
+  <description>Medium-bodied and incredibly drinkable. This copper ale is highlighted by slight caramel notes and a subtle hop profile. Balanced and delicious</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

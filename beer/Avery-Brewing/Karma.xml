@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Karma" brewery_id="Avery-Brewing" abv="5.2" ibu="10">
+  <name>Karma</name>
+  <description>We believe in Karma. We suspect most of you do, too. It truly is a global concept. Very simply put, "you get what you give." Inspired by this principle and the wonderful farmhouse and pale ales of Belgium, we've created Karma Ale, a decidedly fruity and estery ale, intricate in body and nose, all driven by a unique Belgian yeast strain. Remember, good things DO happen to good people. Here's to being good!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Two-row barley, Belgian special B, cara 45, aromatic</grains>
+  <grains>Two-row barley, Belgian special B, cara 45, aromatic</grains>
+  <hops>Sterling</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

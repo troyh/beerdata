@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Black-Chocolate-Stout" brewery_id="Brooklyn-Brewery" abv="10.1">
+  <name>Black Chocolate Stout</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Cerveza-Cacao" brewery_id="Otter-Creek-Brewing">
+  <name>Cerveza Cacao</name>
+  <description>Cerveza Cacao isa golden ale brewed with cocoa, vanilla, and cinnamon; inspired by the ancient Aztec drink: xocolatl (pronounced chocolatal). Montezuma supposedly drank 50 cups per day, and thousands of years later Mexicans are still drinking it. Theobroma cacao, the botanical name for the cacao plant, means Food of the Gods- what better ingredient to brew with? And what better beer to celebrate National Beer and Chocolate Week (Feb 13-17) ? Not to mention Valentine's Day.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

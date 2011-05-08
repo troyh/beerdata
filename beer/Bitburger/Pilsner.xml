@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bitburger/Pilsner" brewery_id="Bitburger">
+  <name>Pilsner</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

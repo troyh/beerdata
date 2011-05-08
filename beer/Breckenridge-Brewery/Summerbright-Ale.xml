@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Summerbright-Ale" brewery_id="Breckenridge-Brewery" abv="4.5" ibu="15">
+  <name>Summerbright Ale</name>
+  <description>The brewmaster's goal: the perfect ale for summertime quaffing, nothing more. Breck Brew's SummerBright is the result. The craftsman's touch combines white wheat, two row pale and munich malt with the pacific northwest's most intriguing hops to create a bright, clean ale ideal for picnicking, evenings on the screen porch and enjoying the whims of the summer breeze.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>Two-row Pale, White Wheat Malt, Carapils Malt, Munich</grains>
+  <grains>Two-row Pale, White Wheat Malt, Carapils Malt, Munich</grains>
+  <hops>Fuggles, Cascade, Willamette</hops>
+  <yeast>Top Fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale with Fruit</style>
+  </styles>
+</beer>

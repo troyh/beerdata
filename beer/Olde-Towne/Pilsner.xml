@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Olde-Towne/Pilsner" brewery_id="Olde-Towne" ibu="year-round">
+  <name>Pilsner</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

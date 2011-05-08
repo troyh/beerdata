@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Coopers/Sparkling-Ale" brewery_id="Coopers">
+  <name>Sparkling Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

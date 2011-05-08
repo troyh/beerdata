@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Cave-Creek/Chili-Beer" brewery_id="Cave-Creek">
+  <name>Chili Beer</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

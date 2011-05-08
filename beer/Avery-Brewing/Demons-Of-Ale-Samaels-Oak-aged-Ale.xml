@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Demons-Of-Ale-Samaels-Oak-aged-Ale" brewery_id="Avery-Brewing" abv="14.5" ibu="41">
+  <name>Demons of Ale: Samael's Oak-aged Ale</name>
+  <description>Samael's Ale is a super-caramelly, oak aged English-style strong ale. Perhaps the least hoppy (sacrilege here at Avery!!) beer we've brewed, to accentuate the malt. The oak is very apparent in this rich and high gravity ale, adding additional depth and complexity with a woody and cask-like nose and a pronounced vanilla flavor on the palate. Notes for 2007 - With the addition of an additional roasted malt, Samael's now delivers subtle bitterness to add balance to the natural sweetness.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, caramel 150L</grains>
+  <grains>Two-row barley, caramel 150L</grains>
+  <hops>Columbus, Fuggels</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oak Aged English Strong Ale</style>
+  </styles>
+</beer>

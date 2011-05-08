@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Yulesmith-Holiday-Winter-Ale" brewery_id="Alesmith-Brewing-Co" abv="9.5">
+  <name>Yulesmith Holiday Winter Ale</name>
+  <description>Our most popular seasonal ale, YuleSmith is brewed twice a year in two different, yet similar, styles: An Imperial / Double IPA and an Imperial / Double Red Ale. For the winter season, YuleSmith is brewed as an Imperial Red Ale. This version is maltier, more balanced, and darker in color than the summer version. Although quite malty, big hop flavors and aromas are abundant making this an unforgettable winter warmer. Winter YuleSmith is packaged in traditional holiday red and green. </description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Red Ale</style>
+  </styles>
+</beer>

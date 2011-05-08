@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Santa-s-Private-Reserve" brewery_id="Rogue-Ales" ibu="44">
+  <name>Santa;s Private Reserve</name>
+  <description>A double-hopped Red, reddish in color, with a roasty, malty flavor and a hoppy spruce finish.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>Great Western Harrington, Klages, Munich &amp; Hugh Baird Carastan 30-37 &amp; 13-17, Crystal 70-80.</grains>
+  <grains>Great Western Harrington, Klages, Munich &amp; Hugh Baird Carastan 30-37 &amp; 13-17, Crystal 70-80.</grains>
+  <hops>Chinook &amp; Centennial.</hops>
+  <yeast>Rogue's Pacman Yeast and Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

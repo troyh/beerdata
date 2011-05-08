@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyn-Winter-Ale" brewery_id="Brooklyn-Brewery" abv="6">
+  <name>Brooklyn Winter Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scottish Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Double-Bastard-Ale" brewery_id="Stone-Brewing-Co" abv="10.5" ibu="100+">
+  <name>Double Bastard Ale</name>
+  <description>Don't ask to be pinched, you're not dreaming. But when you taste this lacerative mutha of a beer, you'll be knocked into dreamland! This malt &amp; hop monster is not for the timid however, so beware.</description>
+  <availability>Winter 2009</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

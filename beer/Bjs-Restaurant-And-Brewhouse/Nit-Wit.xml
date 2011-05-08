@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Nit-Wit" brewery_id="Bjs-Restaurant-And-Brewhouse">
+  <name>Nit Wit</name>
+  <description/>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Witbier</style>
+  </styles>
+</beer>

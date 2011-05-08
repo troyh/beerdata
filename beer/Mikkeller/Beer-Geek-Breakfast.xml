@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Beer-Geek-Breakfast" brewery_id="Mikkeller" abv="7.5">
+  <name>Beer Geek Breakfast</name>
+  <description>Breakfast is the most important meal of the day, many say, and if you are a beer geek there is no better way to start the day than with a powerful, complex morning stout. The unique mix of oats and coffee gives this beer large body and power, while the coffee, at the same time, creates a nice balance.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pils, at, smoked, caramunich, brown, pale chocolate, and chocolate</grains>
+  <grains>pils, at, smoked, caramunich, brown, pale chocolate, and chocolate</grains>
+  <hops>centennial and cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>oatmeal Stout</style>
+  </styles>
+</beer>

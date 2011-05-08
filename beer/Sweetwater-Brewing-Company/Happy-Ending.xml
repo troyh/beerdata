@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Happy-Ending" brewery_id="Sweetwater-Brewing-Company" abv="9">
+  <name>Happy Ending</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

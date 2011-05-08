@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Crooked-Tree-Ipa" brewery_id="Dark-Horse-Brewing-Company" abv="6">
+  <name>Crooked Tree IPA</name>
+  <description>Inspired by West Coast I.P.A.'s, but brewed with Michigan style. The Crooked Tree is heavily dry hopped to give it a big aroma of pine and citrus. The flavors are big, yet very balanced between fresh hops and malt. Often described as "grapefruit" our hops give this beer an excellent fruit flavor that finishes dry, crisp, and clean. It will pour a nice deep copper color with a bit of haziness. Because of our almost patented "Intense Transfer Methods" our Crooked Tree has won several medals in the India Pale Ale category</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

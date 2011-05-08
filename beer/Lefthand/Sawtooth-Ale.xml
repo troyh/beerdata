@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lefthand/Sawtooth-Ale" brewery_id="Lefthand" ibu="year-round">
+  <name>Sawtooth ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

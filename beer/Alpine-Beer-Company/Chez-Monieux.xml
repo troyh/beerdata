@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Chez-Monieux" brewery_id="Alpine-Beer-Company">
+  <name>Chez Monieux</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Kriek</style>
+  </styles>
+</beer>

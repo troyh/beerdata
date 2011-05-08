@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Meltdown-Double-Ipa" brewery_id="Midnight-Sun-Brewing-Company" abv="8" ibu="80">
+  <name>Meltdown Double IPA</name>
+  <description>The days are long but the season is short. So what gives? Sleep! After doing more before midnight than most Outsiders do in a week, Alaskans deserve some down time. And these moments of relaxation demand more than that ordinary, non-distinct lawn mower beer. Celebrate a day well done with a beer done well--a seriously delicious IPA with some scorchin' hops.Our new seasonal double IPA is designed to keep you incredibly hopped up spring through summer.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double IPA</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Beer-Valley-Brewing-Co/Leafer-Madness-Imperial-Pale-Ale" brewery_id="Beer-Valley-Brewing-Co">
+  <name>Leafer Madness Imperial Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

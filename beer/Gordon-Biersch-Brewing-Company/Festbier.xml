@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Gordon-Biersch-Brewing-Company/Festbier" brewery_id="Gordon-Biersch-Brewing-Company">
+  <name>Festbier</name>
+  <description>Gordon Biersch FestBier celebrates fall and the flavor profile of beers served at the modern-day Oktoberfest. FestBier emphasizes rich, malty undertones with a moderately hoppy finish. The maltiness is created via combination of dark- roasted, Munich-style malt and Pilsner malt. The hoppy aroma is achieved via the imported Hallertau aroma hops.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

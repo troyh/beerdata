@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Snowshoe-Red-Ale" brewery_id="New-Glarus-Brewing-Company" abv="5.35">
+  <name>Snowshoe Red Ale</name>
+  <description>Settle in with Wisconsin's Snowshoe Ale. This beer is brewed with a blend of American and German malts. A complicated decoction mash process ensures a rich malty flavor. We also infuse generous amounts of Yakima Golding and Bavarian Hallertau Hops to add a special note of warmth for your winter evening's enjoyment. \nExpect this beer to be a beautiful copper-red, with a fruity ale body and a spiced hop finish. Then sit back and rejoice in the season because it's these Wisconsin winters that keep the whiners out.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

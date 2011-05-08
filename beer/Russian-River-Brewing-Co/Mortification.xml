@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Mortification" brewery_id="Russian-River-Brewing-Co" abv="11">
+  <name>Mortification</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Quadruple Ale</style>
+  </styles>
+</beer>

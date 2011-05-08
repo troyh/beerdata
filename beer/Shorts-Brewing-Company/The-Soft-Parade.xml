@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/The-Soft-Parade" brewery_id="Shorts-Brewing-Company">
+  <name>The Soft Parade</name>
+  <description>A fermented potion we call fruit rye ale. This gourmet specialty is engineered of toasted rye flakes and two row malted barley. These ingredients make a beer that we ferment with freshly pureed strawberries, blueberries, raspberries and blackberries. The result is a sweet effervescent fruit delicacy most notable for its alluring color and drink ability.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>rye ale</style>
+  </styles>
+</beer>

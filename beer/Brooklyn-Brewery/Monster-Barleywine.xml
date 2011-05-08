@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Monster-Barleywine" brewery_id="Brooklyn-Brewery" abv="10.8">
+  <name>Monster Barleywine</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>barley wine</style>
+  </styles>
+</beer>

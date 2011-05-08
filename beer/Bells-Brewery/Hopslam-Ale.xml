@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Hopslam-Ale" brewery_id="Bells-Brewery" abv="10">
+  <name>Hopslam Ale</name>
+  <description>A biting, bitter, tongue bruiser of an ale. With a name like Hopslam, what did you expect?</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

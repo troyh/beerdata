@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Oregon-Golden-Ale" brewery_id="Rogue-Ales" ibu="35">
+  <name>Oregon Golden Ale</name>
+  <description>Deep gold in color, rich malty aroma, delicately smooth and crisp with an herbal hop finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington, Klages &amp; Maier Munich.</grains>
+  <grains>Northwest Harrington, Klages &amp; Maier Munich.</grains>
+  <hops>Cascade and Willamette.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

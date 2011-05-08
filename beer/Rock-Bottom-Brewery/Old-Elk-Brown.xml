@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Old-Elk-Brown" brewery_id="Rock-Bottom-Brewery">
+  <name>Old Elk Brown </name>
+  <description>Old Elk's deep brown color belies its carmel, roasty ?character. Smooth and malty, full-bodied and somewhat sweet, this is the ultimate complement to a well-prepared steak or chop.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

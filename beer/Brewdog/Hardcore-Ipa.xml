@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brewdog/Hardcore-Ipa" brewery_id="Brewdog" abv="9" ibu="150">
+  <name>Hardcore IPA</name>
+  <description>This little bottle has a grandiloquent story to tell. 2,204 malted Maris Otter grains gave all they had to offer the world to provide the robustly delicate toffee malt canvas for the ensuing epic. 6 Hop Cones willingly sacrificed themselves in fiery cauldron that is our brew kettle to ensure your mouth is left feeling punished and puckering for more.9,900,000,000 yeast cells frantically fermented their little hearts out as the sugars were magically turned into alcohol in the dark depths of our fermentation tanks.This explicit ale has more hops and bitterness that any other beer brewed in the UK. This is an extreme beer rollercoaster for freaks, gypsies and international chess superstars.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Marris Otter Extra Pale Malt</grains>
+  <grains>Marris Otter Extra Pale Malt</grains>
+  <hops>Simcoe, Chinook, Amarillo, Warrior</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial IPA</style>
+  </styles>
+</beer>

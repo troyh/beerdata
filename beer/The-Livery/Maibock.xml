@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Maibock" brewery_id="The-Livery" abv="10.5">
+  <name>Maibock</name>
+  <description>This golden German style Doppelbock has loads of malt flavor and finishes with a distinct Noble hop spiciness. This beer is available spring through summer. Also available barrel aged.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>blonde doppelbock</style>
+  </styles>
+</beer>

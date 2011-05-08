@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Erdinger/Weissbier-Kristallklar" brewery_id="Erdinger">
+  <name>Weissbier Kristallklar</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Wheat</style>
+  </styles>
+</beer>

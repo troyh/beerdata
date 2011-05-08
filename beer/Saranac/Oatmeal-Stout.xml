@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Oatmeal-Stout" brewery_id="Saranac" abv="4.3">
+  <name>Oatmeal Stout</name>
+  <description>Saranac Oatmeal Stout is brewed with a delicate balance of the finest grown oats, selected hops, and our traditional ale yeast. Look for a sweet, dark chocolate and roasted taste.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>2 row, chocolate malt, roasted barley oats</grains>
+  <grains>2 row, chocolate malt, roasted barley oats</grains>
+  <hops>fuggles</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale brewed with oats</style>
+  </styles>
+</beer>

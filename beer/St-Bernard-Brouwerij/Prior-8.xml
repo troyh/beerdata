@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="St-Bernard-Brouwerij/Prior-8" brewery_id="St-Bernard-Brouwerij" abv="8">
+  <name>Prior 8</name>
+  <description>This noble delicious beer with a high fermentation has a ruby purple colour with a full malty and fruity taste (8% alcohol content). This beer has a beautiful round froth due to the second fermentation with a taste that creates a perfect balance between sweet and sour. </description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Honey-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="8" ibu="40">
+  <name>Honey Ale</name>
+  <description>A blonde ale brewed with raw honey.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Blonde Ale</style>
+  </styles>
+</beer>

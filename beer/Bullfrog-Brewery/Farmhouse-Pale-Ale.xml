@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Farmhouse-Pale-Ale" brewery_id="Bullfrog-Brewery" abv="5.2">
+  <name>Farmhouse Pale Ale</name>
+  <description>Packed with Horizon, East Kent Golding and Amarillo hops this Belgian-inspired ale pours a beautifully hazy shade of sunset complimented by a lush fruitiness and complex spice reminiscent of cinnamon sticks.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>horizon, east kent goldings, amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian ale</style>
+  </styles>
+</beer>

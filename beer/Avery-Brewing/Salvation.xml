@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Salvation" brewery_id="Avery-Brewing" abv="9" ibu="25">
+  <name>Salvation</name>
+  <description>The success of Hog Heaven and The Reverend clearly demonstrates that beer drinkers are willing to embrace "BIGGER" beers. In the fall of 2001, we decided that a lighter BIG BEER would complement its darker colored predecessors. Salvation has luscious apricot and peach aromas delicately interwoven with spicy suggestions of nutmeg and cinnamon. This heavenly soft, champagne-like elixer is cellarable for 3 years.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, cara 8, cara 20</grains>
+  <grains>Two-row barley, cara 8, cara 20</grains>
+  <hops>Styrian Goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Golden Ale</style>
+  </styles>
+</beer>

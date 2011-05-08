@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Steep-Canyon-Lager" brewery_id="The-Livery" abv="5.5">
+  <name>Steep Canyon Lager</name>
+  <description>This hoppy, golden pilsener is named for our Bluegrass pickin' friends from North Carolina and the recipients of the IBMA 2006 Emerging Artist Award, The Steep Canyon Rangers.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bohemian Pilsner</style>
+  </styles>
+</beer>

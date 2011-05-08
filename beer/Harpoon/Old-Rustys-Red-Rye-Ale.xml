@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Old-Rustys-Red-Rye-Ale" brewery_id="Harpoon" abv="6.5" ibu="38">
+  <name>Old Rusty's Red Rye Ale</name>
+  <description>Shortly after starting Harpoon back in 1986, co-founders Rich Doyle and Dan Kenary hired their first employee: a brewer. That brewer was Russ Heissner. Rich and Dan lured Russ to Boston from sunny California after he graduated from the acclaimed brewing program at UC Davis with the hope of brewing great craft beer. Little did Russ know he would start his brewing career brewing test-batches in a bathtub in his Brighton, MA apartment. His ingenuity resulted in the first Harpoon beer, Harpoon Ale. Russ has gone on from Harpoon to pursue other interests, but has remained a great friend of Harpoon and a devoted connoisseur of craft beer. \nFor the 23rd installment of the 100 Barrel Series, we invited Russ back to brew a Harpoon beer once again. Don't worry, not in a bathtub this time. Old Rusty's Red Rye Ale features a reddish hue and a biscuit flavor complemented with spicy rye notes. This well-balanced and drinkable ale has an aroma profile that is a combination of subtle fruit esters and clean, fresh German Hallertauer hops.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Rye Ale</style>
+  </styles>
+</beer>

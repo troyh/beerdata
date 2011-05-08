@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Kells-Irish-Lager" brewery_id="Rogue-Ales" ibu="28">
+  <name>Kells Irish Lager</name>
+  <description>An Irish style lager with a smooth mellow flavor and an apple crisp finish. Perfect for floating Guinness! The recipe was developed for our friends at Kell's Irish Restaurant and Pub.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western Pale, Crystal -15, Wheat &amp; Acidulated Malts.</grains>
+  <grains>Great Western Pale, Crystal -15, Wheat &amp; Acidulated Malts.</grains>
+  <hops>Sterling.</hops>
+  <yeast>Czech Pils Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

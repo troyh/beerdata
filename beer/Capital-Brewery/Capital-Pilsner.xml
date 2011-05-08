@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Capital-Pilsner" brewery_id="Capital-Brewery" abv="5.1">
+  <name>Capital Pilsner</name>
+  <description>An authentic German style pilsner. A superbly balanced beer, with a firm maltiness alongside hearty hop bittering and flavor notes.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Pilsner</style>
+  </styles>
+</beer>

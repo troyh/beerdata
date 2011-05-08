@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Copper-Moon" brewery_id="Mcmenamins" abv="5.03">
+  <name>Copper Moon</name>
+  <description>Last summer, a different kind of moon arose across the McMenamins Empire, our new summer seasonal, Copper Moon. It was such a big hit that it's back again this summer. Copper Moon has a bit more malt quality and hop character than most other summer seasonals, giving rise to a refreshing, flavorful beer style that we like to identify as a Summer Pale Ale. On top of that, all of the malted barley used in every batch of Copper Moon is organically grown and malted. The outcome is a smooth, flavorful summer pale ale made with 100% Organic malted barley. \nThe first thing you'll notice about Copper Moon is the coppery orange luminescence radiating out of the pint glass. This comes from the special combination of 3 different Organic malts in every batch. Those Organic malts also impart a flavorsome yet summery smooth sweetness that quenches your thirst at the same time as tantalizing your taste buds. The upfront hop bitterness of Copper Moon is relatively low, complementing the malts nicely without being overpowering. The hop flavor and aroma are another matter, as the Centennial and Amarillo hops used in the latter stages of each batch intermingle delightfully to generate a dazzling citrusy and flowery olfactory experience. All these things blend into a refreshing, flavorful and organic Summer Pale Ale. There's a Copper Moon risin' again this summer across the McMenamins Kingdom, make sure that you check it out.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>Great Western Organic 2-row Malt, Great Western Organic Munich Malt, Great Western Organic 60L Crystal Malt</grains>
+  <grains>Great Western Organic 2-row Malt, Great Western Organic Munich Malt, Great Western Organic 60L Crystal Malt</grains>
+  <hops>Chinook (Bittering), Centennial (Flavor), Amarillo (Aroma)</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>summer Ale</style>
+  </styles>
+</beer>

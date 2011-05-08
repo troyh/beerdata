@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Oaked-Arrogant-Bastard-Ale" brewery_id="Stone-Brewing-Co" abv="7.2">
+  <name>Oaked Arrogant Bastard Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Marzenbier" brewery_id="Saranac" abv="5.6">
+  <name>Marzenbier</name>
+  <description>Bigger..Richer...Smoother, are all ways to describe a Marzenbier. Look for a toasted malt character balanced with slight hop bitterness. Marzenbiers are traditionally aged for months and unveiled to great celebration.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains>pilsner, crystal</grains>
+  <grains>pilsner, crystal</grains>
+  <hops>perle, tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Marzen</style>
+  </styles>
+</beer>

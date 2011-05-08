@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Chaotic-Chemistry" brewery_id="Magic-Hat" abv="9.9" ibu="50">
+  <name>Chaotic Chemistry</name>
+  <description>infused with the copper glow of more than 1,000 setting suns.  This exceptional offering has infinite body... a big, sweet malty tumult followed by a long, balanced, hop symphony.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>pale, crystal</grains>
+  <grains>pale, crystal</grains>
+  <hops>warrior, centennial</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

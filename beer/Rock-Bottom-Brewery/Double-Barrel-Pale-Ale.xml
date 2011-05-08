@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Double-Barrel-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Double Barrel Pale Ale</name>
+  <description>A tasty, copper-colored English-style Pale Ale brewed in America. Caramunich malt makes up much of the body and caramel malt flavor in this beer. Hand selected Northwest Hops lend fruity and citrus character for a hoppy, yet balanced brew.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

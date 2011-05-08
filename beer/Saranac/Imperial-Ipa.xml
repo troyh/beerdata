@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Imperial-Ipa" brewery_id="Saranac" abv="8.5">
+  <name>Imperial IPA</name>
+  <description>Saranac Imperial IPA is part of our new High Peak Series, a line of beers that are bigger, more complex and flavorful; beers that are meant to be sipped and savored. Saranac Imperial IPA is brewed with 10 different malts and 10 different hops to make a delectably flavorful and complex Imperial IPA - at 85 IBU's and 8.5 % alc/vol.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>2 row, vienna, carapils</grains>
+  <grains>2 row, vienna, carapils</grains>
+  <hops>cascade, columbus, centannial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial IPA</style>
+  </styles>
+</beer>

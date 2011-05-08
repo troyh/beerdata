@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Furious" brewery_id="Surly-Brewing-Co" abv="6.2" ibu="99">
+  <name>Furious</name>
+  <description>A tempest on the tongue, or a moment of pure hop bliss? Brewed with a dazzling blend of American hops and Scottish malt, this crimson-hued ale delivers waves of citrus, pine and caramel-toffee. For those who favor flavor, Furious has the hop-fire your taste buds have been screeching for.</description>
+  <availability/>
+  <ingredients/>
+  <grains>scottish</grains>
+  <grains>scottish</grains>
+  <hops>american</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

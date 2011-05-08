@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Dark-Kriek" brewery_id="New-Belgium-Brewing-Company" abv="8">
+  <name>Lips of Faith Dark Kriek</name>
+  <description>For many years we've celebrated Valentine's Day at New Belgium Brewing by creating a special small batch beer for our family and friends. These beers tend to be a little funky, fruitful and straight from the heart. This year we decided to share the love.New Belgium Brewing's Dark Kriek is a limited edition Belgian kriek or cherry beer. Much darker than a traditional kriek with a dash of sour cherry up front, our Dark Kriek is actually a blend of two beers. We start with a light, dry, tannic beer aged two years in oak barrels and combine this with a heavier, dark ale and cherries to create one smooth cherry blast of love.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Kriek</style>
+  </styles>
+</beer>

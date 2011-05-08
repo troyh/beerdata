@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Petes-Brewing-Co/Petes-Wanderlust-Cream-Ale" brewery_id="Petes-Brewing-Co">
+  <name>Pete's Wanderlust Cream Ale</name>
+  <description>Pete's winter seasonal Wanderlust Cream Ale, is a velvety smooth brew offering endless fascination. Pete's Wicked Wanderlust Cream Ale is a light amber brew with a rhapsody of Cluster hops and select Munich and wheat malts. The rich, creamy taste invites you on a journey of wonderment and intrigue. Sit back. Enjoy the ride.</description>
+  <availability/>
+  <ingredients/>
+  <grains>munich and wheat</grains>
+  <grains>munich and wheat</grains>
+  <hops>cluster</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

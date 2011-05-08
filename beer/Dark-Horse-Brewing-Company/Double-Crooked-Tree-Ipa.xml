@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Double-Crooked-Tree-Ipa" brewery_id="Dark-Horse-Brewing-Company" abv="12">
+  <name>Double Crooked Tree IPA</name>
+  <description>Have you read the description for the regular Crooked Tree yet? Well this beer is almost the same just double the flavor and alcohol. We actually took the Crooked Tree recipe and doubled all of the ingredients except the water, just the way a DOUBLE should be made. Big hops balanced with tons of maltgive this beer a huge body. Although this beer is as cool as "The Fonz" when first purchased, it gets really mellow and smooth with some age. After a year or two stored in a cool dark place you'll notice the heavycaramel and malt flavors are trying to sneak past the hops. This beer is hugely delicious so it will need your undivided attention (the chores can wait....trust us).</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double IPA</style>
+  </styles>
+</beer>

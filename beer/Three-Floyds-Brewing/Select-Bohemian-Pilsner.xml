@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Bohemian-Pilsner" brewery_id="Three-Floyds-Brewing">
+  <name>Select Bohemian Pilsner</name>
+  <description>Our Bohemian Pilsner is made with malt from Weyermann, a famous Bavarian malting company. The malt bill consists of Pilsner, Cara Pils, Vienna, and Melanoidin malted barley. The beer is fermented with Munich Lager yeast and is hopped and dry hopped 100% with Saaz hops from the Czech Republic. The result is a medium body, deep gold color brew with a sharp clean bitterness, floral hop aroma, and soft malt sweetness. The snappy hop bitterness and the taste of barley linger on the palate.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

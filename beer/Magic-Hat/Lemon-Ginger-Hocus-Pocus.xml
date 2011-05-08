@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Lemon-Ginger-Hocus-Pocus" brewery_id="Magic-Hat" abv="5" ibu="13">
+  <name>Lemon Ginger Hocus Pocus</name>
+  <description>Hocus...Pocus...What deviltry is this? Lemon and Ginger now infuses the mix. Filled with the light of the essence that glows, a new ale of maximum quenching now flows. Stunningly crisp and supernaturally refreshing, it's the ginger and lemon wonder that's summer's own blessing.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, malted wehat</grains>
+  <grains>pale, malted wehat</grains>
+  <hops>warrior, chinook</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

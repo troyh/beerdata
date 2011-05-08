@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Cherry-Tripel" brewery_id="Minneapolis-Town-Hall-Brewery" abv="7.8">
+  <name>Cherry Tripel</name>
+  <description>Mike's Belgian Tripel with dried tart cherries</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Tripel</style>
+  </styles>
+</beer>

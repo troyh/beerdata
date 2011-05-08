@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Trout-Slayer-Ale" brewery_id="Big-Sky-Brewing-Co" abv="4.7">
+  <name>Trout Slayer Ale</name>
+  <description>They say the best way to shrink a fish is with with a ruler, but the best way to grow a fish is with a beer. Montana Trout Slayer is the beer to drink when you're knockin' back a couple cold ones and tellin' fish stories. Who knows the next one might be the best yet! "A bigger tale with every ale." Trout Slayer is a filtered wheat ale, fermented at cool temperatures, making it a smooth drinkable session beer</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Palisade, Glacier, and Mt. Hood</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat ale</style>
+  </styles>
+</beer>

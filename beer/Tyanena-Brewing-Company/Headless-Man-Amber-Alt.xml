@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Tyanena-Brewing-Company/Headless-Man-Amber-Alt" brewery_id="Tyanena-Brewing-Company" ibu="25">
+  <name>Headless Man Amber Alt</name>
+  <description>The ancient peoples that inhabited Wisconsin are known for building numerous celestial stone monuments and earthen effigy mounds to serve as symbols of their culture and their beliefs.&#xCA; Unfortunately, most of these structures have fallen victim to the farmer's plow over the past 150 years.&#xCA; Not far from the brewery, lying preserved on the floor of Rock Lake, are two effigy mounds - a Headless Man and a Turtle.&#xCA; Legend tells us, as the Turtle can survive on both land and in water, its spirit helped guide the Headless Man into the afterlife.&#xCA; May the Turtle's spirit guide you to happiness with a Headless Man Amber Alt.The Headless Man is brewed in the "old way" of a D&#x9F;sseldorf-style Altbier.&#xCA; A unique cold lagering process gives this amber ale its smooth taste.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row, Caramel, Munich, Wheat</grains>
+  <grains>2-row, Caramel, Munich, Wheat</grains>
+  <hops>Crystal, Perle, Tettnanger</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>D&#x9F;sseldorf-style Altbier.</style>
+  </styles>
+</beer>

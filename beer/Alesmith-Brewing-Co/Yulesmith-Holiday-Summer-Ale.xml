@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Yulesmith-Holiday-Summer-Ale" brewery_id="Alesmith-Brewing-Co" abv="9.5">
+  <name>Yulesmith Holiday Summer Ale</name>
+  <description>Our most popular seasonal ale, YuleSmith is brewed twice a year in two different, yet similar, styles: An Imperial / Double IPA and an Imperial / Double Red Ale. During the summer, YuleSmith is transformed into a big, hoppy, Double IPA. The enormous load of hops requires a substantial malt background to create just the right balance for a Double IPA. Lighter in color, summer YuleSmith is available around the 4th of July and is packaged in a red, white, and blue bottle.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double IPA</style>
+  </styles>
+</beer>

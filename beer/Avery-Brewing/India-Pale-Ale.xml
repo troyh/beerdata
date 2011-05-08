@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/India-Pale-Ale" brewery_id="Avery-Brewing" abv="6.3" ibu="69">
+  <name>India Pale Ale</name>
+  <description>n the 1700's one crafty brewer discovered that a healthy dose of hops and an increased alcohol content preserved his ales during the long voyage to India (as depicted in our label) to quench the thirst of British troops. Today, we tip our hat to that historic innovation by brewing Colorado's hoppiest pale ale. Avery IPA demands to be poured into your favorite glass to truly appreciate the citrusy, floral bouquet and the rich, malty finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, Munich 10L, caramel 120L</grains>
+  <grains>Two-row barley, Munich 10L, caramel 120L</grains>
+  <hops>Columbus, Chinook, Cascade and Centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

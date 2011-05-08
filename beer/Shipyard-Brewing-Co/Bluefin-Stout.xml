@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Bluefin-Stout" brewery_id="Shipyard-Brewing-Co" abv="4.7">
+  <name>Bluefin Stout</name>
+  <description>Bluefin Stout was first produced in August, 1993. This is a classic Irish stout. Full bodied, yet soft and spectacular in appearance.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

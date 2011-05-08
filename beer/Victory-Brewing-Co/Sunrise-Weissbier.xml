@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Sunrise-Weissbier" brewery_id="Victory-Brewing-Co" abv="5.7">
+  <name>Sunrise Weissbier</name>
+  <description>As invigorating as the morning rays of the summer sun, Sunrise Weissbier satisfies when the heat is on, too. This unfiltered, Bavarian style ale is true to its origins with all ingredients except for the water having been imported from Germany. It remains unfiltered to feature the tangy, fruity flavors of its unique yeast. The imported German malt contributes greatly to add a crisp, citric snap that makes this beer a superb summertime refresher.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>2 row German barley and wheat malt</grains>
+  <grains>2 row German barley and wheat malt</grains>
+  <hops>German and Czech whole flowers</hops>
+  <yeast>imported, of German origin</yeast>
+  <otherings/>
+  <styles>
+    <style>Bavarian Ale</style>
+  </styles>
+</beer>

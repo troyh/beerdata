@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Coopers/Vintage-Ale" brewery_id="Coopers">
+  <name>Vintage Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - English</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Odd-Notion-Winter-07" brewery_id="Magic-Hat" abv="7.5" ibu="25">
+  <name>Odd Notion Winter 07</name>
+  <description>The first Odd Notion to be revealed is Dark Wheat Ale. Brewed with 50 percent malted wheat and lightly hopped, its an enticingly deep brown, full-bodied ale with a slightly fruity nose of roasted malts. On the palate, it offers a rich roasted malt flavor and a distinctive character endowed with warm notes of cocoa, toffee, and caramel. Drinkers will find it has a low level of malt astringency balanced by a malty sweetness that provides a perfect finish. Debuting in Magic Hats Feast of Fools winter Variety 12-pak, it will also be on draught at savvy establishments that pour Magic Hat elixirs. </description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, dark candy sugar, chcolate, malted wheat, munich</grains>
+  <grains>pale, dark candy sugar, chcolate, malted wheat, munich</grains>
+  <hops>hersbrucker &amp; tettnang</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale</style>
+  </styles>
+</beer>

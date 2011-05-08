@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Kolle-traekolle" brewery_id="Mikkeller" abv="10.5">
+  <name>Kolle/Traekolle</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>munich</grains>
+  <grains>munich</grains>
+  <hops>simcoe</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

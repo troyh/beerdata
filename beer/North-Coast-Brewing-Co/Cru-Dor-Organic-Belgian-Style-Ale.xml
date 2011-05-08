@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Cru-Dor-Organic-Belgian-Style-Ale" brewery_id="North-Coast-Brewing-Co" abv="8" ibu="30">
+  <name>Cru D'or Organic Belgian Style Ale</name>
+  <description>Belgian yeasts are legendary for the fruity flavor and floral bouquet they give beer. Hundreds are used by Belgian brewers, and each is unique. Cru d'Or, a Belgian-Style Dubble, is an homage to this magic ingredient, and the result is a world-class beer that is lush and profoundly aromatic with a warming finish. Being organic, Cru d'Or is brewed with the same reverence for pure ingredients as the Abbey and Farmhouse Belgian ales of the past. Delicious.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Dubbel</style>
+  </styles>
+</beer>

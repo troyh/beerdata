@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Solstice" brewery_id="New-Glarus-Brewing-Company" abv="5.75">
+  <name>Solstice</name>
+  <description>The solstice heralds in summer. Solstice Weiss is gently brewed, in the time honored tradition, using 60% malted wheat and a triple fermentation. This is a true Bavarian style Weiss bier. "Weiss" means white in Bavaria, which refers to the yeast that remains in our unfiltered bier. Note the brilliant white froth and subdued golden hue. \nExpect this bier to have a soft champagne like quality, complemented by a wheat character that sparkles with fruity tones. We hope you enjoy our refreshing offering to soothe the summer's heat.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat</style>
+  </styles>
+</beer>

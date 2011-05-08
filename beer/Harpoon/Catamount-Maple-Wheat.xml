@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Catamount-Maple-Wheat" brewery_id="Harpoon" ibu="limited">
+  <name>Catamount Maple Wheat</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

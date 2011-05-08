@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/Wit" brewery_id="Selins-Grove-Brewing-Company">
+  <name>WIT</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wit Beer</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Benediction" brewery_id="Russian-River-Brewing-Co" abv="6.75">
+  <name>Benediction</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Abbey Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/719-Light-Lager" brewery_id="Rock-Bottom-Brewery">
+  <name>719 Light Lager</name>
+  <description>A light-bodied American Lager brewed with pale malt and a hint of white wheat for a clean, dry, crisp finish. Great with our Pasta or Salads.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Light Lager</style>
+  </styles>
+</beer>

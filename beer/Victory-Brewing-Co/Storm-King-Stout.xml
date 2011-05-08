@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Storm-King-Stout" brewery_id="Victory-Brewing-Co" abv="9.1">
+  <name>Storm King Stout</name>
+  <description>With a huge, Pacific Northwest hop aroma &amp; character upfront, Storm King subsides into massive, roast malt complexity. More flavor than mere words can adequately describe. Rich and substantial, it will warm your heart.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Imported 2 row</grains>
+  <grains>Imported 2 row</grains>
+  <hops>American whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Third-Coast" brewery_id="Bells-Brewery" abv="4.8">
+  <name>Third Coast</name>
+  <description>A golden beer brewed with pale malts. Large American hop additions contribute a crisp refreshing bitterness. A tribute to the Great Lakes, T.C.B. is a truly quaffable beer.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

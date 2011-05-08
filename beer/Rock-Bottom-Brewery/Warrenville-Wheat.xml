@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Warrenville-Wheat" brewery_id="Rock-Bottom-Brewery">
+  <name>Warrenville Wheat</name>
+  <description>This offering is always brewed with a generous portion of malted wheat, lending a soft bready quality. Styles change with the season and include German-style Hefeweizen, Dunkelweizen, American-style Wheat Ales and Belgian-style White Ales among others. Ask your server to describe our current offering. Silver Medal- 2003 Real Ale Festival (German-Style Ale)</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

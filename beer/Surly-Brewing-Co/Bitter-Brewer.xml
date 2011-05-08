@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Bitter-Brewer" brewery_id="Surly-Brewing-Co" abv="4" ibu="37">
+  <name>Bitter Brewer</name>
+  <description>first one in, last one out, sweltering in the summer, freezing in the winter. Years of toiling and boiling have turned our brewer Todd into a cynical, surly, bitter brewer...You too can get bitter without all the fuss. Simply crack open a can and fill a glass with our latest - Bitter Brewer. Pale orange in color, this ale gets intense toast and marmalade character from British malt and American hops. Dry-hopping brings the floral citrus aromas. So go ahead, get bitter!</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>british</grains>
+  <grains>british</grains>
+  <hops>american</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

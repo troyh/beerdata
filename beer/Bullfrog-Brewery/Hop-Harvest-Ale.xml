@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Hop-Harvest-Ale" brewery_id="Bullfrog-Brewery" abv="6">
+  <name>Hop Harvest Ale</name>
+  <description>A truely American original, this beer starts out as a straightforward E.S.B. and is then transformed with a huge dose of sticky, wet hops fresh from the Yakima Valley. This year I used a blend of Simcoe and Chinook hops at a whopping rate of 4.3 pounds per barrel suspended right in the serving tank so as it's served more of their goodness oozes out! Yes it's true...I LOVE HOPS!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>simcoe and chinook</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

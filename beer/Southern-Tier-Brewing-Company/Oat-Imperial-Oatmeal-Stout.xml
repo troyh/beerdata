@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Oat-Imperial-Oatmeal-Stout" brewery_id="Southern-Tier-Brewing-Company" abv="11">
+  <name>oat Imperial Oatmeal Stout</name>
+  <description>This beer begins in spring when oat seeds are sown as soon as the soil can be worked. Meanwhile, select types of barley are planted with hopes that Mother Nature will be kind. Our brewers wait patiently until the legumes are mature and ready for the scythe. Upon delivery to the brewery, these ingredients are mixed together in the mash tun where they steep, creating a rich molasses-like liquid. Spicy hops are boiled with the thick brew, giving balance and complexity. Brewers yeast feasts upon the rich sugars, concluding its transformation into oatmeal stout. Pour Oat into a snifter, allow its thick tan head to slowly rise, releasing unbridled aromas. The color of Oat is as dark as a moonless night. The first sip reveals Oat's thick and nourishing taste. Like a haversack to a horse, a bottle of this stout is a meal in itself. Enjoy responsibly.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains>2 row pale, caramel, chocolate, black</grains>
+  <grains>2 row pale, caramel, chocolate, black</grains>
+  <hops>kettle and columbus and willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Oatmeal Stout</style>
+  </styles>
+</beer>

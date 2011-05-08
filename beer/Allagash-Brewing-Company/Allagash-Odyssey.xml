@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagash-Odyssey" brewery_id="Allagash-Brewing-Company" abv="10.4">
+  <name>Allagash Odyssey</name>
+  <description>Odyssey is the second edition in our Barrel Aged series. It is a dark, 10% ABV wheat beer. We age a portion of the beer in New American Medium Toast Oak, and a portion in stainless steel for more than six months. We then blend the two different portions of beer to taste. Finally we bottle condition, adding additional yeast and Candi sugar.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>barrel aged ale</style>
+  </styles>
+</beer>

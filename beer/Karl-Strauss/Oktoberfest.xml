@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Oktoberfest" brewery_id="Karl-Strauss">
+  <name>Oktoberfest</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oktoberfest</style>
+  </styles>
+</beer>

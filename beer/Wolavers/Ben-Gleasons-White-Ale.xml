@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Wolavers/Ben-Gleasons-White-Ale" brewery_id="Wolavers">
+  <name>Ben Gleason's White Ale</name>
+  <description>Ben Gleason has been growing organic wheat for twenty eight years at his farm in Bridport, Vermont, just ten miles from our brewery. Ourbrewers have combined Ben's organic raw wheat, organic rolled oats, and organic 2-row malted barley. The resulting golden brew is then mildly spiced with organic coriander and orange peel and fermented with an authentic Belgian yeast to create this complex and refreshing white ale. A fitting salute to Ben Gleason. Available in 6 pks, cases, and draft for the summer. Enjoy! This beer is delicious with a slice of orange or on its own.\nPAIRING with CHEESE:\nWill pair well with chevre and pepper chevre, and mascarpone or herb cheese spreads.\nPAIRING with FOODS: Goes well with lighter Seafood dishes- a classic with steamed mussels.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

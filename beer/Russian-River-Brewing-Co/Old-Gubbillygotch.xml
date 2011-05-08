@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Old-Gubbillygotch" brewery_id="Russian-River-Brewing-Co" abv="9.5" ibu="110">
+  <name>Old Gubbillygotch</name>
+  <description>Barleywine is a strong style of ale that has an alcohol content that closer resembles a wine. Our copper-colored barleywine offers big malt flavors that are balanced with a large infusion of hops in the kettle. Although this ale has a high than normal bittering unit rating, the bitterness in the beer balances out extremely well with the residual sweetness from the malt.</description>
+  <availability>limit</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine </style>
+  </styles>
+</beer>

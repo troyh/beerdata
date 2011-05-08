@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Summer-Ale" brewery_id="Brooklyn-Brewery" abv="4.5">
+  <name>Summer Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Light Dinner Ale</style>
+  </styles>
+</beer>

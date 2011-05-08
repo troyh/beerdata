@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Amer-Khadir" brewery_id="Dieu-Du-Ciel" abv="6">
+  <name>Amer Khadir</name>
+  <description>Traditional English Pale Ale brewed with "Goldings" hops in hopback.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

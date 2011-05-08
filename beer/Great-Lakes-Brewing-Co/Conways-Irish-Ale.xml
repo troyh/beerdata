@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Conways-Irish-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="6.5" ibu="25">
+  <name>Conway's Irish Ale</name>
+  <description>A malty Irish Ale with a notable toasty flavor derived from lightly roasted malt. Named after Patrick Conway, the grandfather of co-owners Patrick and Daniel Conway and a Cleveland policeman who directed traffic for 25 years near the brewery. </description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Ale</style>
+  </styles>
+</beer>

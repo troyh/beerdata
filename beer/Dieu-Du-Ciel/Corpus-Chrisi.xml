@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Corpus-Chrisi" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Corpus Chrisi</name>
+  <description>A revisited English Pale Ale! This is an exact replica of the traditional style, except for the addition of a large quantity of rye. The rye brings about an interesting spicy flavour as well as a silky texture. The bitterness is relatively mild. This beer was first brewed to celebrate Dieu du Ciel's 7th anniversary.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>rye pale ale</style>
+  </styles>
+</beer>

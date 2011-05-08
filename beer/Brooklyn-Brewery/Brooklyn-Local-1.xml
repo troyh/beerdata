@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyn-Local-1" brewery_id="Brooklyn-Brewery" abv="9">
+  <name>Brooklyn Local 1</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian-inspired Strong Golden Ale</style>
+  </styles>
+</beer>

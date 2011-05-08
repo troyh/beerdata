@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Undercover-Investigation-Shut-down-Ale" brewery_id="Lagunitas-Brewing-Co" abv="9.7">
+  <name>Undercover Investigation Shut-Down Ale</name>
+  <description>Our oxymoronic 'Imperial Mild' - A redux to remember the '05 St. Paddy's Day Massacre. Defiant as to style ... We Can say for sure it is unforgiven and unrepentant.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

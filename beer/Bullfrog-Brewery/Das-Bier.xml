@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Das-Bier" brewery_id="Bullfrog-Brewery" abv="5.4">
+  <name>Das Bier</name>
+  <description>A traditional favorite originating from Dusseldorf, Germany our Altbier has a nutty, chocolate-like maltiness and a clean, yet spicy, hoppy finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

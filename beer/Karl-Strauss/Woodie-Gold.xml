@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Woodie-Gold" brewery_id="Karl-Strauss" abv="4.6" ibu="19">
+  <name>Woodie Gold</name>
+  <description>Woodie Gold is a nod to a classic European lager. We use noble Saaz hops for the spicy floral aroma and soft hop bitterness true to authentic Czech pilsners. A base of bread-like malt flavors from the finest pale barley provide a delicate balance. Softening techniques to duplicate the water found in the Bohemian countryside and cold conditioning give Woodie Gold its crisp refreshing taste.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

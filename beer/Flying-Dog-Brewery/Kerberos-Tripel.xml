@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Kerberos-Tripel" brewery_id="Flying-Dog-Brewery" abv="8.5" ibu="27">
+  <name>Kerberos Tripel</name>
+  <description>Named after the mythical beast that guards the gates of hell... Kerberos is a traditional Belgian-style Tripel with a dark golden color &amp; has a sweet flavor with a dry and spicy finish. This nectar of the Gods is deceptively strong at 8.5% and is bottle conditioned for an authentic flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pilsner, Aromatic</grains>
+  <grains>Pilsner, Aromatic</grains>
+  <hops>Golding, Saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Tripel</style>
+  </styles>
+</beer>

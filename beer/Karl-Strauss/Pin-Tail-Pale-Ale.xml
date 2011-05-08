@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Pin-Tail-Pale-Ale" brewery_id="Karl-Strauss" abv="5.3" ibu="47">
+  <name>Pin Tail Pale Ale</name>
+  <description>medium-bodied American Pale Ale brewed with Bravo, Cascade, and Amarillo hops. Floral and grapefruit-like hop flavors are balanced by a soft caramel malt character, and its finish is dry with a pleasant citrus hoppiness.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

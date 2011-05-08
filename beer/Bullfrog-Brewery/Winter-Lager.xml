@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Winter-Lager" brewery_id="Bullfrog-Brewery" abv="6">
+  <name>Winter Lager</name>
+  <description>Rye and crystal rye malts lend a citrus-like spice and a deep, rich amber hue to this deliciously smooth lager.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>lager</style>
+  </styles>
+</beer>

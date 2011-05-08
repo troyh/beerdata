@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Gonzo-Imperial-Porter" brewery_id="Flying-Dog-Brewery" abv="7.8" ibu="85">
+  <name>Gonzo Imperial Porter</name>
+  <description>Like Hunter S. Thompson... Gonzo Imperial Porter is deep and complex. This turbo charged version of the Road Dog Porter is mysteriously dark with a rich and malty body, intense roasted flavors, and a surprisingly unique hop kick. With Gonzo weighing in at 7.8% ABV, it will bite you in the ass if you don't show it the proper respect.</description>
+  <availability/>
+  <ingredients/>
+  <grains>G.W. 120L Crystal, Chocolate, Black</grains>
+  <grains>G.W. 120L Crystal, Chocolate, Black</grains>
+  <hops>Warrior, Northern Brewer, Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Porter</style>
+  </styles>
+</beer>

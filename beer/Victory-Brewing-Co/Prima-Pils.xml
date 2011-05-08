@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Prima-Pils" brewery_id="Victory-Brewing-Co" abv="5.3">
+  <name>Prima Pils</name>
+  <description>Heaps of hops give this pale lager a bracing, herbal bite over layers of soft and smooth malt flavor. This refreshing combination of tastes makes Prima a classy quencher in the tradition of the great pilsners of Europe. Dry and delightful, this is an elegant beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2 row German pilsner malt</grains>
+  <grains>2 row German pilsner malt</grains>
+  <hops>German and Czech whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pilsner</style>
+  </styles>
+</beer>

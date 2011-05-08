@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Wolfsblood" brewery_id="Bullfrog-Brewery" abv="8">
+  <name>Wolfsblood</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>oak aged scotch ale</style>
+  </styles>
+</beer>

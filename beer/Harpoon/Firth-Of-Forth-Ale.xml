@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Firth-Of-Forth-Ale" brewery_id="Harpoon" abv="5.4" ibu="28">
+  <name>Firth of Forth Ale</name>
+  <description>The story of Harpoon's Steve Stewart's Firth of Forth Ale began at Harpoon a decade ago. Back in 1998 a young Scottish brewer named Steve Stewart crossed the big pond and came to Harpoon in Boston as part of a brewery intern exchange program. Steve apprenticed at Harpoon for a couple months then took his new-found appreciation of American craft beer back to his full-time brewing job at a large Irish brewery. After some time, Steve decided to return to his birthplace - Scotland - and open his own microbrewery.\nOver the years, Steve kept in touch with the brewers at Harpoon, filling them in on his brewing progress. In April 2007 when Harpoon staff took their annual employee anniversary trip, they paid a special visit to Steve's microbrewery in Edinburgh, Scotland. Between toasting pints of Steve's award-winning cask ales the Harpoon brewers invited Steve to guest brew a 100 Barrel Series beer. He accepted with delight. For several months Steve and our brewers collaborated on the recipe, an American twist on a traditional Scottish Ale.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scottish Ale</style>
+  </styles>
+</beer>

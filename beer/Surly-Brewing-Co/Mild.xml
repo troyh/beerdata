@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Mild" brewery_id="Surly-Brewing-Co">
+  <name>Mild</name>
+  <description>our first session beer. A British-style mild whose dinkinability makes it fun.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>british Ale</style>
+  </styles>
+</beer>

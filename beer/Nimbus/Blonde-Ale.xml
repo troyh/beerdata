@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Nimbus/Blonde-Ale" brewery_id="Nimbus">
+  <name>Blonde Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - White</style>
+  </styles>
+</beer>

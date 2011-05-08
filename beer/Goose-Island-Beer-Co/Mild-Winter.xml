@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Mild-Winter" brewery_id="Goose-Island-Beer-Co" abv="5.6" ibu="28">
+  <name>Mild Winter</name>
+  <description>Toffee brown, medium-bodied, with a creamy head and an aroma of raisins and freshly baked dark bread. Mild Winter's rich caramel malt and spicy rye flavors are sure to take the bite out of whatever Old Man Winter brews up for you this year.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>2-Row, Carapils, Dark Chocolate, Roast Barley, Rye Flake</grains>
+  <grains>2-Row, Carapils, Dark Chocolate, Roast Barley, Rye Flake</grains>
+  <hops>Willamette, Tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>american mild ale</style>
+  </styles>
+</beer>

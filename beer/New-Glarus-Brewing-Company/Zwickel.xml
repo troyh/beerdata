@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Zwickel" brewery_id="New-Glarus-Brewing-Company">
+  <name>Zwickel</name>
+  <description>It is the custom of village breweries in Bavaria to invite special friends to the Brewmaster's cellars to share bier at its freshest, "Zwickel Bier" direct from lager tanks. Our Brewmaster has revived this tradition with his special offering. Straight from the tanks, unfiltered, this bier has undergone its third and final fermentation in the bottle in order to insure you the freshest possible lager bier. \nExpect this bier to be smooth, full-bodied, and slightly cloudy. The brewer's yeast imparts a mild, fresh character which is as close as you can get to brewery fresh. Unless, of course, you do come by and visit our little village Brewery here in New Glarus.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

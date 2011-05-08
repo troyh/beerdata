@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Black-Raven-Porter" brewery_id="Bear-Republic-Brewing-Co">
+  <name>Black Raven Porter</name>
+  <description>The Bear's traditional porter, served Guinness style through the nitrogen tap.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>porter</style>
+  </styles>
+</beer>

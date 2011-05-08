@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lake-Placid/46er-Pale-Ale" brewery_id="Lake-Placid" abv="6">
+  <name>46'er Pale Ale</name>
+  <description>A handful of folks have conquered the legendary 46 High Peaks of the Adirondack Mountains, earning the right to call themselves '46 ers. We salute those hikers who have braved those 4000' peaks with 46' er Pale Ale. Rich copper in color, this English-style Pale Ale features a malt backbone balanced with the aroma and flavor of Fuggle hops. Here's to the hikers!</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2 row, crystal</grains>
+  <grains>2 row, crystal</grains>
+  <hops>fuggles</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

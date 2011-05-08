@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Juggernaut-Red-Ale" brewery_id="Pyramid-Breweries" abv="5.6">
+  <name>Pyramid Juggernaut Red Ale</name>
+  <description>Juggernaut is an American Red ale brimming with delectable caramel malts, delicious hops and an unquenchable spirit.</description>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains>2 Row, Carared, C-120, Carafa II, and Roasted Barley</grains>
+  <grains>2 Row, Carared, C-120, Carafa II, and Roasted Barley</grains>
+  <hops>Simcoe, Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Red Ale</style>
+  </styles>
+</beer>

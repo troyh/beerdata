@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Blind-Faith" brewery_id="Magic-Hat" abv="5.6" ibu="38">
+  <name>Blind Faith</name>
+  <description>Our take on an India Pale Ale (IPA.) A deep golden amber ale with a rich up-front malty nose finishing with a big, hoppy bite. Dry-hopped to finish with a big fresh (Cascade) hop flavor. </description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, crystal, chocolate</grains>
+  <grains>pale, crystal, chocolate</grains>
+  <hops>warrior, cascade</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

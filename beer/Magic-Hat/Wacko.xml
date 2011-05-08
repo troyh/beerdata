@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Wacko" brewery_id="Magic-Hat" abv="4.5" ibu="15">
+  <name>Wacko</name>
+  <description>A delicious, beet-red summer beer with a big malty aroma, a subdued hop bite and a clean, slightly sweet finish. </description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>pale</grains>
+  <grains>pale</grains>
+  <hops>columbus</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

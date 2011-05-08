@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Blind-Pig-Ipa" brewery_id="Russian-River-Brewing-Co" abv="6">
+  <name>Blind Pig IPA</name>
+  <description>Blind Pig IPA was originally brewed by Vinnie at Blind Pig Brewing Co. in Temecula CA. Inspired by the original Blind Pig IPA, this beer is loaded with hop character but only has 6.0% ABV.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

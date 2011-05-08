@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Enigma" brewery_id="New-Glarus-Brewing-Company">
+  <name>Unplugged Enigma</name>
+  <description>A complex and intriguing original. The mystery began with wild yeast spontaneously fermenting a rich of treasure of malted barley and whole cherries. Unlined Oak casks breathe deep vanilla hues and chords of smoke into this sour brown ale. Our Master Brewer has forged a smooth garnet tapestry that defies description. Wander off the beaten path.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Heritage-Ale" brewery_id="Bear-Republic-Brewing-Co" abv="7.6" ibu="30">
+  <name>Heritage Ale</name>
+  <description>This beer is fermented at a lower temperature than our standard ales, giving it a very malty taste. Scottish and English malts are melded together with English hops to create its bold, sweet, malty finish. The caramel color comes from a blending of UK Kent Goldings, but only in small amounts to allow malt flavors to come through. Be careful, it is bold with an alcohol level of 7.6%. Like a fine single malt, this hearty brew will get better with age.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>english </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

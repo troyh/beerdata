@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Not-Just-Another-Wit" brewery_id="Mikkeller" abv="7.6">
+  <name>Not Just Another Wit</name>
+  <description>Not just another wit bier. The style taken to another level. Strong and hoppy. The world's first IPW?</description>
+  <availability/>
+  <ingredients/>
+  <grains>pale and amber</grains>
+  <grains>pale and amber</grains>
+  <hops>goldings, amarillo, saaz, and cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wit Beer</style>
+  </styles>
+</beer>

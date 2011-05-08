@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Capital-Dark" brewery_id="Capital-Brewery" abv="5.2">
+  <name>Capital Dark</name>
+  <description>Without a doubt the finest dark beer brewed in the United States. Styled after a traditional Munchener-Dunkel, Munich Dark is a rich, delicious beer combined with excellent drinkability-a rare combination.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Munich Dark</style>
+  </styles>
+</beer>

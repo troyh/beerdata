@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Raspberry-Wheat-Beer" brewery_id="Southern-Tier-Brewing-Company" abv="4.5">
+  <name>raspberry wheat beer</name>
+  <description>A golden wheat beer brewed with the finest North American malted barley and wheat. It's then lightly hopped with the choicest European varieties. This smooth, crisp golden wheat beer is then finished with a hint of raspberry. Enjoy this beer any time of year.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>raspberry wheat</style>
+  </styles>
+</beer>

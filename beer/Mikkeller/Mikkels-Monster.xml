@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Mikkels-Monster" brewery_id="Mikkeller" abv="13">
+  <name>Mikkels Monster</name>
+  <description>A massive barleywine brewed as a collaboration with Norrero Bryghus. Aged in Port and Bordeaux barrels and then blended back together. 50% Port, 25% Bordeaux, 25 % unoaked.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine Ale</style>
+  </styles>
+</beer>

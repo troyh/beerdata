@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Too-Cream-Stout" brewery_id="Dark-Horse-Brewing-Company">
+  <name>Too Cream Stout</name>
+  <description>Number Two - This beer is made with milk sugar (lactose) which gives this beer a nice creamy mouth feel which mingles with hints of chocolate and roasty flavors.</description>
+  <availability>fall/winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Black-Diamond-Bock" brewery_id="Saranac" abv="6">
+  <name>Black Diamond Bock</name>
+  <description>Saranac Black Diamond Bock is a rich, malty brew, made with traditional German malts and hops and fermented with a lager yeast. Aged for months for a rich but smooth malty taste. A nice reward for enduring your winter months.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>Munich, Vienna</grains>
+  <grains>Munich, Vienna</grains>
+  <hops>Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Traditional Bock</style>
+  </styles>
+</beer>

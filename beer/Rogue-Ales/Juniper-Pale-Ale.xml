@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Juniper-Pale-Ale" brewery_id="Rogue-Ales" ibu="34">
+  <name>Juniper Pale Ale</name>
+  <description>A pale ale, saffron in color with a smooth malt balance, floral aroma with a dry spicy finish from whole juniper berries.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington, Crystal, Triumph, Maier Munich &amp; C-15. \nHops: Styrian Golding &amp; Amarillo.</grains>
+  <grains>Northwest Harrington, Crystal, Triumph, Maier Munich &amp; C-15. \nHops: Styrian Golding &amp; Amarillo.</grains>
+  <hops>Styrian Golding &amp; Amarillo.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Coopers/Best-Extra-Stout" brewery_id="Coopers">
+  <name>Best Extra Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout - Dry (Dublin)</style>
+  </styles>
+</beer>

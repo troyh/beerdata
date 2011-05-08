@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Bock" brewery_id="Three-Floyds-Brewing" abv="6.5" ibu="25">
+  <name>Bock</name>
+  <description>Bock (January &#xD0; March) is the first of our seasonal brews. It is brewed with Perle hops and pale and caramel malts. Our Bock is similar to a German Maibock in its high malt content, full body and slightly higher alcohol content. Abita Bock is a very popular brew, especially during our Mardi Gras season. Gruy&#x8E;re, Emmental and Swiss are nice cheese choices with Bock. Great with roasted beef or pork. Try it with Mexican food too.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Maibock</style>
+  </styles>
+</beer>

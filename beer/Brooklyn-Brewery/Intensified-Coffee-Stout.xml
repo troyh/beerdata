@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Intensified-Coffee-Stout" brewery_id="Brooklyn-Brewery" abv="8">
+  <name>Intensified Coffee Stout</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>stout</style>
+  </styles>
+</beer>

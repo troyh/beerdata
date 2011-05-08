@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Smoke-From-The-Oat-bourbon-Barrel-Aged" brewery_id="Captain-Lawrence-Brewing-Company">
+  <name>Smoke From the Oat-Bourbon Barrel Aged</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>smoked porter</style>
+  </styles>
+</beer>

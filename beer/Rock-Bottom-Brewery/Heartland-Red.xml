@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Heartland-Red" brewery_id="Rock-Bottom-Brewery">
+  <name>Heartland Red</name>
+  <description>The ESB is all our balance. The lusciously layered crystal malts establish a medium to full-bodied malt charature which combines with the earthy and floral hops to create a smooth, not-too-sweet finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

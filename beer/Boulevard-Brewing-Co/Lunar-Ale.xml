@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Lunar-Ale" brewery_id="Boulevard-Brewing-Co" abv="5.1" ibu="15">
+  <name>Lunar Ale</name>
+  <description>Our first new year-round brand launch since 1996, Lunar Ale is in a category all its own. Brewed using a unique aromatic yeast, this refreshing variety is best described as a cloudy brown ale with a SENSORY DESCRIPTION: Very versatile beer. Light sweetness complements light foods and malty/smoky flavor can stand up to some spicier dishes. Flavor hooks: fruit, cloves, roasted maltcomplex, maSENSORY DESCRIPTION: Very versatile beer. Light sweetness complements light foods and malty/smoky flavor can stand up to some spicier dishes. Flavor hooks: fruit, cloves, roasted maltlty aroma and flavor, and a crisp, dry finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>pale, Pale &amp; Amber malts, malted &amp; unmalted Wheat, Dehusked Chocolate malt malts, malted and unmalted</grains>
+  <grains>pale, Pale &amp; Amber malts, malted &amp; unmalted Wheat, Dehusked Chocolate malt malts, malted and unmalted</grains>
+  <hops>magnum &amp; Simcoe hops.</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Unfiltered Brown Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-Brewhouse-Blonde" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="4.7" ibu="15">
+  <name>BJ's Brewhouse Blonde</name>
+  <description>A light and refreshing pale beer in the style of a German Kolsch. Slightly malty with delicate hopping to balance. Bottom-fermented and well-conditioned for exceptional smoothness.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row pale, wheat, vienna</grains>
+  <grains>2-row pale, wheat, vienna</grains>
+  <hops>Perle, Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Kolsch</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Wolfhound-Stout" brewery_id="Great-Lakes-Brewing-Co" abv="4.8" ibu="60">
+  <name>Wolfhound Stout</name>
+  <description>Roasted barley flavors dominate this thirst quenching dry Irish Stout.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Stout</style>
+  </styles>
+</beer>

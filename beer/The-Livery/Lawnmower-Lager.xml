@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Lawnmower-Lager" brewery_id="The-Livery" abv="4.5">
+  <name>Lawnmower Lager</name>
+  <description>Not your typical Microbrew! This light lager is very mild both in bitterness and alcohol. Perfect for those hot summer days! (In the winter months we call this "Snowblower"!)</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pilsner</style>
+  </styles>
+</beer>

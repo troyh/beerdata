@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alaskan-Brewing-Co/Big-Nugget" brewery_id="Alaskan-Brewing-Co">
+  <name>Big Nugget</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine</style>
+  </styles>
+</beer>

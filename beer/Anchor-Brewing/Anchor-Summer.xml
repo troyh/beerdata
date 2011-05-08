@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Anchor-Brewing/Anchor-Summer" brewery_id="Anchor-Brewing" abv="4.6">
+  <name>Anchor Summer</name>
+  <description>Anchor Summer is the first American wheat beer in modern times. Our first brew of this light and refreshing beer was in the summer of 1984. Anchor Summer is an all-malt beer, and over 50% of its malt comes from malted wheat. It is fermented with a traditional top-fermenting "ale" yeast because we prefer the clean flavors developed by this yeast. We believe that this style best celebrates the refreshingly light flavor of malted wheat. You may notice that the head on this beer is unusually abundant, with a consistency similar to whipped egg whites. This is due to protein contributed by the wheat. \nThe brewers at Anchor are proud to have revived not only rich hearty dark beers, but also this light crisp style of a modern American wheat beer. \nWheat malt contributes to an unusual lightness and dryness to the palate, and this--combined with the distinctive flavor of the wheat--makes for a perfect thirst-quenching beverage. It is the ideal drink for beer lovers who appreciate tradition and character in their beer, but also seek a lighter, refreshing style, perfect for warm weather.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Wheat/2-Row Barley</grains>
+  <grains>Wheat/2-Row Barley</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat</style>
+  </styles>
+</beer>

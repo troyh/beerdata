@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Double-Dead-Guy-Ale" brewery_id="Rogue-Ales" ibu="60">
+  <name>Double Dead Guy Ale</name>
+  <description>Deep amber copper color. Buttery peanut brittle, orange blossom tea aromas follow through to a rich chewy and fruity full body with nice notes of caramel drizzled dried apricot and roasted grains and spice. Finishes with a long, tangy grilled grapefruit and chocolate fade.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-Row, Munich and C15. </grains>
+  <grains>2-Row, Munich and C15. </grains>
+  <hops>Hops: Cascade.</hops>
+  <yeast>Rogue's Pacman Yeast and Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Strong Ale</style>
+  </styles>
+</beer>

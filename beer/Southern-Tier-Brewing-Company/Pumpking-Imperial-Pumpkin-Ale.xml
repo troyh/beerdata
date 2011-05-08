@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Pumpking-Imperial-Pumpkin-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="9">
+  <name>pumpking Imperial Pumpkin Ale</name>
+  <description>Pumking is an ode to P&#x9C;ca, a creature of Celtic folklore, who is both feared and respected by those who believe in it. P&#x9C;ca is said to waylay travelers throughout the night, tossing them on its back, and providing them the ride of their lives, from whichthey return forever changed! Brewed in the spirit of All Hallows Eve, a time of year when spirits can make contact with the physical world and when magic is most potent. Pour Pumking into a goblet and allow it&#xD5;s alluring spirit to overflow. As spicy aromas present themselves, let its deep copper color entrance you as your journey into this mystical brew has just begun. As the first drops touch your tongue a magical spell will bewitch your taste buds making it difficult to escape. This beer is brewed with pagan spirit yet should be enjoyed responsibly.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Pumpkin Ale</style>
+  </styles>
+</beer>

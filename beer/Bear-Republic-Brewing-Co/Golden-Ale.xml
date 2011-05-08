@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Golden-Ale" brewery_id="Bear-Republic-Brewing-Co">
+  <name>Golden Ale</name>
+  <description>At the lighter end of the malt, hop and color spectrum, it offers a refreshing departure from the higher alcohol, or hoppier ales. With low bitterness and a light honey-like sweetness in the finish, this is a very drinkable, summer "session" ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>golden Ale</style>
+  </styles>
+</beer>

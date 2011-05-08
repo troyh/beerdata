@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Spaten/Oktoberfest" brewery_id="Spaten">
+  <name>Oktoberfest</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

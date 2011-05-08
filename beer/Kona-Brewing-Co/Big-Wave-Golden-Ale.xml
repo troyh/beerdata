@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kona-Brewing-Co/Big-Wave-Golden-Ale" brewery_id="Kona-Brewing-Co" abv="5.3" ibu="20">
+  <name>Big Wave Golden Ale</name>
+  <description>Big Wave is a light golden ale with a subtle fruitiness and delicate hop aroma. A smooth, easy drinking refreshing ale. The lightly roasted honey malt contributes to the golden hue of this beer and also gives a slight sweetness that is balanced out by our special blend of hops.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>pale, honey</grains>
+  <grains>pale, honey</grains>
+  <hops>northern brewer, willamette, hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Alt" brewery_id="Harpoon" abv="5.25" ibu="37">
+  <name>Alt</name>
+  <description>This deep copper colored ale blends a spectrum of malts to build a medium bodied, full flavored beer. The German hops provide a subtle aroma and a clean, bitter finish. The Harpoon 100 Barrel Series Alt is well-balanced, smooth, and refreshing.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Altbier</style>
+  </styles>
+</beer>

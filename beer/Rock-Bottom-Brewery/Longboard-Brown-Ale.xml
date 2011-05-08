@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Longboard-Brown-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Longboard Brown Ale</name>
+  <description>Our chestnut Brown Ale is a delicious beer tasting experience. The European malts create unique caramel and nutty flavors without being too sweet. Steak and ribs are the Brewer's choice to accompany this malty ale.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

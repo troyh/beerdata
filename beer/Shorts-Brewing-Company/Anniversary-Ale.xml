@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Anniversary-Ale" brewery_id="Shorts-Brewing-Company">
+  <name>Anniversary Ale</name>
+  <description>This beer is typically a big IPA or strong double Red ale. Large amounts of hops and malt engineered differently every year.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

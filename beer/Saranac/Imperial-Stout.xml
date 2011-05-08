@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Imperial-Stout" brewery_id="Saranac" abv="9">
+  <name>Imperial Stout</name>
+  <description>Saranac Imperial Stout is part of our "High Peaks Series," a line of beers that are bigger, more complex and flavorful; beers that are meant to be sipped and savored. Saranac Imperial Stout is brewed with 11 malts to balance a deliciouse chocolate and coffee roasted flavor with a spicy herbal character of the generous kettle and dry hops.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>Chocolate, roasted barley, 2 row</grains>
+  <grains>Chocolate, roasted barley, 2 row</grains>
+  <hops>columbus, summit</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

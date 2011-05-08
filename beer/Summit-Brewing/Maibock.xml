@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Maibock" brewery_id="Summit-Brewing" abv="6.7" ibu="40">
+  <name>Maibock</name>
+  <description/>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>harrington, munich</grains>
+  <grains>harrington, munich</grains>
+  <hops>czechoslovakian saaz, mt. hood</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>maibock</style>
+  </styles>
+</beer>

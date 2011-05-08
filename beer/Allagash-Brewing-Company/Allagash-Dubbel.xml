@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagash-Dubbel" brewery_id="Allagash-Brewing-Company" abv="7">
+  <name>Allagash Dubbel</name>
+  <description>Allagash Dubbel boasts a dark mahogany color with ruby hues and a complex malty taste. The finish is dry with subtle hints of chocolate and nuts. With time, Allagash Dubbel will mature in the bottle and acquire distinctive port and sherry characteristics.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dubbel</style>
+  </styles>
+</beer>

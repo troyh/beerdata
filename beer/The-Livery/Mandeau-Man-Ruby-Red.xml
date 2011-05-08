@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Mandeau-Man-Ruby-Red" brewery_id="The-Livery" abv="6">
+  <name>Mandeau Man Ruby Red</name>
+  <description>This deep red ale is named after one of Steves' favorite mandolin players, Jimmy Gaudreau, who has played with Tony Rice, J. D. Crowe, Robin &amp; Linda Williams, Chesapeake, Bennet Auldridge and Gaudreau, and many aother notable bluegrass players. Malt is in the forefront balanced nicely by English and North American hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Amber/Red Ale</style>
+  </styles>
+</beer>

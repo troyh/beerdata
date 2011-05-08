@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Hop-Hearty" brewery_id="New-Glarus-Brewing-Company" abv="6.2">
+  <name>Hop Hearty</name>
+  <description>Finally, Hop Hearty Ale, the Wisconsin I.P.A. you've been thirsten' for. This ale is brewed with the best of Old and New World Hops. Then we infuse the aging tanks with a dry hop addition of Cascade and East Kent Goldings to bring home the hops! \nExpect this ale to pour a glass brimming with rich caramel flavors along with an intense hop aroma that you won't soon forget. Cleanly bitter and aromatic, this ale is not for the faint of heart.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

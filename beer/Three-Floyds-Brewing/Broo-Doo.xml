@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Broo-Doo" brewery_id="Three-Floyds-Brewing" abv="7" ibu="80">
+  <name>Broo Doo</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Harvest Ale</style>
+  </styles>
+</beer>

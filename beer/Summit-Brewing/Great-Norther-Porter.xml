@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Great-Norther-Porter" brewery_id="Summit-Brewing" abv="5.6" ibu="50">
+  <name>Great Norther Porter</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row harrington, caramel, carafa II</grains>
+  <grains>2-row harrington, caramel, carafa II</grains>
+  <hops>horizon, fuggle, cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Poter</style>
+  </styles>
+</beer>

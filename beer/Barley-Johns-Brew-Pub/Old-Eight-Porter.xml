@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Barley-Johns-Brew-Pub/Old-Eight-Porter" brewery_id="Barley-Johns-Brew-Pub" abv="8">
+  <name>Old Eight Porter</name>
+  <description>Old school porter. Dark, rich chocolate and coffee notes with huge malt characteristics. This is a meal in itself!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

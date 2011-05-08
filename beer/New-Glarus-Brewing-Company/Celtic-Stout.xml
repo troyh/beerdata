@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Celtic-Stout" brewery_id="New-Glarus-Brewing-Company">
+  <name>Celtic Stout</name>
+  <description>Dan's old country relatives would be proud to tip a pint of himself's Celtic Stout. Hearty and satisfying this stout is brewed with 100% pure English floor malt, the finest stout malt in the world. The deep chocolate tones of the Maris Otter malt are accented by rare old world Alsatian Strisselspalter hops. \nExpect this ale to pour a creamy ivory head over an ebony rich body that is silky smooth. Notice the rich chocolate bouquet that is balanced by a spectrum of extravagant flavor. This ale is best served just above room temperature and tis certain to bring out the brogue in ye</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

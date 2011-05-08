@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harviestoun-Brewery/Schiehallion" brewery_id="Harviestoun-Brewery" abv="4.8">
+  <name>Schiehallion</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager Beer</style>
+  </styles>
+</beer>

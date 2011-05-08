@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Trippel" brewery_id="New-Belgium-Brewing-Company">
+  <name>Trippel</name>
+  <description>Our Trippel Belgian Style Ale (pronounced triple) opens with a bold blast of hops that slowly gives way to the fruity esters implied by our Belgian yeast strain. The Three Graces hand-painted on the label are Zeus's daughters Aglaia (splendor), Euphrosyne (mirth) and Thalia (good cheer). In the Belgian tradition of brewing singles, doubles and triples, Trippel is the strongest with the longest fermentation. Remarkably smooth and complex, our bottle-conditioned Trippel is spiced with a trace of coriander.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Trippel</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Johns-Locker-Stock-Pauls-Black-Lager" brewery_id="Rogue-Ales" ibu="28">
+  <name>John's Locker Stock: Paul's Black Lager</name>
+  <description>PBL' is jet black in color with a medium to full body. Seemless and deftly balanced--drinks like silk. Unfiltered and Unfined.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row Pale, Melanoidin and Carafoam Special II, Black and Chocolate.</grains>
+  <grains>2-row Pale, Melanoidin and Carafoam Special II, Black and Chocolate.</grains>
+  <hops>Oregon Perle and Hallertau.</hops>
+  <yeast>Oktoberfest #2633 Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

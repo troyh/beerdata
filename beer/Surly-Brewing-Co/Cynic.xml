@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Cynic" brewery_id="Surly-Brewing-Co" abv="6.5" ibu="33">
+  <name>Cynic</name>
+  <description>Oh great, a fizzy yellow beer in a can, that's just what the craft beer world needs! CnynicAle melds Old World ingredients in a new school style. French malted barley, English oats and Belgian yeast create honey &amp; black pepper flavors. Lively Slovenian hops provide the floral, apricot and peach notes. Toss your doubts away, toss one back and enjoy</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

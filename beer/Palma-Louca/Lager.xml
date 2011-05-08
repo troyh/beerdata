@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Palma-Louca/Lager" brewery_id="Palma-Louca">
+  <name>Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Caramel-Porter" brewery_id="Saranac" abv="5.4">
+  <name>Caramel Porter</name>
+  <description>Saranac Caramel Porter is a Robust, flavorful porter Reminiscent of a by-gone era. True to brewing tradition, we've used dark caramel malt, as well as Fuggles and East Kent Goldings hops for smooth, yet slightly bitter, roasted flavor, look for hints of the real caramel used in brewing this delicious beer!</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>dark caramel</grains>
+  <grains>dark caramel</grains>
+  <hops>fuggles, east kent goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

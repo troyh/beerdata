@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Road-Dog-Porter" brewery_id="Flying-Dog-Brewery" abv="6" ibu="31">
+  <name>Road Dog Porter</name>
+  <description>Blessed by Hunter S. Thompson... Road Dog Porter was our first beer to be illustrated by Ralph Steadman. This is a dark, rich and malty beer, with hints of chocolate and licorice resulting from the use of four prized malts. We also defended Road Dog's honor when the Colorado state liquor board tried to ban us from selling it because "Good Beer, No Shit" was on the label. It took 5 years, but we won.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Crystal, Chocolate, Black</grains>
+  <grains>Crystal, Chocolate, Black</grains>
+  <hops>Warrior, Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

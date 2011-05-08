@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brewdog/Dogma" brewery_id="Brewdog" abv="7.8" ibu="65">
+  <name>Dogma</name>
+  <description>Dogma is an innovative, enigmatic ale brewed with guarana, poppy seeds and kola nut all blended together with Scottish heather honey. A conspiracy of transcontinental ingredients infused with some devastatingly BrewDog imaginative thinking. The flavours, intricacies and nuances of this beer are best enjoyed while musing over some obscure 17th Century philosophical meanderings, such as: "If we disbelieve everything because we cannot certainly know all things we will do much, what as wisely as he who would not use his wings but sit still and perish because he had no wings to fly."John Locke. This beer is not cool. You may think it is, but that is just a beautiful lie fabricated by clowns and gypsies.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Marris Otter Extra Pale, Caramalt, roasted barley, Dark Krystal Malt, Munich Malt</grains>
+  <grains>Marris Otter Extra Pale, Caramalt, roasted barley, Dark Krystal Malt, Munich Malt</grains>
+  <hops>Bramling Cross, Amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale</style>
+  </styles>
+</beer>

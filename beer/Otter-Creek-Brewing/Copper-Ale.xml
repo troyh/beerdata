@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Copper-Ale" brewery_id="Otter-Creek-Brewing" ibu="21">
+  <name>Copper Ale</name>
+  <description>Our year 'round flagship brew is Copper Ale, a medium bodied, amber ale inspired by the Altbiers of Northern Germany. Brewed with six different malts, three hop varieties and our special house yeast, Copper Ale is characterized by a well-balanced blend of malty notes and mild bitterness.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

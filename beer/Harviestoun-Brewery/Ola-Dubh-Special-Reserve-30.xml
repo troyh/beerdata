@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harviestoun-Brewery/Ola-Dubh-Special-Reserve-30" brewery_id="Harviestoun-Brewery">
+  <name>Ola Dubh Special Reserve 30</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale Matured In Whisky Casks</style>
+  </styles>
+</beer>

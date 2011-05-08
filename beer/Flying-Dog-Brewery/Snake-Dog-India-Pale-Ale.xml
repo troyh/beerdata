@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Snake-Dog-India-Pale-Ale" brewery_id="Flying-Dog-Brewery" abv="7.1" ibu="60">
+  <name>Snake Dog India Pale Ale</name>
+  <description>More cunning than a snake in the bush... Snake Dog India Pale Ale is a Colorado-style IPA, power hopped with specialty hops from the Pacific Northwest. This is the brewery's hop monster, and the citrus fruit aroma will hypnotize the senses of the most hardcore craft beer drinkers.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Crystal</grains>
+  <grains>Crystal</grains>
+  <hops>Warrior, Columbus</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

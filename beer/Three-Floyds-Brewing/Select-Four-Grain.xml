@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Four-Grain" brewery_id="Three-Floyds-Brewing">
+  <name>Select Four Grain</name>
+  <description>Our Ale is made with 40% malted barley (both pale and caramel), 25% wheat, 25% rye and 10% oats. The wheat will add full body and crispness to the beer. The rye will impart the taste and aroma of nuts and baking bread. The oats will enhance the flavor of all of the other ingredients to give the beer a well rounded flavor. The beer is dry hopped with Horizon hops to add a spicy hop flavor and aroma. The result is an amber colored, full flavored ale.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

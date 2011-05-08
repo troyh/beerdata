@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Alagash-Fluxus-07" brewery_id="Allagash-Brewing-Company" abv="10">
+  <name>Alagash Fluxus '07</name>
+  <description>(fluk-suhs) -noun, Latin. a flowing or flow a continuous change, passage or movementAllagash Fluxus is so named because it is the first beer brewed in our new brewery. Fluxus marks the change and growth of Allagash Brewing Company, and our passage from the corner of our original building to a new, state of the art brewery. Brewed with Belgian Pilsner Malt and 25% Rye malt, the beer is full-bodied with a spicy, herbal taste. A floral note arises with the addition of Yarrow, which is a flowering plant that was historically used as an alternative to hops. The 10% abv beer is hopped with Warrior and Brewers Gold which impart a subtle bitterness. Finally Fluxus, like all our beers, undergoes a second fermentation, the methode champenoise, by which we naturally carbonate our beer in the bottle. As part of our Tribute Series, Allagash is donating $1 from each bottle of Fluxus sold to the Allagash Pediatric Scholarship at the Maine Medical Center in Portland, Maine. The scholarship will directly support the training of a nurse, whether it be undergraduate, graduate or certification in the field of pediatric nursing. We are proud to donate to the nurses at MMC, who do an outstanding job.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

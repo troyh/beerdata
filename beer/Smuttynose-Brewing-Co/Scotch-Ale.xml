@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Scotch-Ale" brewery_id="Smuttynose-Brewing-Co">
+  <name>Scotch Ale</name>
+  <description>Scotch ales are characterized by their full body, pronounced malty sweetness and low hop levels. Generally deep amber to brown in color, with caramel and subtle roasted malt flavors, Scotch ales can feature smoky flavors (derived from a small measure of peated malt) or, more traditionally, no smoky flavor.Our Scotch Ale is a bold amber beer that balances smooth rich sweetness with a hint of peat smoked malt. The infusion of this subtle smokiness invites images of heather fields, platters of haggis, &amp; the poetry of William McGonagall. Enjoy one with your mates!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scotch Ale</style>
+  </styles>
+</beer>

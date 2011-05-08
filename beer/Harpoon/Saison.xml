@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Saison" brewery_id="Harpoon" abv="6.3" ibu="26">
+  <name>Saison</name>
+  <description>Our Saison is inspired by the classic Wallonian farmhouse ales of the late 1800's. Designed for consumption on the farm by fieldhands, these beers were intended to be crisp, refreshing, and sustaining. Brewed using a combination of Belgian Pale and Vienna malts with some torrefied wheat, the beer is hopped with a combination of Kent and Styrian Goldings, with a delicate addition of pepper and cardamom. Fermented at an unusaully high temperature, the resulting beer is dry, crisp, and complex. Enjoy!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Saison</style>
+  </styles>
+</beer>

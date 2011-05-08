@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Independence-Hope-Ale" brewery_id="Rogue-Ales" ibu="80">
+  <name>Independence Hope Ale</name>
+  <description>A light copper-colored, unfiltered ale marrying two distinctive hop characteristics.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row, Munich, Caramel Wheat and Carafoam.</grains>
+  <grains>Two-row, Munich, Caramel Wheat and Carafoam.</grains>
+  <hops>Fresh unkilned Centennial and Cascade hops.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Fresh Hop Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Peashooter-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Peashooter Pale Ale</name>
+  <description>A British-style ale with a rich gold color, this medium-bodied ale uses noble German hops and three types of malt</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

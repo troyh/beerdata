@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Imperial-Pilsner" brewery_id="Three-Floyds-Brewing">
+  <name>Select Imperial Pilsner</name>
+  <description>Our Imperial Pilsner is similar to the Czech original, but all of the flavor characteristics are increased or "Imperialized". Thus, the beer is slightly darker, maltier and has more hop aroma than the original style. Also, because our water in Abita Springs is remarkably similar to that in Pilsen, we do not have to artificially adjust our water to achieve a similar taste. Our Select is made with Pilsner, Munich, Cara Munich and Cara Pils malts. In keeping with tradition, it is hopped and dry hopped exclusively with Czech Saaz hops. The resulting dark golden beer has a sweet malty taste and floral hop aroma.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Pilsner</style>
+  </styles>
+</beer>

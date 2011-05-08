@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Big-Opal" brewery_id="Firestone-Walker-Brewing-Company" abv="9.5" ibu="45">
+  <name>Big Opal</name>
+  <description>Big Opal is a hearty wheat wine brewed for our anniversayr barrel-aging program. You will most likely see this blended into "Twelve" later this year. A hefty malt bill drives the alcohol over 9% and a blend of our House Ale yeast and Humboldt yeast adds to the complexity.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Premium 2-row, Wheat, Torrified Wheat, Honey Malt, Honey</grains>
+  <grains>Premium 2-row, Wheat, Torrified Wheat, Honey Malt, Honey</grains>
+  <hops>Saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Wine</style>
+  </styles>
+</beer>

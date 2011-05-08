@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/A-Little-Sumpin-Sumpin-Ale" brewery_id="Lagunitas-Brewing-Co" abv="7.7">
+  <name>A Little Sumpin' Sumpin' Ale</name>
+  <description>Way smooth and silky with a nice wheaty-esque-ish-ness. Just the little sumpin' sumpin' we all need to kick Summer into full swing!</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

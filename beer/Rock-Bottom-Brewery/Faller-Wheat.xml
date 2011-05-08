@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Faller-Wheat" brewery_id="Rock-Bottom-Brewery">
+  <name>Faller Wheat</name>
+  <description>A pale gold wheat ale, unfiltered with a slight haze, Faller Wheat is a light-bodied "session beer" bearing a ?subtle flavor of European hops.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

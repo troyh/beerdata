@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Summer-Brew" brewery_id="Saranac" abv="3.5">
+  <name>Summer Brew</name>
+  <description>For nearly 100 years, Europeans have mixed lemonade and beer as a refreshing beverage during the summer months. We continue this tradition with Saranac Summer Brew-A refreshing blend of lemonade and lager. Kick back, relax and enjoy!</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>North American Pale Malt</grains>
+  <grains>North American Pale Malt</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Radler</style>
+  </styles>
+</beer>

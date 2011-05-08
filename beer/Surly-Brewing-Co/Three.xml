@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Surly-Brewing-Co/Three" brewery_id="Surly-Brewing-Co">
+  <name>Three</name>
+  <description>our 3rd anniversary beer. A black braggot. Beer brewed with 50% Munich malt and 50% honey.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>munich</grains>
+  <grains>munich</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>black braggot</style>
+  </styles>
+</beer>

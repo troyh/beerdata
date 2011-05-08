@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Pollenator" brewery_id="Long-Trail-Brewing-Co" abv="4.6" ibu="23">
+  <name>Pollenator</name>
+  <description/>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

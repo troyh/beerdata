@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Cerise" brewery_id="Founders-Brewing-Co" abv="6.5" ibu="15">
+  <name>Cerise </name>
+  <description>You'll have a soft spot for this one. Using only fresh Michigan tart cherries, this beauty tantalizes with intense flavors combined with a no hesitation malt bill. Adding fresh cherries at five separate stages of fermentation achieves the ultimate balance between tartness and sweetness.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>cherry fermented ale</style>
+  </styles>
+</beer>

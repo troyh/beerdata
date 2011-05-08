@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Bohemian-Lager" brewery_id="New-Glarus-Brewing-Company">
+  <name>Unplugged Bohemian Lager</name>
+  <description>In 1985 before The Wall fell, and just after the birth of our youngest daughter, Dan followed his Siren's Call making the true Brewer's pilgrimage to the birthplace of modern beer; Pilsen. Inspired by the noble brew he scribbled notes; triple decoction, 100% Czech Moravian malt, fermentation in unlined oak tanks, generous amounts of Saaz Hops, Krausening and a three month ice cold lager. An elegant masterpiece of complexity lost to change in the Czech Republic. We resurrect and invest, by brewing without compromise, that exact Old World recipe and this is the brew - Bohemian Lager.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Cascade-Head" brewery_id="Mcmenamins" abv="4.52">
+  <name>Cascade Head</name>
+  <description>Cascade Head ale, being one of our lightest beers, was named after the National Wildlife Preserve in Lincoln City, Oregon. It is a light, crisp, golden ale and is a good choice for those whose palates are accustomed to America's light lagers. Hopped exclusively with the noble Hallertauer, Cascade Head is a refreshing option for those who prefer their ales a little less aggressive.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale Malt, 40L Crystal</grains>
+  <grains>Pale Malt, 40L Crystal</grains>
+  <hops>Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

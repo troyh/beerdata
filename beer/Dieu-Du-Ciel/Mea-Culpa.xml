@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Mea-Culpa" brewery_id="Dieu-Du-Ciel" abv="6">
+  <name>MEA CULPA</name>
+  <description>This is a cross between an Indian Pale Ale and an Irish Cream Ale. It is therefore an amber ale with malt-caramel and fruity flavours, the latter being a by-product of the English style yeast used during the brewing process. The beer has a mild hoppy flavour as well as a discrete alcohol taste. Overall, the beer is complex and full-bodied and wonderfully balanced. The beer, as in the Irish Cream Ale tradition, is pressurized with a mixture of nitrogen and carbon dioxide, resulting in a less effervescent beer, but with a rich, creamy head.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>india cream ale</style>
+  </styles>
+</beer>

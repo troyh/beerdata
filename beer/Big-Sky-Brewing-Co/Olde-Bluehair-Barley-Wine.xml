@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Olde-Bluehair-Barley-Wine" brewery_id="Big-Sky-Brewing-Co" abv="8.75" ibu="75">
+  <name>Olde Bluehair Barley Wine</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>pale, crystal, chocolate</grains>
+  <grains>pale, crystal, chocolate</grains>
+  <hops>simcoe, challenger, east kent goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barley wine</style>
+  </styles>
+</beer>

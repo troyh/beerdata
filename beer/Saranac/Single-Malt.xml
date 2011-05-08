@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Single-Malt" brewery_id="Saranac" abv="5.5">
+  <name>Single Malt</name>
+  <description>We use 100% Scottish Maris Otter Malt. Traditionally used in the distilling industry. The combination of the Scottish Malt and slow aging process produces a unique brew as distinctive as single malt whiskey with a flavor than any other beer.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>custom malted maris otter</grains>
+  <grains>custom malted maris otter</grains>
+  <hops>fuggles</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Brown Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Maibock" brewery_id="Boulevard-Brewing-Co" abv="5.95" ibu="20">
+  <name>Maibock</name>
+  <description>First introduced in 2008, Boulevard Maibock is a new, limited-release seasonal brew. A welcome sign of Spring, this beer is a traditional German lager, lighter in color than other bocks. Boulevard's Maibock is a distinctive, refreshing take on this springtime classic.\nSENSORY DESCRIPTION: Medium golden color; caramel and malty with a light bitterness to balance the toasted malty flavors. The finish is crisp and refreshing.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>Pilsner and Munich malts, malted Wheat. </grains>
+  <grains>Pilsner and Munich malts, malted Wheat. </grains>
+  <hops>Magnum, Simcoe and Perle hops.</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Maibock</style>
+  </styles>
+</beer>

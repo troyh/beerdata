@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Brabant" brewery_id="Avery-Brewing" abv="8.7" ibu="25">
+  <name>Brabant</name>
+  <description>Experimentation. Ales and lagers that defy styles or categories. This is what we are about: our driving force, our passion. To further facilitate this innovative spirit, we've developed our Barrel-Aged Series where anything, and we mean ANYTHING, goes! Brewed for those as adventurous as we are!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Two-row barley, dehusked carafa, honey malt, carafa 3, chocolate malt</grains>
+  <grains>Two-row barley, dehusked carafa, honey malt, carafa 3, chocolate malt</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barrel-Aged Wild Ale</style>
+  </styles>
+</beer>

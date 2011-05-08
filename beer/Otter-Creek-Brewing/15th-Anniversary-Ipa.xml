@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/15th-Anniversary-Ipa" brewery_id="Otter-Creek-Brewing">
+  <name>15th Anniversary IPA</name>
+  <description>15 years ago, in a small rented warehouse in Middlebury, Vermont, we brewed our first batch of beer. Five years later, we built our own bigger and better brewery- and we've all been reaping the benefits ever since!\nTo celebrate our 15th anniversary Brewmaster Steve Parkes has brewed up a rich, bold and hoppy India Pale Ale. This IPA is dry hopped, a procedure that adds even more hop aroma to the already hoppy IPA style.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

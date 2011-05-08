@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Unibroue/Blanche-De-Chambly" brewery_id="Unibroue">
+  <name>Blanche de Chambly</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - White</style>
+  </styles>
+</beer>

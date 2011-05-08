@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Youngs/Old-Nick-Barley-Wine" brewery_id="Youngs">
+  <name>Old Nick Barley Wine</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Barley Wine Style</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-India-Pale-Ale" brewery_id="Three-Floyds-Brewing">
+  <name>Select India Pale Ale</name>
+  <description>Our English IPA is made with British pale and light crystal malts. It gives the beer a bright pale color and malty flavor. It also produces a very intense taste. It is hopped liberally with English Kent Golding Hops. This results in the beer having a pleasant bitter taste and fruity hops aroma. The extra bitterness will mix with the strong sweet flavor from the malt for a very balanced tasting beer. The result is a very bold and flavorful pale ale.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

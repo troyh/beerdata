@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Two-Hearted-Ale" brewery_id="Bells-Brewery" abv="7.0">
+  <name>Two Hearted Ale</name>
+  <description>ndia Pale Ale style well suited for Hemingway-esque trips to the Upper Peninsula. American malts and enormous hop additions give this beer a crisp finish and incredible floral hop aroma.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>india Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/St-Boisterous" brewery_id="Victory-Brewing-Co" abv="7.3">
+  <name>St. Boisterous</name>
+  <description>A full-bodied lager beer of exuberant and robust character. It's muscle-man body comes from decocted German malts and noble German hops. Lagered long and cold to refine its strong temperament, St. Boisterous emerges smooth and seductive, with a malty sweet charm. This classic rendition of the German 'maibock' style will warm your heart.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains>imported, German malts</grains>
+  <grains>imported, German malts</grains>
+  <hops>imported, German whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>maibock</style>
+  </styles>
+</beer>

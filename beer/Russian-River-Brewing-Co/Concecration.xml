@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Concecration" brewery_id="Russian-River-Brewing-Co" abv="10.5">
+  <name>Concecration</name>
+  <description>A stong dark ale aged for 6 months inside used cabernet sauvignon barrels with currants added.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dark Ale</style>
+  </styles>
+</beer>

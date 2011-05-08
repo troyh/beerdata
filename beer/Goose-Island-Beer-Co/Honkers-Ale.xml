@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Honkers-Ale" brewery_id="Goose-Island-Beer-Co" abv="4.2" ibu="30">
+  <name>Honker's Ale</name>
+  <description>Inspired by visits to English country pubs, Honker's Ale combines a fruity hop aroma with a rich malt middle to create a perfectly balanced beer. Immensely drinkable, Honker's Ale is not only the beer you can trust but one you'll look forward to time and again.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2 Row, Caramel, Wheat, Roasted Barley</grains>
+  <grains>2 Row, Caramel, Wheat, Roasted Barley</grains>
+  <hops>Styrian Golding</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

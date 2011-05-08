@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Tire-Bite-Golden-Ale" brewery_id="Flying-Dog-Brewery" abv="5" ibu="16.5">
+  <name>Tire Bite Golden Ale</name>
+  <description>The young pup of the pack... Tire Bite Golden Ale is a refreshing, light, warm weather slammer with a flavorful hop edge. Brewed using exclusive imported German hops, this beer draws craft beer drinkers back from the "dark" side of the cooler.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Malted White Wheat, Munich</grains>
+  <grains>Malted White Wheat, Munich</grains>
+  <hops>German Perle, Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

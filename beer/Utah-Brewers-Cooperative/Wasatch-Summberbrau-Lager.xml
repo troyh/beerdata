@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Wasatch-Summberbrau-Lager" brewery_id="Utah-Brewers-Cooperative" abv="5.6">
+  <name>Wasatch Summberbrau Lager</name>
+  <description>For your summer drinking pleasure, we're proud to announce the release of Wasatch Summerbrau Lager is a 5.6% copper-hued Czech-style pilsner-lager. Our German style lager is designed to be the perfect companion for any summer celebration. Starting with the finest German pale malts and attacking it with a blitzkrieg of hops, this lager has a perfect finish of bitterness and aroma. Prosit!</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner-Lager</style>
+  </styles>
+</beer>

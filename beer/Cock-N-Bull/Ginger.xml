@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Cock-N-Bull/Ginger" brewery_id="Cock-N-Bull">
+  <name>Ginger</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Non-Alcoholic</style>
+  </styles>
+</beer>

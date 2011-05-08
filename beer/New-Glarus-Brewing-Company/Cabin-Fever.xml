@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Cabin-Fever" brewery_id="New-Glarus-Brewing-Company" ibu="28">
+  <name>Cabin Fever</name>
+  <description>Long cold days bring us back home. Now is the season to move slowly and embrace early evenings with friends and family close. \nYou hold a triple to sip away the chill. Be certain to drink this ale slowly. Our Belgian style triple ale has an original gravity of 20? Plato and boasts a heady bouquet to balance the 28 I.B.Us of East Kent Golding and Saaz hops. The finish will linger with warm honey notes on your palette. Enjoy its pale golden color reminiscent of our summer sun. \nBecause one thing is certain about winter in Wisconsin; this too shall pass</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>East Kent Golding, Saaz </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Triple</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Masala-Mama-Ipa" brewery_id="Minneapolis-Town-Hall-Brewery" abv="6">
+  <name>Masala Mama IPA</name>
+  <description>American style India Pale Ale (IPA) brewed using Amarillo, Cascade, Centennial and Mt. Hood hops.  A beer with crisp hop flavor and bitterness well balanced with American malt sweetness.</description>
+  <availability/>
+  <ingredients/>
+  <grains>american</grains>
+  <grains>american</grains>
+  <hops>amarillo, cascade, centennial and mt hood</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

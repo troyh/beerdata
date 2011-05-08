@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Irish-Stout" brewery_id="Mcmenamins" abv="4.77">
+  <name>Irish Stout</name>
+  <description>What better way to honor St. Patrick's Day than with a fabulous stout brewed in the dry Irish style. McMenamins Irish Stout belongs to the dry Irish family and is brewed in the tradition of many famous Irish brews including Murphys, Beamish, and of course, Guinness. The term dry refers to the lack of residual sweetness found in some stouts. This quality provides a clean, crisp and refreshing draught. Aromas of chocolate and malt combine with hoppy, herbal nuances. The taste is complex, including pronounced roast barley flavors and a rich, bready warmth. These essences give way to a pleasing chocolate-espresso richness balanced by an herbal hop twang.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>Great Western Pale Malt, Great Western Flaked Barley, Hugh Baird Chocolate Malt, Hugh Baird Brown Malt and Hugh Baird Roast Material</grains>
+  <grains>Great Western Pale Malt, Great Western Flaked Barley, Hugh Baird Chocolate Malt, Hugh Baird Brown Malt and Hugh Baird Roast Material</grains>
+  <hops/>
+  <yeast>Chinook and Yakima Golding</yeast>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

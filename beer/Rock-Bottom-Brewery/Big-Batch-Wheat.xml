@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Big-Batch-Wheat" brewery_id="Rock-Bottom-Brewery">
+  <name>Big Batch Wheat</name>
+  <description>An American-style Wheat beer brewed with 55% malted wheat, creating a light-bodied, mild and refreshing beer. It is lightly hopped and served un-filtered.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

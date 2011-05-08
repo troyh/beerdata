@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Export-33/Lager" brewery_id="Export-33">
+  <name>Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

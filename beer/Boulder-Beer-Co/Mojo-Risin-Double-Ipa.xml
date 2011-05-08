@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Mojo-Risin-Double-Ipa" brewery_id="Boulder-Beer-Co" abv="10">
+  <name>Mojo Risin' Double IPA</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>2 row barley, wheat</grains>
+  <grains>2 row barley, wheat</grains>
+  <hops>amarillo and centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

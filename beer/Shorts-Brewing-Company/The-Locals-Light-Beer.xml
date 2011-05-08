@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/The-Locals-Light-Beer" brewery_id="Shorts-Brewing-Company">
+  <name>The Local's Light Beer</name>
+  <description>Our lightest and yet very, very tasty. With a domestic lager quality about it, this beer still stands alone as a well crafted micro lager. Light hops and simple malts provide easy session ability for the beginner microbrew consumer. The "training wheel beer."</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

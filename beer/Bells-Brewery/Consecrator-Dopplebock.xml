@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Consecrator-Dopplebock" brewery_id="Bells-Brewery" abv="8">
+  <name>Consecrator Dopplebock</name>
+  <description>A traditional dopplebock fermented with a Bohemian lager yeast. Reddish brown in color, with a mild hop profile, Consecrator is a well balanced, full bodied beer with hints of caramel and molasses in its smooth, malty finish.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dopplebock</style>
+  </styles>
+</beer>

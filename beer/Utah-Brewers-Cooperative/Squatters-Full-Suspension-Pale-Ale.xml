@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Squatters-Full-Suspension-Pale-Ale" brewery_id="Utah-Brewers-Cooperative" abv="4">
+  <name>Squatters Full Suspension Pale Ale</name>
+  <description>This two-time gold medal winning Northwest style pale ale has a great balance between the malty english barley and the aromatic hops from Washington's Yakima Valley. Unfiltered, dry-hopped and very drinkable. 4.0% alcohol by volume.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Northwest Pale Ale</style>
+  </styles>
+</beer>

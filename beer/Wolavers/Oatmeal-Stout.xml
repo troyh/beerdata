@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Wolavers/Oatmeal-Stout" brewery_id="Wolavers">
+  <name>Oatmeal Stout</name>
+  <description>Black in color, with a beautifully creamy head; brewed with organic rolled oats, organic wheat, and of course organic barley and hops.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>oatmeal Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Dank-Tank-The-Creeper" brewery_id="Sweetwater-Brewing-Company" abv="10">
+  <name>Dank Tank The Creeper</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Trippel</style>
+  </styles>
+</beer>

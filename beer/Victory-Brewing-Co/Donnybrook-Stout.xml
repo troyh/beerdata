@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Donnybrook-Stout" brewery_id="Victory-Brewing-Co" abv="3.7">
+  <name>Donnybrook Stout</name>
+  <description>The most refreshing dark beer you could ever imagine this side of Dublin! Low alcohol and roasted barley keep it clean and flavorful. The subtle earthiness of European hops harmonize with the roasted barley to offer a whiff of peat. Served with the classic nitrogen pour, Donnybrook delivers an impressive head and silken body of a classic stout.</description>
+  <availability/>
+  <ingredients/>
+  <grains>imported German 2 row malts and roasted barley</grains>
+  <grains>imported German 2 row malts and roasted barley</grains>
+  <hops>European whole flower</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

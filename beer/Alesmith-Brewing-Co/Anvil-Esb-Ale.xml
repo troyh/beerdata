@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Anvil-Esb-Ale" brewery_id="Alesmith-Brewing-Co" abv="5.5">
+  <name>Anvil ESB Ale</name>
+  <description>AleSmith ESB Ale was the first beer produced when the brewery opened, and remains our flagship ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains>caramel</grains>
+  <grains>caramel</grains>
+  <hops>english</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

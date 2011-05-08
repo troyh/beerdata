@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Simcoe-Single-Hop-Ipa" brewery_id="Mikkeller" abv="6.9">
+  <name>Simcoe Single Hop IPA</name>
+  <description>The first in a new series of single hop IPA's from Mikkeller. Brewed with Simcoe, known for many great US micro-brews. An extremely fresh-hopped IPA.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <hops>simcoe</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

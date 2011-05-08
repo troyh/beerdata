@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Aud-Blonde" brewery_id="Russian-River-Brewing-Co" abv="4.5">
+  <name>Aud Blonde</name>
+  <description>Aud Blonde may be the lightest colored beer we have ever brewed at Russian River Brewing Company, but don't be fooled into thinking that this beer is light in flavor. It has a refined characteristic, which can be contributed to us blending pilsner malt with a unique hop called crystal. The distinctive characteristic of the crystal hop lends a citrus, almost eucalyptus quality in the aroma and mouth feel of the brew, while leaving the beer with a long dry finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pilsner</grains>
+  <grains>pilsner</grains>
+  <hops>crystal</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Blonde Ale</style>
+  </styles>
+</beer>

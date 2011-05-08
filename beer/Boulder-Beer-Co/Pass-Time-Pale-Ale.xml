@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Pass-Time-Pale-Ale" brewery_id="Boulder-Beer-Co" abv="4.96">
+  <name>Pass Time Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>caramel,  dark caramel, 2 row barley</grains>
+  <grains>caramel,  dark caramel, 2 row barley</grains>
+  <hops>cascade, chinook, hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

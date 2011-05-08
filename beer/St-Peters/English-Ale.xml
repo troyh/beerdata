@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="St-Peters/English-Ale" brewery_id="St-Peters">
+  <name>English Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - English</style>
+  </styles>
+</beer>

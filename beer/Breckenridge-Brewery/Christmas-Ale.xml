@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Christmas-Ale" brewery_id="Breckenridge-Brewery" abv="7.4" ibu="22">
+  <name>Christmas Ale</name>
+  <description>The chill of a Colorado high-country winter calls for a beer with extra flavor and warming characteristics. Here it is. Breck Brew's Christmas Ale. At over 7% alcohol, with a sturdy texture and rich flavors of caramel and chocolate, our holiday seasonal is the fermented equivalent of a good fire.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Caramel, Chocolate, Black</grains>
+  <grains>Two Row Pale, Caramel, Chocolate, Black</grains>
+  <hops>Chinook, Mt. Hood</hops>
+  <yeast>Top Fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>American Strong Ale</style>
+  </styles>
+</beer>

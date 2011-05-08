@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Unibroue/Terrible" brewery_id="Unibroue">
+  <name>Terrible</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Belgium Style</style>
+  </styles>
+</beer>

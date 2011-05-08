@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Imperial-Russian-Stout" brewery_id="Stone-Brewing-Co" abv="10.5" ibu="90">
+  <name>Stone Imperial Russian Stout</name>
+  <description>Brewed in the authentic historical style of an Imperial Russian Stout, this beer is massive. Intensely aromatic (noes of anise, black currants, coffee, roastiness and alcohol) and heavy on the palate, this brew goes where few can- and fewer dare even try, This style originated from Czarist Russian's demand for even thicker English stouts. Expect our version of this mysterious brew to pour like Siberian crude and taste even heavier!</description>
+  <availability>Spring 2009</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Warrior</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Russian Stout</style>
+  </styles>
+</beer>

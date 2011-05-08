@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Mother-Lager" brewery_id="Magic-Hat" abv="4.8" ibu="17">
+  <name>Mother Lager</name>
+  <description/>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pilsner</grains>
+  <grains>pilsner</grains>
+  <hops>german northern brewer, czech saaz</hops>
+  <yeast>german lager</yeast>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

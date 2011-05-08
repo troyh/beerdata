@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Beer-Valley-Brewing-Co/Highway-To-Ale-Barley-Wine" brewery_id="Beer-Valley-Brewing-Co">
+  <name>Highway to Ale Barley Wine</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Barley Wine Style</style>
+  </styles>
+</beer>

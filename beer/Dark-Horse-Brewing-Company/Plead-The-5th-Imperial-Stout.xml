@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Plead-The-5th-Imperial-Stout" brewery_id="Dark-Horse-Brewing-Company">
+  <name>Plead the 5th Imperial Stout</name>
+  <description>750ml - It's big and full bodied with lots of roasted malts and blanced with heavy hops to put this imperial in a league of its own.</description>
+  <availability>fall/winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

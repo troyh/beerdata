@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Single-Chair-Ale" brewery_id="Magic-Hat" abv="5" ibu="17">
+  <name>Single Chair Ale</name>
+  <description>Single Chair celebrating the uniqueness of the Mad River Glen Cooperative Ski Area in Vermont. Medium bodied &amp; ideally balanced for all tastes, Single Chair Ale's tempting light golden color, heady aroma &amp; smooth liquid go down effortlessly and often! </description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale</grains>
+  <grains>Pale</grains>
+  <hops>Hallertau, Columbus</hops>
+  <yeast>English Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

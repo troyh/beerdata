@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Prussias-Pride-Ipa" brewery_id="Rock-Bottom-Brewery">
+  <name>Prussia's Pride IPA</name>
+  <description>India pale ale, copper-colored and rich in character. Floral hop aromas supported by a toasty malt profile balance this eclectic favorite.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

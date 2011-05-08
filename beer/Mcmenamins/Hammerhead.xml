@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Hammerhead" brewery_id="Mcmenamins" abv="5.93">
+  <name>Hammerhead</name>
+  <description>A classic Northwest pale ale and McMenamins top selling beer. This rich chestnut colored gem is a model of harmony between hops and malted barley. Hammerhead's signature Cascade hop nose and intense hopped flavor blend nicely with the caramel tones from the crystal malt. This beer has a vocal following. To run out is an unforgivable sin.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale Malt; Crystal Malt</grains>
+  <grains>Pale Malt; Crystal Malt</grains>
+  <hops>cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

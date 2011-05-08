@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flossmoor-Station-Restaurant-And-Brewery/Iron-Horse-Stout" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+  <name>Iron Horse Stout</name>
+  <description>A social drink famous for inducing wit, wisdom and song, stouts are the national drink of Ireland. Our full-bodied Iron Horse Stout is brewed with baked oats and features a roasted barley flavor with a rich, creamy body. Our Iron Horse Stout is sure to bring out the Irish in all of us.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

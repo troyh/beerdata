@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Hocus-Pocus" brewery_id="Magic-Hat" abv="4.5" ibu="13">
+  <name>Hocus Pocus</name>
+  <description>Its malty sweetness finishes tart and crisp and is best appreciated with a wedge of orange.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains>pale, malted wheat, acidulated</grains>
+  <grains>pale, malted wheat, acidulated</grains>
+  <hops>cascade, columbus</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Summer Ale</style>
+  </styles>
+</beer>

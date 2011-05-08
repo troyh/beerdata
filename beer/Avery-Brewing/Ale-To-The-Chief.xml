@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Ale-To-The-Chief" brewery_id="Avery-Brewing" abv="8.75" ibu="65">
+  <name>Ale to the Chief!</name>
+  <description>"We the Brewers of Avery Brewing Company, in order to form a more perfect ale, require new leadership that can liberate us from our quagmires in foreign lands; embrace environmentally sound energy alternatives to imported oil; heal our ailing healthcare system; free us from tyrannical debt and resurrect the collapsing dollar. We hereby pledge to provide him with an ample amount of our Presidential Pale Ale to support in the struggle for the aforementioned goals! Hail to the New Chief!"</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-Row Pale, C-150, Dark Munich, Honey Malt</grains>
+  <grains>Two-Row Pale, C-150, Dark Munich, Honey Malt</grains>
+  <hops>Magnum, Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Xtra-Gold" brewery_id="Captain-Lawrence-Brewing-Company" ibu="33">
+  <name>Xtra Gold</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>belgian pilsner</grains>
+  <grains>belgian pilsner</grains>
+  <hops>simcoe, sterling, cascade, crystal, amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Trippel Ale</style>
+  </styles>
+</beer>

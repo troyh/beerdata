@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Titian-Ipa" brewery_id="Great-Divide-Brewing-Co" abv="7.1">
+  <name>Titian IPA</name>
+  <description>is a big, aggressively hopped India Pale Ale brewed for hop disciples. It starts out with piney hop aromas and citrus hop flavors, and finishes with a nice rich, malty sweetness that is balanced with crisp hop bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

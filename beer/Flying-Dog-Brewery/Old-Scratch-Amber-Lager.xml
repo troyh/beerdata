@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Old-Scratch-Amber-Lager" brewery_id="Flying-Dog-Brewery" abv="5.5" ibu="19.5">
+  <name>Old Scratch Amber Lager</name>
+  <description>This dog enjoys his days in the sun... Old Scratch Amber Lager is a malty, mellow beer that is fermented at medium temperatures to develop both ale and lager characteristics. "Gold Scratch" raises the standard in the amber lager category.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Crystal Malt, Malted White Wheat, Munich Malt</grains>
+  <grains>Crystal Malt, Malted White Wheat, Munich Malt</grains>
+  <hops>German Perle, Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Lager</style>
+  </styles>
+</beer>

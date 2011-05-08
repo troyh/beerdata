@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Ruination-Ipa" brewery_id="Stone-Brewing-Co" abv="7.7" ibu="100+">
+  <name>Stone Ruination IPA</name>
+  <description>So called because of the "ruinous" effect on your palate! This massive hop monster has a wonderfully delicious and intensely bitter flavor on a refreshing malt base. One taste and you can easily see why we call this brew "a liquid poem to the glory of the hop!" Those who seek, crave and rejoice in beers  with big, bold, bitter character will find true nirvana in Stone Ruination IPA!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Columbus and Centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

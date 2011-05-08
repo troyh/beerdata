@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flossmoor-Station-Restaurant-And-Brewery/Pullman-Brown-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+  <name>Pullman Brown Ale</name>
+  <description>This robust, dark brown ale gets its rich flavor from seven different malts and three types of hops. The addition of hand-toasted oats and a generous portion of molasses give the Pullman Brown Ale an incredible smoothness and quaffability.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

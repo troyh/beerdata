@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Brown-Ale" brewery_id="Saranac" abv="6">
+  <name>Brown Ale</name>
+  <description>This Brown Ale is brewed with American malt and hops, and traditional ale yeast. Look for a sweet, chocolaty taste, with balanced bitterness resulting in a full flavored but smoothly drinkable beer. </description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>American two-row pale, Victory, Chocolate</grains>
+  <grains>American two-row pale, Victory, Chocolate</grains>
+  <hops>Cascade, Columbus</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Brown Ale</style>
+  </styles>
+</beer>

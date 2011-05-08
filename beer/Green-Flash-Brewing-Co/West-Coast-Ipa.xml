@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/West-Coast-Ipa" brewery_id="Green-Flash-Brewing-Co" abv="7" ibu="95">
+  <name>West Coast IPA</name>
+  <description>This West Coast-Style India Pale Ale is extravagantly hopped, full flavored, medium bodied and copper colored. A menagerie of hops is combined throughout the brewing process to impart specific characteristics. Hops used include Simcoe for a unique fruitiness and grapefruit zest, Columbus for strong hop pungency, Centennial for pine and citrus notes, and Cascade for floral aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>simcoe, columbus, centenial, and cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

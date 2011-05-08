@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Tripel-Trubbel" brewery_id="Bullfrog-Brewery" abv="8.5">
+  <name>Tripel Trubbel</name>
+  <description>To round out our tribute to the great monastic breweries of Belgium this Abbey ale is golden in color with a rich, honeyed aroma and a dry, spicy finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>abbey Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Saison" brewery_id="Karl-Strauss">
+  <name>Saison</name>
+  <description/>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>saison</style>
+  </styles>
+</beer>

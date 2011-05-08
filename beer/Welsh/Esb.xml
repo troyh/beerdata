@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Welsh/Esb" brewery_id="Welsh">
+  <name>ESB</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Bitter</style>
+  </styles>
+</beer>

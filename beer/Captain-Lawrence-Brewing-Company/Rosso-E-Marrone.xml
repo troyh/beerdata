@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Rosso-E-Marrone" brewery_id="Captain-Lawrence-Brewing-Company">
+  <name>Rosso E Marrone</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Sour Ale</style>
+  </styles>
+</beer>

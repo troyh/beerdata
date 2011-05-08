@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Nelson-Sauvin-Hop-Ipa" brewery_id="Mikkeller" abv="6.9">
+  <name>Nelson Sauvin Hop IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <hops>nelson sauvin</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

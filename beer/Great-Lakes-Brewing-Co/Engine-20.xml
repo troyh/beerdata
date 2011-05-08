@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Engine-20" brewery_id="Great-Lakes-Brewing-Co" abv="6" ibu="40">
+  <name>Engine 20</name>
+  <description>Hoppy American Pale Ale with smoky undertones.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

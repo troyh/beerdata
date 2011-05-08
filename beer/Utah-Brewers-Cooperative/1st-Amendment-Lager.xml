@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/1st-Amendment-Lager" brewery_id="Utah-Brewers-Cooperative">
+  <name>1st Amendment Lager</name>
+  <description>A turn of the century pure malt, crisp lager. 1st Amendment Lager is made with European style hops and Munich malts. This beer has a wonderful, clean, crisp flavor certain to please all.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

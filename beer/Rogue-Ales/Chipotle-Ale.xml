@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Chipotle-Ale" brewery_id="Rogue-Ales" ibu="35">
+  <name>Chipotle Ale</name>
+  <description>Roasted chipotle peppers produce an eye opening chile flavor in this deep golden ale with a malty, smoky aroma and smooth, crisp flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Harrington, Klages &amp; Maier Munich.</grains>
+  <grains>Harrington, Klages &amp; Maier Munich.</grains>
+  <hops>Cascade and Willamette.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

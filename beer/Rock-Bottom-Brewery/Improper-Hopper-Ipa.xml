@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Improper-Hopper-Ipa" brewery_id="Rock-Bottom-Brewery">
+  <name>Improper Hopper IPA</name>
+  <description>India Pale Ale</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

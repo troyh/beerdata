@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Behemoth" brewery_id="Three-Floyds-Brewing" abv="10.5" ibu="80">
+  <name>Behemoth</name>
+  <description>A massive American Barley Wine; caramel-sequel and hoppy appeals</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine</style>
+  </styles>
+</beer>

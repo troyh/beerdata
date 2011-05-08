@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Baltic-Porter" brewery_id="Smuttynose-Brewing-Co">
+  <name>Baltic Porter</name>
+  <description>ndigenous to northern Europe, Baltic Porters historically stem from the shipping of British porters to the Russian hinterland. Unlike their British cousins, Baltic Porters are often brewed with lager yeast, which is the tradition we follow. Big &amp; bold, with flavors of coffee, dark fruit &amp; raisins, this black beer is smooth as a chocolate swirl.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Odell-Brewing-Co/5-Barrel-Pale-Ale" brewery_id="Odell-Brewing-Co" abv="5.2" ibu="26">
+  <name>5 Barrel Pale Ale</name>
+  <description>The distinctive hop character of our 5 Barrel Pale Ale is due to the extraction of essential oils from select hops. We treat 5 Barrel Pale Ale to an infusion of fresh whole hop flowers in the Hop Back and the Fermentor, as well as four hop additions during the kettle boil.\nWe like how this gives the beer a fresh, lively flavor and aroma.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Pale Ale</style>
+  </styles>
+</beer>

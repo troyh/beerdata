@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/Organic-Pils" brewery_id="Selins-Grove-Brewing-Company">
+  <name>Organic PILS</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

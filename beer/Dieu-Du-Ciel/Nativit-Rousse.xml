@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Nativit-Rousse" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>NATIVIT&#x83; ROUSSE</name>
+  <description>A red beer with a dense head, the Nativit&#x8E; Rousse offers aromas of lightly roasted wheat and a touch of clove. It is full-bodied with a trace of sweetness and balanced with a touch of acidity. The bitterness of the hops makes its presence felt subtly in the aftertaste.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dunkel weizen</style>
+  </styles>
+</beer>

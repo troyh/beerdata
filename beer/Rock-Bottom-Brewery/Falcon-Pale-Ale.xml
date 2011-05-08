@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Falcon-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Falcon Pale Ale</name>
+  <description>This pale ale offers a strong unimposing flavor. Light crystal and Munich malts create a rich, medium body. It goes great with our brick oven pizzas.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

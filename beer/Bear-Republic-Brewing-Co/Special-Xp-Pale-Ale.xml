@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bear-Republic-Brewing-Co/Special-Xp-Pale-Ale" brewery_id="Bear-Republic-Brewing-Co" abv="5.4" ibu="55">
+  <name>Special XP Pale Ale</name>
+  <description>This is our interpretation of a classic pale ale. Our "XP" (exceptional pale) has a golden color, and is very light bodied with a noticeable hop aroma and bittering element that just teases the hopheads but satisfies the newest of microbrewed ale drinkers. This beer is brewed with American Two Row, English wheat, Belgian, and Dextrin malts. Mix this with just the right amounts of Cascade and Centennial hops and you've got a winner!!</description>
+  <availability/>
+  <ingredients/>
+  <grains>American Two Row, English wheat, Belgian, and Dextrin malts.</grains>
+  <grains>American Two Row, English wheat, Belgian, and Dextrin malts.</grains>
+  <hops>Cascade &amp; Centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

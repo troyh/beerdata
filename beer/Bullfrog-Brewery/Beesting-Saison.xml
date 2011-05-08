@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Beesting-Saison" brewery_id="Bullfrog-Brewery" abv="7">
+  <name>Beesting Saison</name>
+  <description>Our honey infused saisons aroma is brimming with a rich fruitiness, peppery spice and of course...honey. This brew is lightly hopped to showcase the 30 lbs.of OJ blossom honey and 15 lbs.of Buckwheat honey used to create this complex and layered ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>saison</style>
+  </styles>
+</beer>

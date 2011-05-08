@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Post-Road-Pumpkin-Ale" brewery_id="Brooklyn-Brewery" abv="5">
+  <name>Post Road Pumpkin Ale</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pumpkin Ale</style>
+  </styles>
+</beer>

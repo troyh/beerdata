@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Sublimely-Self-righteous-Ale" brewery_id="Stone-Brewing-Co" abv="8.7" ibu="90">
+  <name>Stone Sublimely Self-Righteous Ale</name>
+  <description/>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

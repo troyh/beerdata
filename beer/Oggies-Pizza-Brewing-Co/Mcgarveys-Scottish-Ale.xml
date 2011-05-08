@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oggies-Pizza-Brewing-Co/Mcgarveys-Scottish-Ale" brewery_id="Oggies-Pizza-Brewing-Co">
+  <name>McGarvey's Scottish Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Scotch</style>
+  </styles>
+</beer>

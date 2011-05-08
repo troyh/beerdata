@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Snow-Wheat" brewery_id="Shorts-Brewing-Company">
+  <name>Snow Wheat</name>
+  <description>The Beach wheat is so popular, sometimes we'll make it in the winter if we have an open tank and re-name it for the winter pub goers. Classic wheat beer brewed by Americans in America using a German wheat yeast. 50% of the grain used is malted wheat designating it as a true "wheat" beer. This ale is also known as Hefeweizen.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat</style>
+  </styles>
+</beer>

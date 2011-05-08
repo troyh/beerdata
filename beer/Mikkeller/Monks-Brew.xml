@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Monks-Brew" brewery_id="Mikkeller" abv="10">
+  <name>Monk's Brew</name>
+  <description>Mikkeller has travelled to Belgium, more precisely on a visit to the anti-commercial, talented Trappist monks. Monk's Elixir is a heavy dark Belgian ale inspired by the Trappist monasteries of Rochefort and Westvleteren. The beer style, characterized by its high content of alcohol, distinguishes itself by its dominant yeast character, delicious malt background and balanced hop notes.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pils and pale</grains>
+  <grains>pils and pale</grains>
+  <hops>northern brewer, hallertauer, and styrian goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>dark belgian ale</style>
+  </styles>
+</beer>

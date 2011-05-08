@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Oatmeal-Stout" brewery_id="Three-Floyds-Brewing">
+  <name>Select Oatmeal Stout</name>
+  <description>Our stout is made with British pale, caramel, chocolate, and roasted malts. Oats are also added to give the beer a fuller and sweeter taste. The roasted malts give the beer its dark color as well as its intense flavor and aroma. The flavors of toffee and chocolate are prevalent, but not overpowering. Since the beer gets so much flavor from the malts there is not a lot of hop flavor. There is just enough bitterness to complement the sweetness of the malt.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

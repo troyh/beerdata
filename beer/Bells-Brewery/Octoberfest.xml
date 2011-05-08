@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Octoberfest" brewery_id="Bells-Brewery" abv="5.5">
+  <name>Octoberfest</name>
+  <description>A coppery amber lager that showcases a full bodied, malty flavor that is balanced by a refreshing bitterness derived from fine noble hops.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

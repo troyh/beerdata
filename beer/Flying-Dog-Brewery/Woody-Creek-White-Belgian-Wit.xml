@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/Woody-Creek-White-Belgian-Wit" brewery_id="Flying-Dog-Brewery" abv="4.8" ibu="17">
+  <name>Woody Creek White Belgian Wit</name>
+  <description>Our tribute to the town we consider to be "Gonzo Ground Zero"... Woody Creek White is a traditional Belgian-style Wit Beer, brewed with unique ingredients like orange peel and coriander, resulting in a refreshing and slightly citrus flavor, perfect for the "Dog Days of Summer".</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains>Belgian Pilsner, Malted White Wheat, Oats, Unmalted Wheat, Flaked Wheat, Flaked Oats</grains>
+  <grains>Belgian Pilsner, Malted White Wheat, Oats, Unmalted Wheat, Flaked Wheat, Flaked Oats</grains>
+  <hops>German Hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian White</style>
+  </styles>
+</beer>

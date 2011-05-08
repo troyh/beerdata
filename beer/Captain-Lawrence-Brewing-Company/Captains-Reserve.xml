@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Captains-Reserve" brewery_id="Captain-Lawrence-Brewing-Company" ibu="80">
+  <name>Captain's Reserve</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pale, english pale, english crystal</grains>
+  <grains>pale, english pale, english crystal</grains>
+  <hops>columbus, chinook, cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial IPA</style>
+  </styles>
+</beer>

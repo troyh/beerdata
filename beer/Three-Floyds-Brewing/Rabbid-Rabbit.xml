@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Rabbid-Rabbit" brewery_id="Three-Floyds-Brewing" abv="7.4" ibu="25">
+  <name>Rabbid Rabbit</name>
+  <description>Belgian Style Farmhouse Ale brewed with Corriander, lavender, Chamomille &amp; Rose Hips-3Different Belgian ale strains of Yeast are used in the brewing process</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Farmhouse Ale</style>
+  </styles>
+</beer>

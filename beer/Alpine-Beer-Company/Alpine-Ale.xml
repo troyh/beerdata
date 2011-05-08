@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Alpine-Ale" brewery_id="Alpine-Beer-Company" abv="5.5" ibu="32">
+  <name>Alpine Ale</name>
+  <description>Our namesake ale represents everything a good, well balanced pale ale should be: malty but not to sweet, refreshing but not too bitter, full-bodied but not too heavy, lively but not over carbonated. A clean, everyday beer that leaves your palate begging for more.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pale Ale</style>
+  </styles>
+</beer>

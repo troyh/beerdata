@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Iced-Barley-Wine" brewery_id="New-Glarus-Brewing-Company" abv="13.5">
+  <name>Unplugged Iced Barley Wine</name>
+  <description>A few times a year we will cut Dan loose to brew whatever he chooses, uncensored, uncut, unplugged. Always handcrafted, the bottle you hold is brewed for the adventurous soul. This is a very limited edition and we make no promises to ever brew this style again. \nEnglish aristocracy flaunted their wealth saving barley wines for exclusive friends. Our Iced Barley Wine is an intense brew of 28.5 degrees Plato OG. Frozen in the cellars over a powerful twelve week fermentation. You hold an elegant riot of bittersweet sherry and dark fruit earthy notes. Warm and expansive it will fill your senses. Great for contemplative sipping now or lay down for an elegant occasion with friends.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barley Wine</style>
+  </styles>
+</beer>

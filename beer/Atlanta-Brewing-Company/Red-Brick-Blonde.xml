@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Atlanta-Brewing-Company/Red-Brick-Blonde" brewery_id="Atlanta-Brewing-Company" ibu="year-round">
+  <name>Red Brick Blonde</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

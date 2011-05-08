@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Trademark-Pale-Ale" brewery_id="Breckenridge-Brewery" abv="5.7" ibu="40">
+  <name>Trademark Pale Ale</name>
+  <description>Demanding beer for demanding beer drinkers -- that's our Pale Ale. We craft this American pale ale with hearty amounts of pale and Munich malts, then balance it with lofty amounts of hops throughout. It's a finessed version of hop-head fun -- a black diamond beer without the bumps and dangerous curves.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Munich, Caramel</grains>
+  <grains>Two Row Pale, Munich, Caramel</grains>
+  <hops>Perle, Wilamette, Bramling, Fuggle, Czech Saaz</hops>
+  <yeast>Top Fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

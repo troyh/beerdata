@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Dread-Double-Red" brewery_id="Bullfrog-Brewery" abv="7.8">
+  <name>Dread Double red</name>
+  <description>Massive amounts of malted barley and Warrior hops are packed into this blood red monster, giving this double red ale its luxuriously rich, caramelized body and hop-gasmic aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>red Ale</style>
+  </styles>
+</beer>

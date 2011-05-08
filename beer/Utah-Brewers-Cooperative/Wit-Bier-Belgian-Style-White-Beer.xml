@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Wit-Bier-Belgian-Style-White-Beer" brewery_id="Utah-Brewers-Cooperative">
+  <name>Wit Bier Belgian Style White Beer</name>
+  <description/>
+  <availability>Spring/Summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian White</style>
+  </styles>
+</beer>

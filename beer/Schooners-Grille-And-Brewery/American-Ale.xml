@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Schooners-Grille-And-Brewery/American-Ale" brewery_id="Schooners-Grille-And-Brewery" abv="5" ibu="11">
+  <name>American Ale</name>
+  <description>An American original, Cream Ale was first brewed to compete with the popularity of light lagers around the turn of the century. Traditionally, cream ales have used adjuncts such as corn as part of the grist. Ours is no different, we use 7% flaked corn to add a touch of sweetness and 3.5% rolled oats to accentuate the creamy mouth feel. Herbrucker hops are used mostly for bittering, but also provide a light contribution to the aroma</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>cream ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Scape-Goat" brewery_id="Big-Sky-Brewing-Co" abv="4.7">
+  <name>Scape Goat</name>
+  <description>Don't blame yourself, you can blame us. Scape Goat is about to become your favorite beer. Or it will be when you taste it. Scape Goat is our award-winning Pale Ale. It is a very smooth brew, refreshing and well-balanced. Scape Goat took home the Gold Medal from the North American Brewers' Association competitions as the best English-style pale ale brewed west of the Mississippi, but only because it is the best. </description>
+  <availability/>
+  <ingredients/>
+  <grains>pale, crystal malts,</grains>
+  <grains>pale, crystal malts,</grains>
+  <hops>Kent Goldings and Crystal</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

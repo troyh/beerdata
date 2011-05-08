@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Double-Trouble" brewery_id="Founders-Brewing-Co" abv="9.4" ibu="86">
+  <name>Double Trouble</name>
+  <description>An imperial IPA that was brewed to turn your world upside down. Hops have got you coming and going. Pungent aromatics up front paired with a malt balanced backbone and a smooth bitter finish.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial IPA</style>
+  </styles>
+</beer>

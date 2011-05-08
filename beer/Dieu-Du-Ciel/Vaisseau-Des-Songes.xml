@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Vaisseau-Des-Songes" brewery_id="Dieu-Du-Ciel" abv="6">
+  <name>VAISSEAU DES SONGES</name>
+  <description>This style of beer was conceived by the English, during the time of colonial England, to survive the long trip overseas to India. It is a more elaborate version of the English Pale Ales, as more hops are added and the level of alcohol is increased. These two factors are important for better beer conservation. The result is a beer with sharp bitter aromas and flavours. To the taste, the bitterness is counterbalanced by the caramel malts which bring a touch of sweet maltiness to the beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Backwoods-Bastard" brewery_id="Founders-Brewing-Co" abv="10.2" ibu="50">
+  <name>Backwoods Bastard</name>
+  <description>Big and delicious for your 'perty mouth. Expect lovely, warm smells of single malt scotch, oaky bourbon barrels, smoke, sweet caramel and roasted malts, a bit of earthy spice and a scintilla of dark cherries. It's a kick-back sipper made to excite the pallet.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

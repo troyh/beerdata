@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Old-Man-Winter" brewery_id="Southern-Tier-Brewing-Company" abv="8">
+  <name>old man winter</name>
+  <description>With the onset of winter, the brewer's mind turns to providing warmth. For our winter seasonal, we offer a rich and complex amalgam of hops and barley that will put the feeling back in your toes and lift your spirits above the snow. OMW throws a deep and inviting hue with a thickness that clings to the glass and the warmth of an open flame. Because of its high alcohol content, Old Man is a heady brew that encourages sipping and pondering its essential richness. Drink it fresh now, or cellar a few bottles to see how this old man becomes wiser with age.</description>
+  <availability>limited winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>old ale</style>
+  </styles>
+</beer>

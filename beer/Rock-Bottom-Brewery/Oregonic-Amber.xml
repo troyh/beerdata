@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Oregonic-Amber" brewery_id="Rock-Bottom-Brewery">
+  <name>Oregonic Amber</name>
+  <description>This Amber Ale is made from all organically grown malts and uses the finest Northwest hops. It is medium-bodied with rich caramel notes and a bright citrus hop aroma.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

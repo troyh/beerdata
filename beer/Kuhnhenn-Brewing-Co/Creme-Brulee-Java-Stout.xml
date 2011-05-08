@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Creme-Brulee-Java-Stout" brewery_id="Kuhnhenn-Brewing-Co" abv="5.5">
+  <name>Creme Brulee Java Stout</name>
+  <description>Black ale beer, made with real coffee. This java stout goes through a unique process, involving caramelizing brown sugar to give it an intense caramel &amp; vanilla aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

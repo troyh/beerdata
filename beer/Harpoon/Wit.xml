@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Wit" brewery_id="Harpoon" abv="4.5" ibu="20">
+  <name>Wit</name>
+  <description>Our Wit features a cloudy yellow body with a rich white head. The nose is simply beautiful: curacao, orange peel, and coriander dominate. Light bodied with a soft yeast and spice mix, it finishes smooth with a slight tartness and spice. The perfect beer for a summer afternoon.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Witbier</style>
+  </styles>
+</beer>

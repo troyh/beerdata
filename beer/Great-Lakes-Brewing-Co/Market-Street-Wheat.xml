@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Market-Street-Wheat" brewery_id="Great-Lakes-Brewing-Co" abv="5.3" ibu="20">
+  <name>Market Street Wheat</name>
+  <description>A classic Hefeweizen served unfiltered to showcase the hints of clove and banana.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

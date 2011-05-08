@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-Imperial-Porter" brewery_id="Rogue-Ales" ibu="78">
+  <name>XS: Imperial Porter</name>
+  <description>This is a huge mouthful of malt and hops. It has notes of bitter rich chocolate and hints of tar. A new hop called Summit was used to give it the perfect hop balance. This porter is the creme de la creme.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row Pale, C120, C150, Kiln coffee, black and chocolate malts.</grains>
+  <grains>2-row Pale, C120, C150, Kiln coffee, black and chocolate malts.</grains>
+  <hops>100% Summit hops.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Imperial Porter</style>
+  </styles>
+</beer>

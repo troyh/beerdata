@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Blackberry-Here" brewery_id="Bullfrog-Brewery">
+  <name>Blackberry Here</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>hefeweizen </style>
+  </styles>
+</beer>

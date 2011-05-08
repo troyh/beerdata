@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Sesquicentennial-Ale" brewery_id="Rogue-Ales" ibu="48">
+  <name>Sesquicentennial Ale</name>
+  <description>Amber orange in color, with a sweet malt background from the generous use of Munich malts, a crisp citrus hop nose and finish from our Oregon grown Willamette hops.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>2-row and Maier Munich.</grains>
+  <grains>2-row and Maier Munich.</grains>
+  <hops>Rogue Farms Willamette.</hops>
+  <yeast>Rogue' s Top Fermenting Pacman Yeast from Hood River &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Northwest Amber</style>
+  </styles>
+</beer>

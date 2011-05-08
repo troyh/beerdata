@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierrra-Nevada-Stout" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.8" ibu="60">
+  <name>Sierrra Nevada Stout</name>
+  <description>Creamy, malty, and full-bodied, the Sierra Nevada Stout is satisfyingly rich. Caramel and Black malts give the Stout its deep, dark color and pronounced roasted flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row Pale, Munich, Caramel &amp; Black</grains>
+  <grains>Two-row Pale, Munich, Caramel &amp; Black</grains>
+  <hops>Magnum, Cascade &amp; Willamette</hops>
+  <yeast>Top-fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

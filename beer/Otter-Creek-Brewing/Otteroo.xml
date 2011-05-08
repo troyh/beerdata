@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Otteroo" brewery_id="Otter-Creek-Brewing">
+  <name>Otteroo</name>
+  <description>This time the Otter is in Australia with a Sparkling Ale, a refreshing and light-bodied ale with extra bubbles and extra kick. Brewed with Australian hops, and bottle conditioned, this beer has a slight haze and fruitiness from the yeast.Cheers!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Sparkling Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Unfiltered-Wheat-Beer" brewery_id="Boulevard-Brewing-Co" abv="4.4" ibu="13">
+  <name>Unfiltered Wheat Beer</name>
+  <description>Boulevard Unfiltered Wheat Beer is a lively, refreshing ale with a naturally citrusy flavor and distinctive cloudy appearance. This easy-drinking American-style wheat beer has become our most popular offering, and the best-selling craft beer in the Midwest.\nSENSORY DESCRIPTION: Subtle flavor profile with hints of wheat and grain works well as a compliment to lighter dishes. Mild sweetness compliments fruity dishes. Flavor hooks: subtle fruit</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale malt, unmalted soft red winter whea</grains>
+  <grains>Pale malt, unmalted soft red winter whea</grains>
+  <hops>Magnum &amp; Simcoe hops.</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat</style>
+  </styles>
+</beer>

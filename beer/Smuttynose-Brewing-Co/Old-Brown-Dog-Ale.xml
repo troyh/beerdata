@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Old-Brown-Dog-Ale" brewery_id="Smuttynose-Brewing-Co" abv="6.7" ibu="15">
+  <name>Old Brown Dog Ale</name>
+  <description>Old Brown Dog has been cited as a classic example of the &#xD2;American Brown Ale&#xD3; style of beer. Compared to a typical English Brown Ale, Old Brown Dog is fuller-bodied and more strongly hopped. Old Brown Dog has been around for many years. It was first brewed in 1988 at the Northampton Brewery. In 1989 it won a silver medal in its category (American Brown Ale) at the Great American Beer Festival in Denver.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pale Brewers, Munich, Crystal 60&#xA1;L, Chocolate</grains>
+  <grains>Pale Brewers, Munich, Crystal 60&#xA1;L, Chocolate</grains>
+  <hops>Cascade, Willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Brown Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Nisqually-Nut-Brown-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Nisqually Nut Brown Ale</name>
+  <description>Nisqually Nut Brown is a smooth mellow beer with complex malt flavor. A variety of Crystal malts produce the rich caramel malt flavor while Golding hops leave the beer balanced and refined.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

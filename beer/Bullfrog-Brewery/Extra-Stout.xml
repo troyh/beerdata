@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Extra-Stout" brewery_id="Bullfrog-Brewery" abv="5.8">
+  <name>Extra Stout</name>
+  <description>Crossed between a Caribbean and an American stout this bittersweet brew has hints of molasses and espresso with a hoppy finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Somer-Orange-Honey-Ale" brewery_id="Rogue-Ales" ibu="10">
+  <name>Somer Orange Honey Ale</name>
+  <description>This unfiltered beer has flavors of orange and honey with a nice medium-sweet malt character.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest 2-row, Wheat</grains>
+  <grains>Northwest 2-row, Wheat</grains>
+  <hops>Crystal &amp; Rogue Farms Willamette.</hops>
+  <yeast>Rogue' s Top Fermenting Pacman Yeast from Hood River</yeast>
+  <otherings/>
+  <styles>
+    <style>Wheat</style>
+  </styles>
+</beer>

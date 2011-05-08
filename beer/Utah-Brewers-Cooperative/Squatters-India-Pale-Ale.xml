@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Squatters-India-Pale-Ale" brewery_id="Utah-Brewers-Cooperative" abv="6">
+  <name>Squatters India Pale Ale</name>
+  <description>This classic IPA (6.0% alcohol by volume) has a golden to copper color, generous hop flavors and aromas and the delicate maltiness of premium English barley. British brewers in the 1800's increased hops and alcohol to preserve the brew during its long voyage from England to British troops stationed in India. Thus a new beer style was born.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

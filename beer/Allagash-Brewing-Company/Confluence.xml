@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Confluence" brewery_id="Allagash-Brewing-Company" abv="7.5">
+  <name>Confluence</name>
+  <description>Allagash Confluence Ale is created with a mixed fermentation; utilizing our house primary Belgian style yeast in combination with our proprietary Brettanomyces strain. The two yeast strains work in tandem creating a marriage between spice and fruit flavors that ultimately leave a lingering silky mouth feel.Confluence is brewed with a blend of both imported pilsner and domestic pale malts as well as a portion of caramel malt, resulting in a complex malty profile. Tettnang and East Kent Golding hops are added in the brew process to balance the intricate malty profile while adding a sweet and spicy citrus aroma. After fermentation, Confluence undergoes a lengthy aging process in stainless steel tanks to enhance the flavors. Prior to bottling, it is dry hopped with a Glacier hops, providing a pleasant balance of aromas. Confluence is then bottle conditioned and aged in our cellar prior to release.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale</style>
+  </styles>
+</beer>

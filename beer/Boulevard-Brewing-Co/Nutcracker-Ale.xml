@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulevard-Brewing-Co/Nutcracker-Ale" brewery_id="Boulevard-Brewing-Co" abv="5.9" ibu="31">
+  <name>Nutcracker Ale</name>
+  <description>Nutcracker Ale is Boulevard's holiday gift for real beer lovers. This hearty, warming brew is a classic winter ale, deep amber in color, with hints of molasses balanced by the "spiciness" of freshly harvested Chinook hops.\nSENSORY DESCRIPTION: Many foods don't stand up to this strong beer, so rich strong-flavored foods work best. Nutcracker Ale is also a great digestif. Flavor hooks: caramel, spice</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>Pale, Aromatic, Special B &amp; Munich malts, malted wheat.</grains>
+  <grains>Pale, Aromatic, Special B &amp; Munich malts, malted wheat.</grains>
+  <hops>Magnum, Cascade &amp; fresh Chinook hops</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Winter Warmer</style>
+  </styles>
+</beer>

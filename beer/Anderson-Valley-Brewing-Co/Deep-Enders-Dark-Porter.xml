@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Anderson-Valley-Brewing-Co/Deep-Enders-Dark-Porter" brewery_id="Anderson-Valley-Brewing-Co" abv="5.5">
+  <name>Deep Enders Dark Porter</name>
+  <description>What was once a dying beer style in England has been revived as an American classic. Deep Enders Dark Porter is a full-bodied porter with a rich creamy head, delicious chocolaty aftertaste and a roasted coffee character. A pleasantly bitter brew, Deep Enders is excellent with oysters and other shellfish, smoked duck, and Chateaubriand, as well as your favorite chocolate desserts or with full-flavored meals and spicy dishes.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Track-Town-Ales-200-Meter-Ale" brewery_id="Rogue-Ales" ibu="90">
+  <name>Track Town Ales: 200 Meter Ale</name>
+  <description>A Northwest IPA. Light golden, almost orange in color, with a focus on hop flavor and aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Pale and Munich.</grains>
+  <grains>Northwest Pale and Munich.</grains>
+  <hops>Horizon, Amarillo, Centennial and Simcoe.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

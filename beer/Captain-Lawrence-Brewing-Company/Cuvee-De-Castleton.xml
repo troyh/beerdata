@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Cuvee-De-Castleton" brewery_id="Captain-Lawrence-Brewing-Company">
+  <name>Cuvee De Castleton</name>
+  <description/>
+  <availability>sprng</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

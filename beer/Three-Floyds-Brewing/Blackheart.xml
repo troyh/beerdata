@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Blackheart" brewery_id="Three-Floyds-Brewing" abv="8" ibu="70">
+  <name>Blackheart</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English IPA</style>
+  </styles>
+</beer>

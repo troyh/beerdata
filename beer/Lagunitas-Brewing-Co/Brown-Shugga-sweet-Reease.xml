@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Brown-Shugga-sweet-Reease" brewery_id="Lagunitas-Brewing-Co" abv="9.5">
+  <name>Brown Shugga' (Sweet Reease)</name>
+  <description>How come you tast so good?? 200 pounds of pure brown sugar in each 30-barrel batch, that's how! This strong ale leaves a lot of stories in it's wake.</description>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

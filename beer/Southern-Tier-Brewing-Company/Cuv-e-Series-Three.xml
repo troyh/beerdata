@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Cuv-e-Series-Three" brewery_id="Southern-Tier-Brewing-Company" abv="11">
+  <name>Cuv&#x8E;e Series Three</name>
+  <description>ALE IMPRESSIONS: Dark amber color, rich caramel malt flavor with noticeable bitterness. Slightly sweet and roasty finish, with mild hop aroma.\nOAK IMPRESSIONS: Flavors of French and American oak imparting unique qualities present in series one and two. Impressions of vanilla, toasted coconut and almond.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

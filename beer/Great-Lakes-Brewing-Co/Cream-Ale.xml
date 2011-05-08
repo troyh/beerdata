@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Cream-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="5.5" ibu="20">
+  <name>Cream Ale</name>
+  <description>Light, crisp American Ale with a noble hop presence and hint of maize.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Cream Ale</style>
+  </styles>
+</beer>

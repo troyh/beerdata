@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oak-Creek/Nut-Brown-Ale" brewery_id="Oak-Creek">
+  <name>Nut Brown Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Brown</style>
+  </styles>
+</beer>

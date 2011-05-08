@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Imperial-India-Pale-Ale" brewery_id="Green-Flash-Brewing-Co" abv="9.4" ibu="101">
+  <name>Imperial India Pale Ale</name>
+  <description>San Diego-style IPA, as it has come to be known by many, is super-hoppy, high gravity, yet highly quaffable ale. Our Imperial IPA is created in this new tradition with intense hop flavors and aromas from a unique blend of Summit and Nugget hops. It's all about the hops!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>summit and nugget</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial IPA</style>
+  </styles>
+</beer>

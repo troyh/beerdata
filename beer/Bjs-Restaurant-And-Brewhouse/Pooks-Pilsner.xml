@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Pooks-Pilsner" brewery_id="Bjs-Restaurant-And-Brewhouse">
+  <name>Pook's Pilsner</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Pilsner</style>
+  </styles>
+</beer>

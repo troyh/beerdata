@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Russian-Imperial-Stout" brewery_id="Karl-Strauss">
+  <name>Russian Imperial Stout</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>russian Imperial Stout</style>
+  </styles>
+</beer>

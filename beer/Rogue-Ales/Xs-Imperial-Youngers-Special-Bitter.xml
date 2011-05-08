@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-Imperial-Youngers-Special-Bitter" brewery_id="Rogue-Ales" ibu="52">
+  <name>XS: Imperial Younger's Special Bitter</name>
+  <description>Smooth &amp; malty with a kick of bitterness, this is a couple noches above the standard YSB!</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row pale and Crystal.</grains>
+  <grains>2-row pale and Crystal.</grains>
+  <hops>Willamette, Kent Golding and Amarillo</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Imperial English Bitter</style>
+  </styles>
+</beer>

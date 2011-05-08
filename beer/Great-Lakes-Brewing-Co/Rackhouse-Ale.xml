@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Rackhouse-Ale" brewery_id="Great-Lakes-Brewing-Co" ibu="limited">
+  <name>Rackhouse Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Sweet ale aged in oak bourbon barrels.</style>
+  </styles>
+</beer>

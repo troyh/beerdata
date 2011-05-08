@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Kolsch" brewery_id="Minneapolis-Town-Hall-Brewery" abv="5.3">
+  <name>Kolsch </name>
+  <description>Perfect for the tail end of summer... light and crisp ale from Germany:o made famous in Cologne, Germany</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>kolsch</style>
+  </styles>
+</beer>

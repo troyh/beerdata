@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Penetration-Porter" brewery_id="Kuhnhenn-Brewing-Co" abv="6">
+  <name>Penetration Porter</name>
+  <description>An American Porter, black in color. Draws a creamy tan head, which yeilds a chocolate malty aroma blended with citrus-like aroma of American hops. Thia ale penetrates your palate with flavors of caramels, dark chocolates, nuts and hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>porter</style>
+  </styles>
+</beer>

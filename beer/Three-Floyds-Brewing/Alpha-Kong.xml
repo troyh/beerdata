@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Alpha-Kong" brewery_id="Three-Floyds-Brewing" abv="16">
+  <name>Alpha Kong</name>
+  <description>A very complex Belgian sextuple, sweet with caramel notes.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Sextuple</style>
+  </styles>
+</beer>

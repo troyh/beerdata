@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-P-m-Porter" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="6.4" ibu="30">
+  <name>BJ's P.M. Porter</name>
+  <description>This nitrogen-conditioned dark ale is surprisingly smooth and drinkable. Caramel, molasses, and chocolate flavors fill the palate. Its sweet start is perfectly balanced by a roasted dry finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row Pale, dark chocolate, chocolate, black</grains>
+  <grains>2-row Pale, dark chocolate, chocolate, black</grains>
+  <hops>perle, willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

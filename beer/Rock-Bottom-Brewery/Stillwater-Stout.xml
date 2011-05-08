@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Stillwater-Stout" brewery_id="Rock-Bottom-Brewery">
+  <name>Stillwater Stout</name>
+  <description>A full-bodied oatmeal stout with a creamy mouth feel and subtle hop ?flavor. A fine ?complement to anything chocolate.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

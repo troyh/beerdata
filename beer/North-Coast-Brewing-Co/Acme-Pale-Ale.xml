@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Acme-Pale-Ale" brewery_id="North-Coast-Brewing-Co" abv="5" ibu="21">
+  <name>Acme Pale Ale</name>
+  <description>This easy-drinking Pale Ale revives the name of one of the early icons of California brewing. Clean-tasting and pleasantly malty, Acme Pale is brewed with Yakima Valley hops, American two-row malt and British specialty malts for depth.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

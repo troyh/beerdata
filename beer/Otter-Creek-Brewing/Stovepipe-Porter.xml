@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Stovepipe-Porter" brewery_id="Otter-Creek-Brewing" ibu="30">
+  <name>Stovepipe Porter</name>
+  <description>Stovepipe Porter is made in the traditional porter stlye, and is a favorite with all porter lovers. Ruby-black in color, Stovepipe Porter has a rich palate and a roasted, hoppy aroma. It is delicious on its own or with a meal, and tastes great with chocolate.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

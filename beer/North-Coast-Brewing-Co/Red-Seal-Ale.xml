@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Red-Seal-Ale" brewery_id="North-Coast-Brewing-Co" abv="5.5" ibu="42">
+  <name>Red Seal Ale</name>
+  <description>Malt and hops are beautifully married in this full-bodied, copper-red Pale Ale. Red Seal is generously hopped for a long, spicy finish. An excellent accompaniment to grilled meats and rich sauces.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

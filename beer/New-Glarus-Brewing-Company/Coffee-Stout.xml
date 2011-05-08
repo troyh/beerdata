@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Coffee-Stout" brewery_id="New-Glarus-Brewing-Company" abv="4.8">
+  <name>Coffee Stout</name>
+  <description>Hearty and satisfying, our Coffee Stout is the ultimate full-bodied brew. Wisconsin water, roasted malts, and imported hops are the natural ingredients we use to brew this bier. Then cold pressed organic coffee from Just Coffee Co-op is infused into the brew. \nExpect this bier to pour a deep creamy head over an ebony rich body. Notice the powerful malt bouquet balanced by a spectrum of extravagant flavor. Served at room temperature this Wisconsin Coffee Stout is guaranteed to warm even the coldest heart.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Coffee Stout</style>
+  </styles>
+</beer>

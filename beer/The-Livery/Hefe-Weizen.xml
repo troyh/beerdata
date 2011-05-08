@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Hefe-Weizen" brewery_id="The-Livery" abv="5">
+  <name>Hefe Weizen</name>
+  <description>A lightly hopped, refreshing, Bavarian style wheat ale that has hints of banana and clove in the finish. Available May until October.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat ale</style>
+  </styles>
+</beer>

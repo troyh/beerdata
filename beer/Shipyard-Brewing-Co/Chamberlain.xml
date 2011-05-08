@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Chamberlain" brewery_id="Shipyard-Brewing-Co" abv="4.9">
+  <name>Chamberlain</name>
+  <description>This classic English style pale ale is named after renowned Civil War hero Joshua Lawrence Chamberlain. The golden copper color of this award-winning beer is enhanced by Pale Ale, Crystal, and Chocolate malts. Chamberlain Pale Ale is dry and crisp upfront with aromatic hoppy finish, featuring Fuggles, Cascade, and Tettnang hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pale Ale, Crystal, and Chocolate malts</grains>
+  <grains>Pale Ale, Crystal, and Chocolate malts</grains>
+  <hops>Fuggles, Cascade, and Tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

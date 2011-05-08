@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Cherry-Saison-Imperial-Oaked-Aged-Cherry-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="8">
+  <name>cherry saison Imperial Oaked Aged Cherry Ale</name>
+  <description>Cherry season is concurrent with the best of summer weather. The days are long and warm, and the spring blossoms have gracefully turned to plump drupes. Much in the same way, our Imperial Cherry Saison undergoes subtle but noticable changes while cruising from kettle to bright tank. Like the sun ripening fruit, a pit stop makes this beer better. Cherry Saison is aged with French Oak staves, imparting overtones of spice and balancing the natural sweetness of the cherries. It is the mission of our Imperial Series to create unique beers. Cherry Saison is the first in this series to incorporate oak aging. Enjoy it as a dessert beer, or tilt it back while sitting under a shady tree on a warm summer afternoon.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Cherry Saison</style>
+  </styles>
+</beer>

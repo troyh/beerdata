@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Lager-Beer" brewery_id="Bells-Brewery" abv="4.0">
+  <name>Lager Beer</name>
+  <description>As refreshingly crisp as a morning swim in a Great Lake, this brew is crafted with Pils and Munich malts. The pronounced hop character of this golden lager sparks thoughts of sandy beaches and rocky islands.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Devil-Dancer" brewery_id="Founders-Brewing-Co" abv="12" ibu="112">
+  <name>Devil Dancer</name>
+  <description>When you dance with the Devil the Devil don't change. You do. Massive in complexity, the huge malt character balances the insane amount of alphas used to create it. At an incredible 112 IBU's it's dry-hopped with a combination of ten hop varieties. This one can age with the best of them.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

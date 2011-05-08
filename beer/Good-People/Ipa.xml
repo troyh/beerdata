@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Good-People/Ipa" brewery_id="Good-People" ibu="year-round">
+  <name>IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

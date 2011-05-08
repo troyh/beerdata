@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Theakston/Old-Peculiar" brewery_id="Theakston">
+  <name>Old Peculiar</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Brown</style>
+  </styles>
+</beer>

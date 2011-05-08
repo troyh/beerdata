@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Never-Summer-Ale" brewery_id="Boulder-Beer-Co" abv="5.94">
+  <name>Never Summer Ale</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>british dark caramel, 2 row barley</grains>
+  <grains>british dark caramel, 2 row barley</grains>
+  <hops>nugget, willamette, cascade </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

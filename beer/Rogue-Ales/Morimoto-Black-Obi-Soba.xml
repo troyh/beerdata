@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Morimoto-Black-Obi-Soba" brewery_id="Rogue-Ales" ibu="30">
+  <name>Morimoto Black Obi Soba</name>
+  <description>A richer version of our Soba Ale with the addition of specialty malts and a special blend of hops to give it a fuller, nutty flavor while retaining a clean, crisp finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Roasted Soba, Harrington, Metcalf, Munich, C-15, C-60 and Carafa Special No. 2</grains>
+  <grains>Roasted Soba, Harrington, Metcalf, Munich, C-15, C-60 and Carafa Special No. 2</grains>
+  <hops>Horizon, Sterling and Cascade.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Wate</yeast>
+  <otherings/>
+  <styles>
+    <style>Specialty Grain</style>
+  </styles>
+</beer>

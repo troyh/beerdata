@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Apricot-Hefeweizen" brewery_id="Utah-Brewers-Cooperative">
+  <name>Apricot Hefeweizen</name>
+  <description>Possibly one of the most refreshing beers we've ever made. We start with a traditional German style unfiltered wheat beer (hefe-weizen translates literally as "yeasty wheat beer"). Brewed with a hybrid Bavarian yeast strain that imparts the defining flavor notes of licorice, clove, and banana. Add to this natural apricot flavor, and you have one astonishingly refreshing beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Apricot Hefeweizen</style>
+  </styles>
+</beer>

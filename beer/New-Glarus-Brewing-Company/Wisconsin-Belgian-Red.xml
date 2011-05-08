@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Wisconsin-Belgian-Red" brewery_id="New-Glarus-Brewing-Company" abv="5.1">
+  <name>Wisconsin Belgian Red</name>
+  <description>You hold the marriage of wine and beer. Belgian Red is a tapestry of flavor. This beer is brewed with whole Montmorency Cherries, Wisconsin Farmed Wheat and Belgian Roasted Barleys, lagered in oak tanks and balanced by Hallertau hops we aged in our brewery one full year. \nOver a pound of Door County Cherries in every bottle makes this beer uniquely "Wisconsin." So unique, in fact, that we applied for a patent. Expect this beer to be ruby red, with a medium body that is highly carbonated and intense with cherry flavor and bouquet. Serve your friends Belgian Red in a brandy snifter or champagne flute and toast life with beer from the land of Wisconsin.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/555" brewery_id="The-Livery" abv="6.25">
+  <name>555</name>
+  <description>A true North American IPA! All North American malts, Northwest Mt. Hood hops, and American Ale yeast all blend for a perfectly balanced bitter ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

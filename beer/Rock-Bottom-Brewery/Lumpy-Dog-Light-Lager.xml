@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Lumpy-Dog-Light-Lager" brewery_id="Rock-Bottom-Brewery">
+  <name>Lumpy Dog Light Lager</name>
+  <description>This Light Lager has a crisp, clean flavor. The perfect balance between the malt and hops makes for a truly easy drinking brew . . . better known as a "session beer" in beer lingo. Enjoy with salads and pastas.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Light Lager</style>
+  </styles>
+</beer>

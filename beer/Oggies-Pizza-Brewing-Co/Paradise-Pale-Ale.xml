@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oggies-Pizza-Brewing-Co/Paradise-Pale-Ale" brewery_id="Oggies-Pizza-Brewing-Co">
+  <name>Paradise Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

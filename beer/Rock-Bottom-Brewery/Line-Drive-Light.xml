@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Line-Drive-Light" brewery_id="Rock-Bottom-Brewery">
+  <name>Line Drive Light</name>
+  <description>This straw-colored Lager is brewed with Pilsen malt to create an easy drinking beer with a crisp and clean finish. A smaller portion of Hallerhops lend a subtle spicy hop character to this perfect introduction to handcrafted beer.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

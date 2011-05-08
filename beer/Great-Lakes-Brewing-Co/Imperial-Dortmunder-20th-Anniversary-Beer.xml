@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Imperial-Dortmunder-20th-Anniversary-Beer" brewery_id="Great-Lakes-Brewing-Co" abv="7.5" ibu="35">
+  <name>Imperial Dortmunder (20th Anniversary Beer)</name>
+  <description>An imperial golden lager balanced between malt sweetness and dry hop flavors, yet darker in color and richer in finish.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

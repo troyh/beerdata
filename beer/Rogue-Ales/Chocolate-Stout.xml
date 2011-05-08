@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Chocolate-Stout" brewery_id="Rogue-Ales" ibu="69">
+  <name>Chocolate Stout</name>
+  <description>Ebony in color with a rich creamy head. The mellow flavor of oats, chocolate malts and real chocolate are balanced perfectly with the right amount of hops for a bitter-sweet finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington &amp; Klages, Crystal 135-165, Beeston Chocolate, Rolled Oats &amp; Roasted Barley.</grains>
+  <grains>Northwest Harrington &amp; Klages, Crystal 135-165, Beeston Chocolate, Rolled Oats &amp; Roasted Barley.</grains>
+  <hops>Cascade.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>American Stout</style>
+  </styles>
+</beer>

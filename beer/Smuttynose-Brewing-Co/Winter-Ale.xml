@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Winter-Ale" brewery_id="Smuttynose-Brewing-Co" abv="4.8">
+  <name>Winter Ale</name>
+  <description>Smuttynose Winter Ale is a full-bodied, amber beer brewed with a special Trappist ale yeast. Stylisticallyreminiscent of a Belgian Abbey Double, it features fruity aromas and flavor, balanced by soft Crystal hops.Warming, mellow &amp; pleasantly complex, Smuttynose Winter Ale is your perfect cold weather companion.Available in sixpacks and on draft from late October through January.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>amber Ale</style>
+  </styles>
+</beer>

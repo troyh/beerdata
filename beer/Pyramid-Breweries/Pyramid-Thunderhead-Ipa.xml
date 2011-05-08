@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Thunderhead-Ipa" brewery_id="Pyramid-Breweries" abv="6.7">
+  <name>Pyramid Thunderhead IPA</name>
+  <description>Our hop heaping IPA is a golden nectar garnering thunderous reviews. Its floral aroma strikes a harmonious blend between a sweet malt flavor and bold hop bitterness. Enjoy this thirst quenching adventure.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-Row Barley, Munich 10L, Caramel, Carapils</grains>
+  <grains>2-Row Barley, Munich 10L, Caramel, Carapils</grains>
+  <hops>Nugget, Summit, or Tomahawk</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

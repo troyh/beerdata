@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Kolsch" brewery_id="Three-Floyds-Brewing">
+  <name>Select Kolsch</name>
+  <description>Our Kolsch is made with Pilsner and Wheat malt from Weyermann, a famous German malting company, and hops from the Hallertau region of Germany. The beer is fermented with ale yeast from Cologne, Germany and cold aged for eight weeks. The result is a light body, straw colored ale that is clean, crisp, and refreshing. Delicate flavors of malt and hops linger on the palate. Our Kolsch is perfect for the hot summer months.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Kolsch</style>
+  </styles>
+</beer>

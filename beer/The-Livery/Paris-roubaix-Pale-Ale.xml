@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Paris-roubaix-Pale-Ale" brewery_id="The-Livery" abv="5.25">
+  <name>Paris-Roubaix Pale Ale</name>
+  <description>Named after one of the longest running bicycle races in France and aptly nicknamed "The Hell Of The North", the Paris-Roubaix has been held every April since 1915. This Pale Ale is brewed with Belgian and German malts and bittered with 3 different American hops for a pleasing balance.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

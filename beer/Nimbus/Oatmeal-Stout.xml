@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Nimbus/Oatmeal-Stout" brewery_id="Nimbus">
+  <name>Oatmeal Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout - Oatmeal</style>
+  </styles>
+</beer>

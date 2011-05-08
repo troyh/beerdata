@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Huge-Large-Sound-Czech-Pils" brewery_id="Russian-River-Brewing-Co" abv="5" ibu="45">
+  <name>Huge Large Sound Czech Pils</name>
+  <description>A west coast Pilsner brewed in honor of one of our favorite bands.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

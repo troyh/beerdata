@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Mondog-Esb" brewery_id="Great-Lakes-Brewing-Co" abv="5" ibu="25">
+  <name>Mondog ESB</name>
+  <description>Extra Special Bitter ale with a flowery hop bouquet and crisp finish.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Extra Special Bitter</style>
+  </styles>
+</beer>

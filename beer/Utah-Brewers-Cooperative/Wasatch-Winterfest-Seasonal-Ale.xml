@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Wasatch-Winterfest-Seasonal-Ale" brewery_id="Utah-Brewers-Cooperative" abv="7.1">
+  <name>Wasatch Winterfest Seasonal Ale</name>
+  <description>Wasatch Winterfest Seasonal Ale (7.1% alcohol by volume) is a rich amber ale with caramel malt flavors and a large hop presence. Brewed with the finest Northwestern pale and caramel malts then generously hopped with Columbus and Amarillo hops. Crafted in the spirit and style of the Sierra Nevada Celebration.\nInspiration? "This new seasonal was brewed to warm you through the cold winter months! Our Winterfest Ale makes a wonderful compliment to an epic day on the mountain, and the perfect companion around the fire. It's our toast to Utah.</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

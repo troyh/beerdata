@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lost-Coast-Brewery/Lost-Coast-Pale-Ale" brewery_id="Lost-Coast-Brewery" abv="6.5">
+  <name>Lost Coast Pale Ale</name>
+  <description>This highly hopped California style Pale Ale showcases the brewer's art of balancing malt and hop characteristics. A generous addition of Munich malts balances the bittering from Chinook hops, and Cascade hops round out the flavor profile.</description>
+  <availability/>
+  <ingredients/>
+  <grains>munich</grains>
+  <grains>munich</grains>
+  <hops>chinook and cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

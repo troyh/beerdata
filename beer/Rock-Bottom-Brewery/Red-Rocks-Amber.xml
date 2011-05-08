@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Red-Rocks-Amber" brewery_id="Rock-Bottom-Brewery">
+  <name>Red Rocks Amber</name>
+  <description>This brew is deep red in color and balanced with a smooth hop bitterness to provide a tasty American Amber Ale. Try it with our signature fish &amp; chips.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

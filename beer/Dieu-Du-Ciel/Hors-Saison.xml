@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Hors-Saison" brewery_id="Dieu-Du-Ciel" abv="6">
+  <name>HORS SAISON</name>
+  <description>Brewed in the Saison style (see the description for the Saison St-Louis), rye is added during the brewing process. The rye brings about a slightly spicy flavour which is not present in the Saison St-Louis. The Hors Saison&#xD5;s name comes from the fact that it is brewed in winter and with rye, a cereal rarely used in the making of this beer style.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>rye saison</style>
+  </styles>
+</beer>

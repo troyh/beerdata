@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Lucky-Kat" brewery_id="Magic-Hat" abv="5.8" ibu="58">
+  <name>Lucky Kat</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale, Munich, Crystal</grains>
+  <grains>Pale, Munich, Crystal</grains>
+  <hops>Amarillo, Crystal</hops>
+  <yeast>English Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

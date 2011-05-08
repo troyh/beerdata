@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Drink-In-The-Sun" brewery_id="Mikkeller" abv="3.9">
+  <name>Drink In The Sun</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pale, wheat, cara-red</grains>
+  <grains>pale, wheat, cara-red</grains>
+  <hops>amarillo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

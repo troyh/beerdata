@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Fultonwood-Draft-Imperial-Brown-Goose" brewery_id="Goose-Island-Beer-Co" abv="7.2" ibu="55">
+  <name>FultonWood Draft: Imperial Brown Goose</name>
+  <description>A strong bourbon barrel aged ale, this ale is rich and full flavored with notes of wood, vanilla, and raisin.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>bourbon barrel aged ale</style>
+  </styles>
+</beer>

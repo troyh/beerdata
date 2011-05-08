@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Dixie-Oflynns" brewery_id="The-Livery" abv="5.25">
+  <name>Dixie O'Flynns</name>
+  <description>Rich and dark, our version of an Irish classic boasts a balanced blend of British pale, chocolate, and roast barley malts, finishing with a pleasing hint of English Fuggles hops. This beer is served on a nitrogen tap for that traditional creamy head.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Irish Stout</style>
+  </styles>
+</beer>

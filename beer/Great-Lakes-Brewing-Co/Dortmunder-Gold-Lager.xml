@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Dortmunder-Gold-Lager" brewery_id="Great-Lakes-Brewing-Co" abv="5.8" ibu="30">
+  <name>Dortmunder Gold Lager</name>
+  <description>A smooth lager that strikes a delicate balance between sweet malt and dry hop flavors.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dortmunder</style>
+  </styles>
+</beer>

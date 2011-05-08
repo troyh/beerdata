@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Ochamena-Bi-ru" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>OCHAMENA BI-RU</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>buckwheat </style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Ipa" brewery_id="Stone-Brewing-Co" abv="6.9" ibu="77">
+  <name>Stone IPA</name>
+  <description>An "India Pale Ale" by definition is highly hopped and high in alcohol- you'll find our Stone India Pale Ale to be true to style with a huge hop aroma, flavor and bitterness throughout. If you're a hop-head like us, then you'll love our Stone India Pale Ale! Medium malt character with a heavy dose of over the top hops! Generous "dry hopping" gives this beer its abundant hop aroma and crisp hop flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Columbus, Chinook, and Centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

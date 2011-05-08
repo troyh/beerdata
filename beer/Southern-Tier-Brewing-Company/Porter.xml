@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Porter" brewery_id="Southern-Tier-Brewing-Company" abv="5.2">
+  <name>porter</name>
+  <description>Porter is our darkest beer, but not necessarily our strongest. It is widely held that the darker the beer, the stronger the beer, but this is summarily false. The contribution of color comes directly from the color of malt that we use. Some malt is roasted to achieve dark color and coffee-like flavor which in turn get transferred to the beer. Our Porter is richly complex with overtones of chocolate and espresso beans followed by a subtle flavor of hops. It's a nourishing beer without being too sweet or filling.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>porter</style>
+  </styles>
+</beer>

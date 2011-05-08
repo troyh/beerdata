@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Swan-Island-Lager" brewery_id="Rock-Bottom-Brewery">
+  <name>Swan Island Lager</name>
+  <description>A refreshing, light golden brew, this lager is clean and well-balanced, with just a hint of hops and a wonderful malt glow. Great with any of our fresh, flavorful salads.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

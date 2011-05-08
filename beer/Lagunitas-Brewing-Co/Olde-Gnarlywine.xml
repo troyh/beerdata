@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Olde-Gnarlywine" brewery_id="Lagunitas-Brewing-Co">
+  <name>Olde GnarlyWine</name>
+  <description>The Annual release of our BarleyWine... This is Surely Not a Beer for the Designated Driver.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine Ale</style>
+  </styles>
+</beer>

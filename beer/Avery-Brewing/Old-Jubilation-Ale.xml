@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Old-Jubilation-Ale" brewery_id="Avery-Brewing" abv="8" ibu="30">
+  <name>Old Jubilation Ale</name>
+  <description>Our winter strong ale has a gorgeous mahogany hue, a hint of hazelnuts, and a finish reminiscent of mocha and toffee. No spices, just a perfect blend of five specialty malts. Cellarable for 2 years.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>Two-row barley, special roast, black, chocolate, victory</grains>
+  <grains>Two-row barley, special roast, black, chocolate, victory</grains>
+  <hops>Bullion</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Strong Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Lumpy-Dog-Brown" brewery_id="Rock-Bottom-Brewery">
+  <name>Lumpy Dog Brown</name>
+  <description>Our brown ale is deep mahogany in color with rich roasted and raisin malt overtones. The complex malt flavor is balanced with the smooth fruity esters of our proprietary yeast strain and earthiness of our select lot of Willamette hops.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

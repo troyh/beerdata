@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Strawberry-Harvest" brewery_id="Three-Floyds-Brewing" abv="4.2" ibu="13">
+  <name>Strawberry Harvest</name>
+  <description>Strawberry Harvest Lager is a wheat beer made with real Louisiana strawberries, picked late in the season when they're at their sweetest. This brew has earned quite a reputation in a short time, causing the brewery to up their production year after year. When this brew is found, emails and phone calls fly to friends informing them of the store's location. Strawberry Harvest is a crisp, light lager with just a hint of strawberry sweetness. It is wonderful with desserts or lighter fares such as salads and pastas. Fresh cheeses such as Burrata, chevre, Creszenza, mozzarella or Teleme pair well with Strawberry Harvest.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Lager</style>
+  </styles>
+</beer>

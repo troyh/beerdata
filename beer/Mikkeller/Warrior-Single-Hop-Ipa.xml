@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Warrior-Single-Hop-Ipa" brewery_id="Mikkeller" abv="6.9">
+  <name>Warrior Single Hop IPA</name>
+  <description>The second in a new series of single hop IPA's from Mikkeller. Brewed with Warrior, a classic hop type in it's home country USA. An extremely fresh-hopped IPA.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <grains>pilsner, cara-crystal, and munich</grains>
+  <hops>warrior</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

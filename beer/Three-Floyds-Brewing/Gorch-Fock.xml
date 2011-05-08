@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Gorch-Fock" brewery_id="Three-Floyds-Brewing" abv="5" ibu="25">
+  <name>Gorch Fock</name>
+  <description/>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Helles Lager</style>
+  </styles>
+</beer>

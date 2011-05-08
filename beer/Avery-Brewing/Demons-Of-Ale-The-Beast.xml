@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/Demons-Of-Ale-The-Beast" brewery_id="Avery-Brewing" abv="14.9" ibu="68">
+  <name>Demons of Ale: The Beast</name>
+  <description>The Beast is a seducer - accomodating, complicated, powerful, dark and created to last the ages. With a deep burgundy color and aromas of honey, nutmeg, mandarin orange and pineapple, this massive and challenging brew has flavors akin to a beautiful Carribean rum. Dates, plums, raisins and molasses are dominant in a rich vinous texture. Cellarable for 10+ years.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, Belgian Special B, honey malt, aromatic, pale wheat, roasted wheat</grains>
+  <grains>Two-row barley, Belgian Special B, honey malt, aromatic, pale wheat, roasted wheat</grains>
+  <hops>Magnum, Galena, Saaz, Hallertau, Tettnang, Hersbrucker</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Grand Cru</style>
+  </styles>
+</beer>

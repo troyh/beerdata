@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Atlanta-Brewing-Company/Red-Brick-Octoberfest" brewery_id="Atlanta-Brewing-Company" ibu="fall">
+  <name>Red Brick Octoberfest</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

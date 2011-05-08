@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Blanche-Du-Paradis" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Blanche du Paradis</name>
+  <description>Blanche du Paradis is a Belgian-style Wit brewed with coriander seeds and Cura&#x8D;ao orange peels, the spices traditionnally found in this classic style. Unfiltered and containing almost as much raw wheat as malted barley, it presents a veil of yeast and proteins giving this style its "Blanche" name. Round and light at the same time, it exhales fresh baked bread aromas, and reveals spices and citrus flavours, accompanied by subtle notes of acidity coming from the wheat.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian Wheat </style>
+  </styles>
+</beer>

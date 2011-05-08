@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kona-Brewing-Co/Pipeline-Porter" brewery_id="Kona-Brewing-Co" abv="5.4" ibu="30">
+  <name>Pipeline Porter</name>
+  <description>Pipeline Porter is smooth and dark with a distinctive roasty aroma and earthy complexity from its diverse blends of premium malted barley. This celebration of malt unites with freshly roasted 100% Kona coffee grown at Cornwell Estate on Hawaii's Big Island, lending a unique roasted aroma and flavor. A delicate blend of hops rounds out this palate-pleasing brew.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>pale, carapils, victory, caramel 80, extra special, chocolate malt, dark chocolate malt, roasted barley</grains>
+  <grains>pale, carapils, victory, caramel 80, extra special, chocolate malt, dark chocolate malt, roasted barley</grains>
+  <hops>warrior, millenium, horizon, perle</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

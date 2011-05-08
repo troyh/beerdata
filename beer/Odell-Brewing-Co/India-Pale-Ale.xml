@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Odell-Brewing-Co/India-Pale-Ale" brewery_id="Odell-Brewing-Co" abv="7" ibu="60">
+  <name>India Pale Ale</name>
+  <description>We took the traditional IPA, originally shipped from England to India in the 1700's, and made it bolder and more flavorful - American Style. We've added new varieties of highly aromatic American hops to create a distinctive bitterness profile and an incredible hop character.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

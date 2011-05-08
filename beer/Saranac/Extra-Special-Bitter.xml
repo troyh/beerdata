@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Extra-Special-Bitter" brewery_id="Saranac" abv="5.3">
+  <name>Extra Special Bitter</name>
+  <description>Bitters are popular pub beers in England and are closely related to the more well know Pale Ales. Saranac Extra Special Bitter has a rich, malty taste balanced by the pleasant bitterness of Williamette hops. The finish is dry with a hint of the floral English Fuggle and spicy Saaz hop. Enjoy!</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>2 row, biscuit malt</grains>
+  <grains>2 row, biscuit malt</grains>
+  <hops>fuggle, saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Extra Special Bitter</style>
+  </styles>
+</beer>

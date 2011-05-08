@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyn-Cuvee-De-Cardoz" brewery_id="Brooklyn-Brewery" abv="8">
+  <name>Brooklyn Cuvee de Cardoz</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Spiced Wheat Ale</style>
+  </styles>
+</beer>

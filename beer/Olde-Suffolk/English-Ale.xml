@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Olde-Suffolk/English-Ale" brewery_id="Olde-Suffolk">
+  <name>English Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - English</style>
+  </styles>
+</beer>

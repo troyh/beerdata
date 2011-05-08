@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lake-Placid/Ubu-Ale" brewery_id="Lake-Placid" abv="7">
+  <name>UBU Ale</name>
+  <description>The mountain village of Lake Placid was once home to a legendary chocolate lab named Ubu, the biggest dog you've ever seen with an uncanny nose for great beer. Deep garnet red in color, this English-Style Ale is a tribute to the legend of Ubu. It features a smooth, rich maltiness complemented by just the right amount of hops. Here's to the legend!</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2 row, crystal, chocolate</grains>
+  <grains>2 row, crystal, chocolate</grains>
+  <hops>cluster, willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Strong Ale</style>
+  </styles>
+</beer>

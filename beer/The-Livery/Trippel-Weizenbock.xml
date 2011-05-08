@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Trippel-Weizenbock" brewery_id="The-Livery" abv="11.75">
+  <name>Trippel Weizenbock</name>
+  <description>Definitely the most complex beer coming out of our brewery, Ratebeer.com has rated this as the #1 Weizenbock in the world! Flavors of leather, fig, raisin, and a sweet finish from 33% wheat malt co-mingle with warm alcohol and noble hops for a truly unique beer experience! Also available barrel aged.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dark Wheat Lager</style>
+  </styles>
+</beer>

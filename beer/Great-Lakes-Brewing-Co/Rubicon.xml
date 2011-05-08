@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Rubicon" brewery_id="Great-Lakes-Brewing-Co" abv="5.8" ibu="45">
+  <name>Rubicon</name>
+  <description>A Belgian red ale with fruity aroma and complex hops.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Red Ale</style>
+  </styles>
+</beer>

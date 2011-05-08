@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Belhaven/Scottish-Ale" brewery_id="Belhaven">
+  <name>Scottish Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Scotch</style>
+  </styles>
+</beer>

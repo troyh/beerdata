@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Coffee-Stout" brewery_id="Long-Trail-Brewing-Co" abv="8" ibu="50">
+  <name>Coffee Stout</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

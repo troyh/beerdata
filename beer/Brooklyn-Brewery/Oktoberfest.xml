@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Oktoberfest" brewery_id="Brooklyn-Brewery" abv="5.5">
+  <name>Oktoberfest</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oktoberfest Marzen</style>
+  </styles>
+</beer>

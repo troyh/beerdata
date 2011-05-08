@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Santa-Fe/Pale-Ale" brewery_id="Santa-Fe">
+  <name>Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

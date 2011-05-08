@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Expedition-Stout" brewery_id="Bells-Brewery" abv="10.5">
+  <name>Expedition Stout</name>
+  <description>The vintage port of American stout. A good ale for the cellar. Well suited for November storms and trips across the Sahara.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

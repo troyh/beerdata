@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Blackbeary-Wheat" brewery_id="Long-Trail-Brewing-Co" abv="4" ibu="8">
+  <name>Blackbeary Wheat</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat</style>
+  </styles>
+</beer>

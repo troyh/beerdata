@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Twentieth-Anniversary-Ale" brewery_id="North-Coast-Brewing-Co" abv="12.5">
+  <name>Twentieth Anniversary Ale</name>
+  <description>Anniversary XX is a continuation of our innovative approach to brewing over the past twenty years -- an approach that has included leading the way in the development of Belgian style beers, a barrel-aging program, the re-introduction of long-neglected imperial stout styles, and the new packaging ideas. We think it's a fitting crown for our first two decades of operation. XX is a unique beer, pale and lightly hopped, brewed with agave nectar and fermented with a special yeast strain. Some of the lots were aged in oak barrels and then blended to perfection so the final is a complex, subtle new direction in brewing art.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian</style>
+  </styles>
+</beer>

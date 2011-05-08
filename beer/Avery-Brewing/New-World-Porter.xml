@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/New-World-Porter" brewery_id="Avery-Brewing" abv="6.7" ibu="45">
+  <name>New World Porter</name>
+  <description>A traditional black porter, with a surprise twist - it's dry-hopped!! We've expanded the porter category a bit, adding a delightful, dry hop aroma to blend with the sweet caramel and chocolate characteristics of a Robust Porter.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains>Two-row barley, Munich 10L, chocolate, black, caramel 120L</grains>
+  <grains>Two-row barley, Munich 10L, chocolate, black, caramel 120L</grains>
+  <hops>Columbus, Fuggles</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Robust Porter</style>
+  </styles>
+</beer>

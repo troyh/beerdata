@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flying-Dog-Brewery/In-heat-Wheat-Hefeweizen" brewery_id="Flying-Dog-Brewery" abv="4.7" ibu="12">
+  <name>In-heat Wheat Hefeweizen</name>
+  <description>She taunts and teases... In-Heat Wheat is our German-style Hefeweizen. She is a full flavor beer, perfect for the more adventurous craft beer drinker. The addition of malted white wheat gives this brew its smooth, full mouthfeel. A proprietary yeast creates intriguing flavors of bananas and cloves</description>
+  <availability/>
+  <ingredients/>
+  <grains>Malted White Wheat, Munich</grains>
+  <grains>Malted White Wheat, Munich</grains>
+  <hops>German Perle</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen </style>
+  </styles>
+</beer>

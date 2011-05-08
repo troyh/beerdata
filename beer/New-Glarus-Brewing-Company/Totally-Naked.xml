@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Totally-Naked" brewery_id="New-Glarus-Brewing-Company" abv="4.2">
+  <name>Totally Naked</name>
+  <description>Pure and crisp this is a beer with nothing to hide. Wisconsin two-row barley malt ensures a mellow and smooth body. We imported Noble Hop varieties from Germany and the Czech Republic to ensure a fine mature aroma with no coarse bitterness. \nExpect this beer to pour a delicate golden hue that sparkles in the summer sun. This lager is brewed using all natural ingredients with no artificial additives of any kind. Kick back, relax and enjoy the simple unadorned flavor. This is beer at its most basic.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

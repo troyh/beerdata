@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Circus-Boy" brewery_id="Magic-Hat" abv="4.4" ibu="14">
+  <name>Circus Boy</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>malted wheat, pale</grains>
+  <grains>malted wheat, pale</grains>
+  <hops>amarillo</hops>
+  <yeast>Hefeweizen</yeast>
+  <otherings/>
+  <styles>
+    <style>Hefewwizen</style>
+  </styles>
+</beer>

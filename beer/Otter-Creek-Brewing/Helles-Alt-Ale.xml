@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Helles-Alt-Ale" brewery_id="Otter-Creek-Brewing">
+  <name>Helles Alt Ale</name>
+  <description>Helles Alt was an Otter Creek offering brewed back in the 1990's and then discontinued to make way for new beers. This beer is a combination of two brews originating in Germany. Helles means "bright" and refers to lager. Alt means "old" and refers to the old style of brewing using top-fermenting yeast at warmer temperatures.  The combination produces a bright golden, refreshing ale that is well balanced with traditional German bittering and aroma hops.  Just in time for barbecue season, this ale is the perfect complement to grilled foods and salads.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Helles</style>
+  </styles>
+</beer>

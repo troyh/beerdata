@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Robert-The-Bruce" brewery_id="Three-Floyds-Brewing" abv="6.5" ibu="30">
+  <name>Robert the Bruce</name>
+  <description>A big malty body from chocolate and roasted malts, well balanced withjust the right combination of hops. Robust yet smooth, a true malt-lover's delight. AROMA: Full sweet malty nose, highlighting by roasted malt notes.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Sottish Ale</style>
+  </styles>
+</beer>

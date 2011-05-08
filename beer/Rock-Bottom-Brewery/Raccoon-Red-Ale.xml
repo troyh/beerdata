@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Raccoon-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Raccoon Red Ale</name>
+  <description>Brewed with British malts, this beer is ??well-balanced with a clean finish of Kent Golding hops. It's great with fish and chips.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

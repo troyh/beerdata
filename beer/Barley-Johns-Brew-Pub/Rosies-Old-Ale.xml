@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Barley-Johns-Brew-Pub/Rosies-Old-Ale" brewery_id="Barley-Johns-Brew-Pub">
+  <name>Rosies Old Ale</name>
+  <description>Triple fermented Wild Rice brown Ale brings an elevated alcohol percentage to the glass. Aged 8 months in Old Fitzgerald Bourbon casks (third use of the barrel) to add a subtle bourbon and vanilla note. Subtle sherry flavor and a brilliant red color.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wild Rice Brown Ae</style>
+  </styles>
+</beer>

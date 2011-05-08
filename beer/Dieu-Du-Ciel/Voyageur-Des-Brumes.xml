@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Voyageur-Des-Brumes" brewery_id="Dieu-Du-Ciel" abv="5.5">
+  <name>VOYAGEUR DES BRUMES</name>
+  <description>This mahogany coloured beer has a caramel malt bouquet accompanied by the light aroma of hops. The caramel malt taste sails wonderfully into the mouth alongside a fruity taste brought about by a trio of hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

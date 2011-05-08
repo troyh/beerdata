@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Sweaty-Betty-Blonde" brewery_id="Boulder-Beer-Co" abv="5.9">
+  <name>Sweaty Betty Blonde</name>
+  <description/>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>malted wheat, 2 row pale</grains>
+  <grains>malted wheat, 2 row pale</grains>
+  <hops>hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>bavarian wheat</style>
+  </styles>
+</beer>

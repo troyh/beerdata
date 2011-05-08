@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Summer-Saison" brewery_id="Green-Flash-Brewing-Co" abv="4.3" ibu="20">
+  <name>Summer Saison</name>
+  <description>Unfiltered golden farmhouse ale, brewed with orange curacao, ginger and grains of paradise.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Saison</style>
+  </styles>
+</beer>

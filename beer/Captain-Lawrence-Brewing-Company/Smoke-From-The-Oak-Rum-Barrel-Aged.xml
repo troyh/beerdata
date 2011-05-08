@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Smoke-From-The-Oak-Rum-Barrel-Aged" brewery_id="Captain-Lawrence-Brewing-Company">
+  <name>Smoke from the oak- rum barrel aged</name>
+  <description/>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>smoked porter</style>
+  </styles>
+</beer>

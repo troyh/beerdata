@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Summer-Ale" brewery_id="Shipyard-Brewing-Co" abv="5.1">
+  <name>Summer Ale</name>
+  <description>Shipyard Summer Ale is a traditional American wheat beer. With it's inviting golden color, mellow malted wheat flavor and less hoppy characteristics, it's sure please those looking for a clean, cool taste sensation on long hot summer days.</description>
+  <availability>Summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale</style>
+  </styles>
+</beer>

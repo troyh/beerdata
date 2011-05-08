@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harviestoun-Brewery/Old-Engine-Oil" brewery_id="Harviestoun-Brewery" abv="6">
+  <name>Old Engine Oil</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dark Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/El-Jefe-Hefeweizen" brewery_id="Rock-Bottom-Brewery">
+  <name>El Jefe Hefeweizen</name>
+  <description>A traditional German-style unfiltered Wheat beer, great for a summertime refreshment. The Bavarian yeast strain produces hints of banana, clove and vanilla flavors. . Highly carbonated, this beer lends a stylish zest to any meal.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen</style>
+  </styles>
+</beer>

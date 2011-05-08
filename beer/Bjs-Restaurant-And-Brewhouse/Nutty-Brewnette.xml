@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bjs-Restaurant-And-Brewhouse/Nutty-Brewnette" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="5.9" ibu="35">
+  <name>Nutty Brewnette</name>
+  <description>A unique American-style brown ale. A blend of four different dark malts produces a flavor profile that is sweet with ""nutty"" notes. A healthy dose of hops makes this beer hoppier and more balanced than most English brown ales.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row pale, english crystal, briess victory and special roast, chocolate</grains>
+  <grains>2-row pale, english crystal, briess victory and special roast, chocolate</grains>
+  <hops>magnum, willamette, UK Fuggles</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Brown Ale</style>
+  </styles>
+</beer>

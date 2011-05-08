@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Issaquah-Frog-Family-White-Frog-Ale" brewery_id="Rogue-Ales" ibu="13">
+  <name>Issaquah Frog Family: White Frog Ale</name>
+  <description>"Aromas of coriander and orange spice dominate the nose. A very light mouthfeel is countered with sweet orange peel, coriander and subtle notes of chamomile. It finishes with delicate banana and clove spices. Surprisingly light and immediately quaffable."</description>
+  <availability/>
+  <ingredients/>
+  <grains>Pilsen.</grains>
+  <grains>Pilsen.</grains>
+  <hops>Sterling.</hops>
+  <yeast>Flaked Oats, Flaked Rye, Coriander, Sweet Orange Peel, Nutmeg, Chamomile, Cinnamon, Ginger, Water and Belgian Witbier Yeast.</yeast>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

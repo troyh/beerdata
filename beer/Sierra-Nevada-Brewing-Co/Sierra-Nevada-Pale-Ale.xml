@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Pale-Ale" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.6" ibu="37">
+  <name>Sierra Nevada Pale Ale</name>
+  <description>Our most popular beer, Sierra Nevada Pale Ale, is a delightful interpretation of a classic style. It has a deep amber color and an exceptionally full-bodied, complex character. Generous quantities of premium Cascade hops give the Pale Ale its fragrant bouquet and spicy flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row Pale &amp; Caramel</grains>
+  <grains>Two-row Pale &amp; Caramel</grains>
+  <hops>Magnum &amp; Perle, Cascade</hops>
+  <yeast>Top-fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

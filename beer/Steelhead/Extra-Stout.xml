@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Steelhead/Extra-Stout" brewery_id="Steelhead">
+  <name>Extra Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Stout</style>
+  </styles>
+</beer>

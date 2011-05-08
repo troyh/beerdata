@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Maibock" brewery_id="Smuttynose-Brewing-Co">
+  <name>Maibock</name>
+  <description>Bock beer is a broad stylistic category describing a wide range of malty, lightly-hopped German lager beers, ranging in color from light straw to dark brown, from medium to full body, with medium to high alcohol. Maibocks, typically released in the springtime, tend to be light in color and medium to full-bodied bodied and usually feature German "noble" hop varieties. As is the case with other traditional styles, American brewers have taken some creative liberties with bock beers, often with outstanding results.We brew our Maibock to be hugely malty &amp; subtly finished with a variety of continental hops, with an eye-pleasing russet brown color. Prosit!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Maibock</style>
+  </styles>
+</beer>

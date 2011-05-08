@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Hanami-Ale" brewery_id="Smuttynose-Brewing-Co" abv="4.5">
+  <name>Hanami Ale</name>
+  <description>Smuttynose Hanami Ale, our spring seasonal, is inspired by the ancientJapanese tradition of hanami- cherry blossom viewing - when people throughout Japan gather in parks to contemplate the luminous, ethereal sakura blossoms, while consuming copious amounts of food and beer in a joyous, nationwide picnic.Made with a generous amount of natural cherry juice, Hanami Ale is crisp and refreshing, a well-balanced, medium-bodied ale offering subtle, tart cherry flavors - the perfect way to bid farewell to winter's icy grip and toast the arrival of spring with your own hanami celebration.</description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>Pilsener, Carahell, Aromatic &amp; Carafa malts</grains>
+  <grains>Pilsener, Carahell, Aromatic &amp; Carafa malts</grains>
+  <hops>Styrian Golding, SterlingColor/Number: Rosy-hued Amber</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ale</style>
+  </styles>
+</beer>

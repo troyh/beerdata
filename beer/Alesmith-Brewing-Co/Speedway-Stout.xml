@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Speedway-Stout" brewery_id="Alesmith-Brewing-Co" abv="12">
+  <name>Speedway Stout</name>
+  <description>A HUGE Imperial Stout that weighs in at an impressive 12% ABV! As if that's not enough, we added pounds of coffee for a little extra kick. Our special-edition Brewer's Reserve Speedway Stout, which is aged in Bourbon barrels, has been rated the #1 BEST BEER IN THE WORLD at ratebeer.com. It was also featured on CNBC's "Squawk Box" in a segment on the best dark beers in America.</description>
+  <availability/>
+  <ingredients/>
+  <grains>roasted and caramel</grains>
+  <grains>roasted and caramel</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Blackout-Stout" brewery_id="Great-Lakes-Brewing-Co" abv="9" ibu="85">
+  <name>Blackout Stout</name>
+  <description>A Russian Imperial Stout with a hearty malt body and bold hop flavor.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Russian Imperial Stout</style>
+  </styles>
+</beer>

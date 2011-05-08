@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/White-Rascal" brewery_id="Avery-Brewing" abv="5.6" ibu="10">
+  <name>White Rascal</name>
+  <description>A truly authentic Belgian style wheat or "white" ale, this Rascal is unfiltered (yup, that's yeast on the bottom) and cleverly spiced with coriander and Curacao orange peel producing a refreshingly fruity thirst quencher.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row barley, Belgian wheat</grains>
+  <grains>Two-row barley, Belgian wheat</grains>
+  <hops>Czech Saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Wheat </style>
+  </styles>
+</beer>

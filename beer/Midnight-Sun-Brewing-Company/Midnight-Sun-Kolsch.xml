@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Midnight-Sun-Kolsch" brewery_id="Midnight-Sun-Brewing-Company" abv="5">
+  <name>Midnight Sun Kolsch</name>
+  <description>From the talented brewers of Midnight Sun comes an incredible, beautifully bright and sunny golden ale. Every sip entices the taste buds with a bold balance of pils malt and noble hops. Midnight Sun Kolsch is a traditional German-style beer that unites the liveliness of an ale with the crispness of a lager for real refreshment any time of year.Creating a beer that truly serves both newcomers to craft beer as well as avid beer aficionados is no easy task. Midnight Sun Kolsch brewers struck gold with this beer...and now you can too.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>kolsch</style>
+  </styles>
+</beer>

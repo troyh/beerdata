@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Spoetzl/Shiner-Bohemian-Black-Lager" brewery_id="Spoetzl" abv="4.9" ibu="18">
+  <name>Shiner Bohemian Black Lager</name>
+  <description>Bohemian Black Lager, crafted according to exacting old-world standards with imported Czech Saaz, Styrians Hops and selected roasted malts, is the darkest beer we brew. Initially added to the Shiner family as our 97 Anniversary Brew, the unique and complex flavor of this rare brew found such a following among our customers that we brought it back for good!</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Black Lager</style>
+  </styles>
+</beer>

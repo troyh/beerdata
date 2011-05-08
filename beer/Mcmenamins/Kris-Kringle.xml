@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Kris-Kringle" brewery_id="Mcmenamins" abv="6.84">
+  <name>Kris Kringle</name>
+  <description>Just in time for the holidays, November 14th marks the release of this year's McMenamins Traditional Yuletide Ale, Kris Kringle. The busy-as-elves McMenamins brewers have a little trick up their sleeve for the 2008 version, however. It seems that Kris Kringle has gained a few pounds over the past few months, a few pounds of both barley and hops that is! 2008 Kris Kringle is a beefi er beer than in years' past, with a bigger and bolder malt complexity as well as a bigger and bolder hop profi le. This "winter warmer" highlights the rich, toasty, aromatic and chocolaty malt fl avors as its very sturdy foundation. Generous amounts of four different hop varieties were added in fi ve different additions that will deliver a magnifi cent hop assault on your taste buds. There's still some ginger and cinnamon added into the batch but the spices are a little more subdued. McMenamins brewers hope you enjoy this bigger and bolder version of our old Holiday favorite, Kris Kringle. It should pour concurrently with Sleepy Hollow Nut Brown. Happy Holidays and a Wonderful New Year!</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains>GWM Pale Ale Malt, GWM Munich Malt, GWM Wheat Malt, GWM 15L Crystal Malt, GWM 120L Crystal Malt, Baird's Chocolate Malt</grains>
+  <grains>GWM Pale Ale Malt, GWM Munich Malt, GWM Wheat Malt, GWM 15L Crystal Malt, GWM 120L Crystal Malt, Baird's Chocolate Malt</grains>
+  <hops>Nugget (Bittering &amp; Flavor), Chinook (Flavor), Cascade (Flavor &amp; Aroma), Crystal (Flavor &amp; Aroma))</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Winter Warmer</style>
+  </styles>
+</beer>

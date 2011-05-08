@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Winter-Ae" brewery_id="Otter-Creek-Brewing">
+  <name>Winter Ae</name>
+  <description>Otter Creek Winter Ale will be available this winter from November through January. The new special release is a smooth brown ale, with a touch of raspberry. Rich and toasty with a warming body and light hops, this will be a malty and perfectly fruited beer- very appealing and comforting. Just right for wintertime.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Golden-Monkey" brewery_id="Victory-Brewing-Co" abv="9.5">
+  <name>Golden Monkey</name>
+  <description>Strong and sensual, this golden, Belgian-style ale glows with goodness. The richness of German malts and Belgian yeast are tempered by a sparkling approach and overall light body. Considerable depth of character with abundant herbal, fruity notes make this one to savor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2 row German malt</grains>
+  <grains>2 row German malt</grains>
+  <hops>European whole flowers</hops>
+  <yeast>imported, of Belgian origin</yeast>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

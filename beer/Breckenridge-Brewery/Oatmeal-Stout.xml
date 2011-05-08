@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Oatmeal-Stout" brewery_id="Breckenridge-Brewery" abv="4.95" ibu="31">
+  <name>Oatmeal Stout</name>
+  <description>Rich, round and roasted, our Oatmeal Stout is satisfaction in a glass. It's a bold, smooth-bodied concoction that oozes dark-roasted coffee aromas and flavors of espresso and semi-sweet chocolate. We round out these heady pleasures with a dose of flaked oatmeal for a creamy body and a semi-dry finish.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Two Row Pale, Caramel, Roasted Barley, Chocolate, Oat Flakes, Black</grains>
+  <grains>Two Row Pale, Caramel, Roasted Barley, Chocolate, Oat Flakes, Black</grains>
+  <hops>Chinook, Perle</hops>
+  <yeast>Top Fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>oatmeal Stout</style>
+  </styles>
+</beer>

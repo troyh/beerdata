@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Sockeye-Red-Ipa" brewery_id="Midnight-Sun-Brewing-Company" abv="5.7" ibu="70">
+  <name>Sockeye Red IPA</name>
+  <description>Brewed in the bold spirit of Alaska, Sockeye Red IPA is a finely crafted Pacific Northwest-style India Pale Ale with a real bite. Ample pale two-row malt creates a fresh, firm body while specialty malts impart a spawning red hue. The predominant character of this fiesty catch comes from outlandish portions of Centennial, Cascade and Simcoe hops, giving this beer tremendous citrus and floral aroma and flavor. Determined and bitter but amazingly balanced, Sockeye Red is gnarly enough to take you hook, line and sinker. Forget about a bigger rig; grab a bigger glass.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Centennial, Cascade and Simcoe</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red IPA</style>
+  </styles>
+</beer>

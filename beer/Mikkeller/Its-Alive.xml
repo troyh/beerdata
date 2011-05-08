@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mikkeller/Its-Alive" brewery_id="Mikkeller" abv="8">
+  <name>It's Alive</name>
+  <description>It's Alive! is Mikkellers answer and tribute to the trappist beer Orval. It's Alive is an easy-to-drink beer, with a lot of hops. The color is amber, the foam is high, white and dense. The potent Brettanomyces culture makes It's Alive continue to develop in the bottle.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pale and cara</grains>
+  <grains>pale and cara</grains>
+  <hops>hallertauer and styrian goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Wild Ale</style>
+  </styles>
+</beer>

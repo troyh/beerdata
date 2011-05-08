@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Blanche-De-F-vrier" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>BLANCHE DE F&#x83;VRIER</name>
+  <description>Traditional Belgian wheat beer to which is added ginger and mustard seeds. This beer is brewed with the same yeast that was used to ferment the Blanche Neige, conferring it discrete cinnamon and clove flavours. It is a very refreshing beer, due especially to the addition of the mustard seeds.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat</style>
+  </styles>
+</beer>

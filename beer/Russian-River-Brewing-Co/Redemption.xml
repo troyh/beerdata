@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Redemption" brewery_id="Russian-River-Brewing-Co" abv="5">
+  <name>Redemption</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Blonde Ale</style>
+  </styles>
+</beer>

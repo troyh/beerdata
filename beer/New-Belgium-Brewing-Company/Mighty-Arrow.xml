@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Mighty-Arrow" brewery_id="New-Belgium-Brewing-Company">
+  <name>Mighty Arrow</name>
+  <description>MIGHTY ARROW Pale Ale provides lots of pleasurable sniffs from Amarillo and Cascade hops with a fetching honey malt base. This is our brewed tribute to Arrow, Kim's Aussie/Border Collie mix who ran (literally) New Belgium for 12 years. When she wasn't patrolling the brewery grounds, she was famous for her office visits: She never met a tummy rub she didn't like. Atta girl Arrow.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

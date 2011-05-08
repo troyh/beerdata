@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Holy-Moses-White-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="5.4" ibu="30">
+  <name>Holy Moses White Ale</name>
+  <description>A Belgian Wit Ale spiced with orange peel, chamomile and coriander.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Witbier</style>
+  </styles>
+</beer>

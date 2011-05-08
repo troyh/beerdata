@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Red-Trolley-Ale" brewery_id="Karl-Strauss" abv="5.8" ibu="17">
+  <name>Red Trolley Ale</name>
+  <description>Red Trolley Ale is a medium-bodied beer with heavyweight malts. We brew it with a half ton of caramelized malts for a rich copper color and toffee flavor. After adding the perfect mix of hops for balance, we warm ferment the beer to bring out a hint of dried raisins and currants. The complexity of flavors makes Red Trolley Ale a hearty and truly enjoyable beer. Back in the day, we brewed Red Trolley Ale as our first holiday beer. In the spirit of the season, we made like Santa in a fat suit and stuffed it full of caramel malts. So many folks got on board that we decided to brew it year round. Years later, Red Trolley Ale remains the perfect beer to make any occasion festive.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

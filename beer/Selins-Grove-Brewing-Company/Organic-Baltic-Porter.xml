@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/Organic-Baltic-Porter" brewery_id="Selins-Grove-Brewing-Company">
+  <name>Organic Baltic Porter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>baltic Porter</style>
+  </styles>
+</beer>

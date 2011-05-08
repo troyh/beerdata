@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Ipa" brewery_id="Sweetwater-Brewing-Company">
+  <name>IPA</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

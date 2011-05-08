@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Ipa" brewery_id="Long-Trail-Brewing-Co" abv="5.9" ibu="56">
+  <name>IPA</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English IPA</style>
+  </styles>
+</beer>

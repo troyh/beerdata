@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Reds-Rye-Pa" brewery_id="Founders-Brewing-Co" abv="6.6" ibu="70">
+  <name>Red's Rye PA</name>
+  <description>Serious hop bitterness along with unyielding grapefruit bouquet from the Amarillo dry-hop. Balanced with the malty richness of four varieties of imported Belgian caramel malts. Pours a spectacular crimson with a creamy tan head. A generous addition of rye malt accentuates a spicy crisp finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>caramel</grains>
+  <grains>caramel</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

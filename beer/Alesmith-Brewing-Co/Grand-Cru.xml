@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Grand-Cru" brewery_id="Alesmith-Brewing-Co" abv="10.5">
+  <name>Grand CRU</name>
+  <description>Our other famous Belgian-style offering is our Grand Cru. As with Horny Devil, it is fermented using yeast which originated in a Trappist monastery in Belgium. A darker type of Belgian candi sugar gives it more color and a richer complexity of flavor, consistent with the Belgian style.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

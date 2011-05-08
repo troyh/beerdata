@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Anderson-Valley-Brewing-Co/Poleeko-Gold-Pale-Ale" brewery_id="Anderson-Valley-Brewing-Co" abv="5.5">
+  <name>Poleeko Gold Pale Ale</name>
+  <description>When the phrase "California Style Ale" is used, Poleeko Gold Pale Ale is the one that comes to mind. The golden color and generous use of Pacific Northwest hops establish a distinct style, separate from any domestic or European beers. Our honey-gold pale ale is crisp and clear, with an unusual lightness and dryness for such a full-flavored ale. The arousing abundance of hops adds both a floral bouquet and a lively, citrusy finish. It is excellent alone, or with full-flavored meals and spicy dishes.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Shakespeare-Stout" brewery_id="Rogue-Ales" ibu="69">
+  <name>Shakespeare Stout</name>
+  <description>Ebony in color with a rich creamy head, earthy flavor and a mellow, chocolate finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington &amp; Klages, Crystal 135-165 &amp; Beeston Chocolate, Rolled Oats &amp; Roasted Barley.</grains>
+  <grains>Northwest Harrington &amp; Klages, Crystal 135-165 &amp; Beeston Chocolate, Rolled Oats &amp; Roasted Barley.</grains>
+  <hops>Cascade.</hops>
+  <yeast>Rogue's Pacman</yeast>
+  <otherings/>
+  <styles>
+    <style>American Stout</style>
+  </styles>
+</beer>

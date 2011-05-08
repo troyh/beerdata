@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/471-Ipa" brewery_id="Breckenridge-Brewery" abv="9.2" ibu="70">
+  <name>471 IPA</name>
+  <description>Hoppy? Brother, 471 IPA redefines hoppy. 471 is a small batch, limited edition ale that was created by our Brewmaster to separate the weak from the strong. 471 is a double IPA, that combines Pale, Munich, Caramel-30, Carapils and Torrified Wheat malts, with Chinook, Centennial, Simcoe and Fuggles hops. It has a big sweet mouthfeel, followed by more hoppiness than you've ever had at one time. Enjoy.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale, Munich, Caramel-30, Carapils, Torrified Wehat</grains>
+  <grains>Pale, Munich, Caramel-30, Carapils, Torrified Wehat</grains>
+  <hops>Chinook, Centennial, Simcoe, Fuggles</hops>
+  <yeast>British Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Double IPA</style>
+  </styles>
+</beer>

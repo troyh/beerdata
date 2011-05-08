@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bridgeport-Brewing-Co/Old-Kuncklehead" brewery_id="Bridgeport-Brewing-Co" abv="9.1" ibu="60">
+  <name>Old Kuncklehead </name>
+  <description>A brewery tradition since 1989, BridgePort Old Knucklehead is a classic barley wine, brewed with double the amounts of malts and hops to create a beer that is audacious, malty, complex and full of character.  The sweetness and richness of this beer make it an excellent partner for a variety of desserts or as an after-dinner libation.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barleywine </style>
+  </styles>
+</beer>

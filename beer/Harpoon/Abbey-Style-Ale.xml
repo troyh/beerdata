@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Abbey-Style-Ale" brewery_id="Harpoon" abv="6.5" ibu="22">
+  <name>Abbey Style Ale</name>
+  <description>Our version of this classic Belgian style is slightly cloudy with a deep golden color. The complex, fruity aroma is a result of the esters produced by our special yeast. The soft malty flavor finishes smoothly with a slight sweetness.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Pale Ale</style>
+  </styles>
+</beer>

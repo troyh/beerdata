@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Glockenspiel" brewery_id="Great-Lakes-Brewing-Co" abv="8" ibu="20">
+  <name>Glockenspiel</name>
+  <description>A complex, plum-colored Weizenbock with spicy notes of clove and banana. Named after the Glockenspiel of Marienplatz in Munich, Germany, which features 43 bells and 32 life-sized figures that chime and re-enact two 16th century stories each day. </description>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Weizenbock</style>
+  </styles>
+</beer>

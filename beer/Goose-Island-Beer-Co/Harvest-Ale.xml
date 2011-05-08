@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Harvest-Ale" brewery_id="Goose-Island-Beer-Co" abv="5.7" ibu="35">
+  <name>Harvest Ale</name>
+  <description>Brewed in honor of the Harvest season this copper colored ESB is made with Cascade hops and the richest Midwestern malts. A fruity American hop aroma and a toasty malt character make Goose Island Harvest Ale an extra special beer worthy of your devotion.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains>2 Row, Wheat, Caramel, Pale</grains>
+  <grains>2 Row, Wheat, Caramel, Pale</grains>
+  <hops>Cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

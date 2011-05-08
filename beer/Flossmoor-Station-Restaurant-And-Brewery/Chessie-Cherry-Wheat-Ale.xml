@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Flossmoor-Station-Restaurant-And-Brewery/Chessie-Cherry-Wheat-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+  <name>Chessie Cherry Wheat Ale</name>
+  <description>Fruit beers originated in Belgium and we at The Station are proud to offer our version of these continental classics. Our light-bodied Chessie Cherry Wheat is a blend of red cherries and wheat ale, which yields a slightly sweet, yet agreeably tart, fruit ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat Ale</style>
+  </styles>
+</beer>

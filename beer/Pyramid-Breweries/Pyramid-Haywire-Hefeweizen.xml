@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Haywire-Hefeweizen" brewery_id="Pyramid-Breweries" abv="5.2">
+  <name>Pyramid Haywire Hefeweizen</name>
+  <description>The standard by which all other wheat beers are judged. Our deliciously deranged American-Style Hefeweizen is an award winning take on this Bavarian classic. This refreshingly unfiltered wheat ale delivers a distinctively smooth flavor worth sharing with friends.</description>
+  <availability/>
+  <ingredients/>
+  <grains>39% 2 Row Pale Barley, 60% Malted Wheat,1% Caramel</grains>
+  <grains>39% 2 Row Pale Barley, 60% Malted Wheat,1% Caramel</grains>
+  <hops>Nugget, Liberty, Mt. Hood</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Hefeweizen</style>
+  </styles>
+</beer>

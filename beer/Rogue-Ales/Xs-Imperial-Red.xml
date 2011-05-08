@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-Imperial-Red" brewery_id="Rogue-Ales" ibu="58">
+  <name>XS: Imperial Red</name>
+  <description>A big beer with a spicey fruity aroma, chewy mid palate of figs and spice and a long lingering finish. Deep burgundy in color with tremendous drinkability.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western Harrington, Klages, Hugh Baird Crystal, Black, Munich, Chocolate and rolled oats.</grains>
+  <grains>Great Western Harrington, Klages, Hugh Baird Crystal, Black, Munich, Chocolate and rolled oats.</grains>
+  <hops>Willamette, Cascade and Chinook.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Imperial Dry Hopped Red</style>
+  </styles>
+</beer>

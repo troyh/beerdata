@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Founders-Brewing-Co/Harvest-Ale" brewery_id="Founders-Brewing-Co" abv="6.5" ibu="70">
+  <name>Harvest Ale</name>
+  <description>This liquid dream pours a hazy golden orange straw color with a large puffy white two-finger head. First sip of this beer rewards with a super juicy hop presence bursting with fresh orange and lemon citrus then continues to introduce toasted malt undertones.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

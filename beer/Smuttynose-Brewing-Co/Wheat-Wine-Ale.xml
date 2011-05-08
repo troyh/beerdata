@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Smuttynose-Brewing-Co/Wheat-Wine-Ale" brewery_id="Smuttynose-Brewing-Co">
+  <name>Wheat Wine Ale</name>
+  <description>Smuttynose Wheat Wine Ale is a unique hybridization of two well-known beer styles, combining the rich, voluptuous taste of a traditional barleywine with the subtle, tart flavors of an American wheat ale, topped off with a healthy dose of crisp, herbaceous hops.The much-anticipated debut edition of Smuttynose Wheat Wine, brewed and bottled early in 2005, was delayed for nearly a year due to problems stemming from the federal label approval process. The Tax and Trade Bureau (formerly ATF) rejected our original label approval application, claiming that use of the word wine in a beer name would confuse and mislead consumers and retailers. We didn't agree (barleywine, anyone?) and appealed their rejection. Ours is the first, but definitely not the last, wheat wine application the federal government has seen, so they had to create new guidelines regarding the use of this name. We did prevail, at last, and the issue has been put to rest, and although there are several outstanding examples of this style offered at brewpubs, we are pleased to say that Smuttynose Wheat Wine Ale was the first commercially bottled Wheat Wine on the market.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Wheat wine Ale</style>
+  </styles>
+</beer>

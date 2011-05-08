@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Firestone-Walker-Brewing-Company/Parabola" brewery_id="Firestone-Walker-Brewing-Company" abv="13" ibu="50">
+  <name>Parabola</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Russian Imperial Stout</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Hobgoblin/English-Ale" brewery_id="Hobgoblin">
+  <name>English Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Amber</style>
+  </styles>
+</beer>

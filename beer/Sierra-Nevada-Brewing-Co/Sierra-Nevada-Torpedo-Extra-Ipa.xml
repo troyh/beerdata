@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Torpedo-Extra-Ipa" brewery_id="Sierra-Nevada-Brewing-Co" abv="7.2" ibu="70">
+  <name>Sierra Nevada Torpedo Extra IPA</name>
+  <description>Sierra Nevada Torpedo Ale is a big American IPA; bold, assertive and full of flavor and aromas highlighting the complex citrus, pine and herbal character of whole-cone American hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row Pale, &amp; Crystal</grains>
+  <grains>Two-row Pale, &amp; Crystal</grains>
+  <hops>Magnum, Crystal &amp; Citra</hops>
+  <yeast>Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>American IPA</style>
+  </styles>
+</beer>

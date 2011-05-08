@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Phat-Frog-Amber-Lager" brewery_id="Bullfrog-Brewery" abv="4.8">
+  <name>PHAT Frog Amber Lager</name>
+  <description>Brewed every year to celebrate Mardi Gras and the spirit of New Orleans, this amber lager is crisp and clean with a smooth toffee-like malt character and a dry, spicy finish</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber lager</style>
+  </styles>
+</beer>

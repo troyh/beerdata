@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="J-w-Dundee/Honey-Brown-Lager" brewery_id="J-w-Dundee">
+  <name>Honey Brown Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

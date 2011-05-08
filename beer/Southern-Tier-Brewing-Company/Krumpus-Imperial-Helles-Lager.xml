@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Krumpus-Imperial-Helles-Lager" brewery_id="Southern-Tier-Brewing-Company" abv="9">
+  <name>krumpus Imperial Helles Lager</name>
+  <description>St. Nicholas, aka Santa Claus, is a magical figure, the bringer of gifts and an icon of holiday spirit. Forgotten by most is his evil side kick and enforcer of 'the list'. European tradition says while St. Nick is busy delivering presents to good little boys and girls, Krampus hands out punishments to the bad. A fanged, goat-horned bully, the Christmas Devil uses sticks and chains to beat the naughty children. Dark malts and aromatic hops create the diabolical spirit of this brew. It is finished with lager yeast and aged cold for no less than 30 days. This Imperial Helles Lager will warm even the darkest hearts.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Lager</style>
+  </styles>
+</beer>

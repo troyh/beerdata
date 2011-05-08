@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Herb-Superb" brewery_id="The-Livery" abv="6">
+  <name>Herb Superb</name>
+  <description>This India Pale Ale is brewed with English Maris Otter pale malt and Chocolate malt, giving it a dark color and is generously hopped with English Fuggles hops. Named for mug club member and brewery supporter Herb Caldwell.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Black IPA</style>
+  </styles>
+</beer>

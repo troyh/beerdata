@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Four-Peaks/Kiltlifter" brewery_id="Four-Peaks">
+  <name>Kiltlifter</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Scotch</style>
+  </styles>
+</beer>

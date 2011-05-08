@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Captain-Stout" brewery_id="Alpine-Beer-Company" abv="6" ibu="31">
+  <name>Captain Stout</name>
+  <description>The Captain is leader of a fire crew. This beer takes charge of your taste buds with its rich flavor. Roasty malt character that has hints of chocolate and coffee which balances the smooth, velvety finish. The thick, creamy head lasts and lasts, leaving lace in your glass as your beer disappears. This beer pairs well with food. Great with dinner or as breakfast or even with a rich vanilla-bean ice cream.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Chocolate Oatmeal Dry Stout</style>
+  </styles>
+</beer>

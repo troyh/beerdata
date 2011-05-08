@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Choklat-Stout-Imperial-Chocolate-Stout" brewery_id="Southern-Tier-Brewing-Company" abv="11">
+  <name>choklat stout Imperial Chocolate Stout</name>
+  <description>The Popol Vuh, the sacred book of the Maya, unfolds a complex web of mystery around a beverage known as xocoatl (ch-co-atle). At Southern Tier, we're not surprised that hieroglyphs of the ancient Maya depict chocolate being poured for rulers and gods. Even through the many voyages of Columbus, the mystical bean remained nothing more than a strange currency of the native peoples. Moving through centuries, the circular journey of cacao has been realized in our brewing house, encompassing the complexity of the darkest, bitter-sweet candy together with the original frothy cold beverage of the ancient Maya to bring to you our Blackwater Series Choklat Stout. We have combined the finest ingredients to tempt your senses &amp; renew the power &amp; interrelation of history in every bottle.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>2 row barley, caramel, chocolate </grains>
+  <grains>2 row barley, caramel, chocolate </grains>
+  <hops>kettle, chinook, and willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

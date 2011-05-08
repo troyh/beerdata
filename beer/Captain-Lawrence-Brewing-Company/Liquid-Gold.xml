@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Liquid-Gold" brewery_id="Captain-Lawrence-Brewing-Company" ibu="15">
+  <name>Liquid Gold</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>german pilsner and vienna</grains>
+  <grains>german pilsner and vienna</grains>
+  <hops>crystal, sterling, cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

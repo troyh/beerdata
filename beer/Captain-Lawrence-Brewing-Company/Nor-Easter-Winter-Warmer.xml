@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Nor-Easter-Winter-Warmer" brewery_id="Captain-Lawrence-Brewing-Company" abv="12" ibu="32">
+  <name>Nor' Easter Winter Warmer</name>
+  <description/>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>pale, chocolate, munich, special b, roasted</grains>
+  <grains>pale, chocolate, munich, special b, roasted</grains>
+  <hops>simcoe, east kent goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>winter ale</style>
+  </styles>
+</beer>

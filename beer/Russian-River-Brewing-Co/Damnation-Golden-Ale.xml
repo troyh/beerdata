@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Damnation-Golden-Ale" brewery_id="Russian-River-Brewing-Co" abv="7" ibu="25">
+  <name>Damnation Golden Ale</name>
+  <description>In the great beer producing country of Belgium, some brewers have made it a tradition to give their beers an unusual name. Sometimes the name is curious, now and then it is diabolical and other times it is just plain silly. Damnation is our brewmaster's interpretation of a Belgian style Strong Golden Ale. It has extraordinary aromas of banana and pear with mouth filling flavors of sweet malt and earthy hops. The lingering finish is dry and slightly bitter but very, very smooth.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Anchor-Brewing/Anchor-Porter" brewery_id="Anchor-Brewing" abv="5.6">
+  <name>Anchor Porter</name>
+  <description>Anchor Porter is a unique dark brew, which was introduced by Anchor in the early 1970s. Anchor Porter, like all of Anchor Brewing Company's products, is brewed with only natural ingredients. Specially roasted dark malts are used, along with atop-fermenting yeast. The brew is hopped at a very high rate, and is naturally carbonated to produce an intensely rich flavor and thick creamy head. \nThe rich flavor of Anchor Porter has earned this delicious and unique brew a worldwide reputation for outstanding quality. \nWe use specially roasted malts, a top-fermenting yeast, and only fresh whole hops, which are added liberally. All this combines to produce a rich and intense flavor with subtle notes of chocolate, toffee, and coffee. </description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>2-Row Barley</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

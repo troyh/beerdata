@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Double-Wit" brewery_id="Great-Divide-Brewing-Co" abv="8.1">
+  <name>Double Wit</name>
+  <description>is our more muscular take on the beloved white ales of Belgium. Unmalted wheat and Belgian malted barley give the beer a light body and straw hue, while coriander and cura&#x8D;ao provide the traditional notes of spice and light acidity. This cloudy, deceptively drinkable creation should be enjoyed without the addition of fruit.</description>
+  <availability>sumer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
+</beer>

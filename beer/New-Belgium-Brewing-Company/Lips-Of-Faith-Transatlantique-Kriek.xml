@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Transatlantique-Kriek" brewery_id="New-Belgium-Brewing-Company" abv="8">
+  <name>Lips of Faith Transatlantique Kriek</name>
+  <description>In a never-ending quest to create new beers and defy category, New Belgium Brewing and Brewerij Boon of Belgium have partnered together again to create Transatlantique Kriek - a spontaneously fermented lambic ale made with Polish cherries. This authentic kriek beer began life in the oaken vessels at Frank Boon's brewery in the Lembeek region of Belgium. After more than two years aging, Boon's offering shipped across the Atlantic and found its way to the intuitive palate of New Belgium's Brewmaster Peter Bouckaert. After much sampling and internal consultation, Peter and his brew staff created a full-bodied golden lager to round out the light-bodied kriek. The cherry nose gives way to a pleasingly sour flash across the palate that rolls gently into a slightly sweet finish. Crisp, effervescent carbonation keeps the mouthfeel bright and delightfully tingly.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Kriek</style>
+  </styles>
+</beer>

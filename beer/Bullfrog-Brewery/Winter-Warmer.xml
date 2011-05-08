@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Winter-Warmer" brewery_id="Bullfrog-Brewery" abv="6.2">
+  <name>Winter Warmer</name>
+  <description>A rich and creamy Christmas treat lightly spiced with fresh Rosemary for its piney, resinous zest and Christmas potpourii aroma.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

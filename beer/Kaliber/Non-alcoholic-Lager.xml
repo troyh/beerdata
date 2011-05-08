@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kaliber/Non-alcoholic-Lager" brewery_id="Kaliber">
+  <name>Non-Alcoholic Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Non-Alcoholic</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Rocks-Rye" brewery_id="Great-Lakes-Brewing-Co" ibu="limited">
+  <name>Rock's Rye</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Light malty rye ale.</style>
+  </styles>
+</beer>

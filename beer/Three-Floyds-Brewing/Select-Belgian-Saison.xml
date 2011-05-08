@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Belgian-Saison" brewery_id="Three-Floyds-Brewing">
+  <name>Select Belgian Saison</name>
+  <description>Our Saison is made with pilsner and white wheat malt. Although this gives the beer a light color, make no mistake: it is a fullbodied brew. We hop and dry hop this beer with Cascade and Sterling hops from the Pacific Northwest. This gives the beer a spicy and citric flavor and aroma. We also use a traditional Belgian yeast, which imparts a distinctly fruity aroma. Finally, we spice the beer with white pepper and a combination of orange and lemon peels. This is done to accentuate the flavors of the hops and yeast. The Saison is unfiltered, so it will still have yeast in the beer and be slightly cloudy when poured.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Saison</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Old-Numbskull" brewery_id="Alesmith-Brewing-Co" abv="11">
+  <name>Old Numbskull</name>
+  <description>A West Coast style barleywine. A huge malt profile and a very aggressive dose of premium domestic hops give Old Numbskull a tantalizing complexity, from the aroma to the aftertaste.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>barleywine </style>
+  </styles>
+</beer>

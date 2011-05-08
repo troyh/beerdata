@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Session-Premium-Lager" brewery_id="Full-Sail-Brewing-Co">
+  <name>Session Premium Lager</name>
+  <description>Crisp, smooth, refreshing Original Session, with the bright red label, is a classic all-malt pre-Prohibition style lager that reminds us of what American lagers used to taste like. It's flavorful, refreshing, and has a touch of that import-style taste. (Which, once upon a time, you didn't have to buy an "import" to get.) Oh, and it comes in a stubby, 11-oz bottle like your grandpa used to buy. So after your next session (surf, jam, gab, whatever), crack open a Session and drink to the good old new days. Named World's Best Premium Lager at the World Beer Awards and winner of a slew of other shiny trophies, Session has truly earned itself a place at the bar. Not to mention the barbeque.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Lager</style>
+  </styles>
+</beer>

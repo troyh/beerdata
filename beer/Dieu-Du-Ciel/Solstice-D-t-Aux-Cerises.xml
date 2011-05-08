@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Solstice-D-t-Aux-Cerises" brewery_id="Dieu-Du-Ciel" abv="5.5">
+  <name>SOLSTICE D'&#x83;T&#x83; AUX CERISES</name>
+  <description>German inspired sour wheat beer. The obvious and domineering acidity of this beer is obtained by letting the unboiled wort go sour for several days. The Solstice d&#xD5;&#x83;t&#x8E; is made complete by the addition, during the fermentation process, of a phenomenal quantity of whole fruit (raspberries or cherries) which compensate for the sourness of the beer. The result is a very refreshing beer where both acidity and fruity flavours dominate wholeheartedly.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>wheat</style>
+  </styles>
+</beer>

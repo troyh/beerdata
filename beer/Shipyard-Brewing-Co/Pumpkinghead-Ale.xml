@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Pumpkinghead-Ale" brewery_id="Shipyard-Brewing-Co" abv="4.5">
+  <name>Pumpkinghead Ale</name>
+  <description>Shipyard Pumpkinhead Ale is a crisp and refreshing wheat ale with delightful aromatics and subtle spiced flavor. Hints of cinnamon and nutmeg make this fall brew a flavor sensation. </description>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

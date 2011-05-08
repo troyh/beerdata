@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/The-Maharaja" brewery_id="Avery-Brewing" abv="10.24" ibu="102">
+  <name>The Maharaja</name>
+  <description>Maharaja is derived from the sanskrit words mahat, - "great" and rajan - "king". Much like its namesake, this imperial IPA is regal, intense and mighty. With hops and malts as his servants, he rules both with a heavy hand. The Maharaja flaunts his authority over a deranged amount of hops: tangy, vibrant and pungent along with an insane amount of malted barley - fashioning a dark amber hue and exquisite malt essence.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>Two-row barley, caramel 120L, victory</grains>
+  <grains>Two-row barley, caramel 120L, victory</grains>
+  <hops>Columbus, Crystal, Centennial &amp; Simcoe</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial IPA</style>
+  </styles>
+</beer>

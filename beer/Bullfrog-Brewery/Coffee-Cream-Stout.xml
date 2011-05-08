@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Coffee-Cream-Stout" brewery_id="Bullfrog-Brewery" abv="5.8">
+  <name>Coffee Cream Stout</name>
+  <description>Acoffee and beer lovers delight! 10 pounds of freshly roasted Sumatran Mandling coffee and 55 pounds of lactose (milk sugar) give this beer its oh so smooth and creamy coffee flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>stout</style>
+  </styles>
+</beer>

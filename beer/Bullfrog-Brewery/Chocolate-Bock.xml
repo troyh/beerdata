@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Chocolate-Bock" brewery_id="Bullfrog-Brewery" abv="6.8">
+  <name>Chocolate Bock</name>
+  <description>A rich, dark German-styled bock beer brewed with 11 pounds of Belgian dark chocolate. Need I say more.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>bock</style>
+  </styles>
+</beer>

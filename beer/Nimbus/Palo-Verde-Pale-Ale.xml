@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Nimbus/Palo-Verde-Pale-Ale" brewery_id="Nimbus">
+  <name>Palo Verde Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-Imperial-India-Pale-Ale" brewery_id="Rogue-Ales" ibu="74">
+  <name>XS: Imperial India Pale Ale</name>
+  <description>Above and beyond an India Pale Ale--I2PA is radically hopped with an intense aroma and hop bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row Pipkin Pale.</grains>
+  <grains>Two-row Pipkin Pale.</grains>
+  <hops>Saaz, Cascade &amp; Northwest Golding</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

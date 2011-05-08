@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Native-Ale" brewery_id="New-Glarus-Brewing-Company">
+  <name>Native Ale</name>
+  <description>Indigenous (in dij' n s) adj. Existing or produced naturally in a region; belonging (to) as a native: Ex: New Glarus Native Ale. Naturally bold, dark and charming this ale is the ultimate drinkable brew. \nExpect this bier to pour an unfiltered, silken black smoothness that finishes refreshingly clean. Even if you weren't fortunate enough to be born here, never pass on your chance to drink with a classic Wisconsin native -- don't worry we're friendly. \nDrink Indigenous!</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

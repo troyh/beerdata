@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Smoked-Porter" brewery_id="Minneapolis-Town-Hall-Brewery" abv="6">
+  <name>Smoked Porter</name>
+  <description>Cherry smoked malt gives this porter a camp-fire like taste</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

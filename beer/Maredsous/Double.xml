@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Maredsous/Double" brewery_id="Maredsous">
+  <name>Double</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Belgium Style</style>
+  </styles>
+</beer>

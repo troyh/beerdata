@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Minneapolis-Town-Hall-Brewery/Black-H2o-Oatmeal-Stout" brewery_id="Minneapolis-Town-Hall-Brewery" abv="6">
+  <name>Black H2O Oatmeal Stout</name>
+  <description>Traditional oatmeal stout.  The silky smooth oatmeal lends itself perdectly to the intense roasted malt character of this dark robust stout.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

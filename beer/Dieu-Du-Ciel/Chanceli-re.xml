@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Chanceli-re" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>CHANCELI&#xE9;RE</name>
+  <description>Amber lager with complex malt and floral hop aromas. It is a full-bodied beer with subtle caramel tastes. The noble hops used to brew this beer bring about a delicate bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Lager</style>
+  </styles>
+</beer>

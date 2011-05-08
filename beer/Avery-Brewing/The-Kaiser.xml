@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Avery-Brewing/The-Kaiser" brewery_id="Avery-Brewing" abv="9.3" ibu="24">
+  <name>The Kaiser</name>
+  <description>The Kaiser sonce said, "Give me a woman who loves beer and I will conquer the world." If the Kaiser and his significant other had tipped this bottle, we'd all be "sprechenden Deutsch!" We took all that is good in a traditional Oktoberfest - gorgeous, deep copper sheen, massive malty backbone and spicy, floral, pungent noble hops - then intensified each into this, an Imperial Oktoberfest.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Two-row barley, Vienna, Munich 10L, m-100, aromatic</grains>
+  <grains>Two-row barley, Vienna, Munich 10L, m-100, aromatic</grains>
+  <hops>Magnum, Sterling, Tettnang, Hersbrucker</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Oktoberfest Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Mojo-Ipa" brewery_id="Boulder-Beer-Co" abv="6.8">
+  <name>Mojo IPA</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>pale, wheat, caramel</grains>
+  <grains>pale, wheat, caramel</grains>
+  <hops>amarillo and centennial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

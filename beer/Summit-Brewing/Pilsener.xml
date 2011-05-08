@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Pilsener" brewery_id="Summit-Brewing" abv="5.0" ibu="25">
+  <name>Pilsener</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>harrington, caramel</grains>
+  <grains>harrington, caramel</grains>
+  <hops>horizon, vanguard, saaz</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Roggen-Roll" brewery_id="Bullfrog-Brewery">
+  <name>Roggen Roll</name>
+  <description>This beer combines the traditional flavors of a dunkleweizen with an odd brewing variety, Rye, which contributes a bready, dry spiciness. Very few of these beers are even brewed anymore let alone available here in the states.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

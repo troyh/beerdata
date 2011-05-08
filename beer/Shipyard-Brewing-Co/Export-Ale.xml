@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Export-Ale" brewery_id="Shipyard-Brewing-Co" abv="5.2">
+  <name>Export Ale</name>
+  <description>Shipyard Export is Shipyard Brewing Company's flagship brand. Export is a Canadian-stye golden ale with a hint of sweetness up-front, a subtle and distinctive hop taste, and a very clean finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Canadian golden ale</style>
+  </styles>
+</beer>

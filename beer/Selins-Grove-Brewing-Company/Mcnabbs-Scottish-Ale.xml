@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/Mcnabbs-Scottish-Ale" brewery_id="Selins-Grove-Brewing-Company">
+  <name>McNabb's Scottish Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Scottish Ale</style>
+  </styles>
+</beer>

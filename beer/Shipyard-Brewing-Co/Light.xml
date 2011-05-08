@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shipyard-Brewing-Co/Light" brewery_id="Shipyard-Brewing-Co" abv="3.9">
+  <name>Light</name>
+  <description>Shipyard Light Beer is a true light ale with a soft golden color and good, clean taste. Using the finest 2-row English Pale Ale malt, malted wheat, and a special combination of Hallertau and Mount Hood hops, Shipyard has created a  smooth, easy drinking light beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row English Pale Ale malt, malted wheat</grains>
+  <grains>2-row English Pale Ale malt, malted wheat</grains>
+  <hops>Hallertau and Mount Hood hops</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Light Ale</style>
+  </styles>
+</beer>

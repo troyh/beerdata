@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Smoke-From-The-Oat-wine-Barrel-Aged" brewery_id="Captain-Lawrence-Brewing-Company" ibu="35">
+  <name>Smoke From the Oat-wine barrel aged</name>
+  <description/>
+  <availability>spring</availability>
+  <ingredients/>
+  <grains>pale, chocolate, munich, special b, roasted</grains>
+  <grains>pale, chocolate, munich, special b, roasted</grains>
+  <hops>simcoe, east kent goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>smoked porter</style>
+  </styles>
+</beer>

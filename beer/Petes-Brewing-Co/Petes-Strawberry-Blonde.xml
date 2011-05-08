@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Petes-Brewing-Co/Petes-Strawberry-Blonde" brewery_id="Petes-Brewing-Co">
+  <name>Pete's Strawberry Blonde</name>
+  <description>Pete's Wicked Strawberry Blonde is truly a unique beer experience. Reward yourself with our golden lager made of the finest pale and wheat malts and Cluster Hops, with a kiss of natural strawberry flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>pale and wheat</grains>
+  <grains>pale and wheat</grains>
+  <hops>cluster</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

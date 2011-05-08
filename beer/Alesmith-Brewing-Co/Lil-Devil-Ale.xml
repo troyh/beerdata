@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alesmith-Brewing-Co/Lil-Devil-Ale" brewery_id="Alesmith-Brewing-Co" abv="5.5">
+  <name>Lil' Devil Ale</name>
+  <description>When a full-size Horny Devil is a bit too much, Lil' Devil Ale is exactly what you're looking for to satisfy that Belgian craving.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

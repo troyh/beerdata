@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alaskan-Brewing-Co/Smoked-Porter" brewery_id="Alaskan-Brewing-Co" abv="6.5" ibu="45">
+  <name>Smoked Porter</name>
+  <description>The dark, robust body and pronounced smoky flavor of this limited edition beer make it an adventuresome taste experience. Alaskan Smoked Porter is produced in limited "vintages" each year and unlike most beers, may be aged in the bottle much like fine wine. \nHistory: Introduced in 1988, Alaskan Smoked Porter has been credited with helping inspire an American revival of smoked beers. Alaskan Smoked Porter is one of the most award-winning beers in the history of the Great American Beer Festival and a perennial winner at the World Beer Cup.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Smoked Beer</style>
+  </styles>
+</beer>

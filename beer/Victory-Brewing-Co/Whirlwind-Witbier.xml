@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Whirlwind-Witbier" brewery_id="Victory-Brewing-Co" abv="5">
+  <name>Whirlwind Witbier</name>
+  <description>A swirling dynamo of flavor, with a steady calm of satisfaction at its heart, that's Whirlwind Witbier. Offering a tamed tempest of flavors both spicy and sublime, this softly fermented ale greets the nose and tingles the tongue. Imported Belgian yeast charges Whirlwind with an energy all its own. It is a refreshing interpretation of the classic, Belgian 'white beer' style.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains>imported, German malts and unmalted wheat</grains>
+  <grains>imported, German malts and unmalted wheat</grains>
+  <hops>European whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian White</style>
+  </styles>
+</beer>

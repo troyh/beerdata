@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Pliny-The-Elder" brewery_id="Russian-River-Brewing-Co" abv="8">
+  <name>Pliny The Elder</name>
+  <description>Pliny the Elder was a Roman naturalist, scholar, historian, traveler, officer, and writer. Although not considered his most important work, Pliny and his contemporaries created the botanical name for hops, "Lupus salictarius", meaning wolf among scrubs." Hops at that time grew wild among willows, much like a wolf in the forest. Later the current botanical name, Humulus lupulus, was adopted. Pliny died in 79 AD while observing the eruption of Mount Vesuvius. He was immortalized by his nephew, Pliny the Younger, who continued his uncle's legacy by documenting much of what he observed during the eruption of Mount Vesuvius.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double IPA</style>
+  </styles>
+</beer>

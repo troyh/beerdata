@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Mcmenamins/Crystal-Ale" brewery_id="Mcmenamins" abv="5.16">
+  <name>Crystal Ale</name>
+  <description>First produced in 1986, many people have enjoyed Crystal Ale throughout the years. This company standard incorporates Munich malt to complement the pale malt which gives the ale its rich character. The addition of a lighter crystal malt makes the beer flavorful yet smooth, while lending it a deep gold appearance. Exclusive use of Hallertauer hops in both bittering and finish imparts a refreshing aroma and pleasant aftertaste. Crystal Ale is the perfect pint for patrons who want an ale that is flavorful, but not too heavy.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale Malt, Munich Malt, Crystal Malt</grains>
+  <grains>Pale Malt, Munich Malt, Crystal Malt</grains>
+  <hops>hallertau</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

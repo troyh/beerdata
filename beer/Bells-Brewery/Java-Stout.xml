@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Java-Stout" brewery_id="Bells-Brewery" abv="7.5">
+  <name>Java Stout</name>
+  <description>The satisfying elements of both stout and coffee come together in this full-bodied treat. A marriage of Sumatra's best with rich chocolate and roasted malt provides for a truly enlightening beer</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

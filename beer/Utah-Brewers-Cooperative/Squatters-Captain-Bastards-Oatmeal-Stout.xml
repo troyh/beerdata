@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Squatters-Captain-Bastards-Oatmeal-Stout" brewery_id="Utah-Brewers-Cooperative" abv="4">
+  <name>Squatters Captain Bastard's Oatmeal Stout</name>
+  <description>This Irish style dry stout is smooth as silk, full of flavor, with a big roasted barley character and slight hop finish. Captain Bastard is brewed with oatmeal, roasted barley, pale, caramel and chocolate malts and chinook hops. 4.0% alcohol by volume.</description>
+  <availability/>
+  <ingredients/>
+  <grains>oatmeal, roasted barley, pale, caramel and chocolate</grains>
+  <grains>oatmeal, roasted barley, pale, caramel and chocolate</grains>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
+</beer>

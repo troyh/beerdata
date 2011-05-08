@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Leviathan-Big-Bohemian-Pilsner" brewery_id="Harpoon" abv="9" ibu="75">
+  <name>Leviathan Big Bohemian Pilsner</name>
+  <description>The latest installment of the Harpoon Leviathan Series was brewed in the centuries-old tradition of Czech and Bohemian brewers. Harpoon Big Bohemian is a large lager with a clean maltiness and a huge aromatic hop character.\nContinental Pilsner, pale two-row, and Carafoam malt was used to brew this big, strong beer, true to the Leviathan Series. Pilsner malt is the classic ingredient of this classic style and the Carafoam malt produces a nice, frothy head. This malt mixture combined with Czech Saaz hops, the quintessential hop of the style, yields an assertive but not overly aggressive beer. The finish is dry with a lingering floral hop character.\nOriginal Released: May 2009</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bohemian Pilsner</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Dead-Guy-Ale" brewery_id="Rogue-Ales" ibu="40">
+  <name>Dead Guy Ale</name>
+  <description>In the style of a German Maibock, using our proprietary Pacman ale yeast. Deep honey in color with a malty aroma and a rich hearty flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Northwest Harrington, Klages, Maier Munich and Carastan.</grains>
+  <grains>Northwest Harrington, Klages, Maier Munich and Carastan.</grains>
+  <hops>Perle and Saaz.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>German Maibock</style>
+  </styles>
+</beer>

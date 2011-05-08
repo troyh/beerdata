@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Captain-Lawrence-Brewing-Company/Pale-Ale" brewery_id="Captain-Lawrence-Brewing-Company" ibu="35">
+  <name>Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>2 row, english crystal</grains>
+  <grains>2 row, english crystal</grains>
+  <hops>columbus, cascade, crystal</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Flying-Salmon-Stout" brewery_id="Rock-Bottom-Brewery">
+  <name>Flying Salmon Stout</name>
+  <description>This full-bodied traditional stout has malt sweetness with a roasty signature. It is smooth in flavor with a hoppy nose.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

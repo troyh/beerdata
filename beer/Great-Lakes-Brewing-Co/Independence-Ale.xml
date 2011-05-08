@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Independence-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="6" ibu="45">
+  <name>Independence Ale</name>
+  <description>An American Red Ale with crisp hop flavor.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Hazelnut-Brown-Nectar" brewery_id="Rogue-Ales" ibu="28">
+  <name>Hazelnut Brown Nectar</name>
+  <description>A nutty twist to a traditional European Brown Ale. Dark brown in color with a hazelnut aroma, a rich nutty flavor and a smooth malty finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Harrington, Klages, Munich, Hugh Baird Brown, Carastan 13-17, Crystal 70-80, Crystal 135-165 &amp; Beeston Chocolate.</grains>
+  <grains>Harrington, Klages, Munich, Hugh Baird Brown, Carastan 13-17, Crystal 70-80, Crystal 135-165 &amp; Beeston Chocolate.</grains>
+  <hops>Perle and Sterling.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Otters-Dubbel" brewery_id="Otter-Creek-Brewing">
+  <name>Otter's Dubbel</name>
+  <description>Otter Creek Brewing's 13th "stop" on the World Tour is available starting in October. "Otter's Dubbel" is a Belgian-style Dubbel. True to style, it is rich and malty with a hint of caramel. The caramel comes from the use of a traditional ingredient in Belgian ales- dark candy sugar.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Dubbel Ale</style>
+  </styles>
+</beer>

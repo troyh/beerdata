@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Ltemps-Des-Pommes" brewery_id="Dieu-Du-Ciel" abv="5.5">
+  <name>L'TEMPS DES POMMES</name>
+  <description>Classic Belgian-style Wit to which a mix of 3 varieties of fresh squeezed and unfiltered apple juice is added at the end of the fermentation. The apples come from the orchard of one of our manager, Etienne Tremblay, that is located in Rougemont. As tough the apple taste remains subtle, the apples bring a surprising freshness to the beer. It results in a fruity, lighlty acidic beer with very low bitterness, perfect for those beautiful Fall days.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian wit</style>
+  </styles>
+</beer>

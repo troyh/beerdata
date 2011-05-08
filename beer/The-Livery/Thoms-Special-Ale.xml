@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Thoms-Special-Ale" brewery_id="The-Livery" abv="6.25">
+  <name>Thoms Special Ale</name>
+  <description>This deep copper colored Ale is named after Steve's homebrew buddy Thom Phillips, who has had a part in helping to formulate some of the final Ale recipes at the Livery. Hints of caramel make their way through the aromatic bitterness of Centennial hops.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>centennial </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

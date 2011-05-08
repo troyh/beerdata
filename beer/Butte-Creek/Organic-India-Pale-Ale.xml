@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Butte-Creek/Organic-India-Pale-Ale" brewery_id="Butte-Creek">
+  <name>Organic India Pale Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

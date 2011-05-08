@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Highlander-Scottish-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="4.6" ibu="20">
+  <name>Highlander Scottish Ale</name>
+  <description>Rich malty flavors derived from kettle caramelization with hints of roasted malt.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

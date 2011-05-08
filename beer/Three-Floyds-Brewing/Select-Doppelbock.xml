@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Doppelbock" brewery_id="Three-Floyds-Brewing">
+  <name>Select Doppelbock</name>
+  <description>Our doppelbock is made with German lager, Munich, and caramel malts. These malts give it a deep brown color and intense malt character and flavor. It is hopped with German Perle and Hallertau hops: these are the hops that are traditionally used in German doppelbocks. This gives the beer the necessary amount of hop flavor to balance out the sweetness of this very strong lager. The result is a brown colored beer that is very strong, malty, and flavorful.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dopplebock</style>
+  </styles>
+</beer>

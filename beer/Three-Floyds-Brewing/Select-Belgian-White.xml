@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Belgian-White" brewery_id="Three-Floyds-Brewing">
+  <name>Select Belgian White</name>
+  <description>Our Belgian White is made with light pale malt, malted wheat, unmalted wheat, and oats. The oats are added to give a very light color as well as body to the beer. The wheat is used for a couple of reasons. First, with its high protein content, it is used to make the beer cloudy. Also, when it is mixed with the special Belgian yeast it will give a fruity aroma and taste. The beer is hopped very lightly with English Kent Golding hops so as to not overpower the spices. Finally, in keeping with tradition, it is spiced with coriander and orange peels. Also, like all other Belgian White beers, it is unfiltered. This will make the beer slightly cloudy, but it will also make it more flavorful. The result is a cloudy but light colored beer with a pleasant fruity aroma and refreshing aftertaste. Summer is approaching which means that an Abita Belgian White will be the perfect refreshment to get you through the sultry summer heat.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian White Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Pale-Ale" brewery_id="Otter-Creek-Brewing" ibu="23">
+  <name>Pale Ale</name>
+  <description>Pale Ale is agolden amber brew, made with Cascade hops from the Yakima Valley. Adding Cascades during conditioning captures the rich aroma of the hop, and completes the clean, well-balanced flavor of our American pale ale. Crisp, refreshing, exotically aromatic, and available all year.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

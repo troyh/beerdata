@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/9" brewery_id="Magic-Hat" abv="4.6" ibu="20">
+  <name>#9</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale, Crystal</grains>
+  <grains>Pale, Crystal</grains>
+  <hops>Cascade, Columbis</hops>
+  <yeast>English Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

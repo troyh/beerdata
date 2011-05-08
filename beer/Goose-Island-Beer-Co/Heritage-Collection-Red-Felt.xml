@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Heritage-Collection-Red-Felt" brewery_id="Goose-Island-Beer-Co" abv="6" ibu="55">
+  <name>Heritage Collection: Red Felt</name>
+  <description>A big, hoppy red ale pack with aroma and flavor from American hops. Red Felt is a long time favorite of hop heads at our original Brewpub, where the pool tables were covered with ... Red Felt.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Pale Ale, Carapils, Caramel, Chocolate</grains>
+  <grains>Pale Ale, Carapils, Caramel, Chocolate</grains>
+  <hops>Cascade, Crystal, Columbus</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Red Ale</style>
+  </styles>
+</beer>

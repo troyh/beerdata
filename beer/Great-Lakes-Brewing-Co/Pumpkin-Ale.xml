@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Pumpkin-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="5.4" ibu="15">
+  <name>Pumpkin Ale</name>
+  <description>A mild ale brewed with fresh pumpkins and spices.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pumpkin Ale</style>
+  </styles>
+</beer>

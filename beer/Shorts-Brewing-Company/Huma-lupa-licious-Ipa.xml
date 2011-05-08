@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Huma-lupa-licious-Ipa" brewery_id="Shorts-Brewing-Company">
+  <name>Huma-Lupa-Licious IPA</name>
+  <description>Named after the hop flower Humulus Lupulus, this best selling India pale ale style beer has enormous amounts of hops which really seems like a punch in the face. Hop flowers from the numerous strains used in this recipe render a delicious bitter taste and enticing citrus aroma. Flavors from a hearty malt bill meld with the hops to balance this ale and provide a ridiculous urge to sample more.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

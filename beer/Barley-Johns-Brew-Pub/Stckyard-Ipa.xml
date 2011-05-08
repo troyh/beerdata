@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Barley-Johns-Brew-Pub/Stckyard-Ipa" brewery_id="Barley-Johns-Brew-Pub" abv="6.8">
+  <name>Stckyard IPA</name>
+  <description>Full bodied with a trainload of hops ~ Northern Brewer, East Kent Goldings, and the rest are a secret. Long hoppy finish, balanced beautifully by malt flavor.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Northern Brewer, East Kent Goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

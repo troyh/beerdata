@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Dawg-Pound-Brown" brewery_id="Rock-Bottom-Brewery">
+  <name>Dawg Pound Brown</name>
+  <description>A rich, deep brown ale with a roasty ?character. It is smooth and malty, ??full-bodied and somewhat sweet.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Brown Ale</style>
+  </styles>
+</beer>

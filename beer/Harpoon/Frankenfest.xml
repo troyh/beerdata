@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harpoon/Frankenfest" brewery_id="Harpoon" abv="6.9" ibu="26">
+  <name>Frankenfest</name>
+  <description>Frankenfest, brought to life by Harpoon brewer Mike Smith, was originally brewed exclusively for a beer festival held in Boston in 2004. The beer was greatly enjoyed by all who drank it - so much so that it has been resurrected as the latest offering in Harpoon's 100 Barrel Series.\nFrankenfest is brewed in the tradition of classic German Oktoberfest lagers. In order to replicate the complex malt character of the original, a blend of 8 different malts was used. The combination yields a slightly darker color and a toastier malt flavor. Frankenfest is judiciously hopped with three different varieties of hops that lend just enough bitterness to balance out the rich malt flavors. It has a dry finish compliments of an authentic German lager yeast and a longer rest in our conditioning tanks. The lingering malt complexity and dry finish make Frankenfest a wonderful match with many types of food. Enjoy.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Octoberfest Lager</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/The-Bellaire-Brown" brewery_id="Shorts-Brewing-Company">
+  <name>The Bellaire Brown</name>
+  <description>A brown ale so rich, it's hardly classifiable as brown. It's born of copious amounts of hearty pale ale malt, and several specialty selections which make it a dark, rich and delicious masterpiece. Very light hop additions allow the malty sweetness and flavor complexity to be most protuberant. A beer so user friendly, we dub this the "gateway" beer.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>brown ale</style>
+  </styles>
+</beer>

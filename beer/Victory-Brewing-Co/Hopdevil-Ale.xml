@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Hopdevil-Ale" brewery_id="Victory-Brewing-Co" abv="6.7">
+  <name>HopDevil Ale</name>
+  <description>Menacingly delicious, with the powerful, aromatic punch of whole flower American hops backed up by rich, German malts. HopDevil Ale offers a roller coaster ride of flavor, coasting to a smooth finish that satisfies fully.</description>
+  <availability/>
+  <ingredients/>
+  <grains>imported, German 2 row</grains>
+  <grains>imported, German 2 row</grains>
+  <hops>American whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

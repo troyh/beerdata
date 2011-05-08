@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Porter" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.6" ibu="40">
+  <name>Sierra Nevada Porter</name>
+  <description>Dark and rich, Sierra Nevada Porter is a delicious, medium-bodied ale with a creamy head. The Porter's smooth flavor (malty with hints of caramel) comes from a blend of deep-roasted barley malts.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Two-row Pale, Munich, Chocolate &amp; Caramel</grains>
+  <grains>Two-row Pale, Munich, Chocolate &amp; Caramel</grains>
+  <hops>Goldings, Willamette</hops>
+  <yeast>Top-fermenting Ale Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

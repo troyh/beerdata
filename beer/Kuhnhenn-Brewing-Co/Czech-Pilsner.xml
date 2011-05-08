@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Czech-Pilsner" brewery_id="Kuhnhenn-Brewing-Co" abv="5.6">
+  <name>Czech Pilsner</name>
+  <description>A golden-amber lager beer with a medium to high bitterness. Light in body, but not in taste. Malty nose up front, finishing with a nice Saaz hop aroma. Cold lager-aged for over two months to ensure a smooth, crisp character.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>amber Ale</style>
+  </styles>
+</beer>

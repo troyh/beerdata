@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Wasatch-Raspberry-Wheat-Beer" brewery_id="Utah-Brewers-Cooperative">
+  <name>Wasatch Raspberry Wheat Beer</name>
+  <description>If you like raspberries, this one's for you. We start with our traditional wheat beer and add natural raspberry flavor that keeps you coming back for more.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

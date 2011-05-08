@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Big-Black-Smoke" brewery_id="Great-Lakes-Brewing-Co" abv="6.2" ibu="27">
+  <name>Big Black Smoke</name>
+  <description>A traditional porter with a subtle smoked malt flavor.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

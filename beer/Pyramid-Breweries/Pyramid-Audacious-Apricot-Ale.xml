@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Audacious-Apricot-Ale" brewery_id="Pyramid-Breweries" abv="5.1">
+  <name>Pyramid Audacious Apricot Ale</name>
+  <description>Our flavorful apricot ale boldly combines the taste and aroma of fresh apricot with the smooth finish of wheat malt. Its refreshingly unfiltered character and fruit flavor make it an ale worth savoring.</description>
+  <availability/>
+  <ingredients/>
+  <grains>50% 2 Row Pale Barley, 50% Malted Wheat</grains>
+  <grains>50% 2 Row Pale Barley, 50% Malted Wheat</grains>
+  <hops>Nugget or Summit</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Apricot Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Xs-Imperial-Stout" brewery_id="Rogue-Ales" ibu="88">
+  <name>XS: Imperial Stout</name>
+  <description>The Emperor of Stouts. Rich in texture, broad, soft and creamy. The strongest and fullest of all stouts.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western, Harrington &amp; Klages, Hugh Baird XLT-80, Black, Munich, Chocolate and rolled oats.</grains>
+  <grains>Great Western, Harrington &amp; Klages, Hugh Baird XLT-80, Black, Munich, Chocolate and rolled oats.</grains>
+  <hops>Willamette, Cascade and Chinook.</hops>
+  <yeast>Rogue's Pacman Yeast</yeast>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

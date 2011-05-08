@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Beer-Valley-Brewing-Co/Black-Flag-Imperial-Stout" brewery_id="Beer-Valley-Brewing-Co">
+  <name>Black Flag Imperial Stout</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

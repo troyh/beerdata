@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Blue-Line-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Blue Line Pale Ale</name>
+  <description>This American Pale Ale utilizes a special recipe to produce a medium-bodied Ale with a light caramel malt flavor. It is generously hopped in the kettle using only Centennial hops for a citrus and slight piney flavor and aroma.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Stout" brewery_id="Saranac" abv="4.8">
+  <name>Stout</name>
+  <description>Saranac Stout is the secret behind the success of our delicious Saranac Black &amp; Tan; It is lavishly brewed with seven unique malts and grains as well as a selection of memorable hops. Look for a full bodied taste and crescendo of complex flavor notes. This is a stout to remember and respect. Enjoy!</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains>2 Row, Chocolate, Roated Barley</grains>
+  <grains>2 Row, Chocolate, Roated Barley</grains>
+  <hops>Williamette, East Kent Golding</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

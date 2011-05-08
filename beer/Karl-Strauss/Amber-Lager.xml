@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Karl-Strauss/Amber-Lager" brewery_id="Karl-Strauss" abv="4.2" ibu="16">
+  <name>Amber Lager</name>
+  <description>In the beginning... we created Karl Strauss Amber Lager. Generous amounts of caramel and Munich malts give the beer rich caramel flavors, balanced by a background of Cascade hops. After the beer is cold fermented for a clean, smooth finish, we filter it - not once, but twice- to enhance its bright, bronze color. Our flagship Amber Lager was also Karl's favorite beer.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Lager</style>
+  </styles>
+</beer>

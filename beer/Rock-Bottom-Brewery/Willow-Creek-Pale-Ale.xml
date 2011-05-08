@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Willow-Creek-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Willow Creek Pale Ale</name>
+  <description>Medium-bodied with an aggressive hoppiness, Willow Creek is slightly sweet and malty with a lively citrus finish. Enjoy with salads and pastas.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Sapient-Trip-Ale" brewery_id="Dark-Horse-Brewing-Company" abv="8.5">
+  <name>Sapient Trip Ale</name>
+  <description>Why is the Grim Reaper holding a mailbox? Well, that mailbox is from a dead Dark Horse beer. The Grim Reaper better know as "Death" was quite found of our classic Sapient Summer Wheat Ale. When we changed it into a Belgian Style Triple, Death thought it would only be appropriate to bring something from that beer into this beer. So he picked the mailbox, and we weren't about to argue with him. You can say what you want about him, but that Death sure has a big heart. \nSo anyway...we brewed this beer with a Trappist yeast strain so it is very traditional. The flavors are incredibly complex with notes of mild fruit and finishes with a bit of clove. Although this beer is higher in alcohol it is very smooth and finishes dry on the pallet.</description>
+  <availability>spring/summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Tripel</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Temptation" brewery_id="Russian-River-Brewing-Co" abv="7.25">
+  <name>Temptation</name>
+  <description>Aged in French oak wine barrels for twelve months with distinct characteristics of fruit and subtle oak" sounds more like a description of wine than beer. However, Temptation is indeed beer. Temptation is a Blonde Ale aged in French oak chardonnay barrels with Brettanomyces. Flavors of wine and oak absorb into the brew throughout its aging. Temptation is re-fermented in the bottle to create its carbonation--a process commonly used to make fine champagne and sparkling wine. Spent yeast forms a thin layer of sediment to remain in the bottle.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Barrel Aged Ale</style>
+  </styles>
+</beer>

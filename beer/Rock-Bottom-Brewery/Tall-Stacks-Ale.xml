@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Tall-Stacks-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Tall Stacks Ale</name>
+  <description>Brewed with a generous amount of imported English malts, Tall Stacks Ale has a vibrant red color and a unique malt profile, making this an extremely smooth and drinkable Ale. Sparing amounts of hops are used to give this beer delicate hop notes in the finish</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

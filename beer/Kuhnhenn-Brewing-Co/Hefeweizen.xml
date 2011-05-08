@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Hefeweizen" brewery_id="Kuhnhenn-Brewing-Co" abv="6.1">
+  <name>Hefeweizen</name>
+  <description>Don't dare ask for a lemon! A traditional-style golden wheat ale, conditioned to ensure a nice yeasty flavor of banana and cloves with a hint of bitterness. This beer is traditionally served with a yeast sediment.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>hefeweizen </style>
+  </styles>
+</beer>

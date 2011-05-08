@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brewdog/Punk-Ipa" brewery_id="Brewdog" abv="6" ibu="65">
+  <name>Punk IPA</name>
+  <description>This 6% trans-atlantic fusion IPA is light golden in colour with tropical fruits and light caramel on the nose. The palate soon becomes assertive and resinous with the New Zealand hops balanced by the biscuit malt. The finish is aggressive and dry with the hops emerging over the warming alcohol. This fresh, full flavour natural beer is our tribute to the classic IPAs of yester-year. The post modern twist is the addition of amazing fruity hops giving an explosion of tropical fruit flavours and a sharp bitter finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Marris Otter Extra Pale Malt</grains>
+  <grains>Marris Otter Extra Pale Malt</grains>
+  <hops>Chinook, Ahtanum, Nelson Sauvin</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

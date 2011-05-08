@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Shorts-Brewing-Company/Autumn-Ale" brewery_id="Shorts-Brewing-Company">
+  <name>Autumn Ale</name>
+  <description>Our London style Extra Special Bitter (ESB) is one true to style. It's a medium amber color with perfectly balanced malt character fused with the harmony of soft fruity esters and pleasant hops on the nose. This masterpiece finishes with lingering hop character and thorough user friendly delight.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

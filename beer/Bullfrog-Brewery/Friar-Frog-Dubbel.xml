@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Friar-Frog-Dubbel" brewery_id="Bullfrog-Brewery" abv="7">
+  <name>Friar Frog Dubbel</name>
+  <description>A Belgian-inspired Abbey ale in the tradition of the great Belgian monastic breweries. It's fruity plum and raisin-like undertones compliment the predominantly malty, caramel and chocolate character.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>abbey Ale</style>
+  </styles>
+</beer>

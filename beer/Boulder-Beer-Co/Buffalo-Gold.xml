@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Buffalo-Gold" brewery_id="Boulder-Beer-Co" abv="4.95">
+  <name>Buffalo Gold</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>light caramel, 2 row barley</grains>
+  <grains>light caramel, 2 row barley</grains>
+  <hops>nugget, willamette, cascade </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Golden Ale</style>
+  </styles>
+</beer>

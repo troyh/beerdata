@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bridgeport-Brewing-Co/Black-Strap-Stout" brewery_id="Bridgeport-Brewing-Co" abv="6" ibu="30">
+  <name>Black Strap Stout</name>
+  <description>BridgePort Black Strap Stout features a malty, caramel flavor up front with a distinctive dry-roasted bitterness in the finish.  A generous dose of Northwest hops mingles with the sweetness of black strap molasses to yield a full-bodied ale that pours with beautiful cascade that settles to a rich, creamy head.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Stout</style>
+  </styles>
+</beer>

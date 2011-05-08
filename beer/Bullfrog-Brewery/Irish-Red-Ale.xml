@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Irish-Red-Ale" brewery_id="Bullfrog-Brewery" abv="4.8">
+  <name>Irish Red Ale</name>
+  <description>Rich caramelized malts with faint cookie-like flavors round out this easy drinkind amber ale just in time for St. Patrick's Day</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>red ale</style>
+  </styles>
+</beer>

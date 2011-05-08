@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Isseki-Nicho" brewery_id="Dieu-Du-Ciel" abv="9">
+  <name>ISSEKI NICHO</name>
+  <description>Special collaboration between Dieu du Ciel and Shiga Kougen, a Japanese brewery located in Nagano. Hybrid of an imperial stout and a Belgian saison, its color is dark black. Strong bitterness and roasted malt flavours come in first, and are well balanced by a strong alcohol level. Dry and complex finishing provided by the saison yeast</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial dark saison</style>
+  </styles>
+</beer>

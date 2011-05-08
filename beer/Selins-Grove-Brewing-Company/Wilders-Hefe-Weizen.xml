@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Selins-Grove-Brewing-Company/Wilders-Hefe-Weizen" brewery_id="Selins-Grove-Brewing-Company">
+  <name>Wilder's Hefe Weizen</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hefeweizen </style>
+  </styles>
+</beer>

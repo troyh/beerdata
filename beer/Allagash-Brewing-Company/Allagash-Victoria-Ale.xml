@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagash-Victoria-Ale" brewery_id="Allagash-Brewing-Company" abv="9">
+  <name>Allagash Victoria Ale</name>
+  <description>To create our unique, Belgian-style Victoria Ale, the brewers drew on references to Bacchus, the Thracian god of wine, in the history and artwork of the Victoria Mansion as inspiration for this new beer. One hundred and fifty pounds of Chardonnay grapes were brought in, crushed on site and added directly to the mash.Victoria Ale's aroma is of fruity spice with a hint of the Chardonnay, and the taste presents subtle notes of green banana, black pepper, and fresh-crushed mint. With a focus on the subtle, wine-like character of the grapes, the 9.0% ABV brew boasts a pale copper color, Belgian yeast influence, and a medium body with a long candied fruit finish with hints of honeydew melon, and, of course, Chardonnay. Allagash Victoria Ale is a tribute to the historic Victoria Mansion here in Portland, Maine. Also known as the Morse-Libby House, it is one of the greatest 19th century houses in the United States. Designed by architect Henry Austin, the mansion was built between 1858 and 1860 and survives as a unique example of the princely palaces created for America's wealthiest citizens in the pre-Civil War era. With superb architecture and well-preserved original interiors, the Victoria Mansion is an unparalleled document of America's highest aspirations in architecture, interior design, and the decorative arts. \nThe Victoria Mansion has operated as a museum since it was saved from demolition in 1940, and today the non-profit organization that owns it remains committed to its preservation and interpretation to a wide audience. Allagash Brewing Company has partnered with the Victoria Mansion to help in the restoration of this National Historic Landmark. For every bottle of Victoria Ale purchased, Allagash will donate $1 towards helping restore the mansion, located on Danforth Street in downtown Portland</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Morimoto-Imperial-Pilsner" brewery_id="Rogue-Ales" ibu="74">
+  <name>Morimoto Imperial Pilsner</name>
+  <description>Golden in color with a dry hop floral aroma and intense hop bitterness supported by a big malty backbone which culminates into a hedonistic mouthful.</description>
+  <availability/>
+  <ingredients/>
+  <grains>100% French Pilsner.</grains>
+  <grains>100% French Pilsner.</grains>
+  <hops>100% Sterling.</hops>
+  <yeast>Czech Pils Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Tooheys/Lager" brewery_id="Tooheys">
+  <name>Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

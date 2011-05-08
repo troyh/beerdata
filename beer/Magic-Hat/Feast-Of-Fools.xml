@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Magic-Hat/Feast-Of-Fools" brewery_id="Magic-Hat" abv="5.3" ibu="28">
+  <name>Feast of Fools</name>
+  <description>A perfect dessert beer brewed exclusively for the holiday season.  Hand bottled, champagne corked. Our inky, rich, black stout, with the addition of raspberries.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains>pale, crystal, cara, munic</grains>
+  <grains>pale, crystal, cara, munic</grains>
+  <hops>amarillo</hops>
+  <yeast>english Ale</yeast>
+  <otherings/>
+  <styles>
+    <style>stout</style>
+  </styles>
+</beer>

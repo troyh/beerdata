@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dark-Horse-Brewing-Company/Amber-Ale" brewery_id="Dark-Horse-Brewing-Company" abv="6">
+  <name>Amber Ale</name>
+  <description>Let us introduce the "red headed step child" of our beer portfolio. This beer is commonly over looked and is a true Ninja of a beer. While the malt and hops give this beer an amazing copper color, medium body, and a smooth mouth feel, it's the yeast that sets this one apart from other amber ales. Inspired by almost everything from Belgium (beer, women, mussels) we thought it would be cool to give our Amber a little Belgian love. So we used a yeast that is ALMOST like a Belgian yeast strain. You'll notice it in the aroma but mostly in the flavor. Mild hints of light fruit and clove are present at the very end of the sip, just enough to keep you coming back for another sip.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>amber Ale</style>
+  </styles>
+</beer>

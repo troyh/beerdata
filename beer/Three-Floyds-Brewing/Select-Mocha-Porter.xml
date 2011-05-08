@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Mocha-Porter" brewery_id="Three-Floyds-Brewing">
+  <name>Select Mocha Porter</name>
+  <description>Our Mocha Porter is made with British pale and American caramel malts. We also have flavored it with a hint of mocha to add a pleasant chocolate taste and aroma. This will compliment the sweet, malty flavor of the beer. Since the beer gets so much flavor from the malt and the mocha, there is not a lot of hop flavor. There is just enough bitterness to compliment the sweetness of the malt.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

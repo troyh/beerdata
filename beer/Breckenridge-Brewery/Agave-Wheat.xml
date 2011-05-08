@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Breckenridge-Brewery/Agave-Wheat" brewery_id="Breckenridge-Brewery" abv="4.2" ibu="9">
+  <name>Agave Wheat</name>
+  <description>This true American-style unfiltered wheat has something a little special -- the nectar of the great Salmiana Agave. Agave complements the refreshingly light quality of our wheat and adds a subtle note of flavor that expands this beer's uplifting taste profile. It is familiar, yet creative.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>Pale, White Wheat, Torrified Wheat, Carapils, Caramel, Munich</grains>
+  <grains>Pale, White Wheat, Torrified Wheat, Carapils, Caramel, Munich</grains>
+  <hops>Fuggle, Cascade, Willamette</hops>
+  <yeast>American Wheat</yeast>
+  <otherings/>
+  <styles>
+    <style>American Wheat Ale</style>
+  </styles>
+</beer>

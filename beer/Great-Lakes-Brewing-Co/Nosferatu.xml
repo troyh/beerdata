@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Nosferatu" brewery_id="Great-Lakes-Brewing-Co" abv="8" ibu="75">
+  <name>Nosferatu</name>
+  <description>Highly hopped stock ale rich with flavor, yet remarkably balanced. Named after the notorious German vampire from the 1920s film era. </description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

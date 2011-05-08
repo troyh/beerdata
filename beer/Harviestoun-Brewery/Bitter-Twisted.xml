@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Harviestoun-Brewery/Bitter-Twisted" brewery_id="Harviestoun-Brewery" abv="3.8">
+  <name>Bitter &amp; Twisted </name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Blond Beer</style>
+  </styles>
+</beer>

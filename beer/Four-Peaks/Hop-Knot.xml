@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Four-Peaks/Hop-Knot" brewery_id="Four-Peaks">
+  <name>Hop Knot</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

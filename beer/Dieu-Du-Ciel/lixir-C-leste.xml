@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/lixir-C-leste" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>&#x83;LIXIR C&#x83;LESTE</name>
+  <description>Golden coloured lager with a head as white as snow. This beer has complex malt and hop flower aromas. It is full-bodied and the aftertaste is smooth and malty with a touch of sulphur. The noble hops used in this beer bring about a sharp but delicate bitterness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>pilsner</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Summit-Brewing/Extra-Special-Bitter" brewery_id="Summit-Brewing" abv="5.1" ibu="50">
+  <name>Extra Special Bitter</name>
+  <description>A recent addition to our line of ales -- it shares the character of the English bitters of old, with added Summit uniqueness.  The dark amber color and rich taste make Summit ESB wonderfully distinctive.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains>2-row harrington, golden promise, maris otter, and crystal medium</grains>
+  <grains>2-row harrington, golden promise, maris otter, and crystal medium</grains>
+  <hops>fuggle, target and northdown</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>ESB</style>
+  </styles>
+</beer>

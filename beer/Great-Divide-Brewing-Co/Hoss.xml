@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Hoss" brewery_id="Great-Divide-Brewing-Co">
+  <name>Hoss</name>
+  <description>Hoss is based on the Marzen lagers of Germany. Rich, layered malt notes, with hints of cherry and dark fruits, dominate, while the unique addition of rye imparts a slightly earthy, spicy character. Hoss finishes crisp and dry, and its brilliant red-orange color is a toast to the late-summer sunsets that make the perfect backdrop for this beer.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Rye lager</style>
+  </styles>
+</beer>

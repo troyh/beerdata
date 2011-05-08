@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Blue" brewery_id="Sweetwater-Brewing-Company" abv="4.9">
+  <name>Blue</name>
+  <description>Always the funky favorite at any outdoor beer festival, SweetWater Blue is a unique light-bodied Ale with a hint of fresh blueberries.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

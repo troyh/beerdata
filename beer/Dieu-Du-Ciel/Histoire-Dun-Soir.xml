@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Histoire-Dun-Soir" brewery_id="Dieu-Du-Ciel" abv="8">
+  <name>HISTOIRE D'UN SOIR</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial brown porter</style>
+  </styles>
+</beer>

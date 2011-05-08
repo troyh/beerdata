@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Snow-Cap-Ale" brewery_id="Pyramid-Breweries" abv="7">
+  <name>Pyramid Snow Cap Ale</name>
+  <description>A rich, full-bodied winter warmer crafted in the British tradition of holiday beers. This deep mahogany colored brew balances complex fruit flavors with a refreshingly smooth texture, making Snow Cap a highly drinkable and desirable cold weather companion.</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains>2-Row Barley, Caramel 80L, Chocolate Mal</grains>
+  <grains>2-Row Barley, Caramel 80L, Chocolate Mal</grains>
+  <hops>Nugget, Willamette, East Kent Goldings</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

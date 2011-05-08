@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Rejection" brewery_id="Russian-River-Brewing-Co" abv="6.1">
+  <name>Rejection</name>
+  <description/>
+  <availability>Winter </availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Inspired Black Beer</style>
+  </styles>
+</beer>

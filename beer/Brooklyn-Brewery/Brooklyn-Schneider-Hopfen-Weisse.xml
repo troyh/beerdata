@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Brooklyn-Brewery/Brooklyn-Schneider-Hopfen-Weisse" brewery_id="Brooklyn-Brewery" abv="8.5">
+  <name>Brooklyn Schneider Hopfen Weisse</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Weisse-Bock</style>
+  </styles>
+</beer>

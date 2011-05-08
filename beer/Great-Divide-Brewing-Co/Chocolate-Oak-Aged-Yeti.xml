@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Chocolate-Oak-Aged-Yeti" brewery_id="Great-Divide-Brewing-Co" abv="9.5">
+  <name>Chocolate Oak Aged Yeti</name>
+  <description>Welcome to the newest incarnation of our revered imperial stout. We toned down the hops a bit to allow cocoa nibs to contribute some pleasing bitterness, while vanilla notes from the oak combine with the cocoa to create an aroma and flavor akin to a gourmet chocolate bar. A dash of cayenne keeps things lively, adding just a bit of heat to the finish. A Yeti for summer? Hell yes.</description>
+  <availability>summer</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>imperial Stout</style>
+  </styles>
+</beer>

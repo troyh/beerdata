@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kuhnhenn-Brewing-Co/Simcoe-Silly" brewery_id="Kuhnhenn-Brewing-Co" abv="10">
+  <name>Simcoe Silly</name>
+  <description>This amber-golden colored beer is made with Simcoe hops, Belgian yeast and candy sugar. It exhibits a medium bitterness and finishes with the flavors of coriander and orange peel. Our beer has many aspects that make it truly unique. Aromas of banana, bubble gum, orange and spices are subtly noticed while the strong American hop character fives it a well balanced finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

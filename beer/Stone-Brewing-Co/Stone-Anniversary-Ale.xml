@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Anniversary-Ale" brewery_id="Stone-Brewing-Co" abv="8.7" ibu="LOTS">
+  <name>Stone Anniversary Ale</name>
+  <description>"The inspiration for making a Black IPA (or should we say "India Black Ale/ IBA"?) has been over a year in the making. As soon as we wrapped up the brewing of the Stone 10th Anniversary IPA, we started brainstorming ideas for the Stone 11th Anniversary Ale, and the Black IPA concept was born. This was a challenging brew to formulate and achieve what we considered the ideal flavor balance of intense up-front hops with balanced roasted malt flavors, a deep, rich flavor, and a hearty bitterness. ."</description>
+  <availability>Summer 2009</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

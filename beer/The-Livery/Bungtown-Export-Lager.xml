@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Bungtown-Export-Lager" brewery_id="The-Livery" abv="5.5">
+  <name>Bungtown Export Lager</name>
+  <description>"Bungtown" is the slang term bestowed upon Benton Harbor during the heyday of the lumber trade when it built and shipped wooden kegs. We are proud of this bit of history, so our Export Lager is in honor of that period in time. This Golden Amber lager has more body and flavor than a Pilsener.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Dortmunder Export Lager</style>
+  </styles>
+</beer>

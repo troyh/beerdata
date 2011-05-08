@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Oak-Creek/Golden-Lager" brewery_id="Oak-Creek">
+  <name>Golden Lager</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Lager</style>
+  </styles>
+</beer>

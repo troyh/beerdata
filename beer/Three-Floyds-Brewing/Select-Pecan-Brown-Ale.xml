@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Three-Floyds-Brewing/Select-Pecan-Brown-Ale" brewery_id="Three-Floyds-Brewing">
+  <name>Select Pecan Brown Ale</name>
+  <description>Our Pecan Brown Ale is made with British pale and crystal malts, as well as special roasted malts from the U.S. and South Louisiana pecans. This beer has a very malty flavor and aroma, with hints of nuts and baking bread. It is hopped and dry hopped with English Kent Golding hops. This gives the beer an earthy hop flavor without overpowering the malt character. The result is a light brown colored ale that is pleasantly aromatic with a sweet, malty taste.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>brown Ale</style>
+  </styles>
+</beer>

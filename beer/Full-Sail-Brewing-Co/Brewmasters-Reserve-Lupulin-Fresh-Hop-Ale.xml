@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Lupulin-Fresh-Hop-Ale" brewery_id="Full-Sail-Brewing-Co" abv="5.8" ibu="70">
+  <name>Brewmaster's Reserve: Lupulin Fresh Hop Ale</name>
+  <description>A veritable hop lovers delight. Lupulin is brewed with fresh hops straight from the harvest. This beer has a bold hop aroma of citrus and spice and a nice caramel flavor with a pronounced citrus character.    </description>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Hop Ale</style>
+  </styles>
+</beer>

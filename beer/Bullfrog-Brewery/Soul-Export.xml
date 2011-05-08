@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Soul-Export" brewery_id="Bullfrog-Brewery" abv="4.2">
+  <name>Soul Export</name>
+  <description>CASK-CONDITIONED- This all Organic Scottish Export ale is brimming with "the soul of beer"...MALT! Smooth and creamy with layers of yep, malt</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>scottish Ale</style>
+  </styles>
+</beer>

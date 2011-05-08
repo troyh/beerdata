@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Flashback-Anniversary-Ale" brewery_id="Boulder-Beer-Co" abv="6.88">
+  <name>Flashback Anniversary Ale</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>belgian biscuit, chocolate, pale, gambrinus honey</grains>
+  <grains>belgian biscuit, chocolate, pale, gambrinus honey</grains>
+  <hops>cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Brown Ale</style>
+  </styles>
+</beer>

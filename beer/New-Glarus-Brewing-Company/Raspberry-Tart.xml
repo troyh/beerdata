@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Raspberry-Tart" brewery_id="New-Glarus-Brewing-Company" abv="4">
+  <name>Raspberry Tart</name>
+  <description>Treat yourself to a rare delight. The voluminous raspberry bouquet will greet you long before your lips touch your glass. Serve this Wisconsin framboise very cold in a champagne flute. Then hold your glass to a light and enjoy the jewel-like sparkle of a very special ale. \nOregon proudly shares their harvest of mouth watering berries, which we ferment spontaneously in large oak vats. Then we employ Wisconsin farmed wheat and year old Hallertau hops to round out this extravaganza of flavor.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Framboise</style>
+  </styles>
+</beer>

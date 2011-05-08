@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Apollon" brewery_id="Dieu-Du-Ciel" abv="5.5">
+  <name>Apollon</name>
+  <description>Pale ale brewed with the "Apollo" hops variety. Instead of being dryhopped, the "Apollo" hops was used in hopback.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>apollo</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
+</beer>

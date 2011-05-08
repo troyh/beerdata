@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Heritage-Collection-Demolition" brewery_id="Goose-Island-Beer-Co" abv="6.7" ibu="45">
+  <name>Heritage Collection: Demolition</name>
+  <description>Brewed to honor the brave souls who kept our brewpub open in the early 90's while wrecking balls tore down the mall around us. Dry and smooth, with a grassy, citrus aroma and honey malt middle.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>Pilsen</grains>
+  <grains>Pilsen</grains>
+  <hops>Saaz, Chinook</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>belgian golden ale</style>
+  </styles>
+</beer>

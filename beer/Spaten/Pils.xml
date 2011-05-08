@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Spaten/Pils" brewery_id="Spaten">
+  <name>Pils</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pilsner</style>
+  </styles>
+</beer>

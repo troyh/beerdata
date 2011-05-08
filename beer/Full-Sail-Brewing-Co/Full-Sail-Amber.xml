@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Full-Sail-Brewing-Co/Full-Sail-Amber" brewery_id="Full-Sail-Brewing-Co">
+  <name>Full Sail Amber</name>
+  <description>Anyone remember the grocery store cooler back before it turned into a kaleidoscopic fantasy world of beer options? You pretty much had two choices: Regular or Light. In 1989, when we brewed our first batch of Full Sail Amber, not only was it the first Amber ale here in Beer Mecca (aka Oregon) -- it was the first craft beer to go into a bottle. And two things became immediately apparent. It wasn't Regular and it sure as heck wasn't Light. Our Amber is a sweet, malty, medium-bodied ale with a spicy, floral hop finish. </description>
+  <availability/>
+  <ingredients/>
+  <grains>2-row Pale, Crystal and Chocolate malts</grains>
+  <grains>2-row Pale, Crystal and Chocolate malts</grains>
+  <hops>Mt. Hoods and Cascades</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber</style>
+  </styles>
+</beer>

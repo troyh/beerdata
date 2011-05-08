@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Pliny-The-Younger" brewery_id="Russian-River-Brewing-Co" abv="10.5">
+  <name>Pliny The Younger</name>
+  <description>Pliny the Younger was Pliny the Elder's nephew, in the case of this beer, the "Younger" is a triple IPA. Pliny the Younger is hopped three times more than our standard IPA, and is dry hopped four different times.</description>
+  <availability>winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Triple IPA</style>
+  </styles>
+</beer>

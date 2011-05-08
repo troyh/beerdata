@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Cold-Hop-British-style-Ale" brewery_id="Boulder-Beer-Co" abv="6.8" ibu="46">
+  <name>Cold Hop British-Style Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>maris otter pale, honey, crystal</grains>
+  <grains>maris otter pale, honey, crystal</grains>
+  <hops>willamette, czech saaz, hallertau, hercules, nelson sauvin </hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>British Ale</style>
+  </styles>
+</beer>

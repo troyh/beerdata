@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Anderson-Valley-Brewing-Co/Boont-Amber-Ale" brewery_id="Anderson-Valley-Brewing-Co" abv="5.8">
+  <name>Boont Amber Ale</name>
+  <description>Boont Amber Ale is a medium bodied pale ale with a beautiful copper color, a robust head, and the rich flavor of caramel malt. This very smooth and exceptionally drinkable beer is excellent with steaks, chicken, pasta, and other flavorful meals.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

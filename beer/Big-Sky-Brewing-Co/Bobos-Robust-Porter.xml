@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Bobos-Robust-Porter" brewery_id="Big-Sky-Brewing-Co" abv="6.2" ibu="32">
+  <name>Bobo's Robust Porter</name>
+  <description/>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>pale, crystal, chocolate, brown, black roast</grains>
+  <grains>pale, crystal, chocolate, brown, black roast</grains>
+  <hops>east kent goldings, challenger</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Robust Porter</style>
+  </styles>
+</beer>

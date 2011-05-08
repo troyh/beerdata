@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Long-Trail-Brewing-Co/Double-Bag-Ale" brewery_id="Long-Trail-Brewing-Co" abv="7.2" ibu="25">
+  <name>Double Bag Ale</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Strong Ale</style>
+  </styles>
+</beer>

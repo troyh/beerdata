@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kona-Brewing-Co/Black-Sand-Porter" brewery_id="Kona-Brewing-Co" abv="6.8" ibu="40">
+  <name>Black Sand Porter</name>
+  <description>Black Sand Porter is a robust, full bodied porter with pronounced bittersweet chocolate flavor and aroma from the diverse variety of malt used to brew this beer. The hops balance the the maltiness of this robust and roasty ale.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>pale, chocolate, munich, caramel, carapils, and black</grains>
+  <grains>pale, chocolate, munich, caramel, carapils, and black</grains>
+  <hops>centennial, northern brewer</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

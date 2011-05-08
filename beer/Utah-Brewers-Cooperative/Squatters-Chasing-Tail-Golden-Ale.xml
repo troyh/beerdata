@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Squatters-Chasing-Tail-Golden-Ale" brewery_id="Utah-Brewers-Cooperative">
+  <name>Squatters Chasing Tail Golden Ale</name>
+  <description>Chasing Tail Golden Ale is a delicious English Ale, made from traditional English malt and hops. Well-balanced for easy drinking, Chasing Tail was a Gold Medal winner at the 2003 and 2004 Great American Beer Festival. Available in 12-oz bottles and 16-oz cans.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English Ale</style>
+  </styles>
+</beer>

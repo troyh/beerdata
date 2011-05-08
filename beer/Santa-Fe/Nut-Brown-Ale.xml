@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Santa-Fe/Nut-Brown-Ale" brewery_id="Santa-Fe">
+  <name>Nut Brown Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Brown</style>
+  </styles>
+</beer>

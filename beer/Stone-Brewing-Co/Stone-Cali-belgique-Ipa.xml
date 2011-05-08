@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Stone-Brewing-Co/Stone-Cali-belgique-Ipa" brewery_id="Stone-Brewing-Co" abv="6.9" ibu="77">
+  <name>Stone Cali-Belgique IPA</name>
+  <description>When reading the name "Stone Cali-Belgique IPA", "Cali" hints that it is a California-style IPA, and this brew has an undeniable Belgian influence, indicated by the word "Belgique" (which is how Belgium's French-speaking population says the word "Belgian"; the Dutch-speaking Belgians say "Belgie"). We carefully selected a Belgian yeast strain that illuminates a fascinating new aspect of the beer that is otherwise quite simply Stone IPA. The result is bother completely new and different, while still being recognizable as a Stone brew- and Stone IPA in particular. Think of it as an otherwise identical twin to Stone IPA tat was raised in a Belgian culture. Literally.</description>
+  <availability>Limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>Columbus, Centennial, Dry-hopped with Chinook</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

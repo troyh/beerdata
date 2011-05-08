@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Four-Peaks/8th-Street-Ale" brewery_id="Four-Peaks">
+  <name>8th Street Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Pale</style>
+  </styles>
+</beer>

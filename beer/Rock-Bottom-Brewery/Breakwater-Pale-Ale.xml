@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rock-Bottom-Brewery/Breakwater-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+  <name>Breakwater Pale Ale</name>
+  <description>A great example of an American-style Pale Ale. Light to medium bodied with a subtle malt flavor. Cascade hops provide the tangy, citrus finish. Spicy foods are the ideal choice to compliment our most popular ale.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>American Pale Ale</style>
+  </styles>
+</beer>

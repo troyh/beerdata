@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Saranac/Octoberfest" brewery_id="Saranac" abv="5.4">
+  <name>Octoberfest</name>
+  <description>Saranac Octoberfest is a med-bodied, copper colored lager. It's rich, malty taste is subtly balanced by Saaz and Tettnang hops. The beer is aged slowly in the tradition of the Octoberfest beers of Munich.</description>
+  <availability>fall</availability>
+  <ingredients/>
+  <grains>german pilsner malt, crystal malt</grains>
+  <grains>german pilsner malt, crystal malt</grains>
+  <hops>saaz, tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>German Lager</style>
+  </styles>
+</beer>

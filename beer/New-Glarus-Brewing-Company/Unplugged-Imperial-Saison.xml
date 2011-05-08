@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Unplugged-Imperial-Saison" brewery_id="New-Glarus-Brewing-Company" abv="8.7">
+  <name>Unplugged Imperial Saison</name>
+  <description>A few times a year we will cut Dan loose to brew whatever he chooses, uncensored, uncut, unplugged. Always handcrafted, the bottle you hold is brewed for the adventurous soul. This is a very limited edition and we make no promises to ever brew this style again. \nOur Imperial Saison captured a bold celebratory shout of apricot and peach in a bottle. Both bright and bold this is a lively truly living beer. Bottle conditioned with rare Belgian yeast and soured to illuminate its copper hued body. Ginger and Grains of Paradise promiscuously dance with Styrian Golding hops. Wipe winter from your brow and enjoy now or attempt to resist its siren song and lay down in your cellar.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Saison</style>
+  </styles>
+</beer>

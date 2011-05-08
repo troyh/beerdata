@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Goose-Island-Beer-Co/Nut-Brown-Ale" brewery_id="Goose-Island-Beer-Co" abv="5.3" ibu="25">
+  <name>Nut Brown Ale</name>
+  <description>Brewed in the English tradition, our Nut Brown Ale combines the finest domestic and imported malts to produce a chestnut-hued ale of unusual complexity. Subtle notes of chocolate, honey and fine tobacco give this ale an enjoyable and satisfying "nutty" finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2 Row, Caramel, Wheat, Dark Chocolate, Victory</grains>
+  <grains>2 Row, Caramel, Wheat, Dark Chocolate, Victory</grains>
+  <hops>UK Fuggle, Willamette</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Englsih Brown Ale</style>
+  </styles>
+</beer>

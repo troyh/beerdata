@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Poor-Freddys-Pilsner" brewery_id="The-Livery" abv="5.5">
+  <name>Poor Freddys Pilsner</name>
+  <description>This classic Pilsener is named after our friend Mike Fredrickson who is a very talented artist, songwriter, and happens to be the beer loving bass player for the Robbie Fulks band. It is brewed with 100% german Pilsener malt, and 3 different German hop varieties.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>german pilsner</style>
+  </styles>
+</beer>

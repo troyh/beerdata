@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Sundance-Amber-Ale" brewery_id="Boulder-Beer-Co" abv="4.85">
+  <name>Sundance Amber Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>caramel, roasted, 2 row barley</grains>
+  <grains>caramel, roasted, 2 row barley</grains>
+  <hops>chinook, willamette, cascade</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alpine-Beer-Company/Ichabod" brewery_id="Alpine-Beer-Company" abv="6 to 7">
+  <name>Ichabod</name>
+  <description>Every time this beer is made, a different base beer is used but the main ingredients remain -- Pumpkin, Cinnamon and Nutmeg.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Pumpkin beer</style>
+  </styles>
+</beer>

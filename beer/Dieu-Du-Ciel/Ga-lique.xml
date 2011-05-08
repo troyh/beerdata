@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Ga-lique" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>GA&#x83;LIQUE</name>
+  <description>This is an amber ale with a creamy white head. It has a full-bodied taste, without any heaviness. The first draught brings about malty and roasted malt flavours. The aftertaste is of caramel and slight bitterness. Pressurized with nitrogen, like a stout, it is a simply refreshing beer, but full of taste.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>amber ale</style>
+  </styles>
+</beer>

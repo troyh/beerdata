@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="New-Glarus-Brewing-Company/Dans-Best-Bitter" brewery_id="New-Glarus-Brewing-Company">
+  <name>Dan's Best Bitter</name>
+  <description>An English pint shared with good friends was the inspiration for our cask conditioned Best Bitter. Dan flew in yeast from England and chose premium British Maris Otter Pale Malt to be balance the classic English Golding Hops from East Kent. \nYou can expect to pour a lightly carbonated glass of rich amber ale, slightly cloudy and soft on the pallet with a pronounced dry hopped finish. \nSummer's end is fleeting here in Wisconsin so enjoy it while you may, before long both summer and our ale will be gone. So slow down, relax and savor the season.</description>
+  <availability>retired</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Bitter</style>
+  </styles>
+</beer>

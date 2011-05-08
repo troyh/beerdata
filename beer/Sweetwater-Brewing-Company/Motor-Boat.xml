@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Motor-Boat" brewery_id="Sweetwater-Brewing-Company" abv="5.6">
+  <name>Motor Boat</name>
+  <description/>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>extra Special Bitter</style>
+  </styles>
+</beer>

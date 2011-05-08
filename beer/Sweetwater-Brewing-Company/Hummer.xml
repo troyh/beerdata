@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Sweetwater-Brewing-Company/Hummer" brewery_id="Sweetwater-Brewing-Company" abv="5.1">
+  <name>Hummer</name>
+  <description/>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian White Ale</style>
+  </styles>
+</beer>

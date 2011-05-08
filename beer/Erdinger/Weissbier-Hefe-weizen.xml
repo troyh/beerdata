@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Erdinger/Weissbier-Hefe-weizen" brewery_id="Erdinger">
+  <name>Weissbier Hefe-Weizen</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale - Wheat</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Green-Flash-Brewing-Co/Double-Stout" brewery_id="Green-Flash-Brewing-Co" abv="8.8" ibu="45">
+  <name>Double Stout</name>
+  <description>Golden naked oats mashed with dark crystal and robust roasted malts create a luscious black brew with satin smooth finish. Layering UK Target hops throughout the boil adds pleasant, earthy complexity while higher fermentation temperatures enhance overall flavor with fruity esters. An old-world style, done the Green Flash way. Big, bold, flavorful and complex.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>crystal and roasted</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double Stout</style>
+  </styles>
+</beer>

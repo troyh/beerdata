@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Captain-Sigs-Northwestern-Ale" brewery_id="Rogue-Ales" ibu="80">
+  <name>Captain Sig's Northwestern Ale</name>
+  <description>Deep red in color, this ale starts off with a floral, slightly citrus hop nose, hop flavor soon fades into the malty backbone of this red ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains>2-Row Pale, Munich, Carastan and Chocolate</grains>
+  <grains>2-Row Pale, Munich, Carastan and Chocolate</grains>
+  <hops>Amarillo and Cascade.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>India Red Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/King-Cole-Porter" brewery_id="The-Livery" abv="7">
+  <name>King Cole Porter</name>
+  <description>Halfway between a Brown ale and a Stout in flavor, Porters were traditionally a working mans beer. We named this beer after our friend and local Bon Vivant Everett King Cole.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial English Porter</style>
+  </styles>
+</beer>

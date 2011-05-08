@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Russian-River-Ipa" brewery_id="Russian-River-Brewing-Co" abv="6.5" ibu="62">
+  <name>Russian River IPA</name>
+  <description>An abundance of hops and malt are added to our IPA to create and preserve its distinctive flavors. Not only do we use generous portions of hops in the kettle, but we also dry hop this ale for one week after fermentation. The dry hopping process adds to this beer's floral and citrus aroma. This is truly a tasty adult beverage!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>IPA</style>
+  </styles>
+</beer>

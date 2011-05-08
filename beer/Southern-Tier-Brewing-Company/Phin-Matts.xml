@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Southern-Tier-Brewing-Company/Phin-Matts" brewery_id="Southern-Tier-Brewing-Company" abv="5.6">
+  <name>phin &amp; matt's</name>
+  <description>When we sat down to collaborate on this beer, we knew we had to create something extraordinary. After sampling a wide array of great beers, we hit upon an idea: use vast amounts of whole hops, the finest malted barley North America has to offer, and crystal filtered artesian water. Thus creating this classic American style pale ale.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>american pale ale</style>
+  </styles>
+</beer>

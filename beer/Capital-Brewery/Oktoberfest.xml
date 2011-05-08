@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Oktoberfest" brewery_id="Capital-Brewery" abv="5.5">
+  <name>Oktoberfest</name>
+  <description>A traditional marzen style beer with a gorgeous firey dark orange color. Oktoberfest emphasizes a rich malt character. A great way to fortify oneself as the nights start to get cooler. ABV 5.5%</description>
+  <availability>Fall</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Marzen</style>
+  </styles>
+</beer>

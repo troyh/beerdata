@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Midnight-Sun-Brewing-Company/Fallen-Angel" brewery_id="Midnight-Sun-Brewing-Company" abv="8" ibu="35">
+  <name>Fallen Angel </name>
+  <description>Fallen Angel Golden Ale, first brewed on 6-6-6 [JUN 6, 2006], is named in the tradition of Belgian golden strong ales--after the devil himself. We call this beer our "original sin" because it spawned our 2007 Deadly Sin beer series.Midnight Sun's Fallen Angel Golden Ale is a traditional Belgian-style golden strong ale--beautifully gold in color with tiny, conniving bubbles forming a very thick, meticulous head. Effervescent and crisp, this seriously delicious elixir tempts the palate with apple (oh so Garden of Eden), pear and a little earthy mustiness. Fallen Angel captivates your senses with its lightness and brightness while its 8% ABV strength breathes fire into your soul, warming you from the inside out.Angel-like in appearance, the devil is in its strength.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Belgian Golden Ale</style>
+  </styles>
+</beer>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Capital-Brewery/Winter-Skal" brewery_id="Capital-Brewery" abv="5.5">
+  <name>Winter Skal</name>
+  <description>A pleasingly warming beer with its amber hue showing off its rich malt heritage. Mildly bittered with a smooth hop flavor complementing the malt. Winter Sk&#x8C; makes a person welcome the onslaught of the cold. ABV 5.5%</description>
+  <availability>Winter</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

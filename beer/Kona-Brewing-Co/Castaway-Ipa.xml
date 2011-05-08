@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Kona-Brewing-Co/Castaway-Ipa" brewery_id="Kona-Brewing-Co" abv="7" ibu="65">
+  <name>Castaway IPA</name>
+  <description>A full-bodied, American-Style I.P.A. that is bronze in color, Castaway IPA is "dry hopped" (aged with liberal amounts of whole hop flowers after fermentation) for assertive hop flavor and aroma. The bitterness is balanced by the malty body of the beer.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains>pale, munich, caramel</grains>
+  <grains>pale, munich, caramel</grains>
+  <hops>northern brewer, cascade, centannial</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>India Pale Ale</style>
+  </styles>
+</beer>

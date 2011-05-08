@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Lakes-Brewing-Co/Grand-Cru" brewery_id="Great-Lakes-Brewing-Co" abv="7.8" ibu="30">
+  <name>Grand Cru</name>
+  <description>A full-bodied Belgian Ale spiced with coriander and orange peel for a subtle citrus flavor and complex finish.</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

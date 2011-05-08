@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Dieu-Du-Ciel/Umami" brewery_id="Dieu-Du-Ciel" abv="5">
+  <name>Umami</name>
+  <description>The Umami is a red German beer, hardly fruity, but with lovely malt and cereal flavours complemented by a delicate bitterness. Morels, added in very large quantities in the beer, are very subtle in the bouquet and in the mouth. They bring about a mild smoky taste and surround all the other flavours in a veil of delicate sweetness, as well as giving the beer certain dryness.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

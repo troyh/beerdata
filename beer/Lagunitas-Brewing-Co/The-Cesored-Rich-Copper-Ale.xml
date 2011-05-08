@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/The-Cesored-Rich-Copper-Ale" brewery_id="Lagunitas-Brewing-Co" abv="5.9">
+  <name>The Cesored Rich Copper Ale</name>
+  <description>This ale contains no actual copper but we're pretty literal... It looked coppery, so we lamely called it a copper ale. Lots'a nice caramel malt though..</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

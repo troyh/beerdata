@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Allagash-Brewing-Company/Allagash-Musette" brewery_id="Allagash-Brewing-Company" abv="10">
+  <name>Allagash Musette</name>
+  <description>Musette is Allagash's newest release in our Barrel Aged Series. The beer, inspired by the Scotch ale style, is a traditional and popular style in Belgium. Typically known as a dark and sweet, strong ale, Scotch ales are rarely brewed in Scotland anymore but still remain popular in Belgium, where they were originally thought to have been brewed for servicemen during World War I.Our interpretation of a Belgian-inspired Scotch ale, Musette undergoes a caramelization process in the kettle, where the first runnings are condensed and caramelized, imparting a unique and subtle caramel character and amber color to the beer. Following fermentation with a Belgian strain of yeast, a portion of it is aged in oak bourbon barrels for an additional three months. Musette offers up raisin, ripened banana, and hints of licorice aromas. Its taste is malty and caramel with a hint of roast, and its warm finish strikes a balance between dry and caramel characters with a hint of smoke. </description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>barrel aged ale</style>
+  </styles>
+</beer>

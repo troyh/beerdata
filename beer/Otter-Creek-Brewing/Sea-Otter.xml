@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Otter-Creek-Brewing/Sea-Otter" brewery_id="Otter-Creek-Brewing">
+  <name>Sea Otter</name>
+  <description>"Sea Otter" Baltic Porter is full of deep roasted malt flavor with only a touch of hops. We used 2-row, Munich, Caramel, and special German hulled barley malt Carafa. Not only did we take extra time to brew this beer with a special "step mash" process, it was also fermented longer, with a lager yeast. The extra time and effort was well spent!</description>
+  <availability>limited</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Porter</style>
+  </styles>
+</beer>

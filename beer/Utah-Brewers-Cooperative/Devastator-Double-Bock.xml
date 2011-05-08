@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Utah-Brewers-Cooperative/Devastator-Double-Bock" brewery_id="Utah-Brewers-Cooperative" abv="8">
+  <name>Devastator Double Bock</name>
+  <description>The Devastator is a strong, amber lager (8% alcohol by volume). It has a fluffy white head with a bready malt aroma and a rich body that leaves you with a warming feeling. This Double Bock style dates back over a century when Monastic brewers knew it as "liquid bread."</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Double Bock</style>
+  </styles>
+</beer>

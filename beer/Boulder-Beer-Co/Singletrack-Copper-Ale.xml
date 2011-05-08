@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Boulder-Beer-Co/Singletrack-Copper-Ale" brewery_id="Boulder-Beer-Co" abv="4.97">
+  <name>Singletrack Copper Ale</name>
+  <description/>
+  <availability/>
+  <ingredients/>
+  <grains>british caramel, 2 row, flaked rye, carapils</grains>
+  <grains>british caramel, 2 row, flaked rye, carapils</grains>
+  <hops>nugget, tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Copper Ale</style>
+  </styles>
+</beer>

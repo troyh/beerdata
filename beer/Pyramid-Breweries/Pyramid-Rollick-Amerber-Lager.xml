@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Pyramid-Breweries/Pyramid-Rollick-Amerber-Lager" brewery_id="Pyramid-Breweries" abv="6" ibu="40">
+  <name>Pyramid Rollick Amerber Lager</name>
+  <description>Smooth malty character balanced with a gracious quantity of hops make this copper colored offering the perfect beer to celebrate your first rollicking spring adventure.</description>
+  <availability>Spring</availability>
+  <ingredients/>
+  <grains>2 Row, Munich 20L, Carafa 2</grains>
+  <grains>2 Row, Munich 20L, Carafa 2</grains>
+  <hops>Bittered with Summit, Finished Tettnang</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Amber Lager</style>
+  </styles>
+</beer>

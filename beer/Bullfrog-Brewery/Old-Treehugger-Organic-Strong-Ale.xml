@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bullfrog-Brewery/Old-Treehugger-Organic-Strong-Ale" brewery_id="Bullfrog-Brewery" abv="7.2">
+  <name>Old Treehugger Organic Strong Ale</name>
+  <description>This 100% Organic treat is brimming with earthy, fruity malt aromas reminiscent of ripening apples, pears and vanilla beans. it's creamy, rich body carries more of the same flavors plus a luscious caramel backbone</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Strong Ale</style>
+  </styles>
+</beer>

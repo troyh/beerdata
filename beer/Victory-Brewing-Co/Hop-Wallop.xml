@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Victory-Brewing-Co/Hop-Wallop" brewery_id="Victory-Brewing-Co" abv="8.5">
+  <name>Hop Wallop</name>
+  <description>We celebrate the pioneering spirit of old Horace 'Hop' Wallop and those who dare mighty adventurous things in this vivid, robust ale. As our annual homage to the hop harvest, expect loads of aromatic splendor and bitter beauty.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Imported German malts</grains>
+  <grains>Imported German malts</grains>
+  <hops>American whole flowers</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Ale</style>
+  </styles>
+</beer>

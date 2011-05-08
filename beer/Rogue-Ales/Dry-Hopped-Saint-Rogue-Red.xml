@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Rogue-Ales/Dry-Hopped-Saint-Rogue-Red" brewery_id="Rogue-Ales" ibu="44">
+  <name>Dry Hopped Saint Rogue Red</name>
+  <description>Reddish copper in color, a roasty malty flavor, with a hoppy-spruce finish.</description>
+  <availability/>
+  <ingredients/>
+  <grains>Great Western Harrington, Klages, Munich &amp; Hugh Baird Carastan 30-37 &amp; 13-17, Crystal 70-80.</grains>
+  <grains>Great Western Harrington, Klages, Munich &amp; Hugh Baird Carastan 30-37 &amp; 13-17, Crystal 70-80.</grains>
+  <hops>Chinook &amp; Centennial.</hops>
+  <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
+  <otherings/>
+  <styles>
+    <style>Red Ale</style>
+  </styles>
+</beer>

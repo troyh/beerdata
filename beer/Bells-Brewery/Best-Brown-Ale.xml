@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Bells-Brewery/Best-Brown-Ale" brewery_id="Bells-Brewery" abv="5.8">
+  <name>Best Brown Ale</name>
+  <description>Rich brown ale perfect for the fall and winter. Plenty of malt character and smooth sweet finish give this brown ale its distinct character.</description>
+  <availability>seasonal</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style/>
+  </styles>
+</beer>

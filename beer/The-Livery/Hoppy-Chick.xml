@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="The-Livery/Hoppy-Chick" brewery_id="The-Livery" abv="5.75">
+  <name>Hoppy Chick</name>
+  <description>Named for mug club member and local jewelry maker, Angie Caldwell. English Maris Otter pale malt, English Crystal malt, and a blend of English and North American hops create this amber, hoppy IPA with just the right balance.</description>
+  <availability/>
+  <ingredients/>
+  <grains>English Maris Otter pale</grains>
+  <grains>English Maris Otter pale</grains>
+  <hops>English Crystal malt, and a blend of English and North American hops</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>English IPA</style>
+  </styles>
+</beer>
