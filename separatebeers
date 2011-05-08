@@ -1,6 +1,10 @@
 #!/bin/bash
 
-find beer -name "*.xml" | tr [A-Z] [a-z] | sed -e 's/^beer\///' > lowercase_beerdocs_list
+find beer -name "*.xml" | awk '{print tolower($1)" "$1}' | sed -e 's/^beer\///' > lowercase_beerdocs_list
+
+if [ ! -d .tmp ]; then
+	mkdir .tmp
+fi
 
 while read beer_id ; do
 	# echo $beer_id
@@ -14,13 +18,25 @@ while read beer_id ; do
 		mkdir "beer/$brewery_id";
 	fi
 	
-	if grep $(echo $beer_id|tr [A-Z] [a-z]) lowercase_beerdocs_list; then
-		echo $beer_id already exists;
+	xml sel -t -m "/beers/beer[@id=&quot;$beer_id&quot;]" -c . $1 | xml fo - > .tmp/beer.xml
+
+	if grep $(echo $beer_id|tr [A-Z] [a-z]).xml lowercase_beerdocs_list > .tmp/existing_file; then
+		thismd5=$(md5sum .tmp/beer.xml | awk '{print $1}')
+		thatfile=$(cat .tmp/existing_file | awk '{print $2}')
+		thatmd5=$(md5sum $thatfile | awk '{print $1}')
+		# echo $thismd5 $thismd5;
+		
+		if [[ "$thismd5" != "$thatmd5" ]]; then
+			echo $beer_id already exists \($thatfile\) and is different;
+		# else
+		# 	echo $beer_id is old
+		fi
 	else
-		xml sel -t -m "/beers/beer[@id=&quot;$beer_id&quot;]" -c . $1 | xml fo - > beer/$beer_id.xml
+		echo $beer_id is new
 	fi
 
 	
 done < <(xml sel -t -m '/beers/beer' -v '@id' -n $1)
 
-rm -f lowercase_beerdocs_list
+rm -f lowercase_beerdocs_list 
+rm -rf .tmp/
