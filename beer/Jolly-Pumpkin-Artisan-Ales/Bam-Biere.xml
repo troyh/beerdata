@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Bam-Biere" brewery_id="Jolly-Pumpkin-Artisan-Ales">
+<?xml version="1.0"?>
+<beer id="Jolly-Pumpkin-Artisan-Ales/Bam-Biere" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="4.5">
   <name>Bam Biere</name>
-  <description/>
+  <description>An artisan farmhouse ale that is golden, naturally cloudy, bottle conditioned and dry hopped for a perfectly refreshing balance of spicy malts, hops and yeast. </description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>ale</style>
+  </styles>
 </beer>

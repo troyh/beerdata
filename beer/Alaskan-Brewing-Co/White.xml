@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Alaskan-Brewing-Co/White" brewery_id="Alaskan-Brewing-Co" abv="5.3" ibu="15">
+  <name>White</name>
+  <description>Alaskan White Ale has a soft, slightly sweet base with the unique spice aroma of coriander and crisp, citrus finish of orange peel. A light and effervescent body combined with the smooth palate creates a complex and delicate beer that is deliciously refreshing in any season.</description>
+  <availability>year-round</availability>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Witbier</style>
+  </styles>
+</beer>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/IVAN-THE-TERRIBLE" brewery_id="Big-Sky-Brewing-Co">
-  <name>IVAN THE TERRIBLE</name>
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Ivan-The-Terrible" brewery_id="Big-Sky-Brewing-Co" abv="8.75" ibu="65">
+  <name>Ivan The Terrible</name>
   <description/>
-  <availability/>
+  <availability>limited</availability>
   <ingredients/>
-  <grains/>
-  <hops/>
+  <grains>pale, crystal, roast, black</grains>
+  <grains>pale, crystal, roast, black</grains>
+  <hops>simcoe, east kent goldings</hops>
   <yeast/>
   <otherings/>
   <sizes>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
 </beer>

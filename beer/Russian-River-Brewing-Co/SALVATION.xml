@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Russian-River-Brewing-Co/SALVATION" brewery_id="Russian-River-Brewing-Co">
-  <name>SALVATION</name>
+<?xml version="1.0"?>
+<beer id="Russian-River-Brewing-Co/Salvation" brewery_id="Russian-River-Brewing-Co" abv="9">
+  <name>Salvation</name>
   <description/>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Strong Dark Ale</style>
+  </styles>
 </beer>

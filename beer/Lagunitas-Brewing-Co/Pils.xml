@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Pils" brewery_id="Lagunitas-Brewing-Co">
+  <name>Pils</name>
+  <description>Like Adam and Eve, Issac and Ishmael,Mao and Confuscious, Good and Evil, Day and Night, Hittites and Visigoths, John and Lorena, or Groucho and Moe, Ales and Lagers are as different as can be. Still, we must love each other for who they are, seperately but equally, with liberty, and justice, for all. Cheers!</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops/>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Czech Pilsner</style>
+  </styles>
+</beer>

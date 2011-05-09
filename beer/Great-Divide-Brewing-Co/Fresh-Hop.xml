@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/Fresh-Hop" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Fresh-Hop" brewery_id="Great-Divide-Brewing-Co" abv="6.1">
   <name>Fresh Hop</name>
-  <description/>
-  <availability>limited</availability>
+  <description>is brewed with fresh, whole cone hops from the Pacific Northwest.  We ship these "wet" hops to Denver overnight and brew shortly after harvest, imparting an intensely grassy hop aroma and citrus hop flavor in a medium-bodied ale.</description>
+  <availability>fall</availability>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Pale Ale</style>
+  </styles>
 </beer>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="North-Coast-Brewing-Co/Pranqster" brewery_id="North-Coast-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="North-Coast-Brewing-Co/Pranqster" brewery_id="North-Coast-Brewing-Co" abv="7.6" ibu="20">
   <name>Pranqster</name>
-  <description/>
+  <description>Belgian Ales represent the height of the brewers' art. Sophisticated brewing PranQster follows in this tradition using a mixed culture of antique yeast strains that produce a floral nose, a full fruity flavor and a clean finish. PranQster follows in this tradition using a mixed culture of antique yeast strains that produce a floral nose, a full fruity flavor and a clean finish.</description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Belgian Golden Ale</style>
+  </styles>
 </beer>

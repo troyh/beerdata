@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hair-of-the-Dog-Brewing-Co/Adam" brewery_id="Hair-of-the-Dog-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Hair-Of-The-Dog-Brewing-Co/Adam" brewery_id="Hair-Of-The-Dog-Brewing-Co" abv="10" ibu="50">
   <name>Adam</name>
-  <description/>
+  <description>Adam is a recreation of a historic beerstyle. Originally made in Dortmunder, Germany, it was the first beer I produced when I opened Hair of the Dog. Rich in flavor, Adam is best served as a dessert beer. It is great with chocolate or cigars, or just a warm fire and good company. It has 10% alcohol by volume and 50 IBUs. </description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style/>
+  </styles>
 </beer>

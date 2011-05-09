@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/BIERE-DE-NOEL" brewery_id="Big-Sky-Brewing-Co">
-  <name>BIERE DE NOEL</name>
+<?xml version="1.0"?>
+<beer id="Big-Sky-Brewing-Co/Biere-De-Noel" brewery_id="Big-Sky-Brewing-Co" abv="8.75" ibu="35">
+  <name>Biere De Noel</name>
   <description/>
-  <availability/>
+  <availability>limited</availability>
   <ingredients/>
-  <grains/>
-  <hops/>
+  <grains>pale, crystal, chocolate</grains>
+  <grains>pale, crystal, chocolate</grains>
+  <hops>apollo, willamette and liberty</hops>
   <yeast/>
   <otherings/>
   <sizes>
@@ -21,5 +22,7 @@
         <deposit/>
       </distributor>
     </size>
-  </sizes>
+  <styles>
+    <style>Belgian Strong Dark Ale</style>
+  </styles>
 </beer>

@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bridgeport-Brewing-Co/PORTER" brewery_id="Bridgeport-Brewing-Co">
-  <name>PORTER</name>
-  <description/>
+<?xml version="1.0"?>
+<beer id="Bridgeport-Brewing-Co/Porter" brewery_id="Bridgeport-Brewing-Co" abv="7.8" ibu="70">
+  <name>Porter</name>
+  <description>This is truly a robust brew with the strong dark malt flavors of roasted barley and chocolate malt. BridgePort Porter is a bigger beer than a brown porter, with a bit more of the dark malt flavors and finishes a little sweet.  She is an indulgent brew with balanced hop bitterness and nice mocha and nutty overtones.</description>
   <availability/>
   <ingredients/>
-  <grains/>
+  <grains>roasted barley and chocolate </grains>
+  <grains>roasted barley and chocolate </grains>
   <hops/>
   <yeast/>
   <otherings/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Porter</style>
+  </styles>
 </beer>

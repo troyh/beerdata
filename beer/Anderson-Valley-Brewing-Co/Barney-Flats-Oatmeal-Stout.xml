@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Anderson-Valley-Brewing-Co/Barney-Flats-Oatmeal-Stout" brewery_id="Anderson-Valley-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Anderson-Valley-Brewing-Co/Barney-Flats-Oatmeal-Stout" brewery_id="Anderson-Valley-Brewing-Co" abv="5.7">
   <name>Barney Flats Oatmeal Stout</name>
-  <description/>
+  <description>With its deep, dark brown-black color, thick, full-bodied, velvety-smooth mouth feel, mocha character, and, strong yet subtle hop bite, Barney Flats Oatmeal Stout is one of the thickest, richest, and most complex stouts on the market today. In 1990, it became our first gold medal winner, at the Great American Beer Festival. Barney Flats was judged so superior to the other stouts that no other medals were even awarded in its category. Try it and see why Stewart Kallen described it as, "Slippery, creamy, dark, and sweet as a Pacific May morning," in his book, The 50 Greatest Beers in the World.</description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Oatmeal Stout</style>
+  </styles>
 </beer>

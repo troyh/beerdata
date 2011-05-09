@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/Wild-Raspberry-Ale" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Wild-Raspberry-Ale" brewery_id="Great-Divide-Brewing-Co" abv="5.6">
   <name>Wild Raspberry Ale</name>
-  <description/>
+  <description>is a unique, thirst-quenching ale fermented with real red and black raspberries. Its balance of malt and fruit flavors make it a beer lover's fruit beer.</description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Ale</style>
+  </styles>
 </beer>

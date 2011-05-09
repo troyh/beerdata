@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lagunitas-Brewing-Co/IPA" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Lagunitas-Brewing-Co/Ipa" brewery_id="Lagunitas-Brewing-Co">
   <name>IPA</name>
-  <description/>
+  <description>Thanks for choosing to spend the next few minutes with this special homicidally hoppy ale. Savor the moment as the raging hop character engages the imperial qualities of the Malt foundation in mortal combat on the battlefield of your palate!</description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>IPA</style>
+  </styles>
 </beer>

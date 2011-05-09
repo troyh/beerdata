@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/Hibernation-Ale" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Hibernation-Ale" brewery_id="Great-Divide-Brewing-Co" abv="8.1">
   <name>Hibernation Ale</name>
-  <description/>
+  <description>has been our celebrated winter tradition since 1995. This robust, dry-hopped ale has a malty richness balanced with a complex hop profile and hearty, warming character.</description>
   <availability>winter</availability>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>English Ale</style>
+  </styles>
 </beer>

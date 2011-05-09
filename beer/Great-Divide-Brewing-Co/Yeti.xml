@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Yeti" brewery_id="Great-Divide-Brewing-Co" abv="9.5" ibu="75">
+  <name>Yeti</name>
+  <description>is an onslaught of the senses. It starts with big, roasty malt flavor that gives way to rich caramel and toffee notes. YETI gets its bold hop character from an enormous quantity of American hops. It weighs in at a hefty 75 IBUs.</description>
+  <availability/>
+  <ingredients/>
+  <grains/>
+  <grains/>
+  <hops>american</hops>
+  <yeast/>
+  <otherings/>
+  <styles>
+    <style>Imperial Stout</style>
+  </styles>
+</beer>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hair-of-the-Dog-Brewing-Co/Ruth" brewery_id="Hair-of-the-Dog-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Hair-Of-The-Dog-Brewing-Co/Ruth" brewery_id="Hair-Of-The-Dog-Brewing-Co">
   <name>Ruth</name>
-  <description/>
+  <description>Ruth is a light and refreshing American Ale, made with pale malt and crystal hops. She was inspired by my Mother's Mother, Granny Ruth because of her love and support. Don't be Ruthless. Have one on Granny.</description>
   <availability/>
   <ingredients/>
-  <grains/>
-  <hops/>
+  <grains>pale</grains>
+  <grains>pale</grains>
+  <hops>crystal</hops>
   <yeast/>
   <otherings/>
   <sizes>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>American Ale</style>
+  </styles>
 </beer>

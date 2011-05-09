@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/Hades" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0"?>
+<beer id="Great-Divide-Brewing-Co/Hades" brewery_id="Great-Divide-Brewing-Co" abv="7.8">
   <name>Hades</name>
-  <description/>
+  <description>is a Belgian-Style golden ale brewed with a rare Belgian yeast strain that gives a complex spicy flavor and aroma. Noticeable hops and medium malt character make it a very well balanced, crisp ale.</description>
   <availability/>
   <ingredients/>
+  <grains/>
   <grains/>
   <hops/>
   <yeast/>
@@ -22,4 +23,7 @@
       </distributor>
     </size>
   </sizes>
+  <styles>
+    <style>Belgian Ale</style>
+  </styles>
 </beer>
