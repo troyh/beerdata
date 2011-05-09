@@ -1,0 +1,56 @@
+#!/usr/bin/php
+<?php
+date_default_timezone_set('America/Los_Angeles');
+
+$xml=simplexml_load_file("php://stdin");
+
+$ctime=date('U');
+
+$xml->_id='beer:'.str_replace('/',':',$xml['id']);
+$xml->brewery_id='brewery:'.str_replace('/',':',$xml['brewery_id']);
+
+$styles=array();
+foreach ($xml->styles as $s)
+	$styles[]=$s->style;
+$style_text=join(' ',$styles);
+
+$description=str_replace('"','\"',$xml->description);
+
+print <<<EOF
+{
+	"brewery_id": "{$xml->brewery_id}",
+	"type": "beer",
+	"name": "{$xml->name}",
+	"description": "{$description}",
+	
+EOF;
+
+	optional('abv');
+	optional('ibu');
+	optional('calories_per_ml');
+
+print <<<EOF
+	"grains": "{$xml->grains}",
+	"yeast": "{$xml->yeast}",
+	"hops": "{$xml->hops}",
+	"ingredients": "{$xml->ingredients}",
+	"otherings": "{$xml->otherings}",
+	"availability": "{$xml->availability}",
+	"style_text": "{$style_text}",
+	"meta": {
+		"ctime": {$ctime}
+	}
+}
+
+EOF;
+
+function optional($n) {
+	if (!empty($xml[$n])) {
+			print <<<EOF
+			"$n": {$xml[$n]},
+		
+EOF;
+	}
+}
+
+?>

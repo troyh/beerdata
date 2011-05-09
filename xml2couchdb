@@ -1,0 +1,26 @@
+#!/bin/bash
+
+while read file; do
+	id=beer:$(xml sel -t -m '/beer' -v @id $file);
+	id=${id/\//:};
+
+	if ! ./xml2json < $file | curl --silent --fail --write-out "%{http_code}" -X PUT --data-binary @- http://localhost:5984/beercrush/$id > curl.out; then
+
+		http_code=$(cat curl.out);
+		if (( $http_code != 409 )); then
+			echo $id $http_code;
+		fi
+		
+	fi
+	
+done < <(find beer -name "*.xml")
+
+rm -f curl.out
+
+# beer/Dieu-Du-Ciel/Derni-re-Volont.xml:1: parser error : Document is empty
+# beer/Dieu-Du-Ciel/Equinoxe-Du-Printemps.xml:1: parser error : Document is empty
+# beer/Dieu-Du-Ciel/P-ch-Mortel.xml:1: parser error : Document is empty
+# beer/Dieu-Du-Ciel/Paienne.xml:1: parser error : Document is empty
+# beer/Dieu-Du-Ciel/Rigor-Mortis-Abt.xml:1: parser error : Document is empty
+# beer:Jolly-Pumpkin-Artisan-Ales:Luciernaga-the-Firefly 400
+# beer/New-Belgium-Brewing-Company/Lips-Of-Faith-Dunkelweiss-30.xml:1: parser error : Document is empty
