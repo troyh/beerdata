@@ -28,15 +28,17 @@ while read beer_id ; do
 		
 		if [[ "$thismd5" != "$thatmd5" ]]; then
 			echo $beer_id already exists \($thatfile\) and is different;
+			# diff -u $thatfile .tmp/beer.xml;
 		# else
 		# 	echo $beer_id is old
 		fi
 	else
-		echo $beer_id is new
+		echo beer/$beer_id.xml is new
 	fi
-
 	
-done < <(xml sel -t -m '/beers/beer' -v '@id' -n $1)
+	mv .tmp/beer.xml beer/$beer_id.xml;
+	
+done < <(xml sel -t -m '/beers/beer' -v '@id' -n $1 | sed -e '/^\s*$/d')
 
 rm -f lowercase_beerdocs_list 
 rm -rf .tmp/
