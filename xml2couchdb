@@ -1,5 +1,16 @@
 #!/bin/bash
 
+function normalize_json_doc() {
+	php -r '$j=json_decode(file_get_contents("php://stdin"));
+	if (isset($j->_id))
+		unset($j->_id);
+	if (isset($j->_rev))
+		unset($j->_rev);
+	if (isset($j->meta->ctime))
+		unset($j->meta->ctime);
+	print json_encode($j);'
+}
+
 # while read type; do
 	type="beer";
 # 	echo $type;
@@ -30,16 +41,26 @@
 					echo "Failed to get $couch_url";
 				else
 
-					indb_md5=$(md5sum existing.json | awk '{print $1}');
-					this_md5=$(md5sum $id.json | awk '{print $1}');
+					indb_md5=$(cat existing.json | normalize_json_doc | md5sum | awk '{print $1}');
+					this_md5=$(cat $id.json | normalize_json_doc | md5sum | awk '{print $1}');
 
 					if [[ $this_md5 != $indb_md5 ]]; then
-						echo "Docs are diff: $this_md5 != $indb_md5";
-						diff -u existing.json $id.json |colordiff;
+						# echo "Docs are diff: $this_md5 != $indb_md5";
+						# diff -u existing.json $id.json |colordiff;
 						# Yes, they're different
 						# Get the _rev
 						rev=$(cat existing.json | php -r '$obj=json_decode(file_get_contents("php://stdin"));print $obj->_rev."\n";');
-						echo "Updating $id ($rev)";
+						# echo "Updating $id ($rev)";
+						
+						if ! cat $id.json | 
+							php -r '$j=json_decode(file_get_contents("php://stdin"));$j->_rev=$argv[1];print json_encode($j);' $rev | 
+							curl --silent --fail --write-out "%{http_code}" -X PUT --data-binary @- $couch_url > curl.out; then
+							http_code=$(cat curl.out);
+							echo "ERROR: unable to udpate $id: $http_code";
+						else
+							echo "Udpated $id";
+						fi
+						
 					else
 						# No matter
 						echo "No need to update couchdb doc";
