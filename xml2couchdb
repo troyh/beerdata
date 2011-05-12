@@ -2,18 +2,15 @@
 
 function normalize_json_doc() {
 	php -r '$j=json_decode(file_get_contents("php://stdin"));
-	if (isset($j->_id))
-		unset($j->_id);
-	if (isset($j->_rev))
-		unset($j->_rev);
+	unset($j->_id);
+	unset($j->_rev);
 	if (isset($j->meta->ctime))
 		unset($j->meta->ctime);
 	print json_encode($j);'
 }
 
-# while read type; do
-	type="beer";
-# 	echo $type;
+while read type; do
+	echo $type;
 	while read file; do
 		id=$type:$(xml sel -t -m "/$type" -v @id $file);
 		id=${id/\//:};
@@ -41,16 +38,17 @@ function normalize_json_doc() {
 					echo "Failed to get $couch_url";
 				else
 
-					indb_md5=$(cat existing.json | normalize_json_doc | md5sum | awk '{print $1}');
-					this_md5=$(cat $id.json | normalize_json_doc | md5sum | awk '{print $1}');
-
-					if [[ $this_md5 != $indb_md5 ]]; then
-						# echo "Docs are diff: $this_md5 != $indb_md5";
-						# diff -u existing.json $id.json |colordiff;
+					# indb_md5=$(cat existing.json | normalize_json_doc | jsontidy | md5sum | awk '{print $1}');
+					# this_md5=$(cat $id.json | normalize_json_doc | jsontidy | md5sum | awk '{print $1}');
+					# 
+					# if [[ $this_md5 != $indb_md5 ]]; then
+					if jsondiff <(cat existing.json | normalize_json_doc | jsontidy) <(cat $id.json | normalize_json_doc | jsontidy); then
 						# Yes, they're different
 						# Get the _rev
 						rev=$(cat existing.json | php -r '$obj=json_decode(file_get_contents("php://stdin"));print $obj->_rev."\n";');
 						# echo "Updating $id ($rev)";
+						# echo "Docs are diff: $this_md5 != $indb_md5";
+						# jsondiff <(cat existing.json | normalize_json_doc | jsontidy) <(cat $id.json | normalize_json_doc | jsontidy) |colordiff;
 						
 						if ! cat $id.json | 
 							php -r '$j=json_decode(file_get_contents("php://stdin"));$j->_rev=$argv[1];print json_encode($j);' $rev | 
@@ -58,12 +56,8 @@ function normalize_json_doc() {
 							http_code=$(cat curl.out);
 							echo "ERROR: unable to udpate $id: $http_code";
 						else
-							echo "Udpated $id";
+							echo "Updated $id";
 						fi
-						
-					else
-						# No matter
-						echo "No need to update couchdb doc";
 					fi
 					
 					rm -f existing.json;
@@ -75,6 +69,6 @@ function normalize_json_doc() {
 	
 	done < <(find $type -name "*.xml");
 	
-# done < <(find . -type d -maxdepth 1 ! -name ".*" | sed -e 's/^.\///');
+done < <(find . -type d -maxdepth 1 ! -name ".*" | sed -e 's/^.\///');
 
 rm -f curl.out
