@@ -6,28 +6,50 @@ function normalize_json_doc() {
 	unset($j->_rev);
 	if (isset($j->meta->ctime))
 		unset($j->meta->ctime);
+	if (empty($j->meta))
+		unset($j->meta);
 	print json_encode($j);'
 }
 
+function getdocid() {
+	read doctype id < <(xml sel -t -m "/*" -v 'name()' -o ' ' -v '@id' -);
+	echo $doctype:${id//\//:};
+}
+
+function xml2json() {
+	cat - > /tmp/xmldoc;
+	doctype=$(xml sel -t -m '/*' -v 'name()' /tmp/xmldoc);
+
+	if [ $doctype == "beer" ]; then
+		beer_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		beer_id=$doctype:${beer_id//\//:}
+		brewery_id=$(xml sel -t -m '/*' -v '@brewery_id' /tmp/xmldoc);
+		brewery_id=brewery:$brewery_id
+		xml ed --update "@id" --value "$beer_id" --update "@brewery_id" --value "$brewery_id" < /tmp/xmldoc;
+	elif [ $doctype == "brewery" ]; then
+		brewery_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		brewery_id=$doctype:${brewery_id//\//:}
+		xml ed --update "@id" --value "$brewery_id" < /tmp/xmldoc
+	elif [ $doctype == "place" ]; then
+		place_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		place_id=$doctype:${place_id//\//:}
+		xml ed --update "@id" --value "$place_id" < /tmp/xmldoc
+	fi | xml tr xml2json.xslt | jsontidy;
+	
+	rm -f /tmp/xmldoc;
+}
+
 while read type; do
-	echo $type;
+	# echo $type;
 	while read file; do
-		id=$type:$(xml sel -t -m "/$type" -v @id $file);
-		id=${id/\//:};
-		# echo $id;
-
-		# id2=${file//\//:};
-		# id2=${id2%%.xml}
-		# if [ $id != $id2 ]; then
-		# 	echo "path and id differ. $id != $id2";
-		# fi
-
-		couch_url="http://localhost:5984/beercrush/$id"
-
-		./xml2json < $file | jsontidy > $id.json;
-
-		if ! curl --silent --fail --write-out "%{http_code}" -X PUT --data-binary @- $couch_url < $id.json > curl.out; then
 		
+		id=$(getdocid < $file);
+		couch_url="http://localhost:5984/beercrush/$id"
+		
+		xml2json < $file > $id.json;
+		
+		if ! curl --silent --fail --write-out "%{http_code}" -X PUT --data-binary @- $couch_url < $id.json > curl.out; then
+
 			http_code=$(cat curl.out);
 			if (( $http_code != 409 )); then
 				echo $id $http_code;
@@ -38,18 +60,13 @@ while read type; do
 					echo "Failed to get $couch_url";
 				else
 
-					# indb_md5=$(cat existing.json | normalize_json_doc | jsontidy | md5sum | awk '{print $1}');
-					# this_md5=$(cat $id.json | normalize_json_doc | jsontidy | md5sum | awk '{print $1}');
-					# 
-					# if [[ $this_md5 != $indb_md5 ]]; then
-					if jsondiff <(cat existing.json | normalize_json_doc | jsontidy) <(cat $id.json | normalize_json_doc | jsontidy); then
+					if ! jsondiff <(cat existing.json | normalize_json_doc) <(cat $id.json | normalize_json_doc) > /dev/null; then
 						# Yes, they're different
 						# Get the _rev
 						rev=$(cat existing.json | php -r '$obj=json_decode(file_get_contents("php://stdin"));print $obj->_rev."\n";');
-						# echo "Updating $id ($rev)";
-						# echo "Docs are diff: $this_md5 != $indb_md5";
-						# jsondiff <(cat existing.json | normalize_json_doc | jsontidy) <(cat $id.json | normalize_json_doc | jsontidy) |colordiff;
-						
+						echo "Updating $id ($rev)";
+						jsondiff <(cat existing.json | normalize_json_doc) <(cat $id.json | normalize_json_doc) |colordiff;
+
 						if ! cat $id.json | 
 							php -r '$j=json_decode(file_get_contents("php://stdin"));$j->_rev=$argv[1];print json_encode($j);' $rev | 
 							curl --silent --fail --write-out "%{http_code}" -X PUT --data-binary @- $couch_url > curl.out; then
