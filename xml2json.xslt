@@ -187,9 +187,27 @@
 	<xsl:text>"</xsl:text>
 	<xsl:value-of select="name()"/>
 	<xsl:text>":</xsl:text>
-    <xsl:call-template name="encode-string">
-      <xsl:with-param name="s" select="concat('&quot;',.,'&quot;')"/>
-    </xsl:call-template>
+	<xsl:choose>
+		<!-- number -->
+		<xsl:when test="not(string(number(.))='NaN')">
+			<xsl:value-of select="."/>
+		</xsl:when>
+
+		<!-- boolean, case-insensitive -->
+		<xsl:when test="translate(.,'TRUE','true')='true'">
+			<xsl:text>true</xsl:text>
+		</xsl:when>
+		<xsl:when test="translate(.,'TRUE','true')='false'">
+			<xsl:text>false</xsl:text>
+		</xsl:when>
+
+		<!-- default to string -->
+		<xsl:otherwise>
+		    <xsl:call-template name="escape-string">
+		      <xsl:with-param name="s" select="."/>
+		    </xsl:call-template>
+		</xsl:otherwise>
+	</xsl:choose>
     <xsl:if test="../*">,</xsl:if>
   </xsl:template>
     
