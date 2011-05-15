@@ -146,11 +146,14 @@
   <!-- object -->
   <xsl:template match="*" name="base">
     <!-- <xsl:if test="not(preceding-sibling::*)">{</xsl:if> -->
-    <xsl:call-template name="escape-string">
-      <xsl:with-param name="s" select="name()"/>
-    </xsl:call-template>
-    <xsl:text>:</xsl:text>
+    <xsl:if test="parent::*">
+	    <xsl:call-template name="escape-string">
+	      <xsl:with-param name="s" select="name()"/>
+	    </xsl:call-template>
+	    <xsl:text>:</xsl:text>
+	</xsl:if>
 	<xsl:if test="count(child::*)">{</xsl:if>
+    <xsl:apply-templates select="@*"/>
     <xsl:apply-templates select="child::node()"/>
 	<xsl:if test="count(child::*)">}</xsl:if>
     <xsl:if test="following-sibling::*">,</xsl:if>
@@ -174,9 +177,20 @@
   
   <!-- convert root element to an anonymous container -->
   <xsl:template match="/">
-	<xsl:text>{</xsl:text>
+	<!-- <xsl:text>{</xsl:text> -->
     <xsl:apply-templates select="node()"/>
-	<xsl:text>}</xsl:text>
+	<!-- <xsl:text>}</xsl:text> -->
+  </xsl:template>
+
+  <!-- attributes -->
+  <xsl:template match="@*">
+	<xsl:text>"</xsl:text>
+	<xsl:value-of select="name()"/>
+	<xsl:text>":</xsl:text>
+    <xsl:call-template name="encode-string">
+      <xsl:with-param name="s" select="concat('&quot;',.,'&quot;')"/>
+    </xsl:call-template>
+    <xsl:if test="../*">,</xsl:if>
   </xsl:template>
     
 </xsl:stylesheet>
