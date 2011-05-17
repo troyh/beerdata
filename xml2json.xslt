@@ -126,7 +126,7 @@
   </xsl:template>
 
   <!-- number (but not numbers that start with 0) (no support for javascript mantise) -->
-  <xsl:template match="text()[not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.')]">
+  <xsl:template match="text()[not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.') and not(substring(.,string-length(.),1)='E')]">
     <xsl:value-of select="."/>
   </xsl:template>
 
@@ -194,7 +194,7 @@
 	<xsl:text>":</xsl:text>
 	<xsl:choose>
 		<!-- number (but not numbers that start with 0) -->
-		<xsl:when test="not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.')">
+		<xsl:when test="not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.') and not(substring(.,string-length(.),1)='E')">
 			<xsl:value-of select="."/>
 		</xsl:when>
 
