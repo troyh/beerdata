@@ -1,0 +1,7 @@
+#!/bin/bash
+while read file; do
+	
+	xml tr fixstyles.xslt $file > fixed.xml;
+	mv fixed.xml $file;
+
+done < <(find beer -name "*.xml");
