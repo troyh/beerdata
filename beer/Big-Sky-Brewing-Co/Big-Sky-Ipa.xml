@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Big-Sky-Ipa" brewery_id="Big-Sky-Brewing-Co" abv="6.2" ibu="65">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Big-Sky-Ipa</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>65</ibu>
   <name>Big Sky IPA</name>
   <description>In Montana, many classic memories are made right after someone says, "Hold my beer and watch this." These bold, assertive moments deserve a bold, assertive beer -- Big Sky IPA. A distinct hop presence and malty backbone will leave you refreshed and ready for your moment of glory. Hang on tight and enjoy the ride.</description>
   <availability/>

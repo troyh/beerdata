@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Brouwerij-Straffe-Hendrik">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Brouwerij-Straffe-Hendrik</id>
   <name>Brouwerij Straffe Hendrik</name>
 </brewery>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brockway-Chop-House">
+<brewery>
+  <id>Brockway-Chop-House</id>
   <name>Brockway Chop House‎</name>
   <address>
     <street>110 N Brockway St</street>

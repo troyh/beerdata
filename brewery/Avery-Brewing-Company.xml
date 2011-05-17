@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Avery-Brewing-Company">
+<brewery>
+  <id>Avery-Brewing-Company</id>
   <name>Avery Brewing Company‎</name>
   <address>
     <street>5763 Arapahoe Ave # E</street>

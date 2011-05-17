@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="St-Bernard-Brouwerij/Grottenbier" brewery_id="St-Bernard-Brouwerij" abv="6.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Bernard-Brouwerij/Grottenbier</id>
+  <brewery_id>St-Bernard-Brouwerij</brewery_id>
+  <abv>6.5</abv>
   <name>Grottenbier</name>
-  <description>The latest acquisition &#xD2;Grottenbier&#xD3; was created by Master Brewer Pierre Celis. It is an aromatic dark beer with 6.5% alcohol content.In the marl pits in Kanne ( Belgium) and Valkenburg (the Netherlands), deep under the ground, you can taste the Grottenbier in a constant temperature of 11&#xA1; Celsius.As it is the case with Champagne, the bottles are placed in a &#xD2;pupitre&#xD3; with results in an additional fermentation. his beer with a high fermentation with a second fermentation in the bottle has been pointed out as one of the best 10 present-day beers by beer guru Michael Jackson.</description>
+  <description>The latest acquisition ÒGrottenbierÓ was created by Master Brewer Pierre Celis. It is an aromatic dark beer with 6.5% alcohol content.In the marl pits in Kanne ( Belgium) and Valkenburg (the Netherlands), deep under the ground, you can taste the Grottenbier in a constant temperature of 11¡ Celsius.As it is the case with Champagne, the bottles are placed in a ÒpupitreÓ with results in an additional fermentation. his beer with a high fermentation with a second fermentation in the bottle has been pointed out as one of the best 10 present-day beers by beer guru Michael Jackson.</description>
   <availability/>
   <ingredients/>
   <grains/>

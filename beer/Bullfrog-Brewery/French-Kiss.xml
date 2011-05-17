@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/French-Kiss" brewery_id="Bullfrog-Brewery" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/French-Kiss</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>7.2</abv>
   <name>French Kiss</name>
   <description>As a lover of saisons I felt it necessary to brew its french counterpart, the Biere de Garde, full of luxurious richness with an aroma akin to candied apples. The palette is full of expressive malt yet finishes dry and spicy with dashes of tartness from the yeast.</description>
   <availability/>

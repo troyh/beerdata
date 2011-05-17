@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Xingu/Lager" brewery_id="Xingu">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Xingu/Lager</id>
+  <brewery_id>Xingu</brewery_id>
   <name>Lager</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flagstaff-Brewing-Company">
+<brewery>
+  <id>Flagstaff-Brewing-Company</id>
   <name>Flagstaff Brewing Company‎</name>
   <address>
     <street>16 East Rt 66</street>

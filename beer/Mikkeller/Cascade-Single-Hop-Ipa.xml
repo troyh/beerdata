@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Cascade-Single-Hop-Ipa" brewery_id="Mikkeller" abv="6.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Cascade-Single-Hop-Ipa</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>6.9</abv>
   <name>Cascade Single Hop IPA</name>
   <description>The third in the series of single hop IPA's from Mikkeller. Brewed with Cascade, a true american classic hop type. This hop is less powerfull than the ones used in the previous two single hop IPA's - creating a great balance with the beers other aspects.</description>
   <availability/>

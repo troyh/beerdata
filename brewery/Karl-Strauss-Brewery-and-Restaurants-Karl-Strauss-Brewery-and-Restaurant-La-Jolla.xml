@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-and-Restaurant-La-Jolla">
+<brewery>
+  <id>Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-and-Restaurant-La-Jolla</id>
   <name>Karl Strauss Brewery &amp; Restaurants: Karl Strauss Brewery &amp; Restaurant-La Jolla‎</name>
   <address>
     <street>1044 Wall St # C</street>

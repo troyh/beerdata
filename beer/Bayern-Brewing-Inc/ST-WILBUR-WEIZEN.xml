@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bayern-Brewing-Inc/ST-WILBUR-WEIZEN" brewery_id="Bayern-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bayern-Brewing-Inc/ST-WILBUR-WEIZEN</id>
+  <brewery_id>Bayern-Brewing-Inc</brewery_id>
   <name>ST WILBUR WEIZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-90031-11111-1">
+    <size>
+      <upc>7-90031-11111-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

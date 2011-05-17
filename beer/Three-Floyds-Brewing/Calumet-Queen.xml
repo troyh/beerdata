@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Calumet-Queen" brewery_id="Three-Floyds-Brewing" abv="5" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Calumet-Queen</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5</abv>
+  <ibu>20</ibu>
   <name>Calumet Queen</name>
   <description>A crisp and refreshing lighter summer offering, this Kolsch-style beer is golden in color, light bodied and a perfect remedy for hot weather.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bieres-de-Chimay/LThTRIPEL" brewery_id="Bieres-de-Chimay">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bieres-de-Chimay/LThTRIPEL</id>
+  <brewery_id>Bieres-de-Chimay</brewery_id>
   <name>LThTRIPEL</name>
   <description/>
   <availability/>

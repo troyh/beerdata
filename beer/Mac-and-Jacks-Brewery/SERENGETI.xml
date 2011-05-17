@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mac-and-Jacks-Brewery/SERENGETI" brewery_id="Mac-and-Jacks-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mac-and-Jacks-Brewery/SERENGETI</id>
+  <brewery_id>Mac-and-Jacks-Brewery</brewery_id>
   <name>SERENGETI</name>
   <description/>
   <availability/>

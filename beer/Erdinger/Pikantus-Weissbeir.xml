@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Erdinger/Pikantus-Weissbeir" brewery_id="Erdinger">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Erdinger/Pikantus-Weissbeir</id>
+  <brewery_id>Erdinger</brewery_id>
   <name>Pikantus Weissbeir</name>
   <description/>
   <availability/>

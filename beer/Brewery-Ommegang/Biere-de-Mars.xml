@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Ommegang/Biere-de-Mars" brewery_id="Brewery-Ommegang">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Ommegang/Biere-de-Mars</id>
+  <brewery_id>Brewery-Ommegang</brewery_id>
   <name>Biere de Mars</name>
   <description/>
   <availability/>

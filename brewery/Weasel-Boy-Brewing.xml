@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Weasel-Boy-Brewing">
+<brewery>
+  <id>Weasel-Boy-Brewing</id>
   <name>Weasel Boy Brewing‎</name>
   <address>
     <street>126 Muskingum Ave. Suite E</street>

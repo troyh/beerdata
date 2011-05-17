@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dolores-River-Brewery">
+<brewery>
+  <id>Dolores-River-Brewery</id>
   <name>Dolores River Brewery‎</name>
   <address>
     <street>100 S 4th St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jamesport-Brewing-Co-Ludington">
+<brewery>
+  <id>Jamesport-Brewing-Co-Ludington</id>
   <name>Jamesport Brewing Co‎</name>
   <address>
     <street>410 S James St</street>

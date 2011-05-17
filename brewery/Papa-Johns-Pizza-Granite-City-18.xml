@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Papa-Johns-Pizza-Granite-City-18">
+<brewery>
+  <id>Papa-Johns-Pizza-Granite-City-18</id>
   <name>Papa John's Pizza‎</name>
   <address>
     <street>3675 Nameoki Rd</street>

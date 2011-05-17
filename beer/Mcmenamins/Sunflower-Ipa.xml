@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Sunflower-Ipa" brewery_id="Mcmenamins" abv="6.71">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Sunflower-Ipa</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>6.71</abv>
   <name>Sunflower IPA</name>
   <description>In the 1790s, English sailors needed an ale that could withstand the long sea voyage to the colonies in Asia. Knowing that alcohol and hops are natural preservatives, English brewers developed these strong, highly hopped ales known as India Pale Ales. McMenamins Sunflower IPA was first introduced in the summer of 1995 at our West Linn brewery. Inspired by the bountiful sunflowers grown in the pub's beer garden, our IPA has a deep golden color and distinct yet subtle citrus flavors that satisfy both the diehard IPA drinker and those who prefer a lighter palate. Sunflower IPA is truly a beer for the masses. McMenamins artists Lyle Hehn, Myrna Yoder and Jenny Joyce were each asked to design a label for the new IPA. What resulted was three incredibly beautiful yet dissimilar ideas. Rather than choose one label, we will issue three different bottles!</description>
   <availability>year-round</availability>

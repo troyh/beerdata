@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Trumer-Brauerei/PILSN" brewery_id="Trumer-Brauerei">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Trumer-Brauerei/PILSN</id>
+  <brewery_id>Trumer-Brauerei</brewery_id>
   <name>PILSN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88573-44003-4">
+    <size>
+      <upc>0-88573-44003-4</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

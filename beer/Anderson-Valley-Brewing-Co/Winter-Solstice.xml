@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Anderson-Valley-Brewing-Co/Winter-Solstice" brewery_id="Anderson-Valley-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Winter-Solstice</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
   <name>Winter Solstice</name>
   <description/>
   <availability>winter</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="009125000766">
+    <size>
+      <upc>009125000766</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

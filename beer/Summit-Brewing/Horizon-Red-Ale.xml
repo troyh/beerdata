@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Horizon-Red-Ale" brewery_id="Summit-Brewing" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Horizon-Red-Ale</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <ibu>year-round</ibu>
   <name>Horizon Red Ale</name>
   <description/>
   <availability/>

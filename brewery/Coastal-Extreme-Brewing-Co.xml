@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Coastal-Extreme-Brewing-Co">
+<brewery>
+  <id>Coastal-Extreme-Brewing-Co</id>
   <name>Coastal Extreme Brewing Co‎</name>
   <address>
     <street>307 Oliphant Ln # 3</street>

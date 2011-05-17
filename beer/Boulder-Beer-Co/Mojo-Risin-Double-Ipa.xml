@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Mojo-Risin-Double-Ipa" brewery_id="Boulder-Beer-Co" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Mojo-Risin-Double-Ipa</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>10</abv>
   <name>Mojo Risin' Double IPA</name>
   <description/>
   <availability>limited</availability>

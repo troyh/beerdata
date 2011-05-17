@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Parabola" brewery_id="Firestone-Walker-Brewing-Company" abv="13" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Parabola</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <abv>13</abv>
+  <ibu>50</ibu>
   <name>Parabola</name>
   <description/>
   <availability>limited</availability>

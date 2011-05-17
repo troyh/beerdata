@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Woodstock-Inn-Brewery">
+<brewery>
+  <id>Woodstock-Inn-Brewery</id>
   <name>Woodstock Inn Brewery‎</name>
   <address>
     <street>135 Main St</street>

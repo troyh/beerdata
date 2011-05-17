@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Half-Acre-Beer-Company-Chicago">
+<brewery>
+  <id>Half-Acre-Beer-Company-Chicago</id>
   <name>Half Acre Beer Company‎</name>
   <address>
     <street>4257 N Lincoln Ave</street>

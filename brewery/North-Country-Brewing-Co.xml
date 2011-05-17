@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="North-Country-Brewing-Co">
+<brewery>
+  <id>North-Country-Brewing-Co</id>
   <name>North Country Brewing Co‎</name>
   <address>
     <street>141 S Main St</street>

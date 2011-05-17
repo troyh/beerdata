@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Red-Rock-Brewing-Co-Salt-Lake-City">
+<brewery>
+  <id>Red-Rock-Brewing-Co-Salt-Lake-City</id>
   <name>Red Rock Brewing Co‎</name>
   <address>
     <street>254 S 200 W</street>

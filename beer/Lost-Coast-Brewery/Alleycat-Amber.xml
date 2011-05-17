@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lost-Coast-Brewery/Alleycat-Amber" brewery_id="Lost-Coast-Brewery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery/Alleycat-Amber</id>
+  <brewery_id>Lost-Coast-Brewery</brewery_id>
+  <abv>5.5</abv>
   <name>Alleycat Amber</name>
   <description>A full-flavored amber ale made with roasted caramel malt. Richly colored and medium bodied, Alleycat is an assertive blend of malts with a sprightly cascade of hops.</description>
   <availability/>

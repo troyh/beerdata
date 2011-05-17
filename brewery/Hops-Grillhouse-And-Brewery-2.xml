@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Grillhouse-And-Brewery">
+<brewery>
+  <id>Hops-Grillhouse-And-Brewery</id>
   <name>Hops Grillhouse And Brewery‎</name>
   <address>
     <street>110 Buckland Hills Drive</street>

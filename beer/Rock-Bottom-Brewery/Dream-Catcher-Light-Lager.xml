@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Dream-Catcher-Light-Lager" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Dream-Catcher-Light-Lager</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Dream Catcher Light Lager</name>
   <description>Crisp, clean, and refreshing, this mild-flavored light lager uses Saaz hops for a subtle spiciness with a nice floral aroma.</description>
   <availability>year-round</availability>

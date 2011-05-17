@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brewerie-At-Union-Station">
+<brewery>
+  <id>Brewerie-At-Union-Station</id>
   <name>Brewerie At Union Station‎</name>
   <address>
     <street>123 W 14th St</street>

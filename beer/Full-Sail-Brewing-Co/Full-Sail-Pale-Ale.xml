@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Full-Sail-Pale-Ale" brewery_id="Full-Sail-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Full-Sail-Pale-Ale</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
   <name>Full Sail Pale Ale</name>
   <description>The way we see it, brewing a great Pale Ale is a lot like living a great life. It's all about finding the perfect balance. Between work and play, art and commerce, and yes, hops and barley. Dial in each flavor and nuance just right, and it's a beautiful thing. Our Pale Ale has a fresh, hoppy aroma that comes from two (top secret) Northwest hop varieties, while two-row Pale and Crystal malt give it a mild sweetness that finishes clean and crisp. Feeling out of whack? Put on some music, crack a Pale Ale, and readjust your balance. </description>
   <availability/>

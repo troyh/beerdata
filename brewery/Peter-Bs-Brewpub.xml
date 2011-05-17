@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Peter-Bs-Brewpub">
+<brewery>
+  <id>Peter-Bs-Brewpub</id>
   <name>Peter B's Brewpub‎</name>
   <address>
     <street>2 Portola Plz</street>

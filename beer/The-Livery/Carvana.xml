@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Carvana" brewery_id="The-Livery" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Carvana</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>9.5</abv>
   <name>Carvana</name>
   <description>Just before his birthday, Bewmaster Steve concocts a special beer to reward himself for making it through another year in the brewery business. Full flavored, ever evolving, and usually barrel-aged! This years version is an Imperial IPA. High alcohol, very hoppy, and dry-hopped to the MAXIMUM!!! Happy Birthday to me!!!</description>
   <availability/>

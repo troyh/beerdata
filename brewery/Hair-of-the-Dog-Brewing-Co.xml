@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hair-of-the-Dog-Brewing-Co">
+<brewery>
+  <id>Hair-of-the-Dog-Brewing-Co</id>
   <name>Hair of the Dog Brewing Co‎</name>
   <address>
     <street>4509 SE 23rd Ave</street>

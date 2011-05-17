@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Hop-Trip" brewery_id="Deschutes-Brewery-Inc" abv="5.20" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Hop-Trip</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>5.20</abv>
+  <ibu>30</ibu>
   <name>Hop Trip</name>
   <description>This Fresh Hop Pale Ale is all about celebrating the hop harvest in the fall. Fresh picked hops have to be added to the brew immediately and in abundance. Roughly 680 pounds of Crystal hops from Doug Weathers' farm outside Salem, Oregon will be added to each 120 barrel batch in addition to some dry kilned whole flower hops. That adds up to approximately 5.7 pounds of hops per barrel brewed. Another deliciously interesting beer in our Bond Street Series. â¨â¨In 2006 we thought it would be fun to document the trip so Tim Cash from FARfromEARTH films hopped on board with his camera in hand.</description>
   <availability>Fall</availability>
@@ -9,10 +13,11 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10A">American Pale Ale</style>
+    <style><bjcp_style_id>10A</bjcp_style_id>American Pale Ale</style>
   </styles>
   <sizes>
-    <size upc="7-63176-24022-8">
+    <size>
+      <upc>7-63176-24022-8</upc>
       <description>BOTTLE 22</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Carolina-Brewery-and-Grill">
+<brewery>
+  <id>Carolina-Brewery-and-Grill</id>
   <name>Carolina Brewery &amp; Grill‎</name>
   <address>
     <street>120 Lowes Dr</street>

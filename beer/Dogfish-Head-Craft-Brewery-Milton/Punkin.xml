@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Punkin" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Punkin</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
   <name>Punkin</name>
   <description/>
   <availability>fall</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="638489000411">
+    <size>
+      <upc>638489000411</upc>
       <description>6/4/12 oz</description>
       <distributor>
         <name>click</name>

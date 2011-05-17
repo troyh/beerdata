@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lefthand/Oktoberfest" brewery_id="Lefthand" ibu="fall">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lefthand/Oktoberfest</id>
+  <brewery_id>Lefthand</brewery_id>
+  <ibu>fall</ibu>
   <name>Oktoberfest</name>
   <description/>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/TRIPPEL" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/TRIPPEL</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>TRIPPEL</name>
   <description/>
   <availability/>

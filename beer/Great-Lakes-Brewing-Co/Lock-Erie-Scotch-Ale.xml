@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Lock-Erie-Scotch-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="8.3" ibu="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Lock-Erie-Scotch-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>8.3</abv>
+  <ibu>12</ibu>
   <name>Lock Erie Scotch Ale</name>
   <description>A tawny Scotch Ale with a rich caramelized malt flavor, a very mild hop presence and a dry finish.</description>
   <availability>limited</availability>

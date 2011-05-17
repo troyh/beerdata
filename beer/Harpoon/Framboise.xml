@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Framboise" brewery_id="Harpoon" abv="5.3" ibu="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Framboise</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>5.3</abv>
+  <ibu>8</ibu>
   <name>Framboise</name>
-  <description>Framboise, French for "raspberry", is a Belgian-style fruit lambic. Made with more than 4,600 pounds of raspberries, 50% wheat at a gravity of 14&#xA1;p it has all the makings of a great summer time beer. Highly carbonated, it produces a wonderfully pink, lacey head. The burgundy color foretells of intense raspberry aromas. A nice, sweet start finishing with a tart and acidic finish that is light and refreshing.</description>
+  <description>Framboise, French for "raspberry", is a Belgian-style fruit lambic. Made with more than 4,600 pounds of raspberries, 50% wheat at a gravity of 14¡p it has all the makings of a great summer time beer. Highly carbonated, it produces a wonderfully pink, lacey head. The burgundy color foretells of intense raspberry aromas. A nice, sweet start finishing with a tart and acidic finish that is light and refreshing.</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

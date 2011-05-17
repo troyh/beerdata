@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Winter-Lager" brewery_id="Boston-Beer-Co" calories_per_ml="0.563567036693511" abv="5.80" og="15Plate">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Winter-Lager</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.563567036693511</calories_per_ml>
+  <abv>5.80</abv>
+  <og>15Plate</og>
   <name>Winter Lager</name>
   <description>The first thing one notices in a Samuel AdamsÂ® Winter Lager is its color: the deep brown of winter. Then comes the magical aroma which promises something special on the tongue. The warm aroma of cinnamon and ginger which blends with the roasty sweetness of the malted barley and hint of citrus from the orange peel. And after that first sip the promise is fulfilled. On the palate Samuel AdamsÂ® Winter Lager is rich and full bodied, robust and warming, a wonderful way to enjoy the cold evenings that come with this season.</description>
   <availability>Winter</availability>

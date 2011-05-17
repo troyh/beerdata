@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/D-esse-Nocturne" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>D&#x83;ESSE NOCTURNE</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/D-esse-Nocturne</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>DESSE NOCTURNE</name>
   <description>This black ale has an intense roasted aroma with a hint of chocolate. To taste, it has a nice hoppy bitterness and roasted coffee flavours. It is a dry beer, presenting little sweetness. Its colour may intimidate, but it is an easy drinking beer as long as one enjoys roasted flavours. This beer is pressurized with nitrogen, therefore giving it little effervescence but a compact and durable head.</description>
   <availability/>
   <ingredients/>

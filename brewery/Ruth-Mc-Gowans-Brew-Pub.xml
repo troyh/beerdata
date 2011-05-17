@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ruth-Mc-Gowans-Brew-Pub">
+<brewery>
+  <id>Ruth-Mc-Gowans-Brew-Pub</id>
   <name>Ruth Mc Gowans Brew Pub‎</name>
   <address>
     <street>131 E 1st St</street>

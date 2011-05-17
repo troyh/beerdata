@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Verchuosity" brewery_id="The-Livery" abv="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Verchuosity</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>12</abv>
   <name>Verchuosity</name>
   <description>Brewmaster Steve took his Belgian Amber Ale and re-fermented it in a merlot cask with 100# of sweet Michigan cherries from Husteds Farm Market. He than moved the resulting beer into another cask with 30# of tart cherries. 5 fermentations due to wild yeast and 9 months later, we have our version of a Belgian Kriek. Named after our good friend and musician, April Verch.</description>
   <availability/>

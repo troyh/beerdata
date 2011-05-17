@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Highland-Pub-and-Brewery">
+<brewery>
+  <id>Highland-Pub-and-Brewery</id>
   <name>Highland Pub &amp; Brewery‎</name>
   <address>
     <street>4225 SE 182nd Ave</street>

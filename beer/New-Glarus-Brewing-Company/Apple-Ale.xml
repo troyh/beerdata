@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Apple-Ale" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Apple-Ale</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Apple Ale</name>
   <description>Apple Ale sings with the fresh crisp taste of Wisconsin Apples. Our Brewmaster begins with a brown ale base employing Wisconsin farmed wheat and a blend of Cortland, Macintosh and Jonathan apples. Our apple growing friends squeeze them especially for this brew. Expect this Ale to pour a beautiful copper color. The fresh bouquet of Apple will rise to meet you even before the glass touches your lips. So be sure to sip slowly and enjoy the fruits of a Wisconsin harvest.</description>
   <availability>retired</availability>

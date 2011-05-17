@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Black-Seal-Stout" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Black-Seal-Stout</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Black Seal Stout</name>
   <description>A dark, smooth stout with ?chocolate malt and roasted barley. Mt. Hood hops ?balance this ?massive brew. Enjoy it with any of our hearty entrees.</description>
   <availability>year-round</availability>

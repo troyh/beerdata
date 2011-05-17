@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Wychwood-Brewery/HOBGOBLIN-GFT" brewery_id="Wychwood-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wychwood-Brewery/HOBGOBLIN-GFT</id>
+  <brewery_id>Wychwood-Brewery</brewery_id>
   <name>HOBGOBLIN GFT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-0">
+    <size>
+      <upc>9-99999-99999-0</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

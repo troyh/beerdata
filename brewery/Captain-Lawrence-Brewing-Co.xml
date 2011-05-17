@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Captain-Lawrence-Brewing-Co">
+<brewery>
+  <id>Captain-Lawrence-Brewing-Co</id>
   <name>Captain Lawrence Brewing Co‎</name>
   <address>
     <street>99 Castleton St</street>

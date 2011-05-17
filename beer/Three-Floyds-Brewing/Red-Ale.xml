@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Red-Ale" brewery_id="Three-Floyds-Brewing" abv="5.2" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Red-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5.2</abv>
+  <ibu>30</ibu>
   <name>Red Ale</name>
   <description>Red Ale (March -- May) is brewed with British pale and crystal malts, Sterling hops, and an ale yeast from California. This ale has a rich ruby color, lacy collar, and a pronounced caramel flavor. Try it with traditional Irish fare or a sweet and pleasant cow's milk cheese called Dubliner that can be found in most grocery stores.</description>
   <availability>spring</availability>

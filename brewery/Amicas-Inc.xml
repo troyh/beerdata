@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Amicas-Inc">
+<brewery>
+  <id>Amicas-Inc</id>
   <name>Amicas Inc‎</name>
   <address>
     <street>20 Guest St # 400</street>

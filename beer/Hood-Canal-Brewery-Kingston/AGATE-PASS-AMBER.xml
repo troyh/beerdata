@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hood-Canal-Brewery-Kingston/AGATE-PASS-AMBER" brewery_id="Hood-Canal-Brewery-Kingston">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hood-Canal-Brewery-Kingston/AGATE-PASS-AMBER</id>
+  <brewery_id>Hood-Canal-Brewery-Kingston</brewery_id>
   <name>AGATE PASS AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-14861-02022-2">
+    <size>
+      <upc>6-14861-02022-2</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Silver-City-Brewing-Company">
+<brewery>
+  <id>Silver-City-Brewing-Company</id>
   <name>Silver City Brewing Company‎</name>
   <address>
     <street>2799 NW Myhre Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Miller-Brewing-Co/CAN-LS" brewery_id="Miller-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Miller-Brewing-Co/CAN-LS</id>
+  <brewery_id>Miller-Brewing-Co</brewery_id>
   <name>CAN LS</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="81264">
+    <size>
+      <upc>81264</upc>
       <description>24/16</description>
       <distributor>
         <name/>

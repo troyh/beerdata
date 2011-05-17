@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Retour-Aux-Racines" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Retour-Aux-Racines</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>RETOUR AUX RACINES</name>
   <description>This is a traditional version of a root beer. It is brewed with teaberry and vanilla, making it a very refreshing beer. Our ancestors would be jealous! The Retour aux Racines was specially brewed to celebrate the 8th anniversary of Dieu du Ciel!</description>
   <availability>limited</availability>

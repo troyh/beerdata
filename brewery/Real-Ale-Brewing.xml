@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Real-Ale-Brewing">
+<brewery>
+  <id>Real-Ale-Brewing</id>
   <name>Real Ale Brewing‎</name>
   <address>
     <street>231 San Saba Ct</street>

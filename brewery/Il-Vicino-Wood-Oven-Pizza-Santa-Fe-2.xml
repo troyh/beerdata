@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Il-Vicino-Wood-Oven-Pizza-Santa-Fe-2">
+<brewery>
+  <id>Il-Vicino-Wood-Oven-Pizza-Santa-Fe-2</id>
   <name>Il Vicino Wood-Oven Pizza‎</name>
   <address>
     <street>321 W San Francisco St</street>

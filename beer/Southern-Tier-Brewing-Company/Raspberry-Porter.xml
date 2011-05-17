@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Raspberry-Porter" brewery_id="Southern-Tier-Brewing-Company" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Raspberry-Porter</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>4.8</abv>
   <name>raspberry porter</name>
   <description>An ale brewed with the finest North American barley. Raspberry Porter is lightly Hopped with the choicest Pacific Northwest grown hops. Pleasant roast and chocolate-like notes give this beer a sweet and subtle body while its rich creamy head compliments its character. This delicate and smooth beer is finished with a hint of raspberries and is certain to become your holiday favorite!</description>
   <availability>winter</availability>

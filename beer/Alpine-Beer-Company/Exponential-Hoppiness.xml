@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Exponential-Hoppiness" brewery_id="Alpine-Beer-Company" abv="10.75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Exponential-Hoppiness</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>10.75</abv>
   <name>Exponential Hoppiness</name>
   <description>Very popular. A complex hopping method where each hop addition is double the previous amount. More hops in the hopback and then two dry-hop sessions. The second dry-hop session is with whole hops and oak chips.</description>
   <availability>limited</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Blue-Paddle" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Blue-Paddle</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Blue Paddle</name>
   <description>Climb on in and grab a paddle. Our first foray into lagered beers, Blue Paddle Pilsener-Lager, is a Czech style pilsener with a refreshing crispness from noble hops and a rich, malty finish. 'Blue Paddle' refers to the implement our warehouse manager's Grandma once used to lovingly paddle his a** when she caught him stealing sips of her beer. With more body than a traditional Belgian pils, Blue Paddle is reflective of Europe's finest pilseners.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Belhaven-Brewery/9-THST" brewery_id="Belhaven-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Belhaven-Brewery/9-THST</id>
+  <brewery_id>Belhaven-Brewery</brewery_id>
   <name>9 THST</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-86950-05001-1">
+    <size>
+      <upc>7-86950-05001-1</upc>
       <description>BOTTLE 12/16</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Pale-31-california-Pale-Ale" brewery_id="Firestone-Walker-Brewing-Company" abv="4.6" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Pale-31-california-Pale-Ale</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <abv>4.6</abv>
+  <ibu>38</ibu>
   <name>Pale 31 (California Pale Ale)</name>
   <description>One of the most award-winning American style pale ales in the country. This is the American beer style that started a revolution in taste. We've taken the classic British pale ale and elevated it with a wonderful dose of northwest American hops. A crisp floral hop aroma precedes a medium-bodied clean finishing ale.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pyramid-Breweries-Inc/WAPATI-IPA" brewery_id="Pyramid-Breweries-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries-Inc/WAPATI-IPA</id>
+  <brewery_id>Pyramid-Breweries-Inc</brewery_id>
   <name>WAPATI IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-69596-46202-8">
+    <size>
+      <upc>0-69596-46202-8</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Nut-Brown-Ale" brewery_id="Goose-Island-Beer-Co" abv="5.3" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Nut-Brown-Ale</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>5.3</abv>
+  <ibu>25</ibu>
   <name>Nut Brown Ale</name>
   <description>Brewed in the English tradition, our Nut Brown Ale combines the finest domestic and imported malts to produce a chestnut-hued ale of unusual complexity. Subtle notes of chocolate, honey and fine tobacco give this ale an enjoyable and satisfying "nutty" finish.</description>
   <availability/>

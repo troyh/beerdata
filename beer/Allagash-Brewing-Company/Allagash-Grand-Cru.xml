@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-Grand-Cru" brewery_id="Allagash-Brewing-Company" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-Grand-Cru</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>7.2</abv>
   <name>Allagash Grand Cru</name>
   <description>Allagash Grand Cru is our winter seasonal. We brew this special, deep-golden colored beer each year in limited quantities. It has a full, yet refined malty palate and a gentle fruit and spice aroma.</description>
   <availability>winter</availability>

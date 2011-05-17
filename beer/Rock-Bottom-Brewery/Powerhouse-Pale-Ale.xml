@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Powerhouse-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Powerhouse-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Powerhouse Pale Ale</name>
   <description>The hoppiest beer in our core line-up, this light copper colored American style Pale Ale bears a light caramel sweetness, while a combination of hops from the Pacific Northwest provide assertive citrus and tropical fruit flavors.</description>
   <availability>year-round</availability>

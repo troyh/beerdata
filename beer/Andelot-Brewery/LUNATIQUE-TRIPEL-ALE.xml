@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Andelot-Brewery/LUNATIQUE-TRIPEL-ALE" brewery_id="Andelot-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Andelot-Brewery/LUNATIQUE-TRIPEL-ALE</id>
+  <brewery_id>Andelot-Brewery</brewery_id>
   <name>LUNATIQUE TRIPEL ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-69596-21750-5">
+    <size>
+      <upc>0-69596-21750-5</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

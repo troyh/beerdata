@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Anchor-Brewing-Co/FOGHORN" brewery_id="Anchor-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing-Co/FOGHORN</id>
+  <brewery_id>Anchor-Brewing-Co</brewery_id>
   <name>FOGHORN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72783-10400-8">
+    <size>
+      <upc>0-72783-10400-8</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

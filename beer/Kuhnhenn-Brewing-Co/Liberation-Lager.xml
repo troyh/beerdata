@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Liberation-Lager" brewery_id="Kuhnhenn-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Liberation-Lager</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
   <name>Liberation Lager</name>
   <description/>
   <availability/>

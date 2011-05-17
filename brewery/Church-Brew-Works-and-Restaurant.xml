@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Church-Brew-Works-and-Restaurant">
+<brewery>
+  <id>Church-Brew-Works-and-Restaurant</id>
   <name>Church Brew Works &amp; Restaurant‎</name>
   <address>
     <street>3525 Liberty Ave</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Murphy-Brewery/LT-IRISH" brewery_id="Murphy-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Murphy-Brewery/LT-IRISH</id>
+  <brewery_id>Murphy-Brewery</brewery_id>
   <name>LT IRISH</name>
   <description/>
   <availability/>

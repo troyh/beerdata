@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-Smokehaus" brewery_id="Spoetzl" abv="4.89" ibu="16">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-Smokehaus</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>4.89</abv>
+  <ibu>16</ibu>
   <name>Shiner Smokehaus</name>
   <description>Brewed with pale malt that's been smoked with native mesquite in the backyard of our little brewery in Shiner, Texas (pop. 2,070), this refreshing Helles-style beer has a smoky flavor that goes great with all the flavors of summer.</description>
   <availability>Summer</availability>

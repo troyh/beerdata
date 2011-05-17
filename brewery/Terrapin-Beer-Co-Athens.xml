@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Terrapin-Beer-Co-Athens">
+<brewery>
+  <id>Terrapin-Beer-Co-Athens</id>
   <name>Terrapin Beer Co.‎</name>
   <address>
     <street>265 Newton Bridge Road</street>

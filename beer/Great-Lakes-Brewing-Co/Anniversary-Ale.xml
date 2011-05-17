@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Anniversary-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="9.5" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Anniversary-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>9.5</abv>
+  <ibu>35</ibu>
   <name>Anniversary Ale</name>
   <description>A pale golden ale with mild fruity and spicy characteristics and a crisp finish.</description>
   <availability>limited</availability>

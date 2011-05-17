@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="River-Tracks-Cafe-Inc-DBA-Little-River-Brewing-Co">
+<brewery>
+  <id>River-Tracks-Cafe-Inc-DBA-Little-River-Brewing-Co</id>
   <name>River Tracks Cafe Inc DBA: Little River Brewing Co‎</name>
   <address>
     <street>345 E Main Street</street>

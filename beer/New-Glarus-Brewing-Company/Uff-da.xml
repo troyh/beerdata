@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Uff-da" brewery_id="New-Glarus-Brewing-Company" abv="6.75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Uff-da</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>6.75</abv>
   <name>Uff-Da</name>
-  <description>Here is a Bock brewed to appease the Gods of Winter. Hearty and full-bodied this is a "Big" bier. Brewed in the Reinheitsgebot tradition, our Bock comes by its mahogany hue naturally. You can expect this bier to be complex and smooth with deep chocolate and coffee undertones, complementing the rich bouquet. No matter if you choose to enjoy our Bock before, during or after dinner, remember to serve at about 48&#xA1;F. Because like many good things in life... the warmer Bock is, the sweeter it gets.</description>
+  <description>Here is a Bock brewed to appease the Gods of Winter. Hearty and full-bodied this is a "Big" bier. Brewed in the Reinheitsgebot tradition, our Bock comes by its mahogany hue naturally. You can expect this bier to be complex and smooth with deep chocolate and coffee undertones, complementing the rich bouquet. No matter if you choose to enjoy our Bock before, during or after dinner, remember to serve at about 48¡F. Because like many good things in life... the warmer Bock is, the sweeter it gets.</description>
   <availability>retired</availability>
   <ingredients/>
   <grains/>

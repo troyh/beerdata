@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Lavaman-Red-Ale" brewery_id="Kona-Brewing-Co" abv="5.6" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Lavaman-Red-Ale</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>30</ibu>
   <name>Lavaman Red Ale</name>
   <description>Lavaman Red Ale is a malty, red ale with strong caramel notes and a subtle chocolate malt flavor. The pronounced maltiness is balanced by the delicate blend of Pacific Northwest hops resulting in a smooth, full-bodied beer.</description>
   <availability>limited</availability>

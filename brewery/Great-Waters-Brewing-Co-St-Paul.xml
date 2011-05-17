@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Great-Waters-Brewing-Co-St-Paul">
+<brewery>
+  <id>Great-Waters-Brewing-Co-St-Paul</id>
   <name>Great Waters Brewing Co‎</name>
   <address>
     <street>426 Saint Peter St</street>

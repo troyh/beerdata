@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Grillhouse-and-Brewery-Palm-Harbor">
+<brewery>
+  <id>Hops-Grillhouse-and-Brewery-Palm-Harbor</id>
   <name>Hops Grillhouse &amp; Brewery‎</name>
   <address>
     <street>34684 Us-19</street>

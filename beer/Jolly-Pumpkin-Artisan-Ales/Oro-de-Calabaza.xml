@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Oro-De-Calabaza" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Oro-De-Calabaza</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>8</abv>
   <name>Oro de Calabaza</name>
   <description>Brewed in the Franco-Belgian tradition of strong golden ales. Spicy and peppery with a gentle hop bouquet and the beguiling influence of wild yeast.</description>
   <availability/>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="897435000015">
+    <size>
+      <upc>897435000015</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

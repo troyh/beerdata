@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Great" brewery_id="Alpine-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Great</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
   <name>Great</name>
   <description/>
   <availability>limited</availability>

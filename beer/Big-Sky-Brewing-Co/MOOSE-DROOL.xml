@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/MOOSE-DROOL" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/MOOSE-DROOL</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>MOOSE DROOL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-01003-0">
+    <size>
+      <upc>7-00283-01003-0</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

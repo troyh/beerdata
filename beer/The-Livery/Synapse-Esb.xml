@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Synapse-Esb" brewery_id="The-Livery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Synapse-Esb</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.5</abv>
   <name>Synapse ESB</name>
   <description>Extra Special Bitter, or ESB, were the benchmark beers for British brewers to serve to their special customers. Brewed with British pale and crystal malt, this reddish copper beer finishes with a subtle dose of English Fuggles hops.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Courthouse-Pub">
+<brewery>
+  <id>Courthouse-Pub</id>
   <name>Courthouse Pub‎</name>
   <address>
     <street>1001 S 8th St</street>

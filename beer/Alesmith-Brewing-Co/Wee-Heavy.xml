@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alesmith-Brewing-Co/Wee-Heavy" brewery_id="Alesmith-Brewing-Co" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alesmith-Brewing-Co/Wee-Heavy</id>
+  <brewery_id>Alesmith-Brewing-Co</brewery_id>
+  <abv>10</abv>
   <name>Wee Heavy</name>
   <description>A classic Scotch Ale. Scotch ales are typically sweet and malty, with a very subdued dose of hops-- just enough to provide balance. AleSmith Wee Heavy is a wonderful interpretation of this traditional Scotch style.</description>
   <availability/>

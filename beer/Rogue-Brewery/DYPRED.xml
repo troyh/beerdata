@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Rogue-Brewery/DYPRED" brewery_id="Rogue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Brewery/DYPRED</id>
+  <brewery_id>Rogue-Brewery</brewery_id>
   <name>DYPRED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-95301-13005-1">
+    <size>
+      <upc>0-95301-13005-1</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

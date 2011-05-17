@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Dunkelweiss-30" brewery_id="New-Belgium-Brewing-Company" abv="9">
-  <name>Lips of Faith Dunkelweiss 30&#xA1;</name>
-  <description>Deep amber brown with a dense off-white head, Dunkelweiss 30&#xA1;rediscovers hefeweissbiers through a Belgian brewer's lens. Envisioned by our own Matty &#xD2;Smooth&#xD3; Gilliland, this beer opens with sweet clove and banana notes that give way to a chocolaty warm finish with a peppery tingle across the palate. "I thought it would be fun to make a German wheat beer; we've explored the Belgian wheats pretty thoroughly," said brewer, Matt Gilliland. "Since this is Lips of Faith &#xD0; and part of what makes that program fun is to make beers that are really unique and different &#xD0; making a big, strong, dark Weiss beer sounded pretty folly-licious. It'll still showcase all of the flavors that a Hefeweiss beer would have, but add in the burly body and extra punch. Think of it as a Gran Cru dunkelweiss."</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Lips-Of-Faith-Dunkelweiss-30</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
+  <abv>9</abv>
+  <name>Lips of Faith Dunkelweiss 30¡</name>
+  <description>Deep amber brown with a dense off-white head, Dunkelweiss 30¡rediscovers hefeweissbiers through a Belgian brewer's lens. Envisioned by our own Matty ÒSmoothÓ Gilliland, this beer opens with sweet clove and banana notes that give way to a chocolaty warm finish with a peppery tingle across the palate. "I thought it would be fun to make a German wheat beer; we've explored the Belgian wheats pretty thoroughly," said brewer, Matt Gilliland. "Since this is Lips of Faith Ð and part of what makes that program fun is to make beers that are really unique and different Ð making a big, strong, dark Weiss beer sounded pretty folly-licious. It'll still showcase all of the flavors that a Hefeweiss beer would have, but add in the burly body and extra punch. Think of it as a Gran Cru dunkelweiss."</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

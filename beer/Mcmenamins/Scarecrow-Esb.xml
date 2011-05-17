@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Scarecrow-Esb" brewery_id="Mcmenamins" abv="4.64">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Scarecrow-Esb</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>4.64</abv>
   <name>Scarecrow ESB</name>
   <description>We welcome the coming of autumn with McMenamins Fall Seasonal, "Scarecrow ESB." A familiar figure in the fall rural landscape, scarecrows watch over and protect the fields where barley and hops are cultivated for future use as raw ingredients in ales and lagers. Scarecrow ESB is an exceptionally drinkable Extra Special Bitter style ale. This mesmerizing brew is well balanced with a wonderfully complex yet unassuming malty sweetness and a delightful yet unobtrusive flavorful hoppiness. The finish is delicate and crisp with a wonderfully pungent hop aroma. This outstanding balance of malt and hops makes Scarecrow ESB a very savory, yet very smooth and satisfying brew. \nAs we move into autumn, a bridge or stepping stone from the smooth, crisp golden ales of summer to the dark, heavy winter ales is needed. Scarecrow ESB fills this gap nicely as a very accessible, yet highly flavorful and complex amber ale.</description>
   <availability>fall</availability>

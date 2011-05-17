@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="La-Brasserie-Dupont/7-BELG" brewery_id="La-Brasserie-Dupont">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>La-Brasserie-Dupont/7-BELG</id>
+  <brewery_id>La-Brasserie-Dupont</brewery_id>
   <name>7 BELG</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-92098-05231-2">
+    <size>
+      <upc>7-92098-05231-2</upc>
       <description>BOTTLE 12/12</description>
       <distributor>
         <name>columbia</name>

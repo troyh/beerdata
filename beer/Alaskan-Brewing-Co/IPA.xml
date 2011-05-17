@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Ipa" brewery_id="Alaskan-Brewing-Co" abv="6.2" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Ipa</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>15</ibu>
   <name>IPA</name>
   <description>Alaskan IPA is honey gold in color with a fruity, citrus aroma. An enticing blend of hops and our dry hopping process, in which hops are added directly to tanks during fermentation, give this brew a very intense, complex aromatic character with a refreshing hop finish.</description>
   <availability>year-round</availability>

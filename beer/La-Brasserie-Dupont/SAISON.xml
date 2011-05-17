@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="La-Brasserie-Dupont/SAISON" brewery_id="La-Brasserie-Dupont">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>La-Brasserie-Dupont/SAISON</id>
+  <brewery_id>La-Brasserie-Dupont</brewery_id>
   <name>SAISON</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-92098-05234-3">
+    <size>
+      <upc>7-92098-05234-3</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

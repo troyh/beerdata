@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Bear-Brewing-Co">
+<brewery>
+  <id>Big-Bear-Brewing-Co</id>
   <name>Big Bear Brewing Co‎</name>
   <address>
     <street>1800 N University Dr</street>

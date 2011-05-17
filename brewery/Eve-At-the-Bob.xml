@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Eve-At-the-Bob">
+<brewery>
+  <id>Eve-At-the-Bob</id>
   <name>Eve At the Bob‎</name>
   <address>
     <street>20 Monroe Ave NW</street>

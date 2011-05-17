@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fire-Station-5-Brewing-Company/4-ALARM-MIXED" brewery_id="Fire-Station-5-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fire-Station-5-Brewing-Company/4-ALARM-MIXED</id>
+  <brewery_id>Fire-Station-5-Brewing-Company</brewery_id>
   <name>4-ALARM MIXED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-12128-4">
+    <size>
+      <upc>7-69596-12128-4</upc>
       <description>2/12/12 BTL</description>
       <distributor>
         <name>odom</name>

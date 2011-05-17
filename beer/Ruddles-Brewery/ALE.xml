@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ruddles-Brewery/ALE" brewery_id="Ruddles-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ruddles-Brewery/ALE</id>
+  <brewery_id>Ruddles-Brewery</brewery_id>
   <name>ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-43010-11111-1">
+    <size>
+      <upc>7-43010-11111-1</upc>
       <description>12/16.9 CAN</description>
       <distributor>
         <name>odom</name>

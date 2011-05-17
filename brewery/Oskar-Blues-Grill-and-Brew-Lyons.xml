@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oskar-Blues-Grill-and-Brew-Lyons">
+<brewery>
+  <id>Oskar-Blues-Grill-and-Brew-Lyons</id>
   <name>Oskar Blues Grill &amp; Brew‎</name>
   <address>
     <street>303 Main St</street>

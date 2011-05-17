@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Kolsch" brewery_id="Saranac" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Kolsch</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5</abv>
   <name>Kolsch</name>
   <description>This golden sparkling blond ale was brewed to pay homage to a 1000-year tradition rooted in Cologne, Germany. Clear, crisp and easy to drink, the Kolsch of today is lighter than the "House" beer that was served in Cologne 200 years ago - the city that made Kolsch famous. We hope you'll enjoy it!</description>
   <availability>seasonal</availability>

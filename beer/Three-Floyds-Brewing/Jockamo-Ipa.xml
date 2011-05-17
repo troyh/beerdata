@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Jockamo-Ipa" brewery_id="Three-Floyds-Brewing" abv="6.5" ibu="52">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Jockamo-Ipa</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>6.5</abv>
+  <ibu>52</ibu>
   <name>Jockamo IPA</name>
   <description>Jockamo is named for the tribes of dancing, singing, chanting "Mardi Gras Indians" who have marched in New Orleans for over 250 years. When you hear the drums, join in the song..."Iko! Iko! Jockamo fe na ne".  Jockamo I.P.A. is a traditional India Pale Ale made with the best pale and light crystal malts that give the beer a copper color and malty flavor. This full-flavored beer is hopped and dry hopped liberally with Willamette and Columbus hops from the Pacific Northwest and has a 6.5% A.B.V. The spicy aroma of the hops contrasts nicely with the pleasant sweetness of the malts. Jockamo has a flavor that entices and excites the palate. The intense hop character adds more spice to the meal and makes it a perfect choice to team up with many spicy dishes. Cheddar and strong farmer cheeses stand up well to Jockamo's hoppy character. Jockamo goes well with game, grilled meats and Thai, or Mexican cuisine.</description>
   <availability>year-round</availability>

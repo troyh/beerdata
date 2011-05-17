@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Horse-Brew-Pub">
+<brewery>
+  <id>Big-Horse-Brew-Pub</id>
   <name>Big Horse Brew Pub‎</name>
   <address>
     <street>115 State St</street>

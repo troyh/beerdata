@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Pumpkin-Ale" brewery_id="Saranac" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Pumpkin-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.4</abv>
   <name>Pumpkin Ale</name>
   <description>Saranac Pumpkin Ale is brewed with Pumpkin, Cinnamon, Allspice, Cloves, Ginger and Vanilla. Look for a full-body and amber color. We're sure you'll enjoy this special brew!</description>
   <availability>fall</availability>

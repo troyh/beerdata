@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wild-River-Brewing-and-Pizza-Co-Grants-Pass-2">
+<brewery>
+  <id>Wild-River-Brewing-and-Pizza-Co-Grants-Pass-2</id>
   <name>Wild River Brewing &amp; Pizza Co‎</name>
   <address>
     <street>595 NE E St</street>

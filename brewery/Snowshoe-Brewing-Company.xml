@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Snowshoe-Brewing-Company">
+<brewery>
+  <id>Snowshoe-Brewing-Company</id>
   <name>Snowshoe Brewing Company‎</name>
   <address>
     <street>2050 Ca-4</street>

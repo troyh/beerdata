@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/El-Rojo-Diablo" brewery_id="Bullfrog-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/El-Rojo-Diablo</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>8</abv>
   <name>El Rojo Diablo</name>
   <description>his hoppy Belgian-inspired imperial red ale bursts with an aroma full of stewed fruit, spicy hops and Belgian-y goodness. On the palette this beer is rich and spicy with a fruity hoppiness that doesn't quit.</description>
   <availability/>

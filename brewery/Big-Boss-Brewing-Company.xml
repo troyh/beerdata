@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Boss-Brewing-Company">
+<brewery>
+  <id>Big-Boss-Brewing-Company</id>
   <name>Big Boss Brewing Company‎</name>
   <address>
     <street>1249 Wicker Dr</street>

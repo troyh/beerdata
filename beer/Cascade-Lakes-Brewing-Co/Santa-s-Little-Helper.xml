@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/Santa-s-Little-Helper" brewery_id="Cascade-Lakes-Brewing-Co" abv="6.40" og="1.064" fg="1.016" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/Santa-s-Little-Helper</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>6.40</abv>
+  <og>1.064</og>
+  <fg>1.016</fg>
+  <ibu>50</ibu>
   <name>Santaâs Little Helper</name>
   <description>This is our winter seasonal beer which arrives early fall and stays around till after the holidays.Â  Crystal malt and Cascade hops produce a well balanced strong ale that is perfect for nights around fireplace with friends and family.</description>
   <availability>winter</availability>

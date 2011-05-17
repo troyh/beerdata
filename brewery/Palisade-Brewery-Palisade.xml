@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Palisade-Brewery-Palisade">
+<brewery>
+  <id>Palisade-Brewery-Palisade</id>
   <name>Palisade Brewery‎</name>
   <address>
     <street>200 Peach Ave</street>

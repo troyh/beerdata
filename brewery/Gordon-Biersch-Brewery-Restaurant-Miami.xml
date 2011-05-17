@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-Restaurant-Miami">
+<brewery>
+  <id>Gordon-Biersch-Brewery-Restaurant-Miami</id>
   <name>Gordon Biersch Brewery Restaurant‎</name>
   <address>
     <street>1201 Brickell Ave # 1</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Fast-Eddies-Pale-Ale" brewery_id="Bullfrog-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Fast-Eddies-Pale-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Fast Eddies Pale Ale</name>
   <description>Named in honor of Ed Kiessling, the worlds greatest contractor. This American pale ale is assertively hopped and dangerously drinkable. Hopheads rejoice!</description>
   <availability/>

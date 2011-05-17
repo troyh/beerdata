@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Pubs-Oak-Hills-Brewpub">
+<brewery>
+  <id>McMenamins-Pubs-Oak-Hills-Brewpub</id>
   <name>McMenamins Pubs: Oak Hills Brewpub‎</name>
   <address>
     <street>14740 NW Cornell Rd # 80</street>

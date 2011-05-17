@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Harp-Brewery/LAGER" brewery_id="Harp-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harp-Brewery/LAGER</id>
+  <brewery_id>Harp-Brewery</brewery_id>
   <name>LAGER</name>
   <description/>
   <availability/>
@@ -21,7 +23,8 @@
         <deposit>$125.00</deposit>
       </distributor>
     </size>
-    <size upc="0-83820-23473-2">
+    <size>
+      <upc>0-83820-23473-2</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

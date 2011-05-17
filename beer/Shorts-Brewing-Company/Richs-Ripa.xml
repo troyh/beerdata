@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Richs-Ripa" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Richs-Ripa</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Rich's RIPA</name>
   <description>Our high alpha dwarf hop rye Munich ale, is named after an important part of our brewery. It's lightly copper in color and super aromatic. Highly resinous hops are used throughout the boil and dry hop, lending a unique relationship derived from the rye and Munich malts. Surely a hop heads delight!</description>
   <availability>Limited</availability>

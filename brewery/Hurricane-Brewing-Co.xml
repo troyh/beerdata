@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hurricane-Brewing-Co">
+<brewery>
+  <id>Hurricane-Brewing-Co</id>
   <name>Hurricane Brewing Co‎</name>
   <address>
     <street>225 Dauphin St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Unibroue-Brewery/LA-FIN" brewery_id="Brasserie-Unibroue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Unibroue-Brewery/LA-FIN</id>
+  <brewery_id>Brasserie-Unibroue-Brewery</brewery_id>
   <name>LA FIN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-72285-05105-2">
+    <size>
+      <upc>7-72285-05105-2</upc>
       <description>BOTTLE 4/12</description>
       <distributor>
         <name>columbia</name>

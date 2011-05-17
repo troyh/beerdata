@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Oskar-Blues-Grill-and-Brew-Lyons/DALE-S-PALE-ALE" brewery_id="Oskar-Blues-Grill-and-Brew-Lyons">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Oskar-Blues-Grill-and-Brew-Lyons/DALE-S-PALE-ALE</id>
+  <brewery_id>Oskar-Blues-Grill-and-Brew-Lyons</brewery_id>
   <name>DALE'S PALE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-61994-20000-3">
+    <size>
+      <upc>0-61994-20000-3</upc>
       <description>4/6/12 CAN</description>
       <distributor>
         <name>odom</name>

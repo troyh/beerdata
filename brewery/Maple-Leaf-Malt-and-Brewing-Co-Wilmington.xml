@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Maple-Leaf-Malt-and-Brewing-Co-Wilmington">
+<brewery>
+  <id>Maple-Leaf-Malt-and-Brewing-Co-Wilmington</id>
   <name>Maple Leaf Malt &amp; Brewing Co‎</name>
   <address>
     <street>3 N Main St</street>

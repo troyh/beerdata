@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hideout-Brewing-Company">
+<brewery>
+  <id>Hideout-Brewing-Company</id>
   <name>Hideout Brewing Company‎</name>
   <address>
     <street>3113 Plaza Dr NE</street>

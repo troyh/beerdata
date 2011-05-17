@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Full-Sail-Brewing-Company-Admin-Ofc/NUTBRN" brewery_id="Full-Sail-Brewing-Company-Admin-Ofc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Company-Admin-Ofc/NUTBRN</id>
+  <brewery_id>Full-Sail-Brewing-Company-Admin-Ofc</brewery_id>
   <name>NUTBRN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-24866-72463-4">
+    <size>
+      <upc>0-24866-72463-4</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

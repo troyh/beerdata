@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Feast-Of-Fools" brewery_id="Magic-Hat" abv="5.3" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Feast-Of-Fools</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>5.3</abv>
+  <ibu>28</ibu>
   <name>Feast of Fools</name>
   <description>A perfect dessert beer brewed exclusively for the holiday season.  Hand bottled, champagne corked. Our inky, rich, black stout, with the addition of raspberries.</description>
   <availability>winter</availability>

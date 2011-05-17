@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Red-Car-Brewery-and-Restaurant">
+<brewery>
+  <id>Red-Car-Brewery-and-Restaurant</id>
   <name>Red Car Brewery &amp; Restaurant‎</name>
   <address>
     <street>1266 Sartori Ave</street>

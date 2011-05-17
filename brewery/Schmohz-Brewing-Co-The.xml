@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Schmohz-Brewing-Co-The">
+<brewery>
+  <id>Schmohz-Brewing-Co-The</id>
   <name>Schmohz Brewing Co The‎</name>
   <address>
     <street>2600 Patterson Ave SE</street>

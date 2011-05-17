@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Parking-Violation" brewery_id="Russian-River-Brewing-Co" abv="5.6" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Parking-Violation</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>35</ibu>
   <name>Parking Violation</name>
   <description>Wouldn't it suck to have a job where nobody likes you? And, regardless of your name, people always call you Rita, as in "Lovely Rita?" Sometimes people just shorten it to the simpler "meter maid." The funny thing about that is the Webster dictionary defines a "meter maid" as "a female member of a police department who is assigned to write tickets for parking violations." You have to wonder how the male "meter maids" feel about that! Parking Violation is an American style pale ale using lots of American hops, lots of quarters, and several trips back and forth to the parking lot. So, remember to drink responsibly and feed your meter.</description>
   <availability>limited</availability>

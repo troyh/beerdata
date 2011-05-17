@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dicks-Brewing-Co">
+<brewery>
+  <id>Dicks-Brewing-Co</id>
   <name>Dick's Brewing Co‎</name>
   <address>
     <street>5945 Prather Rd SW</street>

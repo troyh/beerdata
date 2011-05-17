@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boulder-Beer-Company/KILLER-PENGUIN" brewery_id="Boulder-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Company/KILLER-PENGUIN</id>
+  <brewery_id>Boulder-Beer-Company</brewery_id>
   <name>KILLER PENGUIN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50939-12202-1">
+    <size>
+      <upc>0-50939-12202-1</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

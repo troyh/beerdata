@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Samuel-Smiths-Brewery/OATMEAL-STOUT" brewery_id="Samuel-Smiths-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Samuel-Smiths-Brewery/OATMEAL-STOUT</id>
+  <brewery_id>Samuel-Smiths-Brewery</brewery_id>
   <name>OATMEAL STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-31504-2">
+    <size>
+      <upc>0-85725-31504-2</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Provo-Girl-Pilsner" brewery_id="Utah-Brewers-Cooperative" abv="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Provo-Girl-Pilsner</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
+  <abv>4</abv>
   <name>Provo Girl Pilsner</name>
   <description>In the Bavarian tradition, this crisp, clean golden-hued pilsner is brewed with German variety Magnum hops, then lagered for 30 days for superb drinkability. Provo Girl is the type of pilsner you would find in the Munich area of Germany. 4.0% alcohol by volume.</description>
   <availability/>

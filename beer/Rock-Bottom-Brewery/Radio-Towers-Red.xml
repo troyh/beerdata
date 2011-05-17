@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Radio-Towers-Red" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Radio-Towers-Red</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Radio Towers Red</name>
   <description>A medium-bodied, amber colored Ale that is both refreshing and complex. A variety of crystal malts provide caramel and toffee maltiness which is balanced by a tangy English hop finish. A wonderful companion to any of our Homestyle Favorites and Sizzlin' Steaks.</description>
   <availability>year-round</availability>

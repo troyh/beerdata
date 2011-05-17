@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Harvest-Hefeweizen" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="4.9" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Harvest-Hefeweizen</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
+  <abv>4.9</abv>
+  <ibu>15</ibu>
   <name>Harvest Hefeweizen</name>
   <description>Not just another wheat beer. Our hefeweizen is fermented with authentic Bavarian weizen yeast to produce its unique flavor profile -- fruity, spicy, and refreshing. Try it without a lemon!</description>
   <availability>year-round</availability>

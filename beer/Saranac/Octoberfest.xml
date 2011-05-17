@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Octoberfest" brewery_id="Saranac" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Octoberfest</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.4</abv>
   <name>Octoberfest</name>
   <description>Saranac Octoberfest is a med-bodied, copper colored lager. It's rich, malty taste is subtly balanced by Saaz and Tettnang hops. The beer is aged slowly in the tradition of the Octoberfest beers of Munich.</description>
   <availability>fall</availability>

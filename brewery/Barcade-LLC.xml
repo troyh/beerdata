@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barcade-LLC">
+<brewery>
+  <id>Barcade-LLC</id>
   <name>Barcade LLC‎</name>
   <address>
     <street>388 Union Ave</street>

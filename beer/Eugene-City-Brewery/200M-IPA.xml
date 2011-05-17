@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eugene-City-Brewery/200M-IPA" brewery_id="Eugene-City-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eugene-City-Brewery/200M-IPA</id>
+  <brewery_id>Eugene-City-Brewery</brewery_id>
   <name>200M IPA</name>
   <description/>
   <availability/>

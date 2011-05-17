@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Wild-Blueberry-Pancake-Ale" brewery_id="Kuhnhenn-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Wild-Blueberry-Pancake-Ale</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
   <name>Wild Blueberry Pancake Ale</name>
   <description/>
   <availability/>

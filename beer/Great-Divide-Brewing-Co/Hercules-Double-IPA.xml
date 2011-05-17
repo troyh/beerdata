@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Hercules-Double-Ipa" brewery_id="Great-Divide-Brewing-Co" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Hercules-Double-Ipa</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>10</abv>
   <name>Hercules Double IPA</name>
   <description>is not for the faint of heart. It is, however, fit for the gods.  HERCULES delivers a huge amount of hops from start to finish. Its hefty backbone of nutty, malty sweetness balances its aggressive hop profile.</description>
   <availability/>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="790586412150">
+    <size>
+      <upc>790586412150</upc>
       <description>6/4/12 oz</description>
       <distributor>
         <name>click</name>

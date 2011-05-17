@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Olde-Suffolk/English-Ale" brewery_id="Olde-Suffolk">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Olde-Suffolk/English-Ale</id>
+  <brewery_id>Olde-Suffolk</brewery_id>
   <name>English Ale</name>
   <description/>
   <availability/>

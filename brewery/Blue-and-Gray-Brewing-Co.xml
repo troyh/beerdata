@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blue-and-Gray-Brewing-Co">
+<brewery>
+  <id>Blue-and-Gray-Brewing-Co</id>
   <name>Blue &amp; Gray Brewing Co‎</name>
   <address>
     <street>3321 Dill Smith Dr</street>

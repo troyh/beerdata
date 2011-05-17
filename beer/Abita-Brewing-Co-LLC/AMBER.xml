@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Abita-Brewing-Co-LLC/AMBER" brewery_id="Abita-Brewing-Co-LLC">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Abita-Brewing-Co-LLC/AMBER</id>
+  <brewery_id>Abita-Brewing-Co-LLC</brewery_id>
   <name>AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80020-24221-5">
+    <size>
+      <upc>0-80020-24221-5</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

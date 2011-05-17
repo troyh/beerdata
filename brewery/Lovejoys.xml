@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lovejoys">
+<brewery>
+  <id>Lovejoys</id>
   <name>Lovejoy's‎</name>
   <address>
     <street>604 Neches St</street>

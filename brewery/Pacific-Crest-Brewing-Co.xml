@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pacific-Crest-Brewing-Co">
+<brewery>
+  <id>Pacific-Crest-Brewing-Co</id>
   <name>Pacific Crest Brewing Co‎</name>
   <address>
     <street>10845 E Marginal Way S</street>

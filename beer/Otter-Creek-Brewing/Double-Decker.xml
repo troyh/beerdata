@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Double-Decker" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Double-Decker</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Double Decker</name>
   <description>Brewmaster Parkes goes back to his English roots to recreate the classic Olde English Ale. This style originates in Merry Olde England, where it was a beacon of light in the dark ages. Not that this beer is light. It is anything but. Today, Olde English Style Ales are brewed to celebrate the holiday season: the big, rich flavor makes this beer perfect for celebrating the holidays during the cold winter months. It also makes the perfect gift for lovers of truly big beers.The main character is a rich maltiness, with balanced hops, created using English hop varieties. The generous use of roasted and caramel malts provide a deep and rich body which also carries an extra kick to warm you up. Otter Creek's Double Decker Olde English Holiday Ale will be the perfect way to celebrate this Holiday Season. Happy Holidays from Otter Creek!</description>
   <availability>limited</availability>

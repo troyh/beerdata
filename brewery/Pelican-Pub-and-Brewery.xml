@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pelican-Pub-and-Brewery">
+<brewery>
+  <id>Pelican-Pub-and-Brewery</id>
   <name>Pelican Pub and Brewery‎</name>
   <address>
     <street>33180 Cape Kiwanda Dr</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/WINTERFISH" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/WINTERFISH</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>WINTERFISH</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Buffalo-Gold" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Buffalo-Gold</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Buffalo Gold</name>
   <description>Golden in color, light in body and aromatically hoppy, Buffalo Gold is a very quaffable brew. A winning combination with our famous Smoked Chicken Enchiladas.</description>
   <availability>year-round</availability>

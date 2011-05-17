@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Wolavers-Organic-Brewing/FRMHSE" brewery_id="Wolavers-Organic-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers-Organic-Brewing/FRMHSE</id>
+  <brewery_id>Wolavers-Organic-Brewing</brewery_id>
   <name>FRMHSE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-44381-10153-8">
+    <size>
+      <upc>6-44381-10153-8</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

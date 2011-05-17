@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boscos">
+<brewery>
+  <id>Boscos</id>
   <name>Boscos‎</name>
   <address>
     <street>500 President Clinton Ave</street>

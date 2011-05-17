@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fort-Street-Brewery">
+<brewery>
+  <id>Fort-Street-Brewery</id>
   <name>Fort Street Brewery‎</name>
   <address>
     <street>1660 Fort St</street>

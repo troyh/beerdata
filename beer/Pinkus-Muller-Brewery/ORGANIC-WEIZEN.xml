@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pinkus-Muller-Brewery/ORGANIC-WEIZEN" brewery_id="Pinkus-Muller-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pinkus-Muller-Brewery/ORGANIC-WEIZEN</id>
+  <brewery_id>Pinkus-Muller-Brewery</brewery_id>
   <name>ORGANIC WEIZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-34003-7">
+    <size>
+      <upc>0-85725-34003-7</upc>
       <description>20/17 BTL</description>
       <distributor>
         <name>odom</name>

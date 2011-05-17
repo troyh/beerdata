@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Crystal-Pale-Ale" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Crystal-Pale-Ale</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>Crystal Pale Ale</name>
   <description>This ale is a medium bodied, golden pale ale with grapefruit citrus undertones</description>
   <availability/>

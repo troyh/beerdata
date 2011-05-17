@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Fantabulous-Resplendence" brewery_id="Three-Floyds-Brewing" ibu="limited">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Fantabulous-Resplendence</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <ibu>limited</ibu>
   <name>Fantabulous Resplendence</name>
   <description/>
   <availability/>

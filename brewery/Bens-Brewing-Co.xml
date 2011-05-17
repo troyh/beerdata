@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bens-Brewing-Co">
+<brewery>
+  <id>Bens-Brewing-Co</id>
   <name>Ben's Brewing Co‎</name>
   <address>
     <street>222 W 3rd St</street>

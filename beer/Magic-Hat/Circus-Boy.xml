@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Circus-Boy" brewery_id="Magic-Hat" abv="4.4" ibu="14">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Circus-Boy</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>4.4</abv>
+  <ibu>14</ibu>
   <name>Circus Boy</name>
   <description/>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Monty-Python/Holy-Grail-Ale" brewery_id="Monty-Python">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Monty-Python/Holy-Grail-Ale</id>
+  <brewery_id>Monty-Python</brewery_id>
   <name>Holy Grail Ale</name>
   <description/>
   <availability/>

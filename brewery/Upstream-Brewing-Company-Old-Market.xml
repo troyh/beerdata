@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Upstream-Brewing-Company-Old-Market">
+<brewery>
+  <id>Upstream-Brewing-Company-Old-Market</id>
   <name>Upstream Brewing Company: Old Market‎</name>
   <address>
     <street>514 S 11th St</street>

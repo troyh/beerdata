@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Yorkshire-Brown" brewery_id="The-Livery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Yorkshire-Brown</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5</abv>
   <name>Yorkshire Brown</name>
   <description>Brewed in the style of Northern England, this brown ale is dark and rich, with just a hint of chocolate malt and East Kent Golding hops in the finish.</description>
   <availability/>

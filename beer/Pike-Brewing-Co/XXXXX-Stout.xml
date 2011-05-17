@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pike-Brewing-Co/XXXXX-Stout" brewery_id="Pike-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pike-Brewing-Co/XXXXX-Stout</id>
+  <brewery_id>Pike-Brewing-Co</brewery_id>
   <name>XXXXX Stout</name>
   <description/>
   <availability/>

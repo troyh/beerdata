@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Dreadnaught" brewery_id="Three-Floyds-Brewing" abv="9.5" ibu="99">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Dreadnaught</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>9.5</abv>
+  <ibu>99</ibu>
   <name>Dreadnaught</name>
   <description>A hop lover's dream! Mango and peach aromas with a crisp citrus finish.</description>
   <availability>year-round</availability>

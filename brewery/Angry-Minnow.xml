@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Angry-Minnow">
+<brewery>
+  <id>Angry-Minnow</id>
   <name>Angry Minnow‎</name>
   <address>
     <street>10440 Florida Ave</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-River-Brew-Co-Bakersfield">
+<brewery>
+  <id>Old-River-Brew-Co-Bakersfield</id>
   <name>Old River Brew Co‎</name>
   <address>
     <street>8524 Old River Rd</street>

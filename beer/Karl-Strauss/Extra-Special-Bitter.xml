@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/Extra-Special-Bitter" brewery_id="Karl-Strauss">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/Extra-Special-Bitter</id>
+  <brewery_id>Karl-Strauss</brewery_id>
   <name>Extra Special Bitter</name>
   <description/>
   <availability>limited</availability>

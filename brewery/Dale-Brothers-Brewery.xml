@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dale-Brothers-Brewery">
+<brewery>
+  <id>Dale-Brothers-Brewery</id>
   <name>Dale Brothers Brewery‎</name>
   <address>
     <street>1495 W 9th St</street>

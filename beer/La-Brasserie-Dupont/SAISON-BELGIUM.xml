@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="La-Brasserie-Dupont/SAISON-BELGIUM" brewery_id="La-Brasserie-Dupont">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>La-Brasserie-Dupont/SAISON-BELGIUM</id>
+  <brewery_id>La-Brasserie-Dupont</brewery_id>
   <name>SAISON BELGIUM</name>
   <description/>
   <availability/>

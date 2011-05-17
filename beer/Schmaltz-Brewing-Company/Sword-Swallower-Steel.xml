@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schmaltz-Brewing-Company/Sword-Swallower-Steel" brewery_id="Schmaltz-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schmaltz-Brewing-Company/Sword-Swallower-Steel</id>
+  <brewery_id>Schmaltz-Brewing-Company</brewery_id>
   <name>Sword Swallower/Steel</name>
   <description/>
   <availability/>

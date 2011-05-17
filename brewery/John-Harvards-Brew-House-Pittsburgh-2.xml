@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="John-Harvards-Brew-House-Pittsburgh-2">
+<brewery>
+  <id>John-Harvards-Brew-House-Pittsburgh-2</id>
   <name>John Harvards Brew House‎</name>
   <address>
     <street>3466 William Penn Hwy</street>

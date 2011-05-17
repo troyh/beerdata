@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Stone-Smoked-Porter" brewery_id="Stone-Brewing-Co" abv="5.9" ibu="53">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Stone-Smoked-Porter</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
+  <ibu>53</ibu>
   <name>Stone Smoked Porter</name>
   <description>Stone Smoked Porter is dark, rich and complicated. A porter is substantially darker than a pale ale, but not as black or opaque as a stout. Our Stone Smoked Porter has captivatingly deep mahogany color, complimented by silky dark tan head. Rich, full bodied and robust. Smooth, with chocolate and coffee-like flavors balanced by the subtle "smoky" character of just the right amount of peat-smoked specialty malt. Terrific with meats and desserts!</description>
   <availability/>

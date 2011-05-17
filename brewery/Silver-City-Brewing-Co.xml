@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Silver-City-Brewing-Co">
+<brewery>
+  <id>Silver-City-Brewing-Co</id>
   <name>Silver City Brewing Co‎</name>
   <address>
     <street>101 E College Ave</street>

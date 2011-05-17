@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/20th-Anniversary-Wit" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/20th-Anniversary-Wit</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>20th Anniversary Wit</name>
   <description/>
   <availability/>

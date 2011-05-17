@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Chicory-Stout" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.521299508941498" abv="5.20" ibu="22">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Chicory-Stout</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.521299508941498</calories_per_ml>
+  <abv>5.20</abv>
+  <ibu>22</ibu>
   <name>Chicory Stout</name>
   <description>A dark beer made with a touch of roasted chicory, organic Mexican coffee, St. John's Wort, and licorice root. Brewed with whole-leaf Cascade and Fuggles hops, the grains include pale, roasted &amp; oatmeal.</description>
   <availability>winter</availability>

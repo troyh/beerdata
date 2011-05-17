@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Road-Slush-Oatmeal-Stout" brewery_id="New-Glarus-Brewing-Company" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Road-Slush-Oatmeal-Stout</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>6.2</abv>
   <name>Road Slush Oatmeal Stout</name>
   <description>This dark stout is a hearty and satisfying reward for those of us who embrace the frozen tundra. Uncut oatmeal fresh from Chilton, Wisconsin gives this stout a "sink into it" smoothness that slides you into its depth. Handcrafted English Chocolate malt and Wisconsin Victory malt combine to balance this robust ale. \nExpect this ale to pour a luxurious head over a rich black ruby body. The powerful malt bouquet will greet you as you tip this silky smoothness from your glass. Our Oatmeal Stout is handcrafted in the time honored traditions. Serve just above room temperature and relax - road construction season will soon return.</description>
   <availability>retired</availability>

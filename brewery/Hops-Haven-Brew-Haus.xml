@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Haven-Brew-Haus">
+<brewery>
+  <id>Hops-Haven-Brew-Haus</id>
   <name>Hops Haven Brew Haus‎</name>
   <address>
     <street>1327 N 14th St</street>

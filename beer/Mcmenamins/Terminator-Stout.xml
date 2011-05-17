@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Terminator-Stout" brewery_id="Mcmenamins" abv="6.45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Terminator-Stout</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>6.45</abv>
   <name>Terminator Stout</name>
   <description>Black as the darkest night, rich as the most decadent dessert, Terminator is for the true stout lover. This is a full bodied and flavor packed ale which draws it's robust complexity from kiln-baked specialty grains. Look for a wide array of toasted, chocolate, nutty and coffee-like flavors in every pint! The devoted swear by it, and it remains one of our top selling ales year after year.</description>
   <availability>year-round</availability>

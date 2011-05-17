@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Shipyard-Brewery/EXPORT-ALE" brewery_id="Shipyard-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shipyard-Brewery/EXPORT-ALE</id>
+  <brewery_id>Shipyard-Brewery</brewery_id>
   <name>EXPORT ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-49001-11111-1">
+    <size>
+      <upc>7-49001-11111-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="7-49001-11111-1">
+    <size>
+      <upc>7-49001-11111-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

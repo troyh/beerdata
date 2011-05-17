@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Nebraska-Bitter" brewery_id="Mcmenamins" abv="4.64">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Nebraska-Bitter</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>4.64</abv>
   <name>Nebraska Bitter</name>
   <description>This golden bitter uses fresh Cascade hops in modest amounts to create a more subtle hop flavor and bitterness than its big brother, Hammerhead. Nebraska Bitter was first brewed at the Fulton Pub &amp; Brewery, located in Southwest Portland. This crisp and flavorful ale has become a standard attraction at McMenamin's taps everywhere.</description>
   <availability>year-round</availability>

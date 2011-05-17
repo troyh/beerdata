@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Columbus-Bar">
+<brewery>
+  <id>Columbus-Bar</id>
   <name>Columbus Bar‎</name>
   <address>
     <street>322 4th St</street>

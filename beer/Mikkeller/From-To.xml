@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/From-To" brewery_id="Mikkeller" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/From-To</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>8</abv>
   <name>From To</name>
   <description>The second Christmas porter from Mikkeller. A spiced porter with fine malt background and lovely hop aroma and flavor. The label is designed as a 'From To' card -- fill in the names and put the bottle it under the Christmas tree. The perfect give away gift for the lazy man/woman...!</description>
   <availability>winter</availability>

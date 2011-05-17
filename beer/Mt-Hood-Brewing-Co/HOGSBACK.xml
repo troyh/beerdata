@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mt-Hood-Brewing-Co/HOGSBACK" brewery_id="Mt-Hood-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mt-Hood-Brewing-Co/HOGSBACK</id>
+  <brewery_id>Mt-Hood-Brewing-Co</brewery_id>
   <name>HOGSBACK</name>
   <description/>
   <availability/>

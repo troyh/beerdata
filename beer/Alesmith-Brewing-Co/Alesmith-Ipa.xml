@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alesmith-Brewing-Co/Alesmith-Ipa" brewery_id="Alesmith-Brewing-Co" abv="7.75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alesmith-Brewing-Co/Alesmith-Ipa</id>
+  <brewery_id>Alesmith-Brewing-Co</brewery_id>
+  <abv>7.75</abv>
   <name>AleSmith IPA</name>
   <description>Deep golden to light amber color, and a nice off-white head, with good retention when properly served. Starts off with pleasantly strong hop flavors, balanced by a firm malt backdrop, then fades to a dry finish with a lingering hoppiness.</description>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Crackd-Wheat" brewery_id="New-Glarus-Brewing-Company" abv="5.95">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Crackd-Wheat</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>5.95</abv>
   <name>Crack'd Wheat</name>
   <description>This is Dan's bold creation. You hold the international marriage of a sophisticated Bavarian Hefeweiss and an assertive American Pale Ale. Amarillo dry hopping drives Wisconsin Red Wheat. Traditional open top fermentation cultivates our proprietary Bavarian Weiss yeast in our own Wheat Beer Cellars. Absolutely 100% natural bottle conditioned. This is a living beer. \nExpect to pour a thick creamy head into your glass. Savor the fierce onslaught of clove, cinnamon, and citrus nose. Our very popular Imperial Weizen ratchets down for the session. Drink to adventure and friends in Wisconsin. We are the state of beer.</description>
   <availability>year-round</availability>

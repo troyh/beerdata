@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Pumpkin-Ale" brewery_id="Smuttynose-Brewing-Co" abv="5.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Pumpkin-Ale</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
+  <abv>5.1</abv>
   <name>Pumpkin Ale</name>
   <description>Smuttynose Pumpkin Ale is our homage to the craft and heritage of America's brewers. Recipes calling for the use of pumpkins in beer date back to early colonial times, when brewers sought to extend their supply of costly imported malt with locally grown ingredients, such as squash and "pompions."In that spirit, we brew our ale with the addition of pumpkin to the mash, along with traditional spices to create a delicious American original.Available in sixpacks and on draft from mid-August through October.</description>
   <availability>fall</availability>

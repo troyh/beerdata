@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Castaway-Ipa" brewery_id="Kona-Brewing-Co" abv="7" ibu="65">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Castaway-Ipa</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>7</abv>
+  <ibu>65</ibu>
   <name>Castaway IPA</name>
   <description>A full-bodied, American-Style I.P.A. that is bronze in color, Castaway IPA is "dry hopped" (aged with liberal amounts of whole hop flowers after fermentation) for assertive hop flavor and aroma. The bitterness is balanced by the malty body of the beer.</description>
   <availability>limited</availability>

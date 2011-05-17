@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/Immortal-Dry-Hopped-IPA" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/Immortal-Dry-Hopped-IPA</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>Immortal Dry-Hopped IPA</name>
   <description/>
   <availability/>

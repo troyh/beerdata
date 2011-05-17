@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Otter-Brewery-Ltd/ALE" brewery_id="Otter-Brewery-Ltd">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Brewery-Ltd/ALE</id>
+  <brewery_id>Otter-Brewery-Ltd</brewery_id>
   <name>ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-32748-00003-0">
+    <size>
+      <upc>0-32748-00003-0</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

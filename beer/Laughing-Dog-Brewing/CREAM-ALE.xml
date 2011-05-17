@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Laughing-Dog-Brewing/CREAM-ALE" brewery_id="Laughing-Dog-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Laughing-Dog-Brewing/CREAM-ALE</id>
+  <brewery_id>Laughing-Dog-Brewing</brewery_id>
   <name>CREAM ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-55239-00107-2">
+    <size>
+      <upc>8-55239-00107-2</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Oatmeal-Stout" brewery_id="Saranac" abv="4.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Oatmeal-Stout</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.3</abv>
   <name>Oatmeal Stout</name>
   <description>Saranac Oatmeal Stout is brewed with a delicate balance of the finest grown oats, selected hops, and our traditional ale yeast. Look for a sweet, dark chocolate and roasted taste.</description>
   <availability>seasonal</availability>

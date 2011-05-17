@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Leifmans-Brewery/TROPICALE" brewery_id="Leifmans-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Leifmans-Brewery/TROPICALE</id>
+  <brewery_id>Leifmans-Brewery</brewery_id>
   <name>TROPICALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-10062-3">
+    <size>
+      <upc>7-69596-10062-3</upc>
       <description>12/12.7 BTL</description>
       <distributor>
         <name>odom</name>

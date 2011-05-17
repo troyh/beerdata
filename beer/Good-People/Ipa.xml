@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Good-People/Ipa" brewery_id="Good-People" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Good-People/Ipa</id>
+  <brewery_id>Good-People</brewery_id>
+  <ibu>year-round</ibu>
   <name>IPA</name>
   <description/>
   <availability/>

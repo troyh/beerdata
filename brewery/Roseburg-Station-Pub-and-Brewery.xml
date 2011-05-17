@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Roseburg-Station-Pub-and-Brewery">
+<brewery>
+  <id>Roseburg-Station-Pub-and-Brewery</id>
   <name>Roseburg Station Pub &amp; Brewery‎</name>
   <address>
     <street>700 SE Sheridan St</street>

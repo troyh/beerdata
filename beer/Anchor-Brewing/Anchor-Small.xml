@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anchor-Brewing/Anchor-Small" brewery_id="Anchor-Brewing" abv="3.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing/Anchor-Small</id>
+  <brewery_id>Anchor-Brewing</brewery_id>
+  <abv>3.3</abv>
   <name>Anchor Small</name>
   <description>The tradition of brewing two distinct beers from one mash has existed for thousands of years, and for centuries the term "small beer" was used in English to describe the lighter and weaker second beer. By association, the term came to mean something of little importance. \nWe make our Old Foghorn Barleywine Style Ale from the rich first runnings of an all-malt mash, and Anchor Small Beer is our attempt to duplicate the "small beers" of old by sparging that same mash: sprinkling warm water over the Old Foghorn mash after the first wort has run off, thereby creating a second, lighter brew from the resulting thinner wort. Technically, both beers are "ales" because they are made with top-fermenting yeast.\nWe believe you will find Anchor Small Beer delicious--similar to what modern brewers call a "bitter"--and we hope you will also enjoy the idea of reviving an ancient brewing tradition, which is something of great importance. When we initially attempted Small Beer, we quickly realized we had a lot to learn: How much to sparge? What gravity to look for? What sort of hopping to employ? But, from the beginning, we were astonished to find that the "small beer" we were making certainly was not small beer in the linguistic sense--it was good, it was rich, it was wonderful ale! We hope our loyal customers will agree this is a tradition worth reviving.</description>
   <availability/>

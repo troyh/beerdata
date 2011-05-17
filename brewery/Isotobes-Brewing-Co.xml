@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Isotobes-Brewing-Co">
+<brewery>
+  <id>Isotobes-Brewing-Co</id>
   <name>Isotobes Brewing Co‎</name>
   <address>
     <street>6910 Montgomery Blvd NE</street>

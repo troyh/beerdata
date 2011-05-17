@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/BOB-ROBUST-PORTER" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/BOB-ROBUST-PORTER</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>BOB ROBUST PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-70028-30900-3">
+    <size>
+      <upc>0-70028-30900-3</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

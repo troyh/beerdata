@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Cold-Hop-British-style-Ale" brewery_id="Boulder-Beer-Co" abv="6.8" ibu="46">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Cold-Hop-British-style-Ale</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>6.8</abv>
+  <ibu>46</ibu>
   <name>Cold Hop British-Style Ale</name>
   <description/>
   <availability/>

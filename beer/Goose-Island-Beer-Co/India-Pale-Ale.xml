@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/India-Pale-Ale" brewery_id="Goose-Island-Beer-Co" abv="5.9" ibu="55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/India-Pale-Ale</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>5.9</abv>
+  <ibu>55</ibu>
   <name>India Pale Ale</name>
   <description>Our IPA recalls a time when ales shipped from England to India were highly hopped to preserve their distinct taste during the long journey. The result is a hop lover's dream with a fruity aroma, set off by a dry malt middle, and long hop finish.</description>
   <availability/>

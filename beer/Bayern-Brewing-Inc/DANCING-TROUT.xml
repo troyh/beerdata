@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bayern-Brewing-Inc/DANCING-TROUT" brewery_id="Bayern-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bayern-Brewing-Inc/DANCING-TROUT</id>
+  <brewery_id>Bayern-Brewing-Inc</brewery_id>
   <name>DANCING TROUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-35779-10105-6">
+    <size>
+      <upc>6-35779-10105-6</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

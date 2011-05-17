@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Reverend" brewery_id="Avery-Brewing" abv="10" ibu="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Reverend</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>10</abv>
+  <ibu>10</ibu>
   <name>Reverend</name>
   <description>The Reverend, was created in tribute to the life of Sales Mgr. Tom Boogaard's grandfather, an ordained Episcopal Reverend. Tom was inspired by the life of his grandfather and wanted to create a tribute beer that contained his sterling traits. True to both our "small brewery, BIG BEERS" philosophy and to the spirit and character of the departed Reverend, this beer is strong willed, assertive, and pure of heart, a heart of candy sugar. It contains as many authentic imported Belgian specialty malts as the brewers could cram into our mash tun, and lots of Belgian dark candy sugar stirred into the brew kettle. A divinely complex and beautifully layered beer with hints of dark cherries, currants, and molasses, complimented by an underlying spiciness. Sinfully smooth considering the high alcohol content. Cellarable for up to 4 years.</description>
   <availability/>

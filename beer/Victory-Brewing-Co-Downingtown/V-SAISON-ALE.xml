@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Victory-Brewing-Co-Downingtown/V-SAISON-ALE" brewery_id="Victory-Brewing-Co-Downingtown">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co-Downingtown/V-SAISON-ALE</id>
+  <brewery_id>Victory-Brewing-Co-Downingtown</brewery_id>
   <name>V SAISON ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-30279-72412-5">
+    <size>
+      <upc>6-30279-72412-5</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="6-30279-72412-5">
+    <size>
+      <upc>6-30279-72412-5</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

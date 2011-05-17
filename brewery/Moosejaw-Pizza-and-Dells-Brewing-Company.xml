@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Moosejaw-Pizza-and-Dells-Brewing-Company">
+<brewery>
+  <id>Moosejaw-Pizza-and-Dells-Brewing-Company</id>
   <name>Moosejaw Pizza &amp; Dells Brewing Company‎</name>
   <address>
     <street>110 Wisconsin Dells Pkwy S</street>

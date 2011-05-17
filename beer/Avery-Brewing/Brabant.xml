@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Brabant" brewery_id="Avery-Brewing" abv="8.7" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Brabant</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>8.7</abv>
+  <ibu>25</ibu>
   <name>Brabant</name>
   <description>Experimentation. Ales and lagers that defy styles or categories. This is what we are about: our driving force, our passion. To further facilitate this innovative spirit, we've developed our Barrel-Aged Series where anything, and we mean ANYTHING, goes! Brewed for those as adventurous as we are!</description>
   <availability>limited</availability>

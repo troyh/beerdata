@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Elk-Creek-Cafe-Aleworks">
+<brewery>
+  <id>Elk-Creek-Cafe-Aleworks</id>
   <name>Elk Creek Cafe Aleworks‎</name>
   <address>
     <street>100 W Main St</street>

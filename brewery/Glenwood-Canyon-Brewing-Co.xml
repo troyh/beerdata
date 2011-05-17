@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Glenwood-Canyon-Brewing-Co">
+<brewery>
+  <id>Glenwood-Canyon-Brewing-Co</id>
   <name>Glenwood Canyon Brewing Co‎</name>
   <address>
     <street>402 7th St</street>

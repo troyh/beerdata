@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Italian-Oasis-Restaurant">
+<brewery>
+  <id>Italian-Oasis-Restaurant</id>
   <name>Italian Oasis Restaurant‎</name>
   <address>
     <street>106 Main St</street>

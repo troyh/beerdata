@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Pyramid-Breweries/Pyramid-Rollick-Amerber-Lager" brewery_id="Pyramid-Breweries" abv="6" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries/Pyramid-Rollick-Amerber-Lager</id>
+  <brewery_id>Pyramid-Breweries</brewery_id>
+  <abv>6</abv>
+  <ibu>40</ibu>
   <name>Pyramid Rollick Amerber Lager</name>
   <description>Smooth malty character balanced with a gracious quantity of hops make this copper colored offering the perfect beer to celebrate your first rollicking spring adventure.</description>
   <availability>Spring</availability>

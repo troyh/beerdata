@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Willimantic-Brewing-Co">
+<brewery>
+  <id>Willimantic-Brewing-Co</id>
   <name>Willimantic Brewing Co‎</name>
   <address>
     <street>967 Main St</street>

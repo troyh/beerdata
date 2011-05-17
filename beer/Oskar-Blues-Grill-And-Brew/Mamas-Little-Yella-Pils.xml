@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Oskar-Blues-Grill-And-Brew/Mamas-Little-Yella-Pils" brewery_id="Oskar-Blues-Grill-And-Brew" abv="5.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Oskar-Blues-Grill-And-Brew/Mamas-Little-Yella-Pils</id>
+  <brewery_id>Oskar-Blues-Grill-And-Brew</brewery_id>
+  <abv>5.3</abv>
   <name>Mama's Little Yella Pils</name>
   <description>Our new canned good is a delicious, small-batch version of the beer that made Pilsen, Czechoslovakia famous. Mama's is made with hearty amounts of pale malt, German specialty malts, and traditional (Saaz) and 21st century Bavarian hops. It's the perfect antidote for the watered-down, cornfed versions of pilsner clogging America's shelves. Our first canned lager, it's also fermented at cool temperatures with a German yeast. While it's rich with Czeched-out flavor, Mama's gentle hopping (about 35 IBUs) and low ABV (just 5.3%) makes it a luxurious but low-dose beer. Look for our Gold Metal Winner on US shelves in March. Sadly, the Feds rejected our "Take Two and Call Us in the Morning" line on the can.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tampa-Bay-Brewing-Company-Tampa">
+<brewery>
+  <id>Tampa-Bay-Brewing-Company-Tampa</id>
   <name>Tampa Bay Brewing Company‎</name>
   <address>
     <street>1600 E 8th Ave # A123</street>

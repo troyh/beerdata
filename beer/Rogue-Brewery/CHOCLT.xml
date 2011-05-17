@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Rogue-Brewery/CHOCLT" brewery_id="Rogue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Brewery/CHOCLT</id>
+  <brewery_id>Rogue-Brewery</brewery_id>
   <name>CHOCLT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-95301-13004-4">
+    <size>
+      <upc>0-95301-13004-4</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

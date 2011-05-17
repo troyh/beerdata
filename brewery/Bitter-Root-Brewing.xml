@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bitter-Root-Brewing">
+<brewery>
+  <id>Bitter-Root-Brewing</id>
   <name>Bitter Root Brewing‎</name>
   <address>
     <street>101 Marcus St</street>

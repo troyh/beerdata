@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Fat-Tire" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Fat-Tire</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Fat Tire</name>
   <description>Named in honor of our founder Jeff's bike trip through Belgium, Fat Tire Amber Ale marks a turning point in the young electrical engineer's home brewing. Belgian beers use a far broader palette of ingredients (fruits, spices, esoteric yeast strains) than German or English styles. Jeff found the Belgian approach freeing. Upon his return, Jeff created Fat Tire and Abbey Belgian Ale, (assuming Abbey would be his big gun). He and his wife, Kim traveled around sampling their homebrews to the public. Fat Tire's appeal quickly became evident. People liked everything about it. Except the name. Fat Tire won fans is in its sense of balance: toasty, biscuit-like malt flavors coasting in equilibrium with hoppy freshness.</description>
   <availability>year-round</availability>

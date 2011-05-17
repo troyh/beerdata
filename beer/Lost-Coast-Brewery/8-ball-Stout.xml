@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lost-Coast-Brewery/8-ball-Stout" brewery_id="Lost-Coast-Brewery" abv="5.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery/8-ball-Stout</id>
+  <brewery_id>Lost-Coast-Brewery</brewery_id>
+  <abv>5.9</abv>
   <name>8-Ball Stout</name>
   <description>Not for the faint hearted! Our stout rewards the palate with robust flavor of roasted malts (malts are roasted like coffee beans) and heavy hops. A creamy smooth surprise. </description>
   <availability/>

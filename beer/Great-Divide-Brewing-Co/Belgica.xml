@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Belgica" brewery_id="Great-Divide-Brewing-Co" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Belgica</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>7.2</abv>
   <name>Belgica</name>
   <description>The Roman name for the Low Counties - is a marriage of the best in American and Belgian brewing traditions. Belgian pilsner malt, a generous amount of American and European hops and a unique Belgian yeast strain combine to give Belgica big notes of citrus and spice, creating a lively concoction perfect for spring in the Rockies - or the Ardennes.</description>
   <availability>summer</availability>

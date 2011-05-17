@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pizzeria-Uno-Chicago-Grill-and-Brewery-Metuchen">
+<brewery>
+  <id>Pizzeria-Uno-Chicago-Grill-and-Brewery-Metuchen</id>
   <name>Pizzeria Uno Chicago Grill &amp; Brewery‎</name>
   <address>
     <street>55 Parsonage Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Anderson-Valley-Brewing-Co/Brother-David-s-Triple" brewery_id="Anderson-Valley-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Brother-David-s-Triple</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
   <name>Brother David's Triple</name>
   <description/>
   <availability/>

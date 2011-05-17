@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sebago-Brewing-Co-South-Portland">
+<brewery>
+  <id>Sebago-Brewing-Co-South-Portland</id>
   <name>Sebago Brewing Co‎</name>
   <address>
     <street>150 Philbrook Ave</street>

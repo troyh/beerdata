@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Carlsberg-Breweries/2-MLT" brewery_id="Carlsberg-Breweries">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Carlsberg-Breweries/2-MLT</id>
+  <brewery_id>Carlsberg-Breweries</brewery_id>
   <name>2 MLT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87600-10023-1">
+    <size>
+      <upc>0-87600-10023-1</upc>
       <description>BOTTLE 4-6/11</description>
       <distributor>
         <name>columbia</name>

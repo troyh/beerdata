@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Imperial-Stout" brewery_id="Founders-Brewing-Co" abv="10.5" ibu="90">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Imperial-Stout</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>10.5</abv>
+  <ibu>90</ibu>
   <name>Imperial Stout</name>
   <description>Brewed with ten varieties of malted barley, this stout is smooth as silk yet complex and rich in body. Serve this guy at cellar temperature. Put another log on the fire and sit back and enjoy the friendship of this ultimate winter warmer.</description>
   <availability>limited</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Miller-Brewing-Co/LNK" brewery_id="Miller-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Miller-Brewing-Co/LNK</id>
+  <brewery_id>Miller-Brewing-Co</brewery_id>
   <name>LNK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-00362-3">
+    <size>
+      <upc>0-34100-00362-3</upc>
       <description>BOTTLE 1-24/12</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$21.19</deposit>
       </distributor>
     </size>
-    <size upc="0-34100-57509-0">
+    <size>
+      <upc>0-34100-57509-0</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>
@@ -33,7 +37,8 @@
         <deposit>$9.99</deposit>
       </distributor>
     </size>
-    <size upc="0-34100-57505-2">
+    <size>
+      <upc>0-34100-57505-2</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

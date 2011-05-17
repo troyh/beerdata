@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-South-Brewing-Co">
+<brewery>
+  <id>New-South-Brewing-Co</id>
   <name>New South Brewing Co‎</name>
   <address>
     <street>851 Campbell St</street>

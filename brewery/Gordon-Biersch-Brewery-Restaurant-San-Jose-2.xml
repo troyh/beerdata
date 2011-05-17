@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-Restaurant-San-Jose-2">
+<brewery>
+  <id>Gordon-Biersch-Brewery-Restaurant-San-Jose-2</id>
   <name>Gordon Biersch Brewery Restaurant‎</name>
   <address>
     <street>33 E San Fernando St</street>

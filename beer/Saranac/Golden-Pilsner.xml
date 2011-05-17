@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Golden-Pilsner" brewery_id="Saranac" abv="5.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Golden-Pilsner</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.1</abv>
   <name>Golden Pilsner</name>
   <description>Saranac Pilsener is a light bodied American Wheat Beer that is judiciously hopped with Cascade and Tettnang hops. "Dry-Hopping" imparts the distinctive hop aroma and finish. Look for a smooth, crisp taste and brilliant golden color. Enjoy!</description>
   <availability>seasonal</availability>

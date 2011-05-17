@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gardner-Ale-House">
+<brewery>
+  <id>Gardner-Ale-House</id>
   <name>Gardner Ale House‎</name>
   <address>
     <street>74 Parker St</street>

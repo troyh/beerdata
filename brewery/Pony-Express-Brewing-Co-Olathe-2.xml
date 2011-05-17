@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pony-Express-Brewing-Co-Olathe-2">
+<brewery>
+  <id>Pony-Express-Brewing-Co-Olathe-2</id>
   <name>Pony Express Brewing Co‎</name>
   <address>
     <street>311 N Burch St</street>

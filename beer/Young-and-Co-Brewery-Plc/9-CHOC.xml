@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Young-and-Co-Brewery-Plc/9-CHOC" brewery_id="Young-and-Co-Brewery-Plc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Young-and-Co-Brewery-Plc/9-CHOC</id>
+  <brewery_id>Young-and-Co-Brewery-Plc</brewery_id>
   <name>9 CHOC</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83326-00151-7">
+    <size>
+      <upc>0-83326-00151-7</upc>
       <description>BOTTLE 8/16</description>
       <distributor>
         <name>columbia</name>

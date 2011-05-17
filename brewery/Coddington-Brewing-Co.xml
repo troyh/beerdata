@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Coddington-Brewing-Co">
+<brewery>
+  <id>Coddington-Brewing-Co</id>
   <name>Coddington Brewing Co‎</name>
   <address>
     <street>210 Coddington Hwy</street>

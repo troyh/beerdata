@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/The-Village-Reserve" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/The-Village-Reserve</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>The Village Reserve</name>
   <description>This beer is fermented from wort extracted from fully modified two-row pale malt, which results in its beautiful golden color. This beer is aggressively hopped, which supports a medium body and allows the hop flavor and aroma to become more prominent throughout the beer. Village Reserve is uniquely its own due to its exclusive yeast strain. A great balance of malt and hops make it our version of good ol' fashioned beer.</description>
   <availability/>

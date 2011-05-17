@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Palo-Santo" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Palo-Santo</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
   <name>Palo Santo</name>
   <description/>
   <availability/>

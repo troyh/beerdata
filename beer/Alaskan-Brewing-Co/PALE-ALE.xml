@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alaskan-Brewing-Co/PALE-ALE" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/PALE-ALE</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>PALE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-40850-02002-5">
+    <size>
+      <upc>0-40850-02002-5</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

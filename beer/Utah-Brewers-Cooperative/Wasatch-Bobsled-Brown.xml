@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Wasatch-Bobsled-Brown" brewery_id="Utah-Brewers-Cooperative">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Wasatch-Bobsled-Brown</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
   <name>Wasatch Bobsled Brown</name>
   <description>Bobsled Brown is patterned as an American-style Brown Ale with a roasted malt undertone and the generous use of American-grown Willamette hops. This is one beer to be sure not to miss!</description>
   <availability>Winter</availability>

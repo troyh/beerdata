@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Hi-Gravity-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Hi-Gravity-Brewery</id>
   <name>Hi Gravity Brewery</name>
 </brewery>

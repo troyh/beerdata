@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Red-Canoe" brewery_id="The-Livery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Red-Canoe</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.5</abv>
   <name>Red Canoe</name>
   <description>Named for Steves' canoe partner and friend, the late Ed Lewis, who built canoes and paddles in this area for many years and who built Steve his custom mash paddle for the brewery. Deep red in color, this beer has a nice maltiness balanced with an English hop bitterness in the finish.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Belle-Isle-Restaurant-and-Brew">
+<brewery>
+  <id>Belle-Isle-Restaurant-and-Brew</id>
   <name>Belle Isle Restaurant &amp; Brew‎</name>
   <address>
     <street>1900 NW Expressway # 44</street>

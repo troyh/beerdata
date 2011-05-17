@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Tatonka-Stout" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="8.5" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Tatonka-Stout</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
+  <abv>8.5</abv>
+  <ibu>60</ibu>
   <name>Tatonka Stout</name>
   <description>An Imperial Stout -- a classic style so rich and flavorful that it was once the private beverage of Russian Czars. The profile is malty sweet, hop bitter roasted, full-bodied, alcoholic, and deliciously complex. Beer doesn't get much more intense than this!</description>
   <availability>year-round</availability>

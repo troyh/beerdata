@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/D-Straat-Dubbel" brewery_id="Deschutes-Brewery-Inc" abv="7.00" ibu="14">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/D-Straat-Dubbel</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>7.00</abv>
+  <ibu>14</ibu>
   <name>D Straat Dubbel</name>
   <description>A return of the first Belgian ale brewed in our Portland Brewery. This ale was brewed with Saaz hops and Belgian Abbey ale yeast. The well balanced amber color deliver's notes of caramel with a light and subtle finish. An ale that's worth the Dubbel name.</description>
   <availability>special release</availability>
@@ -9,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="16">Belgian and French Ale</style>
+    <style><bjcp_style_id>16</bjcp_style_id>Belgian and French Ale</style>
   </styles>
   <sizes>
     <size>

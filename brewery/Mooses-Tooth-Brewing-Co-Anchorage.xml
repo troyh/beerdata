@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mooses-Tooth-Brewing-Co-Anchorage">
+<brewery>
+  <id>Mooses-Tooth-Brewing-Co-Anchorage</id>
   <name>Moose's Tooth Brewing Co‎</name>
   <address>
     <street>2021 Spar Ave</street>

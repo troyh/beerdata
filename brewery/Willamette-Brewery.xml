@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Willamette-Brewery">
+<brewery>
+  <id>Willamette-Brewery</id>
   <name>Willamette Brewery‎</name>
   <address>
     <street>1055 Madera St</street>

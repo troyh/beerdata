@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hales-Ales-Pub/El-Jefe-Weizen" brewery_id="Hales-Ales-Pub">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hales-Ales-Pub/El-Jefe-Weizen</id>
+  <brewery_id>Hales-Ales-Pub</brewery_id>
   <name>El Jefe Weizen</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="798644140700">
+    <size>
+      <upc>798644140700</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

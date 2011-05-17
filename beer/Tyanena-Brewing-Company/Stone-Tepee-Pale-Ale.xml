@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Tyanena-Brewing-Company/Stone-Tepee-Pale-Ale" brewery_id="Tyanena-Brewing-Company" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tyanena-Brewing-Company/Stone-Tepee-Pale-Ale</id>
+  <brewery_id>Tyanena-Brewing-Company</brewery_id>
+  <ibu>32</ibu>
   <name>Stone Tepee Pale Ale</name>
   <description>The legend of Tyranena began 3,000 years ago, with a group of pyramids and effigy mounds constructed in a remote valley formed by a vast, slow-moving glacier.Today, these ancient "stone tepees" lie 60 feet below the surface of Rock Lake in Jefferson County, Wisconsin. No one is certain how or why they were built, but many have speculated on their origin, purpose and the people who built them.We invite you to develop your own theories on the legend and mystery of Tyranena while enjoying a Stone Tepee Pale Ale.Stone Tepee Pale Ale is brewed in the tradition of an American pale ale. This beer celebrates the American hop, with its characteristic bitterness, flavor and aroma.</description>
   <availability/>

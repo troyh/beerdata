@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hollister-Brewing-Co">
+<brewery>
+  <id>Hollister-Brewing-Co</id>
   <name>Hollister Brewing Co‎</name>
   <address>
     <street>6980 Market Place Dr</street>

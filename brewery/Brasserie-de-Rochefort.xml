@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Brasserie-de-Rochefort">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Brasserie-de-Rochefort</id>
   <name>Brasserie de Rochefort</name>
 </brewery>

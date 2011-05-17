@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bear-Republic-Brewing-Co">
+<brewery>
+  <id>Bear-Republic-Brewing-Co</id>
   <name>Bear Republic Brewing Co‎</name>
   <address>
     <street>110 Sandholm Ln</street>

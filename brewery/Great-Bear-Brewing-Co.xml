@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Great-Bear-Brewing-Co">
+<brewery>
+  <id>Great-Bear-Brewing-Co</id>
   <name>Great Bear Brewing Co‎</name>
   <address>
     <street>238 N Boundary St</street>

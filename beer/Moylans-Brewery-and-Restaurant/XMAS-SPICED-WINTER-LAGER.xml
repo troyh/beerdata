@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Moylans-Brewery-and-Restaurant/XMAS-SPICED-WINTER-LAGER" brewery_id="Moylans-Brewery-and-Restaurant">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Moylans-Brewery-and-Restaurant/XMAS-SPICED-WINTER-LAGER</id>
+  <brewery_id>Moylans-Brewery-and-Restaurant</brewery_id>
   <name>XMAS SPICED WINTER LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-42499-00050-4">
+    <size>
+      <upc>7-42499-00050-4</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Pyramid-Breweries/Pyramid-Thunderhead-Ipa" brewery_id="Pyramid-Breweries" abv="6.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries/Pyramid-Thunderhead-Ipa</id>
+  <brewery_id>Pyramid-Breweries</brewery_id>
+  <abv>6.7</abv>
   <name>Pyramid Thunderhead IPA</name>
   <description>Our hop heaping IPA is a golden nectar garnering thunderous reviews. Its floral aroma strikes a harmonious blend between a sweet malt flavor and bold hop bitterness. Enjoy this thirst quenching adventure.</description>
   <availability/>

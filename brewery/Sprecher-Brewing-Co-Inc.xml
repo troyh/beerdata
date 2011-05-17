@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sprecher-Brewing-Co-Inc">
+<brewery>
+  <id>Sprecher-Brewing-Co-Inc</id>
   <name>Sprecher Brewing Co Inc‎</name>
   <address>
     <street>701 W Glendale Ave</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rikenjaks-Brewing-Co">
+<brewery>
+  <id>Rikenjaks-Brewing-Co</id>
   <name>Rikenjaks Brewing Co‎</name>
   <address>
     <street>333 Broad St</street>

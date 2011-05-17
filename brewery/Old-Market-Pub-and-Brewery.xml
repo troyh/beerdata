@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-Market-Pub-and-Brewery">
+<brewery>
+  <id>Old-Market-Pub-and-Brewery</id>
   <name>Old Market Pub &amp; Brewery‎</name>
   <address>
     <street>6959 SW Multnomah Blvd # 101</street>

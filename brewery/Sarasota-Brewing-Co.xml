@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sarasota-Brewing-Co">
+<brewery>
+  <id>Sarasota-Brewing-Co</id>
   <name>Sarasota Brewing Co‎</name>
   <address>
     <street>6607 Gateway Ave</street>

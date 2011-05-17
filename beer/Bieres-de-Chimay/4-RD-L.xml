@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bieres-de-Chimay/4-RD-L" brewery_id="Bieres-de-Chimay">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bieres-de-Chimay/4-RD-L</id>
+  <brewery_id>Bieres-de-Chimay</brewery_id>
   <name>4 RD L</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-81706-00004-4">
+    <size>
+      <upc>0-81706-00004-4</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

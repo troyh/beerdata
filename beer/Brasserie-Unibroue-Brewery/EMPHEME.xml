@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Unibroue-Brewery/EMPHEME" brewery_id="Brasserie-Unibroue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Unibroue-Brewery/EMPHEME</id>
+  <brewery_id>Brasserie-Unibroue-Brewery</brewery_id>
   <name>EMPHEME</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-72285-25111-7">
+    <size>
+      <upc>7-72285-25111-7</upc>
       <description>BOTTLE 25</description>
       <distributor>
         <name>columbia</name>

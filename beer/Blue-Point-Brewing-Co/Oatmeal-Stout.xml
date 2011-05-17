@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Oatmeal-Stout" brewery_id="Blue-Point-Brewing-Co" abv="5.2" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Oatmeal-Stout</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>5.2</abv>
+  <ibu>30</ibu>
   <name>Oatmeal Stout</name>
   <description>Blue Point Brewing's Oatmeal Stout is a rich, deeply malted extravaganza of a beer. The Oatmeal Stout is a dark beer drinker's dream come true. The Oatmeal Stout is made from Pale, Crystal, Chocolate and Roasted Malts. In addition Flaked Oats are added to the mix and the outcome is an uncommonly silky brew. This legendary dark beer is full flavored and rich tasting. A romantically delicious microbrew to share with someone special.</description>
   <availability/>

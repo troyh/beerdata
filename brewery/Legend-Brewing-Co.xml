@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Legend-Brewing-Co">
+<brewery>
+  <id>Legend-Brewing-Co</id>
   <name>Legend Brewing Co‎</name>
   <address>
     <street>321 W 7th St</street>

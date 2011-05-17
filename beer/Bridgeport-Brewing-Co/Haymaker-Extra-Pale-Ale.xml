@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Haymaker-Extra-Pale-Ale" brewery_id="Bridgeport-Brewing-Co" abv="5.3" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Haymaker-Extra-Pale-Ale</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>5.3</abv>
+  <ibu>15</ibu>
   <name>Haymaker Extra Pale Ale</name>
   <description>Haymaker is a refreshing, extra pale ale that is simply sunshine in a bottle! It's a distinct blend of four malts and three varieties of hops that create a slightly complex, crisp and bright ale. So enjoy often and "Make Hay!"</description>
   <availability/>

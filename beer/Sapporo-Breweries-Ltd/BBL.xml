@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sapporo-Breweries-Ltd/BBL" brewery_id="Sapporo-Breweries-Ltd">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sapporo-Breweries-Ltd/BBL</id>
+  <brewery_id>Sapporo-Breweries-Ltd</brewery_id>
   <name>BBL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="83641">
+    <size>
+      <upc>83641</upc>
       <description>1/2</description>
       <distributor>
         <name/>
@@ -21,7 +24,8 @@
         <deposit>$30.00</deposit>
       </distributor>
     </size>
-    <size upc="83639">
+    <size>
+      <upc>83639</upc>
       <description>1/6</description>
       <distributor>
         <name/>

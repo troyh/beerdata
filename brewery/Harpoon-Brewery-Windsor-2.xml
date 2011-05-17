@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Harpoon-Brewery-Windsor-2">
+<brewery>
+  <id>Harpoon-Brewery-Windsor-2</id>
   <name>Harpoon Brewery‎</name>
   <address>
     <street>336 Ruth Carney Dr</street>

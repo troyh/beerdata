@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Lindemans/GUEUZE-CUVEE-RENE" brewery_id="Brouwerij-Lindemans">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Lindemans/GUEUZE-CUVEE-RENE</id>
+  <brewery_id>Brouwerij-Lindemans</brewery_id>
   <name>GUEUZE CUVEE RENE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="5-41122-30105-0">
+    <size>
+      <upc>5-41122-30105-0</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

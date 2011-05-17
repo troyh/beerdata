@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Judgement-Day" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Judgement-Day</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Judgement Day</name>
   <description/>
   <availability/>
@@ -21,7 +23,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="689926005056">
+    <size>
+      <upc>689926005056</upc>
       <description>12/750 ml  </description>
       <distributor>
         <name>click</name>

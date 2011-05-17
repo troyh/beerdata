@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Library-Restaurant-Bar-Brew">
+<brewery>
+  <id>Library-Restaurant-Bar-Brew</id>
   <name>Library Restaurant Bar Brew‎</name>
   <address>
     <street>62 Isle Royale St</street>

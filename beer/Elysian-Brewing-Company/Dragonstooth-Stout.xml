@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/Dragonstooth-Stout" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/Dragonstooth-Stout</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>Dragonstooth Stout</name>
   <description/>
   <availability>winter</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="817904001206">
+    <size>
+      <upc>817904001206</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boscos-Nashville-Brewing-Co-Nashville">
+<brewery>
+  <id>Boscos-Nashville-Brewing-Co-Nashville</id>
   <name>Boscos Nashville Brewing Co.‎</name>
   <address>
     <street>1805 21st Ave S</street>

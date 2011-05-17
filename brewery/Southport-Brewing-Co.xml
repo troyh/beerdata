@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southport-Brewing-Co">
+<brewery>
+  <id>Southport-Brewing-Co</id>
   <name>Southport Brewing Co‎</name>
   <address>
     <street>2600 Post Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Selins-Grove-Brewing-Company/Mcnabbs-Scottish-Ale" brewery_id="Selins-Grove-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Selins-Grove-Brewing-Company/Mcnabbs-Scottish-Ale</id>
+  <brewery_id>Selins-Grove-Brewing-Company</brewery_id>
   <name>McNabb's Scottish Ale</name>
   <description/>
   <availability/>

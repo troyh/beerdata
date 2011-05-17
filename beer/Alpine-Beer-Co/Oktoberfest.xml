@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alpine-Beer-Co/Oktoberfest" brewery_id="Alpine-Beer-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Co/Oktoberfest</id>
+  <brewery_id>Alpine-Beer-Co</brewery_id>
   <name>Oktoberfest</name>
   <description/>
   <availability/>

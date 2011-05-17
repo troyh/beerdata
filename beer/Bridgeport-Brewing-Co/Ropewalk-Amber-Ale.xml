@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Ropewalk-Amber-Ale" brewery_id="Bridgeport-Brewing-Co" abv="5.6" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Ropewalk-Amber-Ale</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>18</ibu>
   <name>Ropewalk Amber Ale</name>
   <description>Ropewalk is a mellow, malt-driven amber that dances a subtly sweet line. The balance of Crystal malt with a subtle dose of Northwest hops delivers a refreshing ale that makes for a great session beer. Originally brewed to mark our 20th anniversary, Ropewalk -- which literally means "a long narrow building where rope is made" -- is a tribute to our building's roots as a rope factory, while also celebrating feats of daring everywhere.</description>
   <availability/>

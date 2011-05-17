@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-Belgium-Brewing">
+<brewery>
+  <id>New-Belgium-Brewing</id>
   <name>New Belgium Brewing</name>
-    <address>
-        <street></street>
-	    <city></city>
-	        <state></state>
-		    <zip></zip>
-		        <country>US</country>
-			  </address>
-			    <phone></phone>
-			    </brewery>
-
+  <address>
+    <street/>
+    <city/>
+    <state/>
+    <zip/>
+    <country>US</country>
+  </address>
+  <phone/>
+</brewery>

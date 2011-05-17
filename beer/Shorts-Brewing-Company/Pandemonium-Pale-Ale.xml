@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Pandemonium-Pale-Ale" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Pandemonium-Pale-Ale</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Pandemonium Pale Ale</name>
   <description>Our classic American pale ale lends its copper color to the rich specialty grains. This craft ale is balanced with four kettle hop additions to a near IPA quality. It is one of the few beers we finish through whole leaf hops lending a nice fresh earthy aroma and flavor.</description>
   <availability/>

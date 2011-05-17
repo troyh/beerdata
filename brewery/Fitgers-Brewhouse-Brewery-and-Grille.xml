@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fitgers-Brewhouse-Brewery-and-Grille">
+<brewery>
+  <id>Fitgers-Brewhouse-Brewery-and-Grille</id>
   <name>Fitger's Brewhouse Brewery and Grille‎</name>
   <address>
     <street>600 E Superior Street</street>

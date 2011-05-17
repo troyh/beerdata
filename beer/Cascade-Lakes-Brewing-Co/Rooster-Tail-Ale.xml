@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/Rooster-Tail-Ale" brewery_id="Cascade-Lakes-Brewing-Co" abv="5.20" og="1.050" fg="1.010" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/Rooster-Tail-Ale</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>5.20</abv>
+  <og>1.050</og>
+  <fg>1.010</fg>
+  <ibu>30</ibu>
   <name>Rooster Tail Ale</name>
   <description>Rooster Tail Ale is the flagship beer of Cascade Lakes Brewing Co.Â  First brewed on the system in Redmond in December 1994, this light bodied, golden style ale has become a Central Oregon favorite.Â  A crisp clean finish makes this the perfect beer for all seasons!</description>
   <availability>year round</availability>

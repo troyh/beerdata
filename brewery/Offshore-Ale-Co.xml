@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Offshore-Ale-Co">
+<brewery>
+  <id>Offshore-Ale-Co</id>
   <name>Offshore Ale Co‎</name>
   <address>
     <street>30 Kennebec Ave</street>

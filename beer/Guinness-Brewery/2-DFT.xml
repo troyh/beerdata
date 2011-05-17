@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Guinness-Brewery/2-DFT" brewery_id="Guinness-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Guinness-Brewery/2-DFT</id>
+  <brewery_id>Guinness-Brewery</brewery_id>
   <name>2 DFT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83820-10401-1">
+    <size>
+      <upc>0-83820-10401-1</upc>
       <description>BOTTLE 4-6/11</description>
       <distributor>
         <name>columbia</name>

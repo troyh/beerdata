@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lodi-Beer-Co">
+<brewery>
+  <id>Lodi-Beer-Co</id>
   <name>Lodi Beer Co‎</name>
   <address>
     <street>105 S School St</street>

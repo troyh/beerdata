@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Socorro-Springs-Brewing-Co">
+<brewery>
+  <id>Socorro-Springs-Brewing-Co</id>
   <name>Socorro Springs Brewing Co‎</name>
   <address>
     <street>1012 N California St</street>

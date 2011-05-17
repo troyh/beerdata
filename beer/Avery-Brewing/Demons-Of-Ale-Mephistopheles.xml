@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Demons-Of-Ale-Mephistopheles" brewery_id="Avery-Brewing" abv="15.1" ibu="107">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Demons-Of-Ale-Mephistopheles</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>15.1</abv>
+  <ibu>107</ibu>
   <name>Demons of Ale: Mephistopheles'</name>
   <description>Mephistopheles is the crafty shape shifter, the second fallen angel. Amazingly complex, coal black, velvety and liqueurish, this demon has a bouquet of vine-ripened grapes, anise and chocolate covered cherries with flavors of rum-soaked caramelized dark fruits and a double espresso finish. IBU's 107.</description>
   <availability>limited</availability>

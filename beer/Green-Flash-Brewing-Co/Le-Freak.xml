@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Green-Flash-Brewing-Co/Le-Freak" brewery_id="Green-Flash-Brewing-Co" abv="9.2" ibu="101">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/Le-Freak</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
+  <abv>9.2</abv>
+  <ibu>101</ibu>
   <name>Le Freak</name>
   <description>This Belgian Style IPA is an "out of the box" convergence of beer styles where American Imperial IPA meets Belgian Trippel. The end result is a zesty brew with enticing American hop and Belgian yeast aromatics that lead you to delicious malts and a complex layering of hop flavors that quench and refresh your pallet.</description>
   <availability/>

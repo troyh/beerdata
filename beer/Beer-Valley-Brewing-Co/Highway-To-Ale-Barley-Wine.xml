@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Beer-Valley-Brewing-Co/Highway-To-Ale-Barley-Wine" brewery_id="Beer-Valley-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Beer-Valley-Brewing-Co/Highway-To-Ale-Barley-Wine</id>
+  <brewery_id>Beer-Valley-Brewing-Co</brewery_id>
   <name>Highway to Ale Barley Wine</name>
   <description/>
   <availability/>

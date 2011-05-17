@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Little-Apple-Brewing-Co">
+<brewery>
+  <id>Little-Apple-Brewing-Co</id>
   <name>Little Apple Brewing Co‎</name>
   <address>
     <street>1110 Westloop Pl</street>

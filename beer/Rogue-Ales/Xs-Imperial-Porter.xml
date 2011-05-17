@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Xs-Imperial-Porter" brewery_id="Rogue-Ales" ibu="78">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Xs-Imperial-Porter</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>78</ibu>
   <name>XS: Imperial Porter</name>
   <description>This is a huge mouthful of malt and hops. It has notes of bitter rich chocolate and hints of tar. A new hop called Summit was used to give it the perfect hop balance. This porter is the creme de la creme.</description>
   <availability/>

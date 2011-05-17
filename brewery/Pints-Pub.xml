@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pints-Pub">
+<brewery>
+  <id>Pints-Pub</id>
   <name>Pints Pub‎</name>
   <address>
     <street>221 W 13th Ave</street>

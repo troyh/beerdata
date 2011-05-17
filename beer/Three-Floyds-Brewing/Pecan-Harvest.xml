@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Pecan-Harvest" brewery_id="Three-Floyds-Brewing" abv="4.0" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Pecan-Harvest</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>4.0</abv>
+  <ibu>20</ibu>
   <name>Pecan Harvest</name>
   <description>Pecan Harvest Ale is made with real Louisiana pecans that have been toasted to perfection. That makes it something really special, because most beers with a nutty flavor or aroma aren't made with real nuts. The natural oils from the Louisiana pecans give the ale a light pecan finish and aroma. \nThis ale is excellent served with both red meat, seafood, gouda cheese, and no surprise here, it's also great with nuts! Try Pecan Harvest with Gouda cheese</description>
   <availability>seasonal</availability>

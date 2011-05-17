@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hi-Gravity-Brewery/LAGER" brewery_id="Hi-Gravity-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hi-Gravity-Brewery/LAGER</id>
+  <brewery_id>Hi-Gravity-Brewery</brewery_id>
   <name>LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-78250-00328-7">
+    <size>
+      <upc>0-78250-00328-7</upc>
       <description>CAN 12/24</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$1.29</deposit>
       </distributor>
     </size>
-    <size upc="0-78250-00336-2">
+    <size>
+      <upc>0-78250-00336-2</upc>
       <description>CAN 4-6/16</description>
       <distributor>
         <name>columbia</name>

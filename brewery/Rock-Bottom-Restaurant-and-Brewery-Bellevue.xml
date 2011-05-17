@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurant-and-Brewery-Bellevue">
+<brewery>
+  <id>Rock-Bottom-Restaurant-and-Brewery-Bellevue</id>
   <name>Rock Bottom Restaurant &amp; Brewery‎</name>
   <address>
     <street>550 106th Ave NE # 103</street>

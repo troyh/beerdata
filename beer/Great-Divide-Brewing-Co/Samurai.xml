@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Samurai" brewery_id="Great-Divide-Brewing-Co" abv="5.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Samurai</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>5.1</abv>
   <name>Samurai</name>
   <description>is an easy drinking, unfiltered ale that changes the status quo for unfiltered beers. The addition of rice gives Samurai a slightly fruity, crisp, refreshing and clean taste. This is definitely not your everyday unfiltered beer.</description>
   <availability/>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="790586012206">
+    <size>
+      <upc>790586012206</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

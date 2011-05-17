@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Auburn-Ale-House-Auburn">
+<brewery>
+  <id>Auburn-Ale-House-Auburn</id>
   <name>Auburn Ale House‎</name>
   <address>
     <street>289 Washington St</street>

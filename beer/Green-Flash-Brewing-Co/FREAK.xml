@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Green-Flash-Brewing-Co/FREAK" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/FREAK</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>FREAK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-30746-00191-3">
+    <size>
+      <upc>8-30746-00191-3</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

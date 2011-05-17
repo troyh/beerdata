@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Saint-Bridgets-Porter" brewery_id="Great-Divide-Brewing-Co" abv="5.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Saint-Bridgets-Porter</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
   <name>Saint Bridget's Porter</name>
   <description>is an elegant, smooth porter that brims with the coffee and chocolate characteristics of dark barley malts.  Saint Bridget was a patron Saint of Ireland, known for the epic miracle of transforming her bathwater into beer for thirsty clerics.</description>
   <availability/>

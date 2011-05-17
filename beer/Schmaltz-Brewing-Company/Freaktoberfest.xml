@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schmaltz-Brewing-Company/Freaktoberfest" brewery_id="Schmaltz-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schmaltz-Brewing-Company/Freaktoberfest</id>
+  <brewery_id>Schmaltz-Brewing-Company</brewery_id>
   <name>Freaktoberfest</name>
   <description/>
   <availability>fall</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="642855900045">
+    <size>
+      <upc>642855900045</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

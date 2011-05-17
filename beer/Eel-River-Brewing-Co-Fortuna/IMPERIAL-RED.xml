@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eel-River-Brewing-Co-Fortuna/IMPERIAL-RED" brewery_id="Eel-River-Brewing-Co-Fortuna">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eel-River-Brewing-Co-Fortuna/IMPERIAL-RED</id>
+  <brewery_id>Eel-River-Brewing-Co-Fortuna</brewery_id>
   <name>IMPERIAL RED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="6-10097-22214-0">
+    <size>
+      <upc>6-10097-22214-0</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>
@@ -33,7 +37,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="4-47020-11111-1">
+    <size>
+      <upc>4-47020-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

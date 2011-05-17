@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Shipyard-Brewing-Co/Ipa" brewery_id="Shipyard-Brewing-Co" abv="5.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shipyard-Brewing-Co/Ipa</id>
+  <brewery_id>Shipyard-Brewing-Co</brewery_id>
+  <abv>5.8</abv>
   <name>IPA</name>
   <description>Feeling Hoppy? The Shipyard IPA is a single-hopped ale that satisfies the discriminating India Pale Ale enthusiast. Wonderfully balanced and deceptively smooth. Fuggles are a traditional variety English hop and their mild spicy aroma makes them highly prized by brewers. These classic hops were first propagated in 1875 and are named after the farmer who cultivated the strain in the East Kent, England. The hop is a vine and the part used to aromatize and flavor beer is the cone-like flower. Its complex aromas predominate in a dry, crisp ale.</description>
   <availability/>

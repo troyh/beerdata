@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Coopers-Brewery/VINTAGE-ALE" brewery_id="Coopers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Coopers-Brewery/VINTAGE-ALE</id>
+  <brewery_id>Coopers-Brewery</brewery_id>
   <name>VINTAGE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="3-10441-00030-8">
+    <size>
+      <upc>3-10441-00030-8</upc>
       <description>4/6/12.7 BTL</description>
       <distributor>
         <name>odom</name>

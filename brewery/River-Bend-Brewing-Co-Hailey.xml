@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="River-Bend-Brewing-Co-Hailey">
+<brewery>
+  <id>River-Bend-Brewing-Co-Hailey</id>
   <name>River Bend Brewing Co‎</name>
   <address>
     <street>113 River Bend Rd</street>

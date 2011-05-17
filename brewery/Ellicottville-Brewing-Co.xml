@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ellicottville-Brewing-Co">
+<brewery>
+  <id>Ellicottville-Brewing-Co</id>
   <name>Ellicottville Brewing Co‎</name>
   <address>
     <street>28 Monroe St # A</street>

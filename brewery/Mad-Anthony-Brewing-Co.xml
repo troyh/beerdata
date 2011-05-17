@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mad-Anthony-Brewing-Co">
+<brewery>
+  <id>Mad-Anthony-Brewing-Co</id>
   <name>Mad Anthony Brewing Co‎</name>
   <address>
     <street>1109 Taylor St</street>

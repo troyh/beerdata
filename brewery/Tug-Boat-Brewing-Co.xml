@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tug-Boat-Brewing-Co">
+<brewery>
+  <id>Tug-Boat-Brewing-Co</id>
   <name>Tug Boat Brewing Co‎</name>
   <address>
     <street>711 SW Ankeny St</street>

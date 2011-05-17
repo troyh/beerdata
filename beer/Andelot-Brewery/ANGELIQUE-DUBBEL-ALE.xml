@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Andelot-Brewery/ANGELIQUE-DUBBEL-ALE" brewery_id="Andelot-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Andelot-Brewery/ANGELIQUE-DUBBEL-ALE</id>
+  <brewery_id>Andelot-Brewery</brewery_id>
   <name>ANGELIQUE DUBBEL ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-22750-4">
+    <size>
+      <upc>7-69596-22750-4</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

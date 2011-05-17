@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Weyerbacher-Brew-Pub-Easton">
+<brewery>
+  <id>Weyerbacher-Brew-Pub-Easton</id>
   <name>Weyerbacher Brew Pub‎</name>
   <address>
     <street>905 Line St</street>

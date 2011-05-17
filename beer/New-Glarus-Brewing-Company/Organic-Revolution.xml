@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Organic-Revolution" brewery_id="New-Glarus-Brewing-Company" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Organic-Revolution</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>6.2</abv>
   <name>Organic Revolution</name>
   <description>Since 1516 Brewers have led the purity revolution. They mandated only four natural ingredients be used to brew beer. This Reinheitsgebot law was the first ever food purity regulation and New Glarus Brewmaster Dan Carey has consistently respected out palates by employing yeast, hops, barley and water to explore a wide spectrum of flavor. \nToday Dan pushed the purity envelope by using Organic Hallertau Hops from Germany with Wisconsin organically malted barley to create complex and assertively hoppy golden ale. This beer is even naturally carbonated. 100% bottle fermented means you can expect a flavor celebration to dance cleanly across your palate. Raise your glass and toast to Wisconsin's common sense Revolution! </description>
   <availability>year-round</availability>

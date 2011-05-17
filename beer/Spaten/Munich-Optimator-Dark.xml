@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Spaten/Munich-Optimator-Dark" brewery_id="Spaten">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten/Munich-Optimator-Dark</id>
+  <brewery_id>Spaten</brewery_id>
   <name>Munich Optimator Dark</name>
   <description/>
   <availability/>

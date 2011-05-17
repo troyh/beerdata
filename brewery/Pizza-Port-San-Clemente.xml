@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pizza-Port-San-Clemente">
+<brewery>
+  <id>Pizza-Port-San-Clemente</id>
   <name>Pizza Port‎</name>
   <address>
     <street>301 N El Camino Real</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Track-Town-Ales-Triple-Jump-Pale-Ale" brewery_id="Rogue-Ales" ibu="55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Track-Town-Ales-Triple-Jump-Pale-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>55</ibu>
   <name>Track Town Ales: Triple Jump Pale Ale</name>
   <description>A Northwest style Pale Ale. Light copper in color. A refreshing Ale that focuses on Hop flavor, with a slight malt presence in the background.</description>
   <availability/>

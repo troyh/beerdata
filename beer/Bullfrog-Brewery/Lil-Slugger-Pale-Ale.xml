@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Lil-Slugger-Pale-Ale" brewery_id="Bullfrog-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Lil-Slugger-Pale-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Lil' Slugger Pale Ale</name>
   <description>This classic American ale has a beautiful light gold complexion and thirst quenching hoppiness thanks to a blend of Palisade, Ahtanam and Amarillo hops. Hop lovers rejoice</description>
   <availability/>

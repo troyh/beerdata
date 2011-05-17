@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Humperdinks-Restaurant-Arlington">
+<brewery>
+  <id>Humperdinks-Restaurant-Arlington</id>
   <name>Humperdink's Restaurant‎</name>
   <address>
     <street>700 Six Flags Dr</street>

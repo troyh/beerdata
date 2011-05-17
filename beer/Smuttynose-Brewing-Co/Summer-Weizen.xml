@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Summer-Weizen" brewery_id="Smuttynose-Brewing-Co" abv="4.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Summer-Weizen</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
   <name>Summer Weizen</name>
   <description>Light, tasty &amp; full of character, our summer wheat ale is brewed with a combination of domestic and continental wheat and barley malts, lightly hopped &amp; fermented with a Belgian wit yeast, resulting in a delightfully tangy &amp; refreshing flavor. This beer is brewed for warm weather enjoyment. Bring some to your next picnic, barbeque or Frisbee game. Available in sixpacks and on draft from May through August.</description>
   <availability>summer</availability>

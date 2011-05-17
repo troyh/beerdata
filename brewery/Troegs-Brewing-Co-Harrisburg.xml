@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Troegs-Brewing-Co-Harrisburg">
+<brewery>
+  <id>Troegs-Brewing-Co-Harrisburg</id>
   <name>Troegs Brewing Co‎</name>
   <address>
     <street>800 Paxton St</street>

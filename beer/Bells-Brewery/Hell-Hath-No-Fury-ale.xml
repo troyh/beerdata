@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Hell-Hath-No-Fury-ale" brewery_id="Bells-Brewery" abv="7.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Hell-Hath-No-Fury-ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>7.7</abv>
   <name>Hell Hath No Fury...Ale</name>
   <description>A brew that gives you either sympathy for the devil or the courage to face him. Goes especially well with your favorite lost my girl/truck/dog/trailer song.</description>
   <availability>limited</availability>

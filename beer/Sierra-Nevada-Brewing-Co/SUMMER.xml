@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sierra-Nevada-Brewing-Co/SUMMER" brewery_id="Sierra-Nevada-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/SUMMER</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
   <name>SUMMER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83783-22812-0">
+    <size>
+      <upc>0-83783-22812-0</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

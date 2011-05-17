@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="St-Peters/Porter" brewery_id="St-Peters">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Peters/Porter</id>
+  <brewery_id>St-Peters</brewery_id>
   <name>Porter</name>
   <description/>
   <availability/>

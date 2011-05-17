@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-Interlude" brewery_id="Allagash-Brewing-Company" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-Interlude</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>9.5</abv>
   <name>Allagash Interlude</name>
   <description>The first release in our new experimental series, Allagash Interlude pushes the limits of beer. An innovative brewing process, special fermentations, and French oak barrel aging all contribute to a beer that has remarkable wine-like qualities.Two yeast strains were used to create this unique 9.5% ABV Belgian style ale. The first, a Belgian farmhouse yeast, establishes the flavor foundations of a classic Belgian-style ale. The second, a house strain of Brettanomyces yeast, brings it to the next level contributing an intriguing myriad of flavors including pear, apricot, graham cracker, and bread crust. Finally, a portion of the Interlude is aged in French Merlot and Sirah oak barrels, which impart a distinctive vinous plum character and a drying, almost tannic finish. Try complementing its audacious character with food pairings such as sausages, salami, smoked meats, and bold cheeses. True to traditional Belgian-style brewing, we bottle condition the Interlude. Just prior to bottling, a fresh dose of sugar and yeast is added to the 'still beer' (at this stage there is no carbonation present). After bottling, the beer is aged in a warm room, where the fresh dose of yeast ferments the sugar and naturally carbonates the beer. </description>
   <availability/>

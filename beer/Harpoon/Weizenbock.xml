@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Weizenbock" brewery_id="Harpoon" abv="7.8" ibu="16">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Weizenbock</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>7.8</abv>
+  <ibu>16</ibu>
   <name>Weizenbock</name>
   <description>Our Weizenbock is a celebration of flavor. This beer is brewed with fifty percent Wheat malt, which keeps it light on the palate, while the dark German barley malts round out the grain bill to create a full-flavored, creamy mouthfeel. \nGerman-grown Hersbrucker hops offer up a subtle balance, but the true character of this joyous beer is derived from the authentic Bavarian yeast strain. This yeast invites notes of banana, clove, and spice to the party, creating a warming holiday elixir. Enjoy with friends!</description>
   <availability>limited</availability>

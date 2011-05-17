@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Double-Mountain-Brewery-Hood-River">
+<brewery>
+  <id>Double-Mountain-Brewery-Hood-River</id>
   <name>Double Mountain Brewery‎</name>
   <address>
     <street>8 4th St # 204</street>

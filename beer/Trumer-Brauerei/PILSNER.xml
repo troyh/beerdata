@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Trumer-Brauerei/PILSNER" brewery_id="Trumer-Brauerei">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Trumer-Brauerei/PILSNER</id>
+  <brewery_id>Trumer-Brauerei</brewery_id>
   <name>PILSNER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88573-44004-1">
+    <size>
+      <upc>0-88573-44004-1</upc>
       <description>KEG 1/2</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$167.49</deposit>
       </distributor>
     </size>
-    <size upc="0-88573-44004-1">
+    <size>
+      <upc>0-88573-44004-1</upc>
       <description>KEG 1/2</description>
       <distributor>
         <name>columbia</name>

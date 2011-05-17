@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Kalamazoo-Stout" brewery_id="Bells-Brewery" abv="6.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Kalamazoo-Stout</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>6.0</abv>
   <name>Kalamazoo Stout</name>
   <description>A full-bodied stout with plenty of roast flavor. Kalamazoo Stout is available year round, leading our vast portfolio of stouts.</description>
   <availability>year-round</availability>

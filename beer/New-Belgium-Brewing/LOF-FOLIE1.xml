@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/LOF-FOLIE1" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/LOF-FOLIE1</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>LOF FOLIE1</name>
   <description/>
   <availability/>

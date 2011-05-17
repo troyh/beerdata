@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Joes-Pub-New-York">
+<brewery>
+  <id>Joes-Pub-New-York</id>
   <name>Joe's Pub‎</name>
   <address>
     <street>425 Lafayette St</street>

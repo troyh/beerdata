@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Not-Just-Another-Wit" brewery_id="Mikkeller" abv="7.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Not-Just-Another-Wit</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>7.6</abv>
   <name>Not Just Another Wit</name>
   <description>Not just another wit bier. The style taken to another level. Strong and hoppy. The world's first IPW?</description>
   <availability/>

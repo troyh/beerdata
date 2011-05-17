@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Refsvindinge-Private-Stock" brewery_id="Harpoon" abv="7.8" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Refsvindinge-Private-Stock</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>7.8</abv>
+  <ibu>25</ibu>
   <name>Refsvindinge Private Stock</name>
   <description>Each year at Harpoon, employees celebrating their 5th anniversary are taken on a beer culture trip somewhere in Europe. On these trips, the Harpooners try different beer styles and visit many breweries across various regions. A few years ago a group visited the Refsvindinge Brewery in Denmark. John, the brewmaster, welcomed the Harpoon crew in to his home (which was connected to the brewery) for hours on end, where they drank his handcrafted beer and learned about his brewery. John didn't speak a word of English so his daughter, Lene, had to stay home from work to translate everything to the group. It was a memorable experience for everyone who was there.\nFor this 100 Barrel Series beer, Harpoon's brewmaster, Al Marzi, worked with John from the Refsvindinge Brewery to recreate a style they enjoyed while on the trip years ago. They worked together via email and, again, John's daughter Lene was asked to do all the email translation. The result, which was brewed by Brett Simmons at our Windsor, VT brewery, is the Refsvindinge Private Stock -- a Danish Farmhouse Ale</description>
   <availability>limited</availability>

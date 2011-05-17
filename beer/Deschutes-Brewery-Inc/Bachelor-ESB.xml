@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Bachelor-ESB" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.50721033302416" abv="5.30" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Bachelor-ESB</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <calories_per_ml>0.50721033302416</calories_per_ml>
+  <abv>5.30</abv>
+  <ibu>50</ibu>
   <name>Bachelor ESB</name>
   <description>Standing alone, distant from the Three Sisters mountains nestled to the north, Bachelor Butte was originally called "Brother Jonathan"" and then simply ""The Bachelor"" before becoming widely known today as Mt. Bachelor.</description>
   <availability>year round</availability>
@@ -9,10 +14,11 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="8C">Extra Special/Strong Bitter (English Pale Ale)</style>
+    <style><bjcp_style_id>8C</bjcp_style_id>Extra Special/Strong Bitter (English Pale Ale)</style>
   </styles>
   <sizes>
-    <size upc="7-63176-10006-5">
+    <size>
+      <upc>7-63176-10006-5</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

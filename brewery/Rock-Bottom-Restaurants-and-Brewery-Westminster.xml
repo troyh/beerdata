@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurants-and-Brewery-Westminster">
+<brewery>
+  <id>Rock-Bottom-Restaurants-and-Brewery-Westminster</id>
   <name>Rock Bottom Restaurants and Brewery‎</name>
   <address>
     <street>10633 Westminster Blvd # 900</street>

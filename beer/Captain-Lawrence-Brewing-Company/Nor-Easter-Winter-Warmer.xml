@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Captain-Lawrence-Brewing-Company/Nor-Easter-Winter-Warmer" brewery_id="Captain-Lawrence-Brewing-Company" abv="12" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Captain-Lawrence-Brewing-Company/Nor-Easter-Winter-Warmer</id>
+  <brewery_id>Captain-Lawrence-Brewing-Company</brewery_id>
+  <abv>12</abv>
+  <ibu>32</ibu>
   <name>Nor' Easter Winter Warmer</name>
   <description/>
   <availability>winter</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Ellies-Brown-Ale" brewery_id="Avery-Brewing" abv="5.5" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Ellies-Brown-Ale</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>5.5</abv>
+  <ibu>17</ibu>
   <name>Ellie's Brown Ale</name>
   <description>This beautiful, deep russet brew has the sweet and somewhat nutty character of Adam Avery's late (1992-2002) Chocolate Lab, for which it is named. Crystal and chocolate malts give this beer a brown sugar maltiness with hints of vanilla and nuts, while subtle hopping gives it an overall drinkability that's second to none, just like Ellie!</description>
   <availability/>

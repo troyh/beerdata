@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Glacier-Harvest-Wet-Hop-Beer" brewery_id="Harpoon" abv="6.7" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Glacier-Harvest-Wet-Hop-Beer</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>6.7</abv>
+  <ibu>38</ibu>
   <name>Glacier Harvest Wet Hop Beer</name>
   <description>The 20th installment of the Harpoon 100 Barrel Series has been brewed to celebrate the annual hop harvest.Harpoon Glacier Harvest Wet Hop beer is a pale ale made with fresh hops picked just hours before being tossed into the brew.\nWet hop beers are brewed using fresh, wet (hops contain about 60% moisture when they are first picked) hops instead of traditional dried hops. Typically, when hops are picked they are quickly dried and refrigerated to make them more suitable and consistent for brewing. This process allows brewers to use hops that were harvested in the fall throughout the following year. Alternatively, wet hops need to be used within hours of their being harvested or they will begin to rapidly degrade. Wet hops retain some of their natural oils and volatile flavors that dissipate when dried. This yields an immersed, intense hop flavor in the beer.\nHarpoon brewer Ray Dobens, creator of the beer, harvested the Glacier hops in Seneca New York the morning of August 13th and immediately drove them back to Boston that very afternoon in a refrigerated truck.Ray added the newly harvested hops to the brew within hours after the harvest.The fresh hops were added to a malty, copper-colored ale. The combination is a pleasing blend of fresh hop flavor and sweet malt.</description>
   <availability>limited</availability>

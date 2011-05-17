@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Blackberry-Here" brewery_id="Bullfrog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Blackberry-Here</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
   <name>Blackberry Here</name>
   <description/>
   <availability/>

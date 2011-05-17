@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lancaster-Brewing-Co-Lancaster">
+<brewery>
+  <id>Lancaster-Brewing-Co-Lancaster</id>
   <name>Lancaster Brewing Co‎</name>
   <address>
     <street>302 N Plum St</street>

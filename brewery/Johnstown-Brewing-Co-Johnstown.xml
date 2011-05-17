@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Johnstown-Brewing-Co-Johnstown">
+<brewery>
+  <id>Johnstown-Brewing-Co-Johnstown</id>
   <name>Johnstown Brewing Co‎</name>
   <address>
     <street>942 Pinegrove Ln</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Cappuccino-Stout" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Cappuccino-Stout</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>Cappuccino Stout</name>
   <description>Big, Dark, and Scary, made with Sebastopol's HardCore Coffee for that little extra Krunk.</description>
   <availability>Limited</availability>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Hoppe-Imperial-Extra-Pale-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Hoppe-Imperial-Extra-Pale-Ale</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>10</abv>
   <name>hoppe Imperial Extra Pale Ale</name>
   <description>The simplicity of Hoppe tests the skill and ability of the brewer to create something truly majestic. We craft this much like a sculptor who uses only a hammer and chisel to shape stone into a masterpiece. Hoppe is spawned of these few essentials: barley, wheat, hops, yeast and water. This limited palette is an exercise in minimalism, with refined elements which are deliberately selected. This simple combination creates a golden shimmering brew infused with delicate aromas. The artful nature of this beer is exposed with the first taste. As the malt and hops create a composition of flavors, an elegant finish leaves an impression that your tastes will not soon forget.</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lang-Creek-Brewery-Marion/TRI-MOTOR-AMBER" brewery_id="Lang-Creek-Brewery-Marion">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lang-Creek-Brewery-Marion/TRI-MOTOR-AMBER</id>
+  <brewery_id>Lang-Creek-Brewery-Marion</brewery_id>
   <name>TRI-MOTOR AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-06579-30012-3">
+    <size>
+      <upc>6-06579-30012-3</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

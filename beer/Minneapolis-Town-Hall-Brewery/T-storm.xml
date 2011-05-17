@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Minneapolis-Town-Hall-Brewery/T-storm" brewery_id="Minneapolis-Town-Hall-Brewery" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Minneapolis-Town-Hall-Brewery/T-storm</id>
+  <brewery_id>Minneapolis-Town-Hall-Brewery</brewery_id>
+  <abv>7.2</abv>
   <name>T-Storm</name>
   <description>AleThunderstorm is one of our customer's summer favorites.  Honey lemongrass ale... great to relieve the summer heat!  Watch out though!  It drinks easy, but carries a punch.</description>
   <availability>summer</availability>

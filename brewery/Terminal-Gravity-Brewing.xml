@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Terminal-Gravity-Brewing">
+<brewery>
+  <id>Terminal-Gravity-Brewing</id>
   <name>Terminal Gravity Brewing‎</name>
   <address>
     <street>803 SE School St</street>

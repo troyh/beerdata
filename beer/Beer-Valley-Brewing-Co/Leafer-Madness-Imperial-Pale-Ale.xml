@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Beer-Valley-Brewing-Co/Leafer-Madness-Imperial-Pale-Ale" brewery_id="Beer-Valley-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Beer-Valley-Brewing-Co/Leafer-Madness-Imperial-Pale-Ale</id>
+  <brewery_id>Beer-Valley-Brewing-Co</brewery_id>
   <name>Leafer Madness Imperial Pale Ale</name>
   <description/>
   <availability/>

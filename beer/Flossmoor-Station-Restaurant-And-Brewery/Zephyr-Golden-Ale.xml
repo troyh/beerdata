@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flossmoor-Station-Restaurant-And-Brewery/Zephyr-Golden-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flossmoor-Station-Restaurant-And-Brewery/Zephyr-Golden-Ale</id>
+  <brewery_id>Flossmoor-Station-Restaurant-And-Brewery</brewery_id>
   <name>Zephyr Golden ale</name>
   <description>Our lightest beer, the Zephyr is a light and refreshing golden blond ale in the style of premium American beer. Brewed with three varieties of hops and a touch of rice, this light golden ale provides a smooth introduction to the distinctive flavors of our premium quality handcrafted beers.</description>
   <availability/>

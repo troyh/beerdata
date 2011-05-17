@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="The-Bobcat-Caf-and-Brewery">
+<brewery>
+  <id>The-Bobcat-Caf-and-Brewery</id>
   <name>The Bobcat Caf� &amp; Brewery‎</name>
   <address>
     <street>5 Main St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Smuttynose-Brewing-Co-Portsmouth">
+<brewery>
+  <id>Smuttynose-Brewing-Co-Portsmouth</id>
   <name>Smuttynose Brewing Co‎</name>
   <address>
     <street>225 Heritage Ave # 2</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Jamaica/Red-Ale" brewery_id="Jamaica">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jamaica/Red-Ale</id>
+  <brewery_id>Jamaica</brewery_id>
   <name>Red Ale</name>
   <description/>
   <availability/>

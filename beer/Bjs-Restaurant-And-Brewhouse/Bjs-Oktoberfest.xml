@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-Oktoberfest" brewery_id="Bjs-Restaurant-And-Brewhouse">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Bjs-Oktoberfest</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
   <name>BJ's Oktoberfest</name>
   <description/>
   <availability>fall</availability>

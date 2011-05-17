@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Traquair-House-Brewery/HOUSE-ALE" brewery_id="Traquair-House-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Traquair-House-Brewery/HOUSE-ALE</id>
+  <brewery_id>Traquair-House-Brewery</brewery_id>
   <name>HOUSE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-03101-0">
+    <size>
+      <upc>0-85725-03101-0</upc>
       <description>12/11.2 BTL</description>
       <distributor>
         <name>odom</name>

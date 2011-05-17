@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Summer-Brew" brewery_id="Saranac" abv="3.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Summer-Brew</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>3.5</abv>
   <name>Summer Brew</name>
   <description>For nearly 100 years, Europeans have mixed lemonade and beer as a refreshing beverage during the summer months. We continue this tradition with Saranac Summer Brew-A refreshing blend of lemonade and lager. Kick back, relax and enjoy!</description>
   <availability>Summer</availability>

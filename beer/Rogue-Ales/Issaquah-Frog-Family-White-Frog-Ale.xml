@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Issaquah-Frog-Family-White-Frog-Ale" brewery_id="Rogue-Ales" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Issaquah-Frog-Family-White-Frog-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>13</ibu>
   <name>Issaquah Frog Family: White Frog Ale</name>
   <description>"Aromas of coriander and orange spice dominate the nose. A very light mouthfeel is countered with sweet orange peel, coriander and subtle notes of chamomile. It finishes with delicate banana and clove spices. Surprisingly light and immediately quaffable."</description>
   <availability/>

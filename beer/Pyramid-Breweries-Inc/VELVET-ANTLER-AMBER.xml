@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pyramid-Breweries-Inc/VELVET-ANTLER-AMBER" brewery_id="Pyramid-Breweries-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries-Inc/VELVET-ANTLER-AMBER</id>
+  <brewery_id>Pyramid-Breweries-Inc</brewery_id>
   <name>VELVET ANTLER AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-69596-46204-2">
+    <size>
+      <upc>0-69596-46204-2</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

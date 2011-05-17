@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="J-w-Dover-Beer-and-Wine-Makers-Supplies-Cleveland">
+<brewery>
+  <id>J-w-Dover-Beer-and-Wine-Makers-Supplies-Cleveland</id>
   <name>J w Dover Beer &amp; Wine Makers Supplies‎</name>
   <address>
     <street>24945 Detroit Rd # G</street>

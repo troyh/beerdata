@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tallgrass-Brewing-Co">
+<brewery>
+  <id>Tallgrass-Brewing-Co</id>
   <name>Tallgrass Brewing Co‎</name>
   <address>
     <street>8845 Quail Ln # 1</street>

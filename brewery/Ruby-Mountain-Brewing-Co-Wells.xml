@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ruby-Mountain-Brewing-Co-Wells">
+<brewery>
+  <id>Ruby-Mountain-Brewing-Co-Wells</id>
   <name>Ruby Mountain Brewing Co‎</name>
   <address>
     <street>Clover Valley</street>

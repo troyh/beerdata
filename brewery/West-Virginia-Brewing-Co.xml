@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="West-Virginia-Brewing-Co">
+<brewery>
+  <id>West-Virginia-Brewing-Co</id>
   <name>West Virginia Brewing Co‎</name>
   <address>
     <street>1293 University Ave</street>

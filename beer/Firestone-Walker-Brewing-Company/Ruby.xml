@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Ruby" brewery_id="Firestone-Walker-Brewing-Company" ibu="retired">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Ruby</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <ibu>retired</ibu>
   <name>Ruby</name>
   <description/>
   <availability/>

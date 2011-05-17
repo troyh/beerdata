@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Surly-Brewing-Co/Surlyfest" brewery_id="Surly-Brewing-Co" abv="6.1" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Surly-Brewing-Co/Surlyfest</id>
+  <brewery_id>Surly-Brewing-Co</brewery_id>
+  <abv>6.1</abv>
+  <ibu>45</ibu>
   <name>Surlyfest</name>
   <description>A traditional Oktoberfest bier from Surly? Nein! If you want one of those, grab your passport and head over to Munchen (bring us back some pretzels.) Our Fest inspired beer is brewed with imported malted barley, rye, and a German lager yeast strain. We hop this beer with a single variety... and then we dry hop it. A single hop, dry hopped, rye lager bier? Ja!</description>
   <availability>fall</availability>

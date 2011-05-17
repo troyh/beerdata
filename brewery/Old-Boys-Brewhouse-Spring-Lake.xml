@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-Boys-Brewhouse-Spring-Lake">
+<brewery>
+  <id>Old-Boys-Brewhouse-Spring-Lake</id>
   <name>Old Boy's Brewhouse‎</name>
   <address>
     <street>971 W Savidge St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kellys-Brewery-Albuquerque">
+<brewery>
+  <id>Kellys-Brewery-Albuquerque</id>
   <name>Kellys Brewery‎</name>
   <address>
     <street>3222 Central Ave SE</street>

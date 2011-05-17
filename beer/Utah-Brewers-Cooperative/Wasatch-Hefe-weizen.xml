@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Wasatch-Hefe-weizen" brewery_id="Utah-Brewers-Cooperative" abv="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Wasatch-Hefe-weizen</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
+  <abv>4</abv>
   <name>Wasatch Hefe-weizen</name>
   <description>A traditional German-style unfiltered wheat beer, hefe-weizen translates literally as "yeasty wheat beer." We brew this product using a hybrid Bavarian yeast strain which imparts the style defining flavor notes of licorice, clove and banana. Add to this the tangy sweetness of wheat malt and the flowery bitterness of Hallertau hops and you have a truly authentic hefe-weizen. 4.0% alcohol by volume.</description>
   <availability/>

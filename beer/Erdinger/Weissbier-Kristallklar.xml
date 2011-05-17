@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Erdinger/Weissbier-Kristallklar" brewery_id="Erdinger">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Erdinger/Weissbier-Kristallklar</id>
+  <brewery_id>Erdinger</brewery_id>
   <name>Weissbier Kristallklar</name>
   <description/>
   <availability/>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Imperial-Pilsner" brewery_id="Boston-Beer-Co" calories_per_ml="0.845350555040267" abv="8.80" og="21Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Imperial-Pilsner</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.845350555040267</calories_per_ml>
+  <abv>8.80</abv>
+  <og>21Plato</og>
   <name>Imperial Pilsner</name>
   <description>Yes, we're a little obsessed with hops.  Every autumn for over twenty years, Jim Koch has traveled to one of the oldest hop-growing regions in the world, the Hallertau region of Bavaria in Germany, to hand-select Noble Bavarian hops, including the Hallertau Mittelfrueh variety.  This special variety is considered to be one of the best in the world, prized for its unique taste and aroma.  Samuel AdamsÂ® Hallertau Imperial Pilsner is a celebration of these extraordinary hops. 
 This beer is one of the hoppiest in the world, without being overly bitter.  With the first sip, you will experience an explosion of some of the world's finest hops.  And we mean âexplosionâ in a good way.  Brewed as a showcase for the hops, this bold brew highlights the spicy, citrus flavors and aromas of the Hallertau Mittelfrueh hops that are abundant in the recipe.  The intense hops flavor is balanced with the slight sweetness from the malt. The brew remains pleasantly well-balanced from beginning to end, due to the quality of the hops, and continues to always be, well, "hoppy," providing hop lovers with an amazing beer drinking experience. </description>
@@ -10,7 +15,8 @@ This beer is one of the hoppiest in the world, without being overly bitter.  Wit
   <yeast>bottom-fermented lager yeast</yeast>
   <otherings/>
   <sizes>
-    <size upc="0-87692-99101-4">
+    <size>
+      <upc>0-87692-99101-4</upc>
       <description>BOTTLE 6/4</description>
       <distributor>
         <name>columbia</name>

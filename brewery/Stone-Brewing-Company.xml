@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stone-Brewing-Company">
+<brewery>
+  <id>Stone-Brewing-Company</id>
   <name>Stone Brewing Company‎</name>
   <address>
     <street>1999 W Citracado Pkwy</street>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Punkin-Ale" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.648102092197538" abv="7" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Punkin-Ale</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.648102092197538</calories_per_ml>
+  <abv>7</abv>
+  <ibu>24</ibu>
   <name>Punkin Ale</name>
   <description>A full-bodied brown ale with smooth hints of pumpkin and brown sugar. Perfect to warm-up with, as the season cools.</description>
   <availability>fall</availability>

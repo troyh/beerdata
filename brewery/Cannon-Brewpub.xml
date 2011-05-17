@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cannon-Brewpub">
+<brewery>
+  <id>Cannon-Brewpub</id>
   <name>Cannon Brewpub‎</name>
   <address>
     <street>1041 Broadway</street>

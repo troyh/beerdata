@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Curmudgeon" brewery_id="Founders-Brewing-Co" abv="9.8" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Curmudgeon</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>9.8</abv>
+  <ibu>50</ibu>
   <name>Curmudgeon </name>
   <description>Think classic sea fairing ports, local pubs, and weathered old fisherman. This old ale is brewed with molasses and an insane focus on the malt bill, then aged in oak. The result is a strong, rich, malty-delight that's deceptively smooth and drinkable.</description>
   <availability/>

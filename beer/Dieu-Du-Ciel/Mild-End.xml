@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Mild-End" brewery_id="Dieu-Du-Ciel" abv="3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Mild-End</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>3</abv>
   <name>Mild End</name>
   <description>Amber ale in the most authentic English tradition. This light beer with a very low alcohol content has fruity flavours, with a touch of caramel and bitterness. A perfect beer to accompany long evenings spent in deep conversation. This beer is named after the neighbourhood in which the brewpub is located, the Mile-End.</description>
   <availability/>

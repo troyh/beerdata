@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mudshark-Brewing-Co">
+<brewery>
+  <id>Mudshark-Brewing-Co</id>
   <name>Mudshark Brewing Co‎</name>
   <address>
     <street>210 Swanson Ave</street>

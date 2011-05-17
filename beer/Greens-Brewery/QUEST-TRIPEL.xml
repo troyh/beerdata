@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Greens-Brewery/QUEST-TRIPEL" brewery_id="Greens-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Greens-Brewery/QUEST-TRIPEL</id>
+  <brewery_id>Greens-Brewery</brewery_id>
   <name>QUEST TRIPEL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-17606-3">
+    <size>
+      <upc>0-85725-17606-3</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

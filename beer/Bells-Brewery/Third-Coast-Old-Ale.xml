@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Third-Coast-Old-Ale" brewery_id="Bells-Brewery" abv="10.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Third-Coast-Old-Ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>10.2</abv>
   <name>Third Coast Old Ale</name>
   <description>A barley wine with deep amber color. The brandy of ales, this beer has vintage character and will mature in the bottle at cellar temperature for years.</description>
   <availability>seasonal</availability>

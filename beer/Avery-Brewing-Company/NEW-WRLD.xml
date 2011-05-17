@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/NEW-WRLD" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/NEW-WRLD</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>NEW WRLD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-96363-00210-1">
+    <size>
+      <upc>7-96363-00210-1</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

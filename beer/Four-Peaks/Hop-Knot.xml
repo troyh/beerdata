@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Four-Peaks/Hop-Knot" brewery_id="Four-Peaks">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Four-Peaks/Hop-Knot</id>
+  <brewery_id>Four-Peaks</brewery_id>
   <name>Hop Knot</name>
   <description/>
   <availability/>

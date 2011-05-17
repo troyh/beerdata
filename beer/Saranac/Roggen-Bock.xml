@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Roggen-Bock" brewery_id="Saranac" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Roggen-Bock</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.5</abv>
   <name>Roggen Bock</name>
   <description>Brewed in the tradition of great German Bock beers with only German malts and hops, using 20% rye, malt to give it a distinctive spicy, yet smooth character. You'll love the rich flavors and deep red color of this unique German Brew.</description>
   <availability>seasonal</availability>

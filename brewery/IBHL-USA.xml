@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="IBHL-USA">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>IBHL-USA</id>
   <name>IBHL USA</name>
 </brewery>

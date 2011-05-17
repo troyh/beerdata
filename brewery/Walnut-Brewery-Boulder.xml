@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Walnut-Brewery-Boulder">
+<brewery>
+  <id>Walnut-Brewery-Boulder</id>
   <name>Walnut Brewery‎</name>
   <address>
     <street>1123 Walnut St</street>

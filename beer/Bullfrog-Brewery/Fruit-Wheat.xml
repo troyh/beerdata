@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Fruit-Wheat" brewery_id="Bullfrog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Fruit-Wheat</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
   <name>Fruit Wheat</name>
   <description>Watch for our rotating selection of fruit-infused brews such as: Apricot Wheat, Black-N-Blues-Berry Wheat, Strawberry Blonde, Black Razz-Berry Ale, Cherry Wheat, and many, many, more!</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Maredsous/Double" brewery_id="Maredsous">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Maredsous/Double</id>
+  <brewery_id>Maredsous</brewery_id>
   <name>Double</name>
   <description/>
   <availability/>

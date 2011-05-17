@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Perseguidor" brewery_id="Jolly-Pumpkin-Artisan-Ales">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Perseguidor</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
   <name>Perseguidor</name>
   <description>A new sour blend chosen from select barrels to reflect our never ending pursuit and passion for perfection in every bottle. Cellared a further six months before being offered for sale. As always; unfiltered, unpasturized and naturally delicious. Not a single beer, but rather a journey into taste!</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Avant-Garde-Ale" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Avant-Garde-Ale</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Avant Garde Ale</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="689926005018">
+    <size>
+      <upc>689926005018</upc>
       <description>12/750 ml  </description>
       <distributor>
         <name>click</name>

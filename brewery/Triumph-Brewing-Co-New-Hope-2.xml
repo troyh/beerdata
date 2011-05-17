@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Triumph-Brewing-Co-New-Hope-2">
+<brewery>
+  <id>Triumph-Brewing-Co-New-Hope-2</id>
   <name>Triumph Brewing Co‎</name>
   <address>
     <street>400 Union Square Dr</street>

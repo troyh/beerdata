@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hair-of-the-Dog-Brewing-Co/GREG" brewery_id="Hair-of-the-Dog-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hair-of-the-Dog-Brewing-Co/GREG</id>
+  <brewery_id>Hair-of-the-Dog-Brewing-Co</brewery_id>
   <name>GREG</name>
   <description/>
   <availability/>

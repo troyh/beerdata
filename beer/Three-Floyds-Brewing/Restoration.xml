@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Restoration" brewery_id="Three-Floyds-Brewing" abv="5" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Restoration</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5</abv>
+  <ibu>20</ibu>
   <name>Restoration</name>
   <description>Restoration Pale Ale is made with Pale, Lager, Crystal and Cara Pils malted barley. It is liberally hopped and dry hopped with American Cascade and fermented with California Ale yeast. The end result is a brilliant gold ale with a rich body, mild bitterness and a snappy fresh citrus hop flavor and aroma.\nThis beer can be paired with many different dishes according to your taste. The citrus flavor and aroma make it an excellent choice with most fish, especially ones that are prepared to match the flavor of the beer. American, Muenster, Havarti and Monterey Jack cheeses pair well with Restoration.</description>
   <availability>year-round</availability>

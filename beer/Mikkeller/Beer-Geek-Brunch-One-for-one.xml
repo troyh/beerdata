@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Beer-Geek-Brunch-One-for-one" brewery_id="Mikkeller" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Beer-Geek-Brunch-One-for-one</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>10</abv>
   <name>Beer Geek Brunch One-for-One</name>
-  <description>A tuned version of Beer Geek Breakfast brewed in small batches and sold exclusively through &#xAF;lbutikken in Copenhagen, Danmark. The recipe is different from Beer Geek Brunch Weasel.</description>
+  <description>A tuned version of Beer Geek Breakfast brewed in small batches and sold exclusively through ¯lbutikken in Copenhagen, Danmark. The recipe is different from Beer Geek Brunch Weasel.</description>
   <availability/>
   <ingredients/>
   <grains/>

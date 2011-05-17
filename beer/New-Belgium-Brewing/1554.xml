@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/1554" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/1554</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>1554</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-54527-00120-9">
+    <size>
+      <upc>7-54527-00120-9</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

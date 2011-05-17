@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/Fore-Smoked-Stout" brewery_id="Dark-Horse-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/Fore-Smoked-Stout</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
   <name>Fore Smoked Stout</name>
   <description>Number Four - Brewed with all malted barley and peat malt (smoked malt). This beer is full bodied with chocolate, roasted barley flavors, and a smokey almost BBQ finish.</description>
   <availability>fall/winter</availability>

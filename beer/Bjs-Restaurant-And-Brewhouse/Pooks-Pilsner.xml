@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Pooks-Pilsner" brewery_id="Bjs-Restaurant-And-Brewhouse">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Pooks-Pilsner</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
   <name>Pook's Pilsner</name>
   <description/>
   <availability>year-round</availability>

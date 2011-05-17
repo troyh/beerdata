@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schneider-Brewery/LT-EISBOCK" brewery_id="Schneider-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schneider-Brewery/LT-EISBOCK</id>
+  <brewery_id>Schneider-Brewery</brewery_id>
   <name>LT EISBOCK</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brewhouse-At-Eastlake">
+<brewery>
+  <id>Brewhouse-At-Eastlake</id>
   <name>Brewhouse At Eastlake‎</name>
   <address>
     <street>871 Showroom Pl # 102</street>

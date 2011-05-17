@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Imposture" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Imposture</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>IMPOSTURE</name>
   <description>The imposture was the result of an experiment by the brewer in which he brewed a Weizen type beer and added buckwheat instead of wheat. The resulting beer has the characteristic flavours of Weizens (due to the use of a particular yeast), but it is dryer and darker in colour.</description>
   <availability/>

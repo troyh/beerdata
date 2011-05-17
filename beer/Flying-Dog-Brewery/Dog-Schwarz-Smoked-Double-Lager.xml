@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flying-Dog-Brewery/Dog-Schwarz-Smoked-Double-Lager" brewery_id="Flying-Dog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery/Dog-Schwarz-Smoked-Double-Lager</id>
+  <brewery_id>Flying-Dog-Brewery</brewery_id>
   <name>Dog Schwarz Smoked Double Lager</name>
   <description>Meet the newest member of the critically acclaimed Wild Dog family, Dog Schwarz (sh-var-ts) Smoked Double Lager. Originally released in September 2008 (to coincide with our FBAG GABF party), we got such good feedback from consumers that we're still making it in small batches today. Dog Schwarz is smoky, but not too over-the-top - like all our beers, we strive to make something that is well balanced. We love pairing the Dog Schwarz with pepper cheeses, smoked meats and barbecue.</description>
   <availability>Limited</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ruby-River-Steakhouse">
+<brewery>
+  <id>Ruby-River-Steakhouse</id>
   <name>Ruby River Steakhouse‎</name>
   <address>
     <street>4286 Riverdale Rd</street>

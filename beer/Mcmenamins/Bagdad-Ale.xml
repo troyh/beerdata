@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Bagdad-Ale" brewery_id="Mcmenamins" abv="5.03">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Bagdad-Ale</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>5.03</abv>
   <name>Bagdad Ale</name>
   <description>Bagdad Ale is a benchmark beer for McMenamins. Inspired by the Pilsner style, our Bagdad Ale is one for the lager lovers. Its fine hop aroma and quick, light finish makes this a good ale for hot weather. It has become a favorite at McMenamins Bagdad Theater in Portland.</description>
   <availability>year-round</availability>

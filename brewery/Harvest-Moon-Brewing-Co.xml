@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Harvest-Moon-Brewing-Co">
+<brewery>
+  <id>Harvest-Moon-Brewing-Co</id>
   <name>Harvest Moon Brewing Co‎</name>
   <address>
     <street>7 5th St</street>

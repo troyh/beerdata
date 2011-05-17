@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Samuel-Smiths-Brewery/ORGANIC-ALE" brewery_id="Samuel-Smiths-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Samuel-Smiths-Brewery/ORGANIC-ALE</id>
+  <brewery_id>Samuel-Smiths-Brewery</brewery_id>
   <name>ORGANIC ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-0">
+    <size>
+      <upc>9-99999-99999-0</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kraftbrau-Brewery">
+<brewery>
+  <id>Kraftbrau-Brewery</id>
   <name>Kraftbrau Brewery‎</name>
   <address>
     <street>402 E Kalamazoo Ave</street>

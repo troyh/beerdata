@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Riverbend-Red" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Riverbend-Red</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Riverbend Red</name>
   <description>Deep ruby red in color, this beer derives its rich, malty ?flavor ?entirely from English malts.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Regatta-Red" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Regatta-Red</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Regatta Red</name>
   <description>"Red sky in the morning, sailor take warning: Regatta Red any day or night, is a sailor's delight!" A roasted malt flavor and aromatic finish add to the dimension of this ale. Perfect with any Brewery Classic.</description>
   <availability>year-round</availability>

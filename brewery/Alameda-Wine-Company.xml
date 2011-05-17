@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Alameda-Wine-Company">
+<brewery>
+  <id>Alameda-Wine-Company</id>
   <name>Alameda Wine Company‎</name>
   <address>
     <street>2315 Central Avenue</street>

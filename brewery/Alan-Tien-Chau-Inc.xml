@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Alan-Tien-Chau-Inc">
+<brewery>
+  <id>Alan-Tien-Chau-Inc</id>
   <name>Alan Tien Chau Inc‎</name>
   <address>
     <street>8585 Westminster Ave</street>

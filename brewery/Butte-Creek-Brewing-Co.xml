@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Butte-Creek-Brewing-Co">
+<brewery>
+  <id>Butte-Creek-Brewing-Co</id>
   <name>Butte Creek Brewing Co‎</name>
   <address>
     <street>945 W 2nd St</street>

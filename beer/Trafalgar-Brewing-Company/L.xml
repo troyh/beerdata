@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Trafalgar-Brewing-Company/L" brewery_id="Trafalgar-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Trafalgar-Brewing-Company/L</id>
+  <brewery_id>Trafalgar-Brewing-Company</brewery_id>
   <name>L</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-98596-00012-8">
+    <size>
+      <upc>8-98596-00012-8</upc>
       <description>BOTTLE 12/500</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Great-White-American-Light" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Great-White-American-Light</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Great White American Light</name>
   <description>Light, crisp and refreshing, brewed with the finest barley and choice Northwestern hops. Our lightest lager is blonde-colored with a clean flavor and is a perfect companion to any of our salads or lighter foods.</description>
   <availability>year-round</availability>

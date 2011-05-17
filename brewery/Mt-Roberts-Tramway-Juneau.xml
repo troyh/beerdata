@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mt-Roberts-Tramway-Juneau">
+<brewery>
+  <id>Mt-Roberts-Tramway-Juneau</id>
   <name>Mt. Roberts Tramway‎</name>
   <address>
     <street>490 S Franklin St</street>

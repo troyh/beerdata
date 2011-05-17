@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Madrugada-Obscura-dark-Dawn" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="8.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Madrugada-Obscura-dark-Dawn</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>8.1</abv>
   <name>Madrugada Obscura ""Dark Dawn""</name>
   <description>A Belgian inspired stout that is as dark as a moonless midnight, brimming of roasted malts and bitter hops. It will keep you good company in all places, be thay light or dark.</description>
   <availability>winter</availability>

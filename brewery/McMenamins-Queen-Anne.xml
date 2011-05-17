@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Queen-Anne">
+<brewery>
+  <id>McMenamins-Queen-Anne</id>
   <name>McMenamins-Queen Anne‎</name>
   <address>
     <street>200 Roy St # 105</street>

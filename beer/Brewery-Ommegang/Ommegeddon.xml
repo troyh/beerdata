@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Ommegang/Ommegeddon" brewery_id="Brewery-Ommegang">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Ommegang/Ommegeddon</id>
+  <brewery_id>Brewery-Ommegang</brewery_id>
   <name>Ommegeddon</name>
   <description/>
   <availability>limited</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="649440066605">
+    <size>
+      <upc>649440066605</upc>
       <description>6/25.4 oz</description>
       <distributor>
         <name>click</name>

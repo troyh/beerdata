@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Sleepy-Hollow-Nut-Brown" brewery_id="Mcmenamins" abv="5.03">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Sleepy-Hollow-Nut-Brown</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>5.03</abv>
   <name>Sleepy Hollow Nut Brown</name>
   <description>Time has slipped by again and we are confronted with the myriad of changes in the season that is autumn. Beautiful arrays of different colored foliage magically appear on the trees. Chillier weather starts to encompass our lives day by day. It's time to start thinking of burning wood in the fireplace to drive the cold from the extremities and of savoring the potion of your choice to warm the bones and soothe the soul. One can't think of anything better than the McMenamins classic seasonal brew, Sleepy Hollow Nut Brown. \nSleepy Hollow Nut Brown's chestnut color and medium body will cast an otherworldly spell over you. The complex malt character, well balanced with Nugget and US Golding hops, will have you walking in a continual reverie. Legend has it that Ichabod Crane downed a few Nut Brown Ales listening to local ghost tales and scary legends at the Van Tassel merry-making party before his fateful trip home. Be watchful and clear-headed on your way home lest you begin to grow fanciful, see shapes and shadows in the night and hear things in the howling wind. It may just be your imagination or it may just be the Headless Horseman on his fire-breathing black stallion following you!</description>
   <availability>fall</availability>

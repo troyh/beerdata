@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Shipyard-Brewing-Co/Old-Thumper-Extra-Special-Ale" brewery_id="Shipyard-Brewing-Co" abv="5.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shipyard-Brewing-Co/Old-Thumper-Extra-Special-Ale</id>
+  <brewery_id>Shipyard-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
   <name>Old Thumper Extra Special Ale</name>
   <description>Old Thumper Extra Special Ale was created in 1979 by veteran British brewer, Peter Austin, founder of the Ringwood Brewery in Hampshire, England and mentor to Shipyard's mater brewer, Alan Pugsley. A British Grand Champion beer, Old Thumper is a non-traditional English Bitter, brewed in the United States solely by The Shipyard Brewing Company.</description>
   <availability/>

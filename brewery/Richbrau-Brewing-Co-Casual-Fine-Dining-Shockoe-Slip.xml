@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Richbrau-Brewing-Co-Casual-Fine-Dining-Shockoe-Slip">
+<brewery>
+  <id>Richbrau-Brewing-Co-Casual-Fine-Dining-Shockoe-Slip</id>
   <name>Richbrau Brewing Co: Casual-Fine Dining Shockoe Slip‎</name>
   <address>
     <street>1214 E Cary St</street>

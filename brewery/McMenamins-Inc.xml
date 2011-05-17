@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Inc">
+<brewery>
+  <id>McMenamins-Inc</id>
   <name>McMenamins Inc‎</name>
   <address>
     <street>2001 NW Monroe Ave</street>

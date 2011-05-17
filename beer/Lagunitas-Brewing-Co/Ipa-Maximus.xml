@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Ipa-Maximus" brewery_id="Lagunitas-Brewing-Co" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Ipa-Maximus</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
+  <abv>7.5</abv>
   <name>IPA Maximus</name>
   <description>At the height of the heat in the heart of the summer, we felt the only cure was a raging mouthful of fresh Hops and Malt. Caution: May remove enamel from teeth.</description>
   <availability/>

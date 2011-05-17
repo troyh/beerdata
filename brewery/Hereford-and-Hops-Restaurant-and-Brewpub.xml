@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hereford-and-Hops-Restaurant-and-Brewpub">
+<brewery>
+  <id>Hereford-and-Hops-Restaurant-and-Brewpub</id>
   <name>Hereford &amp; Hops Restaurant &amp; Brewpub‎</name>
   <address>
     <street>2305 Sherman St</street>

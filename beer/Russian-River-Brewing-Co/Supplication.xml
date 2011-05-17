@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Supplication" brewery_id="Russian-River-Brewing-Co" abv="7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Supplication</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>7</abv>
   <name>Supplication</name>
   <description>Brown Ale aged in French oak Pinot Noir barrels with three strains of Brettanomyces, Lactobacillus, Pediococcus and sour cherries . </description>
   <availability/>

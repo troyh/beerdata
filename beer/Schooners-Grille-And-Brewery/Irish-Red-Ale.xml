@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Schooners-Grille-And-Brewery/Irish-Red-Ale" brewery_id="Schooners-Grille-And-Brewery" abv="5" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schooners-Grille-And-Brewery/Irish-Red-Ale</id>
+  <brewery_id>Schooners-Grille-And-Brewery</brewery_id>
+  <abv>5</abv>
+  <ibu>24</ibu>
   <name>Irish Red Ale</name>
   <description>Our Irish influenced Red Ale's flavor is derived from the use of 6 different malts. Caramel and toast notes greet the nose while toffee and roast join the mix of flavors on the palate. English Kent Goldings are used to provide the bittering with just a hint added for flavor. All interplay to create a smooth drinking pint that is beautiful to behold.</description>
   <availability/>

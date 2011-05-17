@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southern-Oregon-Brewing-Co">
+<brewery>
+  <id>Southern-Oregon-Brewing-Co</id>
   <name>Southern Oregon Brewing Co‎</name>
   <address>
     <street>1922 United Way</street>

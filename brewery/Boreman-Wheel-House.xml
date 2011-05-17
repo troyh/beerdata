@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boreman-Wheel-House">
+<brewery>
+  <id>Boreman-Wheel-House</id>
   <name>Boreman Wheel House‎</name>
   <address>
     <street>406 Avery St</street>

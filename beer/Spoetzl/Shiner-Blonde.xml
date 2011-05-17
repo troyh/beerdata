@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-Blonde" brewery_id="Spoetzl" abv="4.4" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-Blonde</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>4.4</abv>
+  <ibu>13</ibu>
   <name>Shiner Blonde</name>
   <description>Blonde made its debut as the original recipe Kosmos Spoetzl brought to the "?Little Brewery." A golden lager that pays sincere tribute to its Bohemian roots, Shiner Blonde carries a distinctive flavor followed by a satisfying, smooth finish. Although our Blonde owes its heritage to the German homeland, it represents the best of a true American lager. That'?s our Shiner Blonde -- red, white </description>
   <availability>year-round</availability>

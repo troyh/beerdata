@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Williamsburg-Alewerks">
+<brewery>
+  <id>Williamsburg-Alewerks</id>
   <name>Williamsburg Alewerks‎</name>
   <address>
     <street>189 Ewell Rd</street>

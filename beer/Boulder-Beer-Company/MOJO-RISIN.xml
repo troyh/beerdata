@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boulder-Beer-Company/MOJO-RISIN" brewery_id="Boulder-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Company/MOJO-RISIN</id>
+  <brewery_id>Boulder-Beer-Company</brewery_id>
   <name>MOJO RISIN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50939-41201-6">
+    <size>
+      <upc>0-50939-41201-6</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flying-Fish-Brewing-Co">
+<brewery>
+  <id>Flying-Fish-Brewing-Co</id>
   <name>Flying Fish Brewing Co‎</name>
   <address>
     <street>1940 Olney Ave # 100</street>

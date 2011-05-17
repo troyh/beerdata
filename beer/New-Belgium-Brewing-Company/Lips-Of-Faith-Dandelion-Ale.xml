@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Dandelion-Ale" brewery_id="New-Belgium-Brewing-Company" abv="7.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Lips-Of-Faith-Dandelion-Ale</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
+  <abv>7.8</abv>
   <name>Lips of Faith Dandelion Ale</name>
   <description>The newest offering in New Belgium's Lips of Faith Program, Dandelion Ale, was inspired by the great hop shortage of 2008. Dandelion greens have a natural bittering effect much like hops. Reveling in the freedom of the Belgian brewing tradition, we thought this ubiquitous weed would make an interesting addition to a traditionally hopped beer. The result is a strong blond ale brewed with toasted pilsener malt, flavored with fresh picked dandelion greens and grains of paradise. Dandelion Ale is hazy and light gold in color with peachy aroma and a Belgian yeast strain. It has a unique bitterness, subtle maltiness and a creamy mouthfeel.</description>
   <availability>limited</availability>

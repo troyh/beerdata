@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Govnors-Public-House">
+<brewery>
+  <id>Govnors-Public-House</id>
   <name>Govnor's Public House‎</name>
   <address>
     <street>220 N Randall Rd</street>

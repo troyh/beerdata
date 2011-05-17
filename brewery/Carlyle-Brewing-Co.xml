@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Carlyle-Brewing-Co">
+<brewery>
+  <id>Carlyle-Brewing-Co</id>
   <name>Carlyle Brewing Co‎</name>
   <address>
     <street>215 E State St</street>

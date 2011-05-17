@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Bear-Mountain-Brewery">
+<brewery>
+  <id>Big-Bear-Mountain-Brewery</id>
   <name>Big Bear Mountain Brewery‎</name>
   <address>
     <street>40260 Big Bear Blvd</street>

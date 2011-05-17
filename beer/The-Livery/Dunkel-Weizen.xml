@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Dunkel-Weizen" brewery_id="The-Livery" abv="5.25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Dunkel-Weizen</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.25</abv>
   <name>Dunkel Weizen</name>
   <description>This dark version of our Hefe Weizen retains the banana and clove flavors from the yeast and also has a richer malt flavor. Available November through April.</description>
   <availability>limited</availability>

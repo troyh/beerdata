@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Wolavers-Organic-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Wolavers-Organic-Brewing</id>
   <name>Wolavers Organic Brewing</name>
 </brewery>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blueberry-Hill">
+<brewery>
+  <id>Blueberry-Hill</id>
   <name>Blueberry Hill‎</name>
   <address>
     <street>2381 Sullivant Ave</street>

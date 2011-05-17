@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Oberon-Ale" brewery_id="Bells-Brewery" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Oberon-Ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>4.8</abv>
   <name>Oberon Ale</name>
   <description>An American wheat ale brewed with Saaz hops. Spicy and fruity, Oberon is the color and scent of a sunny afternoon.</description>
   <availability>Seasonal</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Selins-Grove-Brewing-Company/Wit" brewery_id="Selins-Grove-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Selins-Grove-Brewing-Company/Wit</id>
+  <brewery_id>Selins-Grove-Brewing-Company</brewery_id>
   <name>WIT</name>
   <description/>
   <availability/>

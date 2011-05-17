@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Samuel-Smiths-Brewery/NUT-BROWN" brewery_id="Samuel-Smiths-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Samuel-Smiths-Brewery/NUT-BROWN</id>
+  <brewery_id>Samuel-Smiths-Brewery</brewery_id>
   <name>NUT BROWN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-31503-5">
+    <size>
+      <upc>0-85725-31503-5</upc>
       <description>6/4/12Z BTL</description>
       <distributor>
         <name>odom</name>

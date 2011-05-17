@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rahr-and-Sons-Brewery">
+<brewery>
+  <id>Rahr-and-Sons-Brewery</id>
   <name>Rahr &amp; Sons Brewery‎</name>
   <address>
     <street>701 Galveston Ave</street>

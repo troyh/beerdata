@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stix-Pizza-and-Brewing-Co">
+<brewery>
+  <id>Stix-Pizza-and-Brewing-Co</id>
   <name>Stix Pizza &amp; Brewing Co.‎</name>
   <address>
     <street>1001 Fairview Ave N</street>

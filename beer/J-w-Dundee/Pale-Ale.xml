@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="J-w-Dundee/Pale-Ale" brewery_id="J-w-Dundee">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>J-w-Dundee/Pale-Ale</id>
+  <brewery_id>J-w-Dundee</brewery_id>
   <name>Pale Ale</name>
   <description/>
   <availability/>

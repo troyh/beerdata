@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bullfrog-Brewery">
+<brewery>
+  <id>Bullfrog-Brewery</id>
   <name>Bullfrog Brewery‎</name>
   <address>
     <street>229 W 4th St</street>

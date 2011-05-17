@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurant-and-Brewery-Portland-3">
+<brewery>
+  <id>Rock-Bottom-Restaurant-and-Brewery-Portland-3</id>
   <name>Rock Bottom Restaurant &amp; Brewery‎</name>
   <address>
     <street>206 SW Morrison St</street>

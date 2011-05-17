@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rosies-Brewpub">
+<brewery>
+  <id>Rosies-Brewpub</id>
   <name>Rosie's Brewpub‎</name>
   <address>
     <street>115 E 7th Street</street>

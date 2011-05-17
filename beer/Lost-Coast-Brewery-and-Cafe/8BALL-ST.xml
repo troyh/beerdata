@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lost-Coast-Brewery-and-Cafe/8BALL-ST" brewery_id="Lost-Coast-Brewery-and-Cafe">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery-and-Cafe/8BALL-ST</id>
+  <brewery_id>Lost-Coast-Brewery-and-Cafe</brewery_id>
   <name>8BALL ST</name>
   <description/>
   <availability/>

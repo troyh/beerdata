@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Belgian-Style-Tripel-Ale" brewery_id="Mikkeller" abv="8.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Belgian-Style-Tripel-Ale</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>8.7</abv>
   <name>Belgian Style Tripel Ale</name>
   <description>A friendship brew brewed in collaboration with the amazing Alesmith and Stone Brewing Co. from California. Belgian Style Tripel Ale is a 'classic tripel' with a little extra hops. Sold from Stone Brewing Company and a few retailers in California and Europe.</description>
   <availability/>

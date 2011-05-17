@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Funkin-Punkin" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Funkin-Punkin</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Funkin Punkin</name>
   <description>A seasonal blend of pumpkin, spices, and carefully formulated ale. Notably aromatic of pumpkin pie, and the color of a light pastel brown, this brew is especially true of ale and comfortably consumable. Brewed with real pumpkin and real spice, it's still very much a beer, but beautifully engineered with spice, pumpkin and beer balance.</description>
   <availability>fall</availability>

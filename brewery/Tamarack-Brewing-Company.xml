@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tamarack-Brewing-Company">
+<brewery>
+  <id>Tamarack-Brewing-Company</id>
   <name>Tamarack Brewing Company‎</name>
   <address>
     <street>105 Blacktail Road Suite #1</street>

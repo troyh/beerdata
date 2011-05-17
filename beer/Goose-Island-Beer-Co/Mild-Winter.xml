@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Mild-Winter" brewery_id="Goose-Island-Beer-Co" abv="5.6" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Mild-Winter</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>28</ibu>
   <name>Mild Winter</name>
   <description>Toffee brown, medium-bodied, with a creamy head and an aroma of raisins and freshly baked dark bread. Mild Winter's rich caramel malt and spicy rye flavors are sure to take the bite out of whatever Old Man Winter brews up for you this year.</description>
   <availability>winter</availability>

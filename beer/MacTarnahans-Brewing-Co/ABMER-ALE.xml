@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="MacTarnahans-Brewing-Co/ABMER-ALE" brewery_id="MacTarnahans-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>MacTarnahans-Brewing-Co/ABMER-ALE</id>
+  <brewery_id>MacTarnahans-Brewing-Co</brewery_id>
   <name>ABMER ALE</name>
   <description/>
   <availability/>

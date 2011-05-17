@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Whitbread/Ale" brewery_id="Whitbread">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Whitbread/Ale</id>
+  <brewery_id>Whitbread</brewery_id>
   <name>Ale</name>
   <description/>
   <availability/>

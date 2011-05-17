@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mash-House-Brewery-and-Restaurant">
+<brewery>
+  <id>Mash-House-Brewery-and-Restaurant</id>
   <name>Mash House Brewery &amp; Restaurant‎</name>
   <address>
     <street>4150 Sycamore Dairy Rd</street>

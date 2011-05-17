@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Smoked-Porter" brewery_id="Harpoon" abv="5.7" ibu="37">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Smoked-Porter</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>5.7</abv>
+  <ibu>37</ibu>
   <name>Smoked Porter</name>
   <description>The Harpoon 100 Barrel Series Smoked Porter is brewed with German beechwood rauch malt and a blend of eight other malts. This porter style ale is full-bodied and malty. The smoked malt imparts a complex but pleasant aroma and flavor with a balanced and subtle hop finish.</description>
   <availability>limited</availability>

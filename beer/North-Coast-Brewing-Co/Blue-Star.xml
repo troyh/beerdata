@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Blue-Star" brewery_id="North-Coast-Brewing-Co" abv="4.5" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Blue-Star</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
+  <ibu>17</ibu>
   <name>Blue Star</name>
   <description>Choice American barley and wheat malts are combined with a blend of noble hops to create this light, fruity, refreshing beer. Brewed in the style of the American beer renaissance, Blue Star is unfiltered, the yeast adding a complex note to the flavor profile.</description>
   <availability/>

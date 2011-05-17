@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Belgian-Golden-Ale" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Belgian-Golden-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Belgian Golden Ale</name>
   <description>Our Belgian Golden Ale is made exclusively with pale malts, resulting in a deep golden color and sweet malty taste. It is a flavorful brew (7.5% ABV), but is hopped liberally with German hops to balance out the sweetness and strength. We selected a special Belgian yeast strain that slightly imparts the flavors of banana, clove and even bubble gum. The result is a unique, and flavorful ale.</description>
   <availability>retired</availability>

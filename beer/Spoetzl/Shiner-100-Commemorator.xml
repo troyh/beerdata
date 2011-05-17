@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-100-Commemorator" brewery_id="Spoetzl" abv="6.7" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-100-Commemorator</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>6.7</abv>
+  <ibu>17</ibu>
   <name>Shiner 100 Commemorator</name>
   <description>Brewed in the traditional Doppelbock-style, this mildly-spiced, toasted-caramel ale is arguably one of the tawniest lagers around. It is a malt beer brewed for consumption and sometimes dubbed as "liquid bread" since monks developed this style of beer to help them fast during the Lenten season. The Commemorator is as rich and robust as the 100 years of Shiner heritage it represents. Available for a limited time only through the end of 2009. Savor a pint while you can.</description>
   <availability>Limited</availability>

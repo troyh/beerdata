@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Collaboration-Not-Litigation-Ale" brewery_id="Avery-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Collaboration-Not-Litigation-Ale</id>
+  <brewery_id>Avery-Brewing</brewery_id>
   <name>Collaboration not Litigation Ale</name>
   <description>Salvation. The name of two intricate Belgian-style ales, created by us, Vinnie Cilurzo of Russian River Brewing and Adam Avery of Avery Brewing. After becoming friends a few years ago, we realized we both had a Salvation in our lineups. Was it going to be a problem? Should one of us relinquish the name rights? "Hell, no!" we said. In fact, it was quickly decided that we should blend the brews to catch the best qualities of each and create an even more complex and rich libation. In April 2004, in a top secret meeting at Russian River Brewing (well, actually it was packed in the pub and many were looking over our shoulders wondering what the hell was going on), we came up with the perfect blend of the two Salvations. Natalie, Vinnie's much more significant other, exclaimed, "We should call this Collaboration, not Litigation Ale!" "Perfect," we shouted! We celebrated deep into the night (or is that morning?). Fast forward to November 14, 2006. After talking about it for over two years, we finally decided to pull the trigger and Vinnie made the journey to Avery Brewing to brew his Salvation exactly as he does in his brewery.</description>
   <availability/>

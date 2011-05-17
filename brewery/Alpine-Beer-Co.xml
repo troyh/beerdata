@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Alpine-Beer-Co">
+<brewery>
+  <id>Alpine-Beer-Co</id>
   <name>Alpine Beer Co‎</name>
   <address>
     <street>2351 Alpine Blvd</street>

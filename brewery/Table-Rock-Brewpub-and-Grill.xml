@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Table-Rock-Brewpub-and-Grill">
+<brewery>
+  <id>Table-Rock-Brewpub-and-Grill</id>
   <name>Table Rock Brewpub &amp; Grill‎</name>
   <address>
     <street>705 Fulton St</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brooklyn-Brewery/Brooklyn-Cuvee-De-Cardoz" brewery_id="Brooklyn-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brooklyn-Brewery/Brooklyn-Cuvee-De-Cardoz</id>
+  <brewery_id>Brooklyn-Brewery</brewery_id>
+  <abv>8</abv>
   <name>Brooklyn Cuvee de Cardoz</name>
   <description/>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Van-Honsebrouck/TRIPLE" brewery_id="Brouwerij-Van-Honsebrouck">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Van-Honsebrouck/TRIPLE</id>
+  <brewery_id>Brouwerij-Van-Honsebrouck</brewery_id>
   <name>TRIPLE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-08782-50072-7">
+    <size>
+      <upc>6-08782-50072-7</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Mud-In-Your-Eye-Light" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Mud-In-Your-Eye-Light</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Mud in your Eye Light</name>
   <description>Handcrafted in the American brewing tradition, this straw-colored beer is light-bodied with a crisp taste. Clean and refreshing, Mud in Your Eye Light is the perfect introduction to handcrafted beer and pairs great with any of our salads. Gold Medal Winner- 2005 Indiana Brewers Cup (Kolsch-Style Ale)</description>
   <availability>year-round</availability>

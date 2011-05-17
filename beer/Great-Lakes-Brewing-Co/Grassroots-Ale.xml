@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Grassroots-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="6.2" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Grassroots-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>30</ibu>
   <name>Grassroots Ale</name>
   <description>Formerly Hale Ale: A fragrant saison blended with coriander, lemon balm, chamomile and lemon basil, some of which were sustainably grown on our "Pint Size Farm" at Hale Farm &amp; Village. This mild ale honors the grassroots foundation of our company and our unwavering commitment to Mother Earth.</description>
   <availability>seasonal</availability>

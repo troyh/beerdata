@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Dukes-Blonde-Ale" brewery_id="Kona-Brewing-Co" abv="4.5" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Dukes-Blonde-Ale</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
+  <ibu>18</ibu>
   <name>Duke's Blonde Ale</name>
   <description>Dukes Draft Blonde Ale is a crisp, light and refreshing ale. An excellent warm weather midday quencher with a delicate touch of hops to balance the light maltiness.</description>
   <availability>limited</availability>

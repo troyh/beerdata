@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Capitol-City-Brewing-Company">
+<brewery>
+  <id>Capitol-City-Brewing-Company</id>
   <name>Capitol City Brewing Company‎</name>
   <address>
     <street>301 S Light St</street>

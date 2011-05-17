@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Tyanena-Brewing-Company/Gemuetlichkeit-Oktoberfest" brewery_id="Tyanena-Brewing-Company" ibu="22">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tyanena-Brewing-Company/Gemuetlichkeit-Oktoberfest</id>
+  <brewery_id>Tyanena-Brewing-Company</brewery_id>
+  <ibu>22</ibu>
   <name>Gemuetlichkeit Oktoberfest</name>
-  <description>Gemuetlichkeit translates from German as "the fondness of feasting, drinking and merry company."&#xCA; This is true of most everyone in Wisconsin, especially those of us at the brewery.&#xCA;&#xCA; Each September in the nearby city of Jefferson, Wisconsin, thousand turn out for Gemuetlichkeit Days, a celebration of the area's German heritage.&#xCA; We invite you to celebrate the spirit of Gemuetlichkeit with us.&#xCA; Don your lederh&#x9A;sen, kick up your heels with a polka and raise a stein of our Gemuetlichkeit Oktoberfest with a friend.&#xCA; Ein Prosit!Gemuetlichkeit Oktoberfest is a rich, amber lager with a malty aroma and balanced hop bitterness.&#xCA; This seasonal style is served at German Oktoberfests in liter steins.</description>
+  <description>Gemuetlichkeit translates from German as "the fondness of feasting, drinking and merry company."Ê This is true of most everyone in Wisconsin, especially those of us at the brewery.ÊÊ Each September in the nearby city of Jefferson, Wisconsin, thousand turn out for Gemuetlichkeit Days, a celebration of the area's German heritage.Ê We invite you to celebrate the spirit of Gemuetlichkeit with us.Ê Don your lederhsen, kick up your heels with a polka and raise a stein of our Gemuetlichkeit Oktoberfest with a friend.Ê Ein Prosit!Gemuetlichkeit Oktoberfest is a rich, amber lager with a malty aroma and balanced hop bitterness.Ê This seasonal style is served at German Oktoberfests in liter steins.</description>
   <availability>limited</availability>
   <ingredients/>
   <grains>2-row, Caramel, Munich, Victory</grains>

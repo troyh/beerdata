@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/York-Street-Bitter" brewery_id="Great-Lakes-Brewing-Co" abv="5.5" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/York-Street-Bitter</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>5.5</abv>
+  <ibu>45</ibu>
   <name>York Street Bitter</name>
   <description>A medium-bodied ESB with a fresh fruity hop aroma, malty palate and clean, dry finish.</description>
   <availability>limited</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Frank-N-Stein">
+<brewery>
+  <id>Frank-N-Stein</id>
   <name>Frank N Stein‎</name>
   <address>
     <street>2030 Main St</street>

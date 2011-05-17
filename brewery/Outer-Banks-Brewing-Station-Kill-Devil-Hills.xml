@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Outer-Banks-Brewing-Station-Kill-Devil-Hills">
+<brewery>
+  <id>Outer-Banks-Brewing-Station-Kill-Devil-Hills</id>
   <name>Outer Banks Brewing Station‎</name>
   <address>
     <street>600 S Croatan Hwy</street>

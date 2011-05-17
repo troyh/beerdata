@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barley-Creek-Brewing-Co">
+<brewery>
+  <id>Barley-Creek-Brewing-Co</id>
   <name>Barley Creek Brewing Co‎</name>
   <address>
     <street>Sullivan Trl &amp; Cambelback Rd</street>

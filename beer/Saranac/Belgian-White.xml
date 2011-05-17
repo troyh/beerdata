@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Belgian-White" brewery_id="Saranac" abv="5.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Belgian-White</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.3</abv>
   <name>Belgian White</name>
   <description>Our Belgian Style White beer is smooth, tangy and very thirst quenching. Brewed with a delicate combination of oats, wheat and barley malt, we season it ever so lightly with hops. Then we add sprinklings of coriander and orange peel for a refreshing brew with a citrus aroma. Don't be fooled by the cloudy appearance, that's expected of a classic Belgian-style "Whitbier" or white beer.</description>
   <availability>seasonal</availability>

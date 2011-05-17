@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Santa-Fe/Chicken-Killer-Barley-Wine" brewery_id="Santa-Fe">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Santa-Fe/Chicken-Killer-Barley-Wine</id>
+  <brewery_id>Santa-Fe</brewery_id>
   <name>Chicken Killer Barley Wine</name>
   <description/>
   <availability/>

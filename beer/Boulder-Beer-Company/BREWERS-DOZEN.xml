@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boulder-Beer-Company/BREWERS-DOZEN" brewery_id="Boulder-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Company/BREWERS-DOZEN</id>
+  <brewery_id>Boulder-Beer-Company</brewery_id>
   <name>BREWERS DOZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50939-12121-5">
+    <size>
+      <upc>0-50939-12121-5</upc>
       <description>2/12/12 BTL</description>
       <distributor>
         <name>odom</name>

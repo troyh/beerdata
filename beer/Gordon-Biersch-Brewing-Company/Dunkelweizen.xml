@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Gordon-Biersch-Brewing-Company/Dunkelweizen" brewery_id="Gordon-Biersch-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gordon-Biersch-Brewing-Company/Dunkelweizen</id>
+  <brewery_id>Gordon-Biersch-Brewing-Company</brewery_id>
   <name>Dunkelweizen</name>
   <description>Dunkelweizen translates from German to mean dark wheat. Gordon Biersch Dunkelweizen highlights the undertones of dark- roasted malted wheat and the unique flavors produced by our special Hefeweizen yeast strain. Our Dunkelweizen adheres to all of the traditions of the Reinheitsgebot (German Purity Law of 1516) and is naturally carbonated.</description>
   <availability>winter</availability>

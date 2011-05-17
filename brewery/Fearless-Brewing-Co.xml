@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fearless-Brewing-Co">
+<brewery>
+  <id>Fearless-Brewing-Co</id>
   <name>Fearless Brewing Co‎</name>
   <address>
     <street>326 S Broadway St</street>

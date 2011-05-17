@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Brother-Thelonious" brewery_id="North-Coast-Brewing-Co" abv="9.3" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Brother-Thelonious</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>9.3</abv>
+  <ibu>32</ibu>
   <name>Brother Thelonious</name>
   <description>Like a Belgian "Dark Strong Ale", the beer is rich and robust with an ABV of 9.3%. The package is a 750 ml bottle with a traditional cork and wire finish or 12oz 4 packs and features a label picturing the jazz master himself.</description>
   <availability/>
@@ -10,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="727344001059">
+    <size>
+      <upc>727344001059</upc>
       <description>6/4/12 oz</description>
       <distributor>
         <name>click</name>

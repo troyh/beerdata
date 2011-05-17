@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Quarry-Brewing">
+<brewery>
+  <id>Quarry-Brewing</id>
   <name>Quarry Brewing‎</name>
   <address>
     <street>45 W Galena St</street>

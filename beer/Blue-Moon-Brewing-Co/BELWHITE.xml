@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Blue-Moon-Brewing-Co/BELWHITE" brewery_id="Blue-Moon-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Moon-Brewing-Co/BELWHITE</id>
+  <brewery_id>Blue-Moon-Brewing-Co</brewery_id>
   <name>BELWHITE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-71990-09511-6">
+    <size>
+      <upc>0-71990-09511-6</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

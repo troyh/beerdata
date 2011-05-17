@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lion-Nathan/4" brewery_id="Lion-Nathan">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lion-Nathan/4</id>
+  <brewery_id>Lion-Nathan</brewery_id>
   <name>4</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72509-00005-8">
+    <size>
+      <upc>0-72509-00005-8</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

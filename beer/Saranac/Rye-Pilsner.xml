@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Rye-Pilsner" brewery_id="Saranac" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Rye-Pilsner</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.8</abv>
   <name>Rye Pilsner</name>
   <description>A nice, spicy twist on the traditional European Pilsener. Rye malt adds dimension to what otherwise is a relatively simple brew. We've used generous amouns of this complex malt so you can pick out the unique flavors. You'll notice a nice subtle spiciness in the finish complemented by a crisp bitterness from Vanguard hops. </description>
   <availability>Summer</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Erik-The-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Erik-The-Red-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Erik the Red Ale</name>
   <description>A dry-hopped American-style Red Ale brewed with dark crystal malt that lends a caramel and maple character to this deep ruby-colored brew. Copious amounts of Cascade and Centennial hops are addded into the fermenter to create an explosion of lemon and grapefruit flavors and aromas. Our hoppiest house regular!</description>
   <availability>year-round</availability>

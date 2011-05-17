@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Two-Brothers-Brewing-Company">
+<brewery>
+  <id>Two-Brothers-Brewing-Company</id>
   <name>Two Brothers Brewing Company‎</name>
   <address>
     <street>30w315 Calumet Ave.</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Fire-Rock-Pale-Ale" brewery_id="Kona-Brewing-Co" abv="5.9" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Fire-Rock-Pale-Ale</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
+  <ibu>38</ibu>
   <name>Fire Rock Pale Ale</name>
   <description>Fire Rock Pale Ale is a crisp, refreshing "Hawaiian-style" pale ale. Its signature copper color results from the unique blend of specialty roasted malts. The pronounced citrus-floral hop aroma comes from the liberal amounts of Galena, Cascade &amp; Mt. Hood hops added to each brew.</description>
   <availability>year-round</availability>

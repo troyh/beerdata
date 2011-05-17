@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Stone-Brewing-Company/Stone-Vertical-Epic-Ale" brewery_id="Stone-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Company/Stone-Vertical-Epic-Ale</id>
+  <brewery_id>Stone-Brewing-Company</brewery_id>
   <name>Stone Vertical Epic Ale</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="636251404047">
+    <size>
+      <upc>636251404047</upc>
       <description>6/25.4 oz</description>
       <distributor>
         <name>click</name>

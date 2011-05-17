@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blue-Star-Brewing-Co-San-Antonio">
+<brewery>
+  <id>Blue-Star-Brewing-Co-San-Antonio</id>
   <name>Blue Star Brewing Co‎</name>
   <address>
     <street>1414 S Alamo St</street>

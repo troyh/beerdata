@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="River-City-Brewery">
+<brewery>
+  <id>River-City-Brewery</id>
   <name>River City Brewery‎</name>
   <address>
     <street>150 N Mosley St</street>

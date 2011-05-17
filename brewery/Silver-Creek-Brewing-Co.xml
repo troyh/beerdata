@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Silver-Creek-Brewing-Co">
+<brewery>
+  <id>Silver-Creek-Brewing-Co</id>
   <name>Silver Creek Brewing Co‎</name>
   <address>
     <street>N57w6172 Portland Rd</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pizza-Port-Solana-Beach-2">
+<brewery>
+  <id>Pizza-Port-Solana-Beach-2</id>
   <name>Pizza Port‎</name>
   <address>
     <street>135 N Highway 101</street>

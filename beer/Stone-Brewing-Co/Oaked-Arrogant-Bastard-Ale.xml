@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Oaked-Arrogant-Bastard-Ale" brewery_id="Stone-Brewing-Co" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Oaked-Arrogant-Bastard-Ale</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>7.2</abv>
   <name>Oaked Arrogant Bastard Ale</name>
   <description/>
   <availability/>

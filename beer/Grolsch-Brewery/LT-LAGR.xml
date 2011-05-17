@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grolsch-Brewery/LT-LAGR" brewery_id="Grolsch-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grolsch-Brewery/LT-LAGR</id>
+  <brewery_id>Grolsch-Brewery</brewery_id>
   <name>LT LAGR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83741-22502-4">
+    <size>
+      <upc>0-83741-22502-4</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

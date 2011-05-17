@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Summer-Solstice-Cerveza-Crema" brewery_id="Anderson-Valley-Brewing-Co" abv="5.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Summer-Solstice-Cerveza-Crema</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
   <name>Summer Solstice Cerveza Crema</name>
-  <description>Welcome to the Summer Solstice! This copper colored ale is smooth, malty, and lightly sweet, with a delicate hint of spice for that oh-so-drinkable, extra velvety flavor. The character is lighter in body than its cousin, our wildly popular Winter Solstice Seasonal Ale . This is a silky, creamy dream, perfect as a warm weather beer. But why call it Cerveza Crema? Two reasons: One, this beer has become a favorite among many of our Hispanic friends, so it's named in their honor. Two, it sounds cool, and cool is what you want when its hot. Serve at 40 to 45 degrees Fahrenheit for the most optimal flavor and enjoyment. &#xC1;Salud!</description>
+  <description>Welcome to the Summer Solstice! This copper colored ale is smooth, malty, and lightly sweet, with a delicate hint of spice for that oh-so-drinkable, extra velvety flavor. The character is lighter in body than its cousin, our wildly popular Winter Solstice Seasonal Ale . This is a silky, creamy dream, perfect as a warm weather beer. But why call it Cerveza Crema? Two reasons: One, this beer has become a favorite among many of our Hispanic friends, so it's named in their honor. Two, it sounds cool, and cool is what you want when its hot. Serve at 40 to 45 degrees Fahrenheit for the most optimal flavor and enjoyment. ÁSalud!</description>
   <availability>summer</availability>
   <ingredients/>
   <grains/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Flying-Dog-Brewery/Old-Scratch-Amber-Lager" brewery_id="Flying-Dog-Brewery" abv="5.5" ibu="19.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery/Old-Scratch-Amber-Lager</id>
+  <brewery_id>Flying-Dog-Brewery</brewery_id>
+  <abv>5.5</abv>
+  <ibu>19.5</ibu>
   <name>Old Scratch Amber Lager</name>
   <description>This dog enjoys his days in the sun... Old Scratch Amber Lager is a malty, mellow beer that is fermented at medium temperatures to develop both ale and lager characteristics. "Gold Scratch" raises the standard in the amber lager category.</description>
   <availability/>

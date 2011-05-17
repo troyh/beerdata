@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pike-Brewing-Co/Monk-s-Uncle-Tripel" brewery_id="Pike-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pike-Brewing-Co/Monk-s-Uncle-Tripel</id>
+  <brewery_id>Pike-Brewing-Co</brewery_id>
   <name>Monk's Uncle Tripel</name>
   <description/>
   <availability>spring</availability>

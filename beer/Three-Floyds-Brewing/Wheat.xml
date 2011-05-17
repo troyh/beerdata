@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Wheat" brewery_id="Three-Floyds-Brewing" abv="4.2" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Wheat</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>4.2</abv>
+  <ibu>15</ibu>
   <name>Wheat</name>
   <description>Wheat (May -- September) German brewers discovered centuries ago that the addition of wheat produces a distinctively light, refreshing beer. Unlike traditional German wheat beers produced by other breweries, Abita Wheat is a lager, not an ale, and contains a generous amount of wheat which produces a clean, simple flavor. For a change of pace, try Abita Wheat with a twist of lemon. Feta and goat cheeses pair well with Wheat beer. Great with summertime fare such as pasta and salads, but don't forget barbeque and anything right off the grill.</description>
   <availability>summer</availability>

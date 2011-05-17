@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Dikkeriget-Gipa" brewery_id="Mikkeller" abv="6.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Dikkeriget-Gipa</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>6.6</abv>
   <name>Dikkeriget GIPA</name>
   <description/>
   <availability/>

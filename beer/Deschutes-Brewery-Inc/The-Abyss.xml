@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/The-Abyss" brewery_id="Deschutes-Brewery-Inc" abv="11" ibu="65">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/The-Abyss</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>11</abv>
+  <ibu>65</ibu>
   <name>The Abyss</name>
   <description>The Abyss has immeasurable depth inviting you to explore and discover its rich, complex profile. Hints of molasses, licorice and other alluring flavors draw you in further and further with each sip. And at 11% alcohol by volume, you will want to slowly savor each and every ounce.
 November 2008 marks the third release of this dark and mysterious imperial stout. Limited availability in wax-dipped 22-ounce bottles and on draft at a few select establishments.</description>
@@ -10,10 +14,11 @@ November 2008 marks the third release of this dark and mysterious imperial stout
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="13F">Russian Imperial Stout</style>
+    <style><bjcp_style_id>13F</bjcp_style_id>Russian Imperial Stout</style>
   </styles>
   <sizes>
-    <size upc="7-63176-25022-7">
+    <size>
+      <upc>7-63176-25022-7</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

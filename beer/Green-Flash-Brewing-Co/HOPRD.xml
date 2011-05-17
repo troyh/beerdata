@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Green-Flash-Brewing-Co/HOPRD" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/HOPRD</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>HOPRD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-77777-77777-9">
+    <size>
+      <upc>7-77777-77777-9</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

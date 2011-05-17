@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Van-Steenberge/2-FLEM" brewery_id="Brouwerij-Van-Steenberge">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Van-Steenberge/2-FLEM</id>
+  <brewery_id>Brouwerij-Van-Steenberge</brewery_id>
   <name>2 FLEM</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-10168-00301-9">
+    <size>
+      <upc>7-10168-00301-9</upc>
       <description>BOTTLE 24/11</description>
       <distributor>
         <name>columbia</name>

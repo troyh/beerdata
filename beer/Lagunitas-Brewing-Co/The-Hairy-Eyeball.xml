@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/The-Hairy-Eyeball" brewery_id="Lagunitas-Brewing-Co" abv="8.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/The-Hairy-Eyeball</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
+  <abv>8.7</abv>
   <name>The Hairy Eyeball</name>
   <description>Our New Year's release for the seasoned beer folks ... Big, brown warmer with several types of crystal malt. No actual eyeballs can actually be found in the beer.</description>
   <availability>Winter</availability>

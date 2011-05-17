@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lost-Coast-Brewery/Great-White" brewery_id="Lost-Coast-Brewery" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery/Great-White</id>
+  <brewery_id>Lost-Coast-Brewery</brewery_id>
+  <abv>4.8</abv>
   <name>Great White</name>
   <description>A crisp beer with a hint of citrus, made with two-row malted barley, unmalted wheat, a secret blend of Humboldt herbs, crystal clear mountain water and ale yeast. </description>
   <availability/>

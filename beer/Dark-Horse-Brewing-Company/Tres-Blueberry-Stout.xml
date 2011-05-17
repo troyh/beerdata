@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/Tres-Blueberry-Stout" brewery_id="Dark-Horse-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/Tres-Blueberry-Stout</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
   <name>Tres Blueberry Stout</name>
   <description>Number Three - A full bodied stout made with all malted barley and blueberry. Flavors of chocolate, roast malt and light blueberry make up the palate with lots of fruity blueberry aroma</description>
   <availability>fall/winter</availability>

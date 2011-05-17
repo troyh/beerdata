@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Yokel" brewery_id="New-Glarus-Brewing-Company" abv="4.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Yokel</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>4.7</abv>
   <name>Yokel</name>
   <description>Savor this creamy headed pint at your favorite escape. Here's to cards on the table, a juke box chewing coins, chalk on your cue, and your favorite brew washing down the perfect burger. \nThis is a whole beer straight from the tanks smooth unfiltered and without pretense. Wisconsin, German and England barleys and the finest Bavarian hops combine in classic German brewing methods. You are holding the freshest possible Wisconsin beer. \nExpect this beer to be comfortable, crisp and slightly cloudy. Enjoy our salute to every guy who finished his game and left the kids quarters on the table. Remember Buy Local, Drink Yokel.</description>
   <availability>summer</availability>

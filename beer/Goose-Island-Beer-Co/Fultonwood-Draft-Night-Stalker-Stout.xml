@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Fultonwood-Draft-Night-Stalker-Stout" brewery_id="Goose-Island-Beer-Co" abv="11.7" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Fultonwood-Draft-Night-Stalker-Stout</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>11.7</abv>
+  <ibu>60</ibu>
   <name>FultonWood Draft: Night Stalker Stout</name>
   <description>A strong imperial stout, extremely rich and massively dry hopped for balance.</description>
   <availability>limited</availability>

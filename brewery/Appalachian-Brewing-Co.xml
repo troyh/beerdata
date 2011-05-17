@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Appalachian-Brewing-Co">
+<brewery>
+  <id>Appalachian-Brewing-Co</id>
   <name>Appalachian Brewing Co‎</name>
   <address>
     <street>3721 Market St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blue-Frog-Grog-and-Grill">
+<brewery>
+  <id>Blue-Frog-Grog-and-Grill</id>
   <name>Blue Frog Grog &amp; Grill‎</name>
   <address>
     <street>1740 Travis Blvd</street>

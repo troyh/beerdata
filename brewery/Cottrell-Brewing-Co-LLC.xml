@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cottrell-Brewing-Co-LLC">
+<brewery>
+  <id>Cottrell-Brewing-Co-LLC</id>
   <name>Cottrell Brewing Co LLC‎</name>
   <address>
     <street>100 Mechanic St # 22</street>

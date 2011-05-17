@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Red-Oak-Brewery">
+<brewery>
+  <id>Red-Oak-Brewery</id>
   <name>Red Oak Brewery‎</name>
   <address>
     <street>6901 Konica Dr</street>

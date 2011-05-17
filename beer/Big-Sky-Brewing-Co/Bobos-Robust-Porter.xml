@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Bobos-Robust-Porter" brewery_id="Big-Sky-Brewing-Co" abv="6.2" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Bobos-Robust-Porter</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>32</ibu>
   <name>Bobo's Robust Porter</name>
   <description/>
   <availability>limited</availability>

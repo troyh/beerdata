@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Solstice-Dhiver" brewery_id="Dieu-Du-Ciel" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Solstice-Dhiver</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>9</abv>
   <name>Solstice d'hiver</name>
   <description>This noble winter beer is brown in colour with flaming red highlights. Its taste is delicately sweet and liquor-like with a hint of burnt caramel coming from the malt and a prolonged boiling time. It is a very bitter beer with aromas of hops and alcohol, and flavours reminiscent of red fruit brought by the English-type yeast we use to ferment it. The aftertaste is accentuated by the wonderful flavour of hops. Solstice d'Hiver is brewed only once a year, and is then aged for 4 to 5 months before being sold. This aging process is necessary to achieve an ideal equilibrium between the sharp bitterness and the other flavours in the beer.</description>
   <availability>winter</availability>

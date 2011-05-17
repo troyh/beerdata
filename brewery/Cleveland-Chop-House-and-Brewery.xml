@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cleveland-Chop-House-and-Brewery">
+<brewery>
+  <id>Cleveland-Chop-House-and-Brewery</id>
   <name>Cleveland Chop House &amp; Brewery‎</name>
   <address>
     <street>824 W Saint Clair Ave</street>

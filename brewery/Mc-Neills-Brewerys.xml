@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mc-Neills-Brewerys">
+<brewery>
+  <id>Mc-Neills-Brewerys</id>
   <name>Mc Neill's Brewery's‎</name>
   <address>
     <street>90 Elliot St</street>

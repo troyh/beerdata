@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Youngs/Oatmeal-Stout" brewery_id="Youngs">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Youngs/Oatmeal-Stout</id>
+  <brewery_id>Youngs</brewery_id>
   <name>Oatmeal Stout</name>
   <description/>
   <availability/>

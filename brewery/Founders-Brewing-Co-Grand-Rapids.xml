@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Founders-Brewing-Co-Grand-Rapids">
+<brewery>
+  <id>Founders-Brewing-Co-Grand-Rapids</id>
   <name>Founders Brewing Co‎</name>
   <address>
     <street>235 Grandville Ave SW</street>

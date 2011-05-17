@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Huyghe-Brewery/TREMEN" brewery_id="Huyghe-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Huyghe-Brewery/TREMEN</id>
+  <brewery_id>Huyghe-Brewery</brewery_id>
   <name>TREMEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-08782-52300-9">
+    <size>
+      <upc>6-08782-52300-9</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Black-Sand-Porter" brewery_id="Kona-Brewing-Co" abv="6.8" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Black-Sand-Porter</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>6.8</abv>
+  <ibu>40</ibu>
   <name>Black Sand Porter</name>
   <description>Black Sand Porter is a robust, full bodied porter with pronounced bittersweet chocolate flavor and aroma from the diverse variety of malt used to brew this beer. The hops balance the the maltiness of this robust and roasty ale.</description>
   <availability>limited</availability>

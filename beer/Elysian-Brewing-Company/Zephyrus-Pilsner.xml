@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/Zephyrus-Pilsner" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/Zephyrus-Pilsner</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>Zephyrus Pilsner</name>
   <description/>
   <availability/>

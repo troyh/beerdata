@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Shoreline-Brewery">
+<brewery>
+  <id>Shoreline-Brewery</id>
   <name>Shoreline Brewery‎</name>
   <address>
     <street>208 Wabash St</street>

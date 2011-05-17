@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Fum-e-De-Chanvre" brewery_id="Dieu-Du-Ciel" abv="5.5">
-  <name>FUM&#x83;E DE CHANVRE </name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Fum-e-De-Chanvre</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5.5</abv>
+  <name>FUME DE CHANVRE </name>
   <description>This original beer presents flavours similar to the Fumisterie, but is augmented by the taste of wood smoked malt.</description>
   <availability/>
   <ingredients/>

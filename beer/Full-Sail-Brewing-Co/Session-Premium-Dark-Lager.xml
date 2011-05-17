@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Session-Premium-Dark-Lager" brewery_id="Full-Sail-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Session-Premium-Dark-Lager</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
   <name>Session Premium Dark Lager</name>
   <description>Short, Dark, and Drinkable. Our newest member of the family, Session Black, carries the mantra of drinkability into new territory. Most beers this dark are so heavy-duty, you could eat them with a fork. Session Black, on the other hand, lets you have your dark beer and drink it, too. With just a hint of roasty chocolate character, Session Black is short, dark, and totally drinkable. At long last, a dark beer that doesn't drink like a meal.</description>
   <availability/>

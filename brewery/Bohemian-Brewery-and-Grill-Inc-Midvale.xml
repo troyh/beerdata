@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bohemian-Brewery-and-Grill-Inc-Midvale">
+<brewery>
+  <id>Bohemian-Brewery-and-Grill-Inc-Midvale</id>
   <name>Bohemian Brewery and Grill Inc‎</name>
   <address>
     <street>94 E 7200 S</street>

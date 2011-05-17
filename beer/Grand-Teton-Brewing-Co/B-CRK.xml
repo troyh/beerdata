@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grand-Teton-Brewing-Co/B-CRK" brewery_id="Grand-Teton-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grand-Teton-Brewing-Co/B-CRK</id>
+  <brewery_id>Grand-Teton-Brewing-Co</brewery_id>
   <name>B CRK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-39736-00730-6">
+    <size>
+      <upc>6-39736-00730-6</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

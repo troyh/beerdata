@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Desert-Edge-Brewery-at-the-Pub">
+<brewery>
+  <id>Desert-Edge-Brewery-at-the-Pub</id>
   <name>Desert Edge Brewery at the Pub‎</name>
   <address>
     <street>602 S 500 E</street>

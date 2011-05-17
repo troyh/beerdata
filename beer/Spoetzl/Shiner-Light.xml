@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-Light" brewery_id="Spoetzl" abv="4" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-Light</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>4</abv>
+  <ibu>13</ibu>
   <name>Shiner Light</name>
   <description>Light just doesn't quite capture the complex character of this handcrafted Shiner beer. At the "Little Brewery," our commitment to making the best beer anywhere yields a deep amber brew blended from choice Munich malts, select hops and pure Artesian water. Shiner Light sacrifices none of the taste or satisfaction while reducing calories and carbs. And every bottle of Shiner Light carries the signature of a Shiner, Texas, citizen -- to remind folks that only one light beer is good enough to be called Shiner!</description>
   <availability>year-round</availability>

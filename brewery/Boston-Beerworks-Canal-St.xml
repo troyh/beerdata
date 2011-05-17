@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boston-Beerworks-Canal-St">
+<brewery>
+  <id>Boston-Beerworks-Canal-St</id>
   <name>Boston Beerworks-Canal St‎</name>
   <address>
     <street>110 Canal St</street>

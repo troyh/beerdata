@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lucky-Labrador-Brew-Pub-Portland">
+<brewery>
+  <id>Lucky-Labrador-Brew-Pub-Portland</id>
   <name>Lucky Labrador Brew Pub‎</name>
   <address>
     <street>915 SE Hawthorne Blvd</street>

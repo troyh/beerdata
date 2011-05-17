@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bills-Tavern-and-Brewhouse-Cannon-Beach">
+<brewery>
+  <id>Bills-Tavern-and-Brewhouse-Cannon-Beach</id>
   <name>Bill's Tavern &amp; Brewhouse‎</name>
   <address>
     <street>188 N Hemlock St</street>

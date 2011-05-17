@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Maltnomah-Porter" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Maltnomah-Porter</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Maltnomah Porter</name>
   <description>This robust beer is rich and satisfying, with chocolatey, roasted notes and a smooth finish. This beer is dark, but still very drinkable and is a smooth companion to one of our juicy burgers or steaks.</description>
   <availability>year-round</availability>

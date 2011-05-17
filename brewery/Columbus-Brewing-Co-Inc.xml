@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Columbus-Brewing-Co-Inc">
+<brewery>
+  <id>Columbus-Brewing-Co-Inc</id>
   <name>Columbus Brewing Co Inc‎</name>
   <address>
     <street>525 Short St</street>

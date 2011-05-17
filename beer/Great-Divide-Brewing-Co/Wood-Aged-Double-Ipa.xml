@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Wood-Aged-Double-Ipa" brewery_id="Great-Divide-Brewing-Co" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Wood-Aged-Double-Ipa</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>10</abv>
   <name>Wood Aged Double IPA</name>
   <description>Based on our most award-winning beer, Denver Pale Ale, this copper-hued treat is a celebration of everything Great Divide does best. Plenty of malty sweetness provides a backdrop for earthy, floral English and American hops, while French and American oak round off the edges and provide a touch of vanilla. Thanks to everyone who's supported us  for the last 15 years - here's to 15 more!</description>
   <availability>limited</availability>

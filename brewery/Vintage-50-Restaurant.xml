@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Vintage-50-Restaurant">
+<brewery>
+  <id>Vintage-50-Restaurant</id>
   <name>Vintage 50 Restaurant‎</name>
   <address>
     <street>50 Catoctin Circle</street>

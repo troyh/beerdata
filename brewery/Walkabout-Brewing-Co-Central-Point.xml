@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Walkabout-Brewing-Co-Central-Point">
+<brewery>
+  <id>Walkabout-Brewing-Co-Central-Point</id>
   <name>Walkabout Brewing Co‎</name>
   <address>
     <street>5204 Dobrot Way</street>

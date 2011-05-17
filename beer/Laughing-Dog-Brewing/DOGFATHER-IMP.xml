@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Laughing-Dog-Brewing/DOGFATHER-IMP" brewery_id="Laughing-Dog-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Laughing-Dog-Brewing/DOGFATHER-IMP</id>
+  <brewery_id>Laughing-Dog-Brewing</brewery_id>
   <name>DOGFATHER IMP</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-55239-00120-1">
+    <size>
+      <upc>8-55239-00120-1</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

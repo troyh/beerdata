@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Michigan-Brewing-Co">
+<brewery>
+  <id>Michigan-Brewing-Co</id>
   <name>Michigan Brewing Co‎</name>
   <address>
     <street>1093 Highview Dr</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Firehouse-Brewing-Co">
+<brewery>
+  <id>Firehouse-Brewing-Co</id>
   <name>Firehouse Brewing Co‎</name>
   <address>
     <street>610 Main St</street>

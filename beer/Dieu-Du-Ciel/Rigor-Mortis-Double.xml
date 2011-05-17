@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Rigor-Mortis-Double" brewery_id="Dieu-Du-Ciel" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Rigor-Mortis-Double</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>7.5</abv>
   <name>RIGOR MORTIS DOUBLE</name>
   <description>Rigor Mortis Double is a brown ale inspired from the classic Dubbel style brewed by Trappist monks. Containing very little hops, this beer presents almost no bitterness but instead malty, sweet, chocolate and caramel flavors. Coming from the yeast strain we use, complex red fruits and spices flavors are also found in the beer.</description>
   <availability/>

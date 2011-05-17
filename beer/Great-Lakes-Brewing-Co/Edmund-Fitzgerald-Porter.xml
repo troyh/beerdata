@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Edmund-Fitzgerald-Porter" brewery_id="Great-Lakes-Brewing-Co" abv="5.8" ibu="37">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Edmund-Fitzgerald-Porter</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>5.8</abv>
+  <ibu>37</ibu>
   <name>Edmund Fitzgerald Porter</name>
   <description>A complex, roasty porter with a bittersweet, chocolate-coffee taste and bold hop presence. Named after the ship that frequently docked in Cleveland and sunk in Lake Superior on November 10, 1975 with many Northeast Ohioans on board. </description>
   <availability>year-round</availability>

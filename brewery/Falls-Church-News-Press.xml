@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Falls-Church-News-Press">
+<brewery>
+  <id>Falls-Church-News-Press</id>
   <name>Falls Church News-Press‎</name>
   <address>
     <street>450 W Broad St # 321</street>

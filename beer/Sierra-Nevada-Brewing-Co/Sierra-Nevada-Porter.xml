@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Porter" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.6" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/Sierra-Nevada-Porter</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>40</ibu>
   <name>Sierra Nevada Porter</name>
   <description>Dark and rich, Sierra Nevada Porter is a delicious, medium-bodied ale with a creamy head. The Porter's smooth flavor (malty with hints of caramel) comes from a blend of deep-roasted barley malts.</description>
   <availability/>

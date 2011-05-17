@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sierra-Nevada-Brewing-Co/ANNV-ALE" brewery_id="Sierra-Nevada-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/ANNV-ALE</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
   <name>ANNV ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83783-22812-0">
+    <size>
+      <upc>0-83783-22812-0</upc>
       <description/>
       <distributor>
         <name>columbia</name>

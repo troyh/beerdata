@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Amber-Wheat" brewery_id="Saranac" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Amber-Wheat</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.8</abv>
   <name>Amber Wheat</name>
   <description>Wholesome, delicious and refreshing. What more can you say about a beer brewed with generous amounts of American Wheat Malt. In keeping with the tradition of Dunkel Weizen, we've used a sweet addition of Cara and roast malts to add to the interest. Unfiltered so You'll experience the beer as wheat beers are meant to be enjoyed. </description>
   <availability>Summer</availability>

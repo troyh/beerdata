@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Illinois-Brewing-Co-Bloomington">
+<brewery>
+  <id>Illinois-Brewing-Co-Bloomington</id>
   <name>Illinois Brewing Co‎</name>
   <address>
     <street>102 N Center St # 111</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="La-Brasserie-Dupont/CELEBRATION" brewery_id="La-Brasserie-Dupont">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>La-Brasserie-Dupont/CELEBRATION</id>
+  <brewery_id>La-Brasserie-Dupont</brewery_id>
   <name>CELEBRATION</name>
   <description/>
   <availability/>

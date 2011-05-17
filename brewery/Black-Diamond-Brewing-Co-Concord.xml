@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Black-Diamond-Brewing-Co-Concord">
+<brewery>
+  <id>Black-Diamond-Brewing-Co-Concord</id>
   <name>Black Diamond Brewing Co‎</name>
   <address>
     <street>2470 Bates Ave # C</street>

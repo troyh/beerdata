@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Des-Moines-2">
+<brewery>
+  <id>Rock-Bottom-Des-Moines-2</id>
   <name>Rock Bottom‎</name>
   <address>
     <street>4508 East University Avenue</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Draft-Bear" brewery_id="Mikkeller" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Draft-Bear</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>8</abv>
   <name>Draft Bear</name>
   <description>A Danish pilsner is typically characterized by an alcohol content of 4,6% vol., piss-yellow colour and a sexless, slightly bitter taste. But it doesn't have to be like this...! Draft Bear is Mikkellers interpretation of a 'pilsner', heavyweight-style. With its powerful hop notes, high alcohol content and lovely golden appearance, the only reference to the pilsner style is the clean taste of the lager yeast.</description>
   <availability/>

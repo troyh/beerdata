@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Capital-Brewery/Wild-Rice" brewery_id="Capital-Brewery" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Capital-Brewery/Wild-Rice</id>
+  <brewery_id>Capital-Brewery</brewery_id>
+  <abv>5.4</abv>
   <name>Wild Rice</name>
   <description>Summer Seasonal 2009 - This is a beer unlike any other. Wild Rice adds a unique flavor, defying conventional expectations, yet is extremely drinkable. This brew offers a fruity/nutty flavor that is quite refreshing. ABV 5.4%</description>
   <availability>Summer</availability>

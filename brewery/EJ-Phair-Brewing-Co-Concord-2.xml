@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="EJ-Phair-Brewing-Co-Concord-2">
+<brewery>
+  <id>EJ-Phair-Brewing-Co-Concord-2</id>
   <name>EJ Phair Brewing Co‎</name>
   <address>
     <street>975 Detroit Ave # E</street>

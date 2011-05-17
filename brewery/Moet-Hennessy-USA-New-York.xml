@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Moet-Hennessy-USA-New-York">
+<brewery>
+  <id>Moet-Hennessy-USA-New-York</id>
   <name>Moet Hennessy USA‎</name>
   <address>
     <street>2 Park Ave</street>

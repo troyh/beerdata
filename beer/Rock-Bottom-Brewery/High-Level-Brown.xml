@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/High-Level-Brown" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/High-Level-Brown</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>High Level Brown</name>
   <description>A classic, flavorful brown ale with a medium-bodied, deep caramel malt character balanced perfectly by a mild, dry hop presence in the finish. A fine compliment to any of our juicy steaks.</description>
   <availability>year-round</availability>

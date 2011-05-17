@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Lindemans/CASSIS-LAMBIC-BLACK-CURRANT" brewery_id="Brouwerij-Lindemans">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Lindemans/CASSIS-LAMBIC-BLACK-CURRANT</id>
+  <brewery_id>Brouwerij-Lindemans</brewery_id>
   <name>CASSIS LAMBIC (BLACK CURRANT)</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-10811-8">
+    <size>
+      <upc>0-85725-10811-8</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

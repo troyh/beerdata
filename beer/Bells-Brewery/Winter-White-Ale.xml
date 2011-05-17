@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Winter-White-Ale" brewery_id="Bells-Brewery" abv="5.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Winter-White-Ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>5.0</abv>
   <name>Winter White Ale</name>
   <description>A Wheat Ale brewed with American Wheat and a proprietary blend of Hefe and classic Belgian-style yeasts. A refreshing winter alternative created from the subtle fusion of two classic flavors.</description>
   <availability>winter</availability>

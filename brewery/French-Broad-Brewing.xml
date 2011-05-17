@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="French-Broad-Brewing">
+<brewery>
+  <id>French-Broad-Brewing</id>
   <name>French Broad Brewing‎</name>
   <address>
     <street>101 Fairview Rd # D</street>

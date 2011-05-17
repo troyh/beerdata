@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pennichuck-Brewing-Co-Inc">
+<brewery>
+  <id>Pennichuck-Brewing-Co-Inc</id>
   <name>Pennichuck Brewing Co Inc‎</name>
   <address>
     <street>127 Elm St # C</street>

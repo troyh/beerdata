@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulevard-Brewing-Co/Dry-Stout" brewery_id="Boulevard-Brewing-Co" abv="4.9" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulevard-Brewing-Co/Dry-Stout</id>
+  <brewery_id>Boulevard-Brewing-Co</brewery_id>
+  <abv>4.9</abv>
+  <ibu>28</ibu>
   <name>Dry Stout</name>
   <description>Velvety black and perfectly opaque, our bottled Dry Stout is the somewhat livelier companion to our popular draught version of this enduring style. This surprisingly smooth, drinkable beer is a delightful harmony of smoky roasted flavors and tangy, coffee-like notes.\nSENSORY DESCRIPTION: Light body pairs best with lighter flavored foods, although the roasted flavors allow a bit more leeway with richer, more full-flavored foods. Flavor hooks: chocolate, roasted flavors</description>
   <availability>year-round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Yazoo-Brewing-Nashville">
+<brewery>
+  <id>Yazoo-Brewing-Nashville</id>
   <name>Yazoo Brewing‎</name>
   <address>
     <street>1200 Clinton St # 110</street>

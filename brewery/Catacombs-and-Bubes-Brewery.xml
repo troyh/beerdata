@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Catacombs-and-Bubes-Brewery">
+<brewery>
+  <id>Catacombs-and-Bubes-Brewery</id>
   <name>Catacombs &amp; Bube's Brewery‎</name>
   <address>
     <street>102 N Market St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Cuckoo-Bock" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Cuckoo-Bock</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Cuckoo Bock</name>
   <description>This time the Otter is back in Germany, with a traditional German beer, Mai Bock. Brewmaster Steve Parkes procured Vienna malt, pilsener malt, two types of Munich malts, and hops and yeast all the way from Germany, in an effort to make this beer as authentic as possible. The Otter Creek version will be light and slightly sweet, with a fresh aroma. Don't let this fool you, however. Mai Bocks are strong beers and this one won't be any different. As it says on the label- "Now you can have your own German Mai Fest- prosit!"</description>
   <availability>limited</availability>

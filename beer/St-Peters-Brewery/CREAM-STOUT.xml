@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="St-Peters-Brewery/CREAM-STOUT" brewery_id="St-Peters-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Peters-Brewery/CREAM-STOUT</id>
+  <brewery_id>St-Peters-Brewery</brewery_id>
   <name>CREAM STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-88444-50015-9">
+    <size>
+      <upc>6-88444-50015-9</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

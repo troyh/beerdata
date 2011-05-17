@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Scandia-Ale" brewery_id="Summit-Brewing" abv="4.8" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Scandia-Ale</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>4.8</abv>
+  <ibu>17</ibu>
   <name>Scandia Ale</name>
   <description>Summit Scandia Ale is a Scandinavian interpretation of a famous Belgian ale with spice notes of cardmom, coriander and orange.  Scandia Ale pours cloudy with a white head and has a refereshing and pleasing flavor profile.</description>
   <availability>summer</availability>

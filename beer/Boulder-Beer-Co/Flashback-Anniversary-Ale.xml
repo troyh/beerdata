@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Flashback-Anniversary-Ale" brewery_id="Boulder-Beer-Co" abv="6.88">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Flashback-Anniversary-Ale</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>6.88</abv>
   <name>Flashback Anniversary Ale</name>
   <description/>
   <availability>limited</availability>

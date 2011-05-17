@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Barleywine" brewery_id="Great-Lakes-Brewing-Co" abv="10.2" ibu="95">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Barleywine</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>10.2</abv>
+  <ibu>95</ibu>
   <name>Barleywine</name>
   <description>A full-bodied barley wine with a smooth, velvety taste and mellow hop nose.</description>
   <availability>limited</availability>

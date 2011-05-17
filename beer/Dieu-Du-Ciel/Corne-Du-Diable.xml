@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Corne-Du-Diable" brewery_id="Dieu-Du-Ciel" abv="6.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Corne-Du-Diable</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6.5</abv>
   <name>Corne du diable</name>
   <description>Corne du diable (French for "Horn of the devil") is a contemporary interpretation of the classic English India Pale Ale. This new style, born on the west coast of North America, is characterized by stronger and hoppier beers. The result is a red ale expressing caramel flavours coming from the malt, sharp bitterness and powerful hop aromas, thanks to dry hopping</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Library-Restaurant-and-Brewing-Company-The">
+<brewery>
+  <id>Library-Restaurant-and-Brewing-Company-The</id>
   <name>Library Restaurant &amp; Brewing Company The‎</name>
   <address>
     <street>1622 E Grand Ave</street>

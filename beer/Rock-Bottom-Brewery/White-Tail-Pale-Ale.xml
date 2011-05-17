@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/White-Tail-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/White-Tail-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>White Tail Pale Ale</name>
   <description>Smooth in body and copper in color, this Pale Ale has a traditional muted English hop profile of fruit, flowers and fields. You can't go wrong pairing this brew with any chicken or seafood dish.</description>
   <availability>year-round</availability>

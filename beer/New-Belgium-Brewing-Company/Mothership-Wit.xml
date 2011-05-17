@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Mothership-Wit" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Mothership-Wit</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Mothership Wit</name>
   <description>Our first venture into organically-produced beer, Mothership Wit Organic Wheat Beer elevates the zesty Wit or White beers of Belgium. Our far-flung Beer Rangers affectionately refer to our Fort Collins brewery as the Mothership, a name that conjures images of earth shot from space and the interconnectivity of it all. Mothership Wit is brewed with wheat and barley malt, as well as coriander and orange peel spicing resulting in a balance of citrus and sour flavors held in suspension by a bright burst of carbonation.</description>
   <availability>year-round</availability>

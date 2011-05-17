@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Abbey-Grand-Cru" brewery_id="New-Belgium-Brewing-Company" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Lips-Of-Faith-Abbey-Grand-Cru</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
+  <abv>9.5</abv>
   <name>Lips of Faith Abbey Grand Cru</name>
-  <description>Before there was New Belgium Brewing, there was Abbey Ale. It was the first beer of home brewer and New Belgium co-founder, Jeff Lebesch. So the love brews deep for Abbey Grand Cru.\nTo date, Abbey Ale has garnered no less than 16 medals at the Great American Beer Festival--7 of those being Gold. Take that award-winning recipe, precisely increase the hops, malt and fermentation time, and the result is a Grand Cru worth collecting. And that's exactly what many of us at New Belgium, as well as a growing number of fans, have done.\nBy saving it for a few years, Abbey Grand Cru will continue to improve and age deliciously. Optimal storage is a cool (40-55&#xA1;), dark place where the bottles can remain undisturbed. But lest we forget, it is a great beer and great beers deserve to be enjoyed. Best served at cellar temperature in a wide-mouthed glass. Toast to the monk's virtue and have a heavenly experience.</description>
+  <description>Before there was New Belgium Brewing, there was Abbey Ale. It was the first beer of home brewer and New Belgium co-founder, Jeff Lebesch. So the love brews deep for Abbey Grand Cru.\nTo date, Abbey Ale has garnered no less than 16 medals at the Great American Beer Festival--7 of those being Gold. Take that award-winning recipe, precisely increase the hops, malt and fermentation time, and the result is a Grand Cru worth collecting. And that's exactly what many of us at New Belgium, as well as a growing number of fans, have done.\nBy saving it for a few years, Abbey Grand Cru will continue to improve and age deliciously. Optimal storage is a cool (40-55¡), dark place where the bottles can remain undisturbed. But lest we forget, it is a great beer and great beers deserve to be enjoyed. Best served at cellar temperature in a wide-mouthed glass. Toast to the monk's virtue and have a heavenly experience.</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

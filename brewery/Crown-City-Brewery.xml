@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Crown-City-Brewery">
+<brewery>
+  <id>Crown-City-Brewery</id>
   <name>Crown City Brewery‎</name>
   <address>
     <street>300 S Raymond Ave # 2</street>

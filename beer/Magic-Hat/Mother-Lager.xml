@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Mother-Lager" brewery_id="Magic-Hat" abv="4.8" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Mother-Lager</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>4.8</abv>
+  <ibu>17</ibu>
   <name>Mother Lager</name>
   <description/>
   <availability>retired</availability>

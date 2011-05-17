@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Longshot" brewery_id="Boston-Beer-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Longshot</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
   <name>Longshot</name>
   <description>Homebrew contest winner</description>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87692-68102-1">
+    <size>
+      <upc>0-87692-68102-1</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

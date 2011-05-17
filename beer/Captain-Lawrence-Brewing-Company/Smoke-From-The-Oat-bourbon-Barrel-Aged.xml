@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Captain-Lawrence-Brewing-Company/Smoke-From-The-Oat-bourbon-Barrel-Aged" brewery_id="Captain-Lawrence-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Captain-Lawrence-Brewing-Company/Smoke-From-The-Oat-bourbon-Barrel-Aged</id>
+  <brewery_id>Captain-Lawrence-Brewing-Company</brewery_id>
   <name>Smoke From the Oat-Bourbon Barrel Aged</name>
   <description/>
   <availability>fall</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bend-Brewing-Co/MIXED" brewery_id="Bend-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bend-Brewing-Co/MIXED</id>
+  <brewery_id>Bend-Brewing-Co</brewery_id>
   <name>MIXED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-41163-45948-9">
+    <size>
+      <upc>0-41163-45948-9</upc>
       <description>2/12/12 BTL</description>
       <distributor>
         <name>odom</name>

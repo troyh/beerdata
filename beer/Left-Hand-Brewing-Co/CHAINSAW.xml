@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Left-Hand-Brewing-Co/CHAINSAW" brewery_id="Left-Hand-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Left-Hand-Brewing-Co/CHAINSAW</id>
+  <brewery_id>Left-Hand-Brewing-Co</brewery_id>
   <name>CHAINSAW</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-93866-44005-8">
+    <size>
+      <upc>7-93866-44005-8</upc>
       <description>12/25.3 BTL</description>
       <distributor>
         <name>odom</name>

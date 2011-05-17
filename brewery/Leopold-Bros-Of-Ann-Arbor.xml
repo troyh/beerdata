@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Leopold-Bros-Of-Ann-Arbor">
+<brewery>
+  <id>Leopold-Bros-Of-Ann-Arbor</id>
   <name>Leopold Bros Of Ann Arbor‎</name>
   <address>
     <street>523 S Main St</street>

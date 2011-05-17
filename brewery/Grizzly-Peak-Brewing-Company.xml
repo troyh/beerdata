@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Grizzly-Peak-Brewing-Company">
+<brewery>
+  <id>Grizzly-Peak-Brewing-Company</id>
   <name>Grizzly Peak Brewing Company‎</name>
   <address>
     <street>120 W. Washington</street>

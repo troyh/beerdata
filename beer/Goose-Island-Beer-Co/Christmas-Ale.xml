@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Christmas-Ale" brewery_id="Goose-Island-Beer-Co" abv="7" ibu="55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Christmas-Ale</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>7</abv>
+  <ibu>55</ibu>
   <name>Christmas Ale </name>
   <description>Every year to celebrate the holiday season, we brew up our Christmas Ale, and with each year we change the recipe slightly so that you have something special to look forward to. Traditionally, our Christmas Ale is a complex brown ale that develops well in the bottle for up to five years.</description>
   <availability>limited</availability>

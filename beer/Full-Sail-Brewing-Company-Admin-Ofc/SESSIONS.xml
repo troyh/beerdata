@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Full-Sail-Brewing-Company-Admin-Ofc/SESSIONS" brewery_id="Full-Sail-Brewing-Company-Admin-Ofc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Company-Admin-Ofc/SESSIONS</id>
+  <brewery_id>Full-Sail-Brewing-Company-Admin-Ofc</brewery_id>
   <name>SESSIONS</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-24866-47000-5">
+    <size>
+      <upc>0-24866-47000-5</upc>
       <description/>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$10.09</deposit>
       </distributor>
     </size>
-    <size upc="0-24866-00470-5">
+    <size>
+      <upc>0-24866-00470-5</upc>
       <description/>
       <distributor>
         <name>columbia</name>

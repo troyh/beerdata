@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Irish-Red" brewery_id="Alpine-Beer-Company" abv="6" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Irish-Red</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>6</abv>
+  <ibu>13</ibu>
   <name>Irish Red</name>
   <description>Our most versatile beer. Good to drink as well as cook with. Light enough to quench a thirst and complex enough to accompany fine dining. Carmel malty sweet fades to a chocolate roasty finish and dry from a touch of rye.</description>
   <availability/>

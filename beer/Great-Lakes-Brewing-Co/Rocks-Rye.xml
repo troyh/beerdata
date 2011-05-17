@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Rocks-Rye" brewery_id="Great-Lakes-Brewing-Co" ibu="limited">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Rocks-Rye</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <ibu>limited</ibu>
   <name>Rock's Rye</name>
   <description/>
   <availability/>

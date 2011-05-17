@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<place id="Dogfish-Head-Brewings-and-Eats-Rehoboth-Beach-Delaware" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="no" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
+<?xml version="1.0" encoding="UTF-8"?>
+<place>
+  <id>Dogfish-Head-Brewings-and-Eats-Rehoboth-Beach-Delaware</id>
+  <in_operation>yes</in_operation>
+  <specializes_in_beer>yes</specializes_in_beer>
+  <tied>no</tied>
+  <bottled_beer_to_go>no</bottled_beer_to_go>
+  <growlers_to_go>no</growlers_to_go>
+  <kegs_to_go>no</kegs_to_go>
+  <brew_on_premises>no</brew_on_premises>
+  <taps/>
+  <casks/>
+  <bottles/>
+  <wheelchair_accessible/>
+  <music/>
+  <wifi/>
   <type>Brewpub</type>
   <name>Dogfish Head Brewings and Eats</name>
   <description>Dogfish Head Brewings &amp; Eats in downtown Rehoboth Beach, Delaware is where Dogfish Head all began back in 1995. It's a cozy place, finishedÊwith antique barn wood and great old black &amp; white photosÊ- a great place to meet friends for a beer, aÊmeal, or just stop by to hear some of the live, original music we book every weekend!Ê</description>
@@ -20,7 +34,13 @@
     <tasting/>
   </hours>
   <tour_info/>
-  <restaurant reservations="" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="yes" smoking="">
+  <restaurant>
+    <reservations/>
+    <alcohol/>
+    <accepts_credit_cards/>
+    <good_for_groups/>
+    <outdoor_seating>yes</outdoor_seating>
+    <smoking/>
     <food_description/>
     <menu_uri/>
     <price_range/>

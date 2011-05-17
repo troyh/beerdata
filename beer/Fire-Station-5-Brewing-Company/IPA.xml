@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fire-Station-5-Brewing-Company/IPA" brewery_id="Fire-Station-5-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fire-Station-5-Brewing-Company/IPA</id>
+  <brewery_id>Fire-Station-5-Brewing-Company</brewery_id>
   <name>IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-46122-9">
+    <size>
+      <upc>7-69596-46122-9</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

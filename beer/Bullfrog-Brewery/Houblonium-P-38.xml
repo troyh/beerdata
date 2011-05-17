@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Houblonium-P-38" brewery_id="Bullfrog-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Houblonium-P-38</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>8</abv>
   <name>Houblonium P-38</name>
   <description>Whoa! A big hoppy American IPA and a big fruity Belgian ale combined into one enormously delicious Belgian-inspired IPA. Packed with flavor that will blow up your taste buds, loaded with Horizon, Amarillo, Saaz and Crystal hops. It may leave you feeling a little radioactive!</description>
   <availability/>

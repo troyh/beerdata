@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eugene-City-Brewery/100MTR" brewery_id="Eugene-City-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eugene-City-Brewery/100MTR</id>
+  <brewery_id>Eugene-City-Brewery</brewery_id>
   <name>100MTR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-02691-00000-2">
+    <size>
+      <upc>6-02691-00000-2</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

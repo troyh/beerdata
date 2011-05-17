@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Nine-G-Brewing-Co-South-Bend">
+<brewery>
+  <id>Nine-G-Brewing-Co-South-Bend</id>
   <name>Nine G Brewing Co‎</name>
   <address>
     <street>1115 W Sample St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Oskar-Blues-Grill-and-Brew-Lyons/TEN-FIDDY" brewery_id="Oskar-Blues-Grill-and-Brew-Lyons">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Oskar-Blues-Grill-and-Brew-Lyons/TEN-FIDDY</id>
+  <brewery_id>Oskar-Blues-Grill-and-Brew-Lyons</brewery_id>
   <name>TEN FIDDY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-19942-00010-4">
+    <size>
+      <upc>8-19942-00010-4</upc>
       <description>6/4/12 CAN</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="North-Coast-Brewing-Co/Red-Seal-Pale-Cask" brewery_id="North-Coast-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Red-Seal-Pale-Cask</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
   <name>Red Seal Pale Cask</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Empyrean-Brewing-Co">
+<brewery>
+  <id>Empyrean-Brewing-Co</id>
   <name>Empyrean Brewing Co‎</name>
   <address>
     <street>729 Q St</street>

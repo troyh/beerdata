@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Fall-Odd-Notion-09" brewery_id="Magic-Hat" abv="6.2" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Fall-Odd-Notion-09</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>6.2</abv>
+  <ibu>50</ibu>
   <name>Fall Odd Notion 09</name>
   <description>A fitting beer for the NIght of the Living Dead, this black stout is chock full of roasty goodness, with an amazing complexity that can only come from the addition of five different types of malts.  The flavors of dark crystallized malts and roasted barley warm the pallet and the distinct spicy</description>
   <availability>limited</availability>

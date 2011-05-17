@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ballast-Point-Brewing-Co-San-Diego">
+<brewery>
+  <id>Ballast-Point-Brewing-Co-San-Diego</id>
   <name>Ballast Point Brewing Co‎</name>
   <address>
     <street>10051 Old Grove Rd # B</street>

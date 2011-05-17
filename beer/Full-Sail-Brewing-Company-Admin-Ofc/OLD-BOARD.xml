@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Full-Sail-Brewing-Company-Admin-Ofc/OLD-BOARD" brewery_id="Full-Sail-Brewing-Company-Admin-Ofc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Company-Admin-Ofc/OLD-BOARD</id>
+  <brewery_id>Full-Sail-Brewing-Company-Admin-Ofc</brewery_id>
   <name>OLD BOARD</name>
   <description/>
   <availability/>

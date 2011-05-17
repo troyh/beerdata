@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Heritage-Collection-Naughty-Goose" brewery_id="Goose-Island-Beer-Co" abv="5.4" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Heritage-Collection-Naughty-Goose</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>5.4</abv>
+  <ibu>35</ibu>
   <name>Heritage Collection: Naughty Goose</name>
   <description>Naughty Goose's assertive roasted malt body, fruity aroma, unique blend of American hops, and chocolate and caramel notes make it a favorite of our brewpub regulars who are in the mood to indulge their darker side by simply enjoying something that's so indulgent it seems "naughty."</description>
   <availability>limited</availability>

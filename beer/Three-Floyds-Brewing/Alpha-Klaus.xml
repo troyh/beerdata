@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Alpha-Klaus" brewery_id="Three-Floyds-Brewing" abv="6" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Alpha-Klaus</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>6</abv>
+  <ibu>38</ibu>
   <name>Alpha Klaus</name>
   <description/>
   <availability>fall</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Moat-Mountain-Smokehouse-and-Brewing-Co">
+<brewery>
+  <id>Moat-Mountain-Smokehouse-and-Brewing-Co</id>
   <name>Moat Mountain Smokehouse &amp; Brewing Co‎</name>
   <address>
     <street>3378 White Mountain Hwy</street>

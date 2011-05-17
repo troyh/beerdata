@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/MONTANA-MIXER" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/MONTANA-MIXER</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>MONTANA MIXER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-11004-9">
+    <size>
+      <upc>7-00283-11004-9</upc>
       <description>2/12/12 BTL</description>
       <distributor>
         <name>odom</name>

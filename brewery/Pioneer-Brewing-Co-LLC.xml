@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pioneer-Brewing-Co-LLC">
+<brewery>
+  <id>Pioneer-Brewing-Co-LLC</id>
   <name>Pioneer Brewing Co LLC‎</name>
   <address>
     <street>195 Arnold Rd</street>

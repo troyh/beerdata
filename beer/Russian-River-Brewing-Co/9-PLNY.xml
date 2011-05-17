@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Russian-River-Brewing-Co/9-PLNY" brewery_id="Russian-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/9-PLNY</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
   <name>9 PLNY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-92543-00027-8">
+    <size>
+      <upc>8-92543-00027-8</upc>
       <description>BOTTLE 24/16</description>
       <distributor>
         <name>columbia</name>

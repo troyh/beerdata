@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Odell-Brewing-Co-Fort-Collins-2">
+<brewery>
+  <id>Odell-Brewing-Co-Fort-Collins-2</id>
   <name>Odell Brewing Co‎</name>
   <address>
     <street>800 E Lincoln Ave</street>

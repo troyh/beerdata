@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Whales-Tail-Restaurant">
+<brewery>
+  <id>Whales-Tail-Restaurant</id>
   <name>Whale's Tail Restaurant‎</name>
   <address>
     <street>3950 Bluefin Cir</street>

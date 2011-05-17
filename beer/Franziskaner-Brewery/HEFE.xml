@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Franziskaner-Brewery/HEFE" brewery_id="Franziskaner-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Franziskaner-Brewery/HEFE</id>
+  <brewery_id>Franziskaner-Brewery</brewery_id>
   <name>HEFE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88394-00033-2">
+    <size>
+      <upc>0-88394-00033-2</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

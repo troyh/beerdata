@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grupo-Modelo/NITA" brewery_id="Grupo-Modelo">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grupo-Modelo/NITA</id>
+  <brewery_id>Grupo-Modelo</brewery_id>
   <name>NITA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95401-1">
+    <size>
+      <upc>0-80660-95401-1</upc>
       <description>BOTTLE 4-6/7</description>
       <distributor>
         <name>columbia</name>

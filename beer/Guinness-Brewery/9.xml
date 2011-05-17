@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Guinness-Brewery/9" brewery_id="Guinness-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Guinness-Brewery/9</id>
+  <brewery_id>Guinness-Brewery</brewery_id>
   <name>9</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83820-12386-9">
+    <size>
+      <upc>0-83820-12386-9</upc>
       <description>CAN 18/14</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$23.79</deposit>
       </distributor>
     </size>
-    <size upc="0-83820-12368-5">
+    <size>
+      <upc>0-83820-12368-5</upc>
       <description>CAN 3-8/14</description>
       <distributor>
         <name>columbia</name>

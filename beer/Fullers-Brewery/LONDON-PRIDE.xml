@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fullers-Brewery/LONDON-PRIDE" brewery_id="Fullers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fullers-Brewery/LONDON-PRIDE</id>
+  <brewery_id>Fullers-Brewery</brewery_id>
   <name>LONDON PRIDE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="3-20025-11111-1">
+    <size>
+      <upc>3-20025-11111-1</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

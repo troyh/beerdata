@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Hop-Henge-Experimental-IPA-Batch-2" brewery_id="Deschutes-Brewery-Inc" abv="8.70" ibu="87">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Hop-Henge-Experimental-IPA-Batch-2</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>8.70</abv>
+  <ibu>87</ibu>
   <name>Hop Henge Experimental IPA - Batch 2</name>
   <description>Our brewers werenât happy enough with the IBUâs in their first batch of Hop Henge, so for the second batch they really kicked up the hops! Ask for a taste of both, and fill out a comment in the Experimental IPA Showdown.</description>
   <availability>special release</availability>

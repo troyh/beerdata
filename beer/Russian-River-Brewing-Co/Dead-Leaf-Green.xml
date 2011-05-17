@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Dead-Leaf-Green" brewery_id="Russian-River-Brewing-Co" abv="5.68" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Dead-Leaf-Green</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>5.68</abv>
+  <ibu>30</ibu>
   <name>Dead Leaf Green</name>
   <description/>
   <availability>limited</availability>

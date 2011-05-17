@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Dark-Lord" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Dark-Lord</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Dark Lord</name>
   <description>Gargantuan Russian Stout brewed with coffee, molasses, and honey;</description>
   <availability>year-round</availability>

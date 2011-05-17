@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Lumberjack-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Lumberjack-Red-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Lumberjack Red Ale</name>
   <description>Lumberjack Red's malt flavor and ruby red color come from the rich aromatic Munich malt used in the brewing process, producing a full-bodied beer with subtle hop bitterness and floral hop aroma. 2003 Bronze Medal Winner from the Great American Beer Festival. Irish Style Red Ale Category.</description>
   <availability>year-round</availability>

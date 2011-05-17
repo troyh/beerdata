@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sockeye-Brewing-Co">
+<brewery>
+  <id>Sockeye-Brewing-Co</id>
   <name>Sockeye Brewing Co‎</name>
   <address>
     <street>2513 S Federal Way</street>

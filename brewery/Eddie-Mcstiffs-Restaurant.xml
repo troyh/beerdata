@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Eddie-Mcstiffs-Restaurant">
+<brewery>
+  <id>Eddie-Mcstiffs-Restaurant</id>
   <name>Eddie Mcstiff's Restaurant‎</name>
   <address>
     <street>57 S Main St</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Kbs" brewery_id="Founders-Brewing-Co" abv="11.2" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Kbs</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>11.2</abv>
+  <ibu>70</ibu>
   <name>KBS</name>
   <description>What we've got here is an imperial stout brewed with a massive amount of coffee and chocolates then cave-aged in oak bourbon barrels for an entire year, to make sure wonderful bourbon undertones come through in the finish. Make your taste buds squeal with delight.</description>
   <availability/>

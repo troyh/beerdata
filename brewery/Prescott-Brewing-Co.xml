@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Prescott-Brewing-Co">
+<brewery>
+  <id>Prescott-Brewing-Co</id>
   <name>Prescott Brewing Co‎</name>
   <address>
     <street>130 W Gurley St # A</street>

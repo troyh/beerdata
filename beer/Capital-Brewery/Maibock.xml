@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Capital-Brewery/Maibock" brewery_id="Capital-Brewery" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Capital-Brewery/Maibock</id>
+  <brewery_id>Capital-Brewery</brewery_id>
+  <abv>6.2</abv>
   <name>Maibock</name>
   <description>A bock beer with a beautiful, deep golden hue. Very smooth, this beer has great depth of character, and is an excellent beer to celebrate the end of winter and beginning of spring. ABV 6.2%</description>
   <availability>Spring</availability>

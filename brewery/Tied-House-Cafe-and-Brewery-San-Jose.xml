@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tied-House-Cafe-and-Brewery-San-Jose">
+<brewery>
+  <id>Tied-House-Cafe-and-Brewery-San-Jose</id>
   <name>Tied House Cafe &amp; Brewery‎</name>
   <address>
     <street>65 N San Pedro St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allagash-Brewing-Co-Inc/Dubbel" brewery_id="Allagash-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Co-Inc/Dubbel</id>
+  <brewery_id>Allagash-Brewing-Co-Inc</brewery_id>
   <name>Dubbel</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="603675102958">
+    <size>
+      <upc>603675102958</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Samuel-Smiths-Brewery/SELECTION-BOX" brewery_id="Samuel-Smiths-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Samuel-Smiths-Brewery/SELECTION-BOX</id>
+  <brewery_id>Samuel-Smiths-Brewery</brewery_id>
   <name>SELECTION BOX</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-21500-7">
+    <size>
+      <upc>0-85725-21500-7</upc>
       <description>4/3/18.7 BTL</description>
       <distributor>
         <name>odom</name>

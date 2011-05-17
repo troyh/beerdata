@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rush-River-Brewing-River-Falls">
+<brewery>
+  <id>Rush-River-Brewing-River-Falls</id>
   <name>Rush River Brewing‎</name>
   <address>
     <street>Antler Ct</street>

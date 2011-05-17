@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-de-Koningshoeven/TRIPEL" brewery_id="Brouwerij-de-Koningshoeven">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-de-Koningshoeven/TRIPEL</id>
+  <brewery_id>Brouwerij-de-Koningshoeven</brewery_id>
   <name>TRIPEL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-81986-00179-3">
+    <size>
+      <upc>0-81986-00179-3</upc>
       <description>6/4/11.2 BTL</description>
       <distributor>
         <name>odom</name>

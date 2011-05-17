@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Green-Flash-Brewing-Co">
+<brewery>
+  <id>Green-Flash-Brewing-Co</id>
   <name>Green Flash Brewing Co‎</name>
   <address>
     <street>1430 Vantage Ct</street>

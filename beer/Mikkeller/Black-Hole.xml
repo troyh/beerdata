@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Black-Hole" brewery_id="Mikkeller" abv="13.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Black-Hole</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>13.1</abv>
   <name>Black Hole</name>
   <description>Finally......! Black Hole is what Mikkeller is all about. Daring, vulgar and extreme. From the very beginning Mikkellers goal has been to push the limit and with this warming, intense imperial stout, a new chapter in the Danish beer history has been written. The high bitterness from the hops and the sweetness from the malt and alcohol, creates a good balance which makes Black Hole an explosion of nuances, but also leaves a feeling of a perfect and complex beer -- in the heavyweight category.</description>
   <availability/>

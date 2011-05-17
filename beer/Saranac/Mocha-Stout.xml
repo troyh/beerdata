@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Mocha-Stout" brewery_id="Saranac" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Mocha-Stout</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5</abv>
   <name>Mocha Stout</name>
   <description>Combines the rich roasted flavor of our traditional stout with a deep, robust mocha. Look for a full-bodied taste with a crescendo of complex flavor notes.</description>
   <availability>seasonal</availability>

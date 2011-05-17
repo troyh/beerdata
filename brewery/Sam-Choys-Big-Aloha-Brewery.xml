@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sam-Choys-Big-Aloha-Brewery">
+<brewery>
+  <id>Sam-Choys-Big-Aloha-Brewery</id>
   <name>Sam Choy's Big Aloha Brewery‎</name>
   <address>
     <street>580 N Nimitz Hwy</street>

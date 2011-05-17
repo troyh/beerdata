@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Xxxx-Quad" brewery_id="Bullfrog-Brewery" abv="11">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Xxxx-Quad</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>11</abv>
   <name>XXXX Quad</name>
   <description>Basically a double Dubbel this is the most rare of Belgian Abbey ales. This HUGE beer has a rich, chocolatey body filled with plum, rum, black currant and banana-like notes matched with a deep and spicy warming finish.</description>
   <availability/>

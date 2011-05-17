@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Nut-Brown-Ale" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Nut-Brown-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Nut Brown Ale</name>
   <description>Our Nut Brown Ale is meticulously crafted with British pale and crystal malts, as well as specialty roasted malts from the U.S. This gives the beer a very malty flavor and aroma, with hints of nuts and baking bread. In keeping with tradition, it is hopped and dry hopped with the highest quality English Kent Golding hops. The Hops give the beer a subtle earthy hop flavor without overpowering the malt character. The result is a bronze colored ale that is refreshing and pleasantly aromatic with a sweet malty taste. Our Nut Brown Ale is sure to please anyone who is looking to explore brews with flavor and diversity.</description>
   <availability>retired</availability>

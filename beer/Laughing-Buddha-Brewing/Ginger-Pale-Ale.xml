@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Laughing-Buddha-Brewing/Ginger-Pale-Ale" brewery_id="Laughing-Buddha-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Laughing-Buddha-Brewing/Ginger-Pale-Ale</id>
+  <brewery_id>Laughing-Buddha-Brewing</brewery_id>
   <name>Ginger Pale Ale</name>
   <description/>
   <availability/>

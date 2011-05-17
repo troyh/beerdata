@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Nut-Brown-Ale" brewery_id="Bullfrog-Brewery" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Nut-Brown-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>4.8</abv>
   <name>Nut Brown Ale</name>
   <description>This rich and creamy brown ale starts with a powerfulroma of roasted and caramelized malts that carries all the way through the beers finish. On the palette hints of hazelnuts, chocolate and that wonderful flavor of caramelized malt shine filling out the beers body.</description>
   <availability/>

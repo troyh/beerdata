@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Obsidian-Stout" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.619923740362863" abv="6.40" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Obsidian-Stout</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <calories_per_ml>0.619923740362863</calories_per_ml>
+  <abv>6.40</abv>
+  <ibu>50</ibu>
   <name>Obsidian Stout</name>
   <description>Obsidian Stout gets is inspiration from one of the world's largest obsidian flows at Newberry Volcano--just a few miles south of the brewery. "The Big Obsidian Flow," as they call it, covers more than 700 acres with shiny black obsidian. </description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="13">Stout</style>
+    <style><bjcp_style_id>13</bjcp_style_id>Stout</style>
   </styles>
   <sizes>
     <size>

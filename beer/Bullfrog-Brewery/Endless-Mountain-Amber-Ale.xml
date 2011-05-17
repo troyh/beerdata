@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Endless-Mountain-Amber-Ale" brewery_id="Bullfrog-Brewery" abv="4.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Endless-Mountain-Amber-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>4.6</abv>
   <name>Endless Mountain Amber Ale</name>
   <description>This beer is all about balance with its light amber color and clean, caramelized malt profile. Seasoned with the prized Hallertau Mittelfruh hop known for its floral and lemongrass-like character.</description>
   <availability/>

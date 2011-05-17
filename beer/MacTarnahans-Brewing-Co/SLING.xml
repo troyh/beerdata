@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="MacTarnahans-Brewing-Co/SLING" brewery_id="MacTarnahans-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>MacTarnahans-Brewing-Co/SLING</id>
+  <brewery_id>MacTarnahans-Brewing-Co</brewery_id>
   <name>SLING</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-95374-97006-6">
+    <size>
+      <upc>0-95374-97006-6</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

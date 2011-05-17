@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Baltic-Thunder" brewery_id="Victory-Brewing-Co" abv="8.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Baltic-Thunder</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>8.5</abv>
   <name>Baltic Thunder</name>
   <description>Truly a worldly beer. Baltic Thunder represents the Baltic Porter style admirably. Exhibiting the enticing, toffee roast of the British porter that originated the style in the 18th century, and the soothing, subtle fruit nuance of contemporary brews that flourish from Helsinki to Vilnius today, this dark lager honors the Baltic god of thunder. Created by an inspired collaboration of brewers and tempered with a touch of turmoil, Baltic Thunder rolls on to bring you enchanting light as the darkness fades.</description>
   <availability/>

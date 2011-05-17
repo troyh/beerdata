@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/IPA" brewery_id="Cascade-Lakes-Brewing-Co" abv="6.00" og="1.060" fg="1.014" ibu="65">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/IPA</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>6.00</abv>
+  <og>1.060</og>
+  <fg>1.014</fg>
+  <ibu>65</ibu>
   <name>IPA</name>
   <description>For those hop lovers out there, this is the beer for you. It is a traditional American StyleÂ I.P.A. featuring a significant amount of Northwest hops balanced with a hefty grain bill.Â  If this beer doesnât make your taste buds screamÂ hops then we donât know what will.</description>
   <availability>year round</availability>
@@ -9,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="14B">American IPA</style>
+    <style><bjcp_style_id>14B</bjcp_style_id>American IPA</style>
   </styles>
   <sizes>
     <size>

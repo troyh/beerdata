@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Specialty-Dark" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Specialty-Dark</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Specialty Dark</name>
   <description>In our darkest beer, we use a variety of highly roasted malts to produce the rich, unique flavors contained within. Another rotating tap, we feature a different style with each batch including an Irish Stout, Oatmeal Stout, Imperial Stout, Porter, and a Black Lager. Ask for our current style.</description>
   <availability>year-round</availability>

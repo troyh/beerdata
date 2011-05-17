@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rattle-N-Hum-Bar-and-Restaurant">
+<brewery>
+  <id>Rattle-N-Hum-Bar-and-Restaurant</id>
   <name>Rattle N Hum Bar &amp; Restaurant‎</name>
   <address>
     <street>14 E 33RD St</street>

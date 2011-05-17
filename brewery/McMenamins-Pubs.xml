@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Pubs">
+<brewery>
+  <id>McMenamins-Pubs</id>
   <name>McMenamins Pubs‎</name>
   <address>
     <street>2090 8th Ave</street>

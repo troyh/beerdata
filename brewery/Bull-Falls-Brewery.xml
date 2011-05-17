@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bull-Falls-Brewery">
+<brewery>
+  <id>Bull-Falls-Brewery</id>
   <name>Bull Falls Brewery‎</name>
   <address>
     <street>901 E Thomas St</street>

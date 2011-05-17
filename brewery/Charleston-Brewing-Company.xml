@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Charleston-Brewing-Company">
+<brewery>
+  <id>Charleston-Brewing-Company</id>
   <name>Charleston Brewing Company‎</name>
   <address>
     <street>557 E Bay St</street>

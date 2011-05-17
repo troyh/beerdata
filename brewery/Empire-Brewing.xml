@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Empire-Brewing">
+<brewery>
+  <id>Empire-Brewing</id>
   <name>Empire Brewing‎</name>
   <address>
     <street>300 State Street</street>

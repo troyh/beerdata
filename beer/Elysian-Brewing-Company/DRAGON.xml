@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/DRAGON" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/DRAGON</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>DRAGON</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-17904-00120-6">
+    <size>
+      <upc>8-17904-00120-6</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

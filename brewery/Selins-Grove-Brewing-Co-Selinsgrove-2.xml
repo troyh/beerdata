@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Selins-Grove-Brewing-Co-Selinsgrove-2">
+<brewery>
+  <id>Selins-Grove-Brewing-Co-Selinsgrove-2</id>
   <name>Selin's Grove Brewing Co‎</name>
   <address>
     <street>121 N Market St</street>

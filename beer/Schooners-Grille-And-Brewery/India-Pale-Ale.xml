@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Schooners-Grille-And-Brewery/India-Pale-Ale" brewery_id="Schooners-Grille-And-Brewery" abv="7" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schooners-Grille-And-Brewery/India-Pale-Ale</id>
+  <brewery_id>Schooners-Grille-And-Brewery</brewery_id>
+  <abv>7</abv>
+  <ibu>70</ibu>
   <name>India Pale Ale</name>
   <description>Inspired by the great West Coast IPA's, we have created a well balanced beer to satisfy all. Born of Amarillo and Centennial hops, this baby approaches 2 pounds of hops per barrel while it's still in the kettle and we dry hop with yet another pound per barrel once fermentation is complete. To balance the substantial hopping we provide plenty of malt backbone. The result is a complex interaction of bitterness, fruity fermentation esters and citrusy hop character.</description>
   <availability/>

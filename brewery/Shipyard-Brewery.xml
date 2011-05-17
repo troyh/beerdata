@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Shipyard-Brewery">
+<brewery>
+  <id>Shipyard-Brewery</id>
   <name>Shipyard Brewery‎</name>
   <address>
     <street>86 Newbury St</street>

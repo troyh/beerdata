@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Black-Currant-Wheat" brewery_id="Bullfrog-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Black-Currant-Wheat</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Black currant Wheat</name>
   <description>A dark wheat beer flavored with fresh, local made black currant syrup and black currant juice</description>
   <availability/>

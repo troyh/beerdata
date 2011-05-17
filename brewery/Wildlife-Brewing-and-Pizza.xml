@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wildlife-Brewing-and-Pizza">
+<brewery>
+  <id>Wildlife-Brewing-and-Pizza</id>
   <name>Wildlife Brewing &amp; Pizza‎</name>
   <address>
     <street>145 S Main St</street>

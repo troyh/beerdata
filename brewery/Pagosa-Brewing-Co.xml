@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pagosa-Brewing-Co">
+<brewery>
+  <id>Pagosa-Brewing-Co</id>
   <name>Pagosa Brewing Co‎</name>
   <address>
     <street>100 N Pagosa Blvd</street>

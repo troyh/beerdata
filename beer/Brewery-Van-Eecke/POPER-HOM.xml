@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Van-Eecke/POPER-HOM" brewery_id="Brewery-Van-Eecke">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Van-Eecke/POPER-HOM</id>
+  <brewery_id>Brewery-Van-Eecke</brewery_id>
   <name>POPER HOM</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-10168-02702-2">
+    <size>
+      <upc>7-10168-02702-2</upc>
       <description>25.4</description>
       <distributor>
         <name>columbia</name>

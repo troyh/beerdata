@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Brian-Boru" brewery_id="Three-Floyds-Brewing" abv="5.5" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Brian-Boru</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5.5</abv>
+  <ibu>40</ibu>
   <name>Brian Boru</name>
   <description/>
   <availability/>

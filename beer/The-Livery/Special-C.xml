@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Special-C" brewery_id="The-Livery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Special-C</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.5</abv>
   <name>Special C</name>
   <description>For over 30 years banjo player and good friend Greg Cahill has led the world famous Bluegrass band Special Consensus. Always featuring the best up and coming talent, this beer is named in their honor! Deep mahogany in color, this lager has a rich malt flavor balanced by an assertive hop character.</description>
   <availability/>

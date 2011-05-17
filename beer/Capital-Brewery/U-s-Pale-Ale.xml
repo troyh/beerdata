@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Capital-Brewery/U-s-Pale-Ale" brewery_id="Capital-Brewery" abv="4.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Capital-Brewery/U-s-Pale-Ale</id>
+  <brewery_id>Capital-Brewery</brewery_id>
+  <abv>4.9</abv>
   <name>U.S. Pale Ale</name>
   <description>This is an American pale ale defined by the assertive, but not overshelming, use of American Cascade hops. Exhibiting an inviting golden hue, U.S. Pale Ale is a zesty choice fo those who believe that hope are "hip". Refreshing and clean with medium bodied flavor and an easy, dry, and memorable finish. Hops with an American accent. Disarmingly drinkable.</description>
   <availability/>

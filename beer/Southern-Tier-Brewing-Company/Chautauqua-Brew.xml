@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Chautauqua-Brew" brewery_id="Southern-Tier-Brewing-Company" abv="4.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Chautauqua-Brew</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>4.9</abv>
   <name>chautauqua brew</name>
   <description>This ale is a tribute to the great brewing heritage of the Chautauqua Lake Region of western New York. There was a time when breweries dotted the landscape over which eagles soared. Today, the two have returned. Specially brewed for the citizens of our fine county; this beer will not be sold anywhere but here! Inspired by the former Jamestown Brewing Company, defunct for more than 75 years, this ale is brewed with only the finest ingredients and is warranted strictly pure.</description>
   <availability/>

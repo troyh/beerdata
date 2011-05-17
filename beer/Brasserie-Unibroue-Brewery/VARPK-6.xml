@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Unibroue-Brewery/VARPK-6" brewery_id="Brasserie-Unibroue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Unibroue-Brewery/VARPK-6</id>
+  <brewery_id>Brasserie-Unibroue-Brewery</brewery_id>
   <name>VARPK 6%</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-56910-79084-5">
+    <size>
+      <upc>0-56910-79084-5</upc>
       <description>BOTTLE 6/4</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="T-Bonz-Gill-and-Grill">
+<brewery>
+  <id>T-Bonz-Gill-and-Grill</id>
   <name>T-Bonz Gill &amp; Grill‎</name>
   <address>
     <street>80 N Market St</street>

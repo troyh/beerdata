@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Asheville-Brewing">
+<brewery>
+  <id>Asheville-Brewing</id>
   <name>Asheville Brewing‎</name>
   <address>
     <street>77 Coxe Ave</street>

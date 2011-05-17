@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-Century-Brewing-Co-Randolph">
+<brewery>
+  <id>New-Century-Brewing-Co-Randolph</id>
   <name>New Century Brewing Co‎</name>
   <address>
     <street>40 Chiefs Way</street>

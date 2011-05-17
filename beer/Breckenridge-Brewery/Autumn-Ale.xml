@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Autumn-Ale" brewery_id="Breckenridge-Brewery" abv="6.7" ibu="21">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Autumn-Ale</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>6.7</abv>
+  <ibu>21</ibu>
   <name>Autumn Ale</name>
   <description>Breckenridge Brewery's fall seasonal combines the malty goodness of a German lager with the clean crispness of an American ale. Brewed with Munich malts and a delicate blend of Bavarian hops, our Autumn Ale is a full-bodied treat with a nutty-sweet middle, a warming alcohol level and notes of toasted grains. A pre-winter winner.</description>
   <availability>fall</availability>

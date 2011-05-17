@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bosteels-Brewery/PAUWEL-KWAK" brewery_id="Bosteels-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bosteels-Brewery/PAUWEL-KWAK</id>
+  <brewery_id>Bosteels-Brewery</brewery_id>
   <name>PAUWEL KWAK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-47934-09234-2">
+    <size>
+      <upc>7-47934-09234-2</upc>
       <description>6/4/11.2 BTL</description>
       <distributor>
         <name>odom</name>

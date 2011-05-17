@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allagash-Brewing-Co-Inc/Grand-Cru" brewery_id="Allagash-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Co-Inc/Grand-Cru</id>
+  <brewery_id>Allagash-Brewing-Co-Inc</brewery_id>
   <name>Grand Cru</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="603675103955">
+    <size>
+      <upc>603675103955</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

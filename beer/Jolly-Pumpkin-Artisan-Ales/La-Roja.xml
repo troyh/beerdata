@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/La-Roja" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/La-Roja</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>7.2</abv>
   <name>La Roja</name>
   <description>An artisan amber ale brewed in the Flanders tradition. Deep amber with earthy caramel, spice, and sour fruit notes developed through natural barrel aging. Unfiltered, unpasteurized and blended from barrels ranging in age from two to ten months.</description>
   <availability/>

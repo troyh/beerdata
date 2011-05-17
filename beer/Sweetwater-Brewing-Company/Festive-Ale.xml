@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Sweetwater-Brewing-Company/Festive-Ale" brewery_id="Sweetwater-Brewing-Company" ibu="fall">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sweetwater-Brewing-Company/Festive-Ale</id>
+  <brewery_id>Sweetwater-Brewing-Company</brewery_id>
+  <ibu>fall</ibu>
   <name>Festive Ale</name>
   <description/>
   <availability/>

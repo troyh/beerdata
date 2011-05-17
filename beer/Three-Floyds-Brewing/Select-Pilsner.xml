@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Pilsner" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Pilsner</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Pilsner</name>
   <description>Our Pilsner is similar to the Czech original, but all of the flavor characteristics are slightly intensified. The beer is slightly darker, maltier, and has more hop aroma. The water in Abita Springs is very similar to that in Pilsen and we do not artificially adjust it to achieve the authentic pilsner taste. Our Select is made with Pilsner, Munich, Cara Munich, and Cara Pils malts. In keeping with tradition, it is hopped and dry hopped exclusively with Czech Saaz hops. The resulting beer is a dark golden color with a sweet malty taste and floral hop arom</description>
   <availability>limited</availability>

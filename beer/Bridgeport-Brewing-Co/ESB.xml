@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Esb" brewery_id="Bridgeport-Brewing-Co" abv="6.1" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Esb</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>6.1</abv>
+  <ibu>30</ibu>
   <name>ESB</name>
   <description>BridgePort ESB is a rich, assertive ale that deftly balances its roasted malt flavor with a pronounced hop character.  Robust malts and a generous dry-hopping of imported hops result in a flavorful bitter that recalls the great traditional ales of England.</description>
   <availability/>
@@ -10,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-98554-00070-6">
+    <size>
+      <upc>0-98554-00070-6</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

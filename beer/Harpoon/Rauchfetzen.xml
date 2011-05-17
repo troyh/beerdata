@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Rauchfetzen" brewery_id="Harpoon" abv="6.3" ibu="33">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Rauchfetzen</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>6.3</abv>
+  <ibu>33</ibu>
   <name>Rauchfetzen</name>
   <description>Brew Date: 10/17/08\nPackaging Date: 10/31/08\nHarpoon Rauchfetzen is the 25th offering from our 100 Barrel Series. We used beechwood smoked malt from Bamberg, Germany to craft this copper-colored ale that evokes Rauchfetzen, a poetic German word meaning "wisp of smoke." While many smoked beers are heavy on the pallet, this beer allows the character of the smoked malt to play off the herbal bitterness of Hallertau hops and the fresh, bread-like quality of Munich and Pilsner malts. Enjoy this beer with a variety of cheeses and sausages.\nBREWED BY\nThis beer was brewed by Charlie Cummings, Harpoon brewer</description>
   <availability>limited</availability>

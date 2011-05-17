@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Legends-Brewhouse-and-Eatery">
+<brewery>
+  <id>Legends-Brewhouse-and-Eatery</id>
   <name>Legends Brewhouse &amp; Eatery‎</name>
   <address>
     <street>2840 Shawano Ave</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Triticus" brewery_id="Harpoon" abv="11.5" ibu="57">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Triticus</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>11.5</abv>
+  <ibu>57</ibu>
   <name>Triticus</name>
   <description>Latin for "wheat," Triticus is a strong and dark Wheat Wine style ale that's light and lively on the palate. The blend of 50% wheat malts, including caramel and chocolate, provides color and depth of flavor. Complex hopping and dry-hopping lends a delicate spiciness and just enough balance to complement its strength. Best shared with friends.</description>
   <availability>limited</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Shorts-Brewing-Co">
+<brewery>
+  <id>Shorts-Brewing-Co</id>
   <name>Short's Brewing Co‎</name>
   <address>
     <street>121 N Bridge St</street>

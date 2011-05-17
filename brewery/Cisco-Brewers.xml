@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cisco-Brewers">
+<brewery>
+  <id>Cisco-Brewers</id>
   <name>Cisco Brewers‎</name>
   <address>
     <street>5 Bartlett Farm Rd</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hog-Haus-Brewing-Co-Fayetteville">
+<brewery>
+  <id>Hog-Haus-Brewing-Co-Fayetteville</id>
   <name>Hog Haus Brewing Co‎</name>
   <address>
     <street>430 W Dickson St</street>

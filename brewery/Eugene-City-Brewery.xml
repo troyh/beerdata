@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Eugene-City-Brewery">
+<brewery>
+  <id>Eugene-City-Brewery</id>
   <name>Eugene City Brewery‎</name>
   <address>
     <street>844 Olive St</street>

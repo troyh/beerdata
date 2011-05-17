@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Kellerweis-Hefeweizen" brewery_id="Sierra-Nevada-Brewing-Co" abv="4.8" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/Sierra-Nevada-Kellerweis-Hefeweizen</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
+  <ibu>15</ibu>
   <name>Sierra Nevada  Kellerweis Hefeweizen</name>
   <description>Kellerweis is one of the only American Hefeweizens made using the traditional Bavarian style of open fermentation. This difficult and labor-intensive technique adds uncommon depth and flavor complexity. Our hazy-golden hefeweizen is deeply flavorful, refreshing and perfect for a sunny day. To serve, pour two-thirds into a glass, swirl and pour the rest.</description>
   <availability/>

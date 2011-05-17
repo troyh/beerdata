@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kaliber/Non-alcoholic-Lager" brewery_id="Kaliber">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kaliber/Non-alcoholic-Lager</id>
+  <brewery_id>Kaliber</brewery_id>
   <name>Non-Alcoholic Lager</name>
   <description/>
   <availability/>

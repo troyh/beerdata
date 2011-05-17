@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Summer-Honey" brewery_id="Big-Sky-Brewing-Co" abv="4.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Summer-Honey</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>4.7</abv>
   <name>Summer Honey</name>
   <description>When the days get longer and the air gets warmer, we get outside quite a bit. And we build a big thirst. Summer Honey helps us shake off the winter and slakes our thirst for a refreshing brew. Summer Honey is a full-flavored summer seasonal ale. Brewed with a unique, balanced blend of spices, Northwest Hops, and Montana honey. Summer Honey is brewed during the early days of spring and released around the first of May each year. Light colored, light bodied, and very drinkable, Summer Honey sacrifices nothing to create a flavorful beer that can be enjoyed during the height of the Summer.</description>
   <availability>summer</availability>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-09003-2">
+    <size>
+      <upc>7-00283-09003-2</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

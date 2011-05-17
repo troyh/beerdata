@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Greene-King-Morland-Brewery/OLD-SPECKLED-HEN" brewery_id="Greene-King-Morland-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Greene-King-Morland-Brewery/OLD-SPECKLED-HEN</id>
+  <brewery_id>Greene-King-Morland-Brewery</brewery_id>
   <name>OLD SPECKLED HEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-05800-50003-5">
+    <size>
+      <upc>6-05800-50003-5</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="6-05800-50006-6">
+    <size>
+      <upc>6-05800-50006-6</upc>
       <description>6/4/14.9 CAN</description>
       <distributor>
         <name>odom</name>

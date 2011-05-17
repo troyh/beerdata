@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Belgian-Amber" brewery_id="The-Livery" abv="9.75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Belgian-Amber</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>9.75</abv>
   <name>Belgian Amber</name>
   <description>This beer is brewed with 100% Belgian malt and a blend of Czech, German, and English hops. It is then aged in an oak barrel and dry hopped.</description>
   <availability/>

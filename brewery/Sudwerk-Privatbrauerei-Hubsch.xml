@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sudwerk-Privatbrauerei-Hubsch">
+<brewery>
+  <id>Sudwerk-Privatbrauerei-Hubsch</id>
   <name>Sudwerk Privatbrauerei Hubsch‎</name>
   <address>
     <street>2001 2nd St</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Hop-Wallop" brewery_id="Victory-Brewing-Co" abv="8.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Hop-Wallop</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>8.5</abv>
   <name>Hop Wallop</name>
   <description>We celebrate the pioneering spirit of old Horace 'Hop' Wallop and those who dare mighty adventurous things in this vivid, robust ale. As our annual homage to the hop harvest, expect loads of aromatic splendor and bitter beauty.</description>
   <availability/>

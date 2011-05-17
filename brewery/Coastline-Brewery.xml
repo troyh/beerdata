@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Coastline-Brewery">
+<brewery>
+  <id>Coastline-Brewery</id>
   <name>Coastline Brewery‎</name>
   <address>
     <street>910 41st Ave</street>

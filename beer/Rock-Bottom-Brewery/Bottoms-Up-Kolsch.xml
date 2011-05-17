@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Bottoms-Up-Kolsch" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Bottoms-Up-Kolsch</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Bottom's Up Kolsch</name>
   <description>This golden to straw-colored Ale is light in body and brewed with two-row malted barley, Perle and Tettnanger hops. Brewed in the Menninger family tradition, this refreshing Ale pairs well with Salads, Chicken or Fish dishes.</description>
   <availability>year-round</availability>

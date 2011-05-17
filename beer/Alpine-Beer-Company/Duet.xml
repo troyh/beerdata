@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Duet" brewery_id="Alpine-Beer-Company" abv="7" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Duet</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>7</abv>
+  <ibu>45</ibu>
   <name>Duet</name>
   <description>Our original single IPA made with Simcoe and Amarillo hops ""in harmony.""</description>
   <availability>limited</availability>

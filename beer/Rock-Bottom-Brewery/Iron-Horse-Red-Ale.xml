@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Iron-Horse-Red-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Iron-Horse-Red-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Iron Horse Red Ale</name>
   <description>This full-bodied amber ale is brewed ?solely with English pale and crystal malts. The mild toffee flavor is nicely balanced with the orange spiciness from the U.K. Kent Golding hops for a crisp, clean ?finish.</description>
   <availability>year-round</availability>

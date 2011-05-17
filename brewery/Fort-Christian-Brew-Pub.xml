@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fort-Christian-Brew-Pub">
+<brewery>
+  <id>Fort-Christian-Brew-Pub</id>
   <name>Fort Christian Brew Pub‎</name>
   <address>
     <street>Christiansted</street>

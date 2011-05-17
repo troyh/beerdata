@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Butte-Creek-Brewing-Co/TRNWRK" brewery_id="Butte-Creek-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Butte-Creek-Brewing-Co/TRNWRK</id>
+  <brewery_id>Butte-Creek-Brewing-Co</brewery_id>
   <name>TRNWRK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-03231-12210-9">
+    <size>
+      <upc>6-03231-12210-9</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

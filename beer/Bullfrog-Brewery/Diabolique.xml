@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Diabolique" brewery_id="Bullfrog-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Diabolique</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>8</abv>
   <name>Diabolique</name>
   <description>This golden elixir has a strikingly fruity and honeyed aroma. The palette is spicier than the aroma shows yet the fruitiness won't be outdone. This beer finishes long and dry with a wonderfully complex character.</description>
   <availability/>

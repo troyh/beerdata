@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Apricot-Wheat" brewery_id="Bullfrog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Apricot-Wheat</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
   <name>Apricot Wheat</name>
   <description>n American wheat beer brimming with the flavor of fresh apricots.</description>
   <availability/>

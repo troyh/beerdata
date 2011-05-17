@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/All-Others-Pale" brewery_id="Mikkeller" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/All-Others-Pale</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>6</abv>
   <name>All Others Pale</name>
   <description>All Others Pale - as in 'All Others Pale By Comparison' - is our cheeky take on an American tradition, but, naturally, with a Danish touch. It is a well-balanced, light-bodied thirst quencher, perfect after a hard day's work or on hot summer days... but loads of fresh green hops and a subtle malty background makes this pale ale the refreshing choice year 'round!</description>
   <availability/>

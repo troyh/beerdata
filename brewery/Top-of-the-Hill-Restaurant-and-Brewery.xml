@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Top-of-the-Hill-Restaurant-and-Brewery">
+<brewery>
+  <id>Top-of-the-Hill-Restaurant-and-Brewery</id>
   <name>Top of the Hill Restaurant &amp; Brewery‎</name>
   <address>
     <street>100 E Franklin St # 3</street>

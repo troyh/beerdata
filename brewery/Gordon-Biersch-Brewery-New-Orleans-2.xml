@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-New-Orleans-2">
+<brewery>
+  <id>Gordon-Biersch-Brewery-New-Orleans-2</id>
   <name>Gordon Biersch Brewery‎</name>
   <address>
     <street>200 Poydras St</street>

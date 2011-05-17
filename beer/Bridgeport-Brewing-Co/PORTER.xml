@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Porter" brewery_id="Bridgeport-Brewing-Co" abv="7.8" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Porter</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>7.8</abv>
+  <ibu>70</ibu>
   <name>Porter</name>
   <description>This is truly a robust brew with the strong dark malt flavors of roasted barley and chocolate malt. BridgePort Porter is a bigger beer than a brown porter, with a bit more of the dark malt flavors and finishes a little sweet.  She is an indulgent brew with balanced hop bitterness and nice mocha and nutty overtones.</description>
   <availability/>

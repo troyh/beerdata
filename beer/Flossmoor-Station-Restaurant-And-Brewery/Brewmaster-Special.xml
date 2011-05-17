@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flossmoor-Station-Restaurant-And-Brewery/Brewmaster-Special" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flossmoor-Station-Restaurant-And-Brewery/Brewmaster-Special</id>
+  <brewery_id>Flossmoor-Station-Restaurant-And-Brewery</brewery_id>
   <name>Brewmaster Special </name>
   <description>In the good ol' days, certain styles of beer were brewed on a seasonal basis to reflect the changing seasons. At Flossmoor Station we have recreated that craft and offer Old World-style specialty brewed beers.</description>
   <availability/>

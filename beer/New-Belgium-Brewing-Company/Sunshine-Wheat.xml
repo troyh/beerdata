@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Sunshine-Wheat" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Sunshine-Wheat</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Sunshine Wheat</name>
   <description>SUNSHINE WHEAT is a great beer for trouncing thirst. Yet, it has a depth of character that inspires a quiet moment's reflection. Sunshine Wheat swirls in the mouth with ripples of coriander and orange peel tartness, settling nicely into a tranquil sea of apple and honey tones.A filtered wheat beer, Sunshine offers a crisp, refreshing alternative to heavier-bodied heffe-weizens.\nContinuing with the love of the great outdoors, we introduced Sunshine Wheat in 12-Packable Cans. From fishing to camping to festivals, now you can take the Sunshine with you</description>
   <availability>year-round</availability>

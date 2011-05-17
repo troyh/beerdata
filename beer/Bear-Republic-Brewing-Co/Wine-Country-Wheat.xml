@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Wine-Country-Wheat" brewery_id="Bear-Republic-Brewing-Co" abv="4.5" ibu="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Wine-Country-Wheat</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
+  <ibu>12</ibu>
   <name>Wine Country Wheat</name>
   <description>This is our German wheat ale, a true Hefe Weizen. This refreshing, unfiltered, golden, wheat beer uses a unique Bavarian yeast strain to impart a fruity, spicy character which is classic for this style. Our Wine Country Wheat Ale is very distinct, high in carbonation, and displays a thick creamy head. Often served with a slice of lemon, this is a great beer to drink on a hot summer day in Healdsburg.</description>
   <availability/>

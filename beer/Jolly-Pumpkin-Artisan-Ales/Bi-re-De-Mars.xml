@@ -1,6 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Bi-re-De-Mars" brewery_id="Jolly-Pumpkin-Artisan-Ales">
-  <name>Bi&#x8F;re de Mars </name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Bi-re-De-Mars</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <name>Bire de Mars </name>
   <description>A sustaining beer that is brewed to comfort in the gusty ides of March and welcome in a wealth of warmer weather.</description>
   <availability>spring</availability>
   <ingredients/>

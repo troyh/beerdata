@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-and-Restaurant-Carlsbad">
+<brewery>
+  <id>Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-and-Restaurant-Carlsbad</id>
   <name>Karl Strauss Brewery &amp; Restaurants: Karl Strauss Brewery &amp; Restaurant-Carlsbad‎</name>
   <address>
     <street>5801 Armada Dr</street>

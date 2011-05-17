@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Royal-Oak-Brewery-Royal-Oak">
+<brewery>
+  <id>Royal-Oak-Brewery-Royal-Oak</id>
   <name>Royal Oak Brewery‎</name>
   <address>
     <street>215 E 4th St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Olde-Auburn-Ale-House">
+<brewery>
+  <id>Olde-Auburn-Ale-House</id>
   <name>Olde Auburn Ale House‎</name>
   <address>
     <street>124 Tichenor Ave</street>

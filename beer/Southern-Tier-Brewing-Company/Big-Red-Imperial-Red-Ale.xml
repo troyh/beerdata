@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Big-Red-Imperial-Red-Ale" brewery_id="Southern-Tier-Brewing-Company" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Big-Red-Imperial-Red-Ale</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>9.5</abv>
   <name>big red Imperial Red Ale</name>
   <description>Inspiration can sometimes be found in the strangest of places. This eccentric brew started with a single flower from a hop named Hallertau. The delicate and spicy aroma present in this flower has been responsible for generations of great beers. Hallertau hops are to a brewer what an old tractor is to a farmer: reliable. Big Red expresses the nobility of Hallertau by placing it at the forefront of this Imperial Ale. Pour it into a snifter. A swirl allows the spicy aromas to come forward as a taste to the lips reveals the complex balance between sweet malts and the bitterness of hops. Big Red's ability to please is as dependable as your grandpa's old tractor, and just as powerful--so please don't drink and drive.</description>
   <availability/>

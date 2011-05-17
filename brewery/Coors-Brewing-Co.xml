@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Coors-Brewing-Co">
+<brewery>
+  <id>Coors-Brewing-Co</id>
   <name>Coors Brewing Co‎</name>
   <address>
     <street>311 10th St</street>

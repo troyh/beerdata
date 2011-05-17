@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/BLONDE" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/BLONDE</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>BLONDE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-92021-11111-1">
+    <size>
+      <upc>9-92021-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

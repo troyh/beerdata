@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Schilling-Bridge-Winery">
+<brewery>
+  <id>Schilling-Bridge-Winery</id>
   <name>Schilling Bridge Winery‎</name>
   <address>
     <street>62193 710th Rd</street>

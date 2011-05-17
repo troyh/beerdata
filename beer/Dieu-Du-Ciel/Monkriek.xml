@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Monkriek" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Monkriek</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>MONKRIEK</name>
   <description>The beer as we know it today only dates back a little over 125 years. Pasteur demonstrated in 1876 the mechanism of fermentation. In 1886, Hensen isolated for the first time a pure strain of yeast. Before this time, fermentation was misunderstood and brewing was an empirical process. The beer had many characteristics, which in our day, would be looked upon as flaws. One of these flaws was the presence of acidity or sourness in the beer, especially the ones that had aged.It is in western Flanders, Belgium, where they brew to this day a beer with those characteristics: the Oud Bruid (old brown). This red beer with a fruity bouquet has a very poignant sour flavour. These beers come from a mixed fermentation where the starter culture is made up of both yeast and bacteria. If the yeast produces alcohol, then the bacteria produce lactic acid which gives the beer its refreshing taste.Germany has banned the beer through their purity law, but Belgians have a tradition of fruit beers, especially those made with cherries and raspberries. The aromas and acidity of these fruit harmonize perfectly with sour beers like the oud bruin or the lambic.The MonKriek is a ruby red beer with a red fruit bouquet. To the taste, is full-bodied with hints of caramel and fruit. The sourness of the beer harmonizes with the cherry to produce red wine characteristics. This beer is made with genuine sour cherries macerated in the beer to produce a secondary fermentation. No artificial or natural aromas or flavours are added. The goal is not to make a fruity alcohol drink, but to harmonize the intrinsic qualities of a complex beer with those of the cherries.</description>
   <availability/>

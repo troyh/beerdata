@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mt-Tallac-Brewing-Co">
+<brewery>
+  <id>Mt-Tallac-Brewing-Co</id>
   <name>Mt Tallac Brewing Co‎</name>
   <address>
     <street>2060 Eloise Ave</street>

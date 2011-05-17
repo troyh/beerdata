@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stone-Brewing-Co-Escondido">
+<brewery>
+  <id>Stone-Brewing-Co-Escondido</id>
   <name>Stone Brewing Co.‎</name>
   <address>
     <street>1999 Citracado Parkway</street>

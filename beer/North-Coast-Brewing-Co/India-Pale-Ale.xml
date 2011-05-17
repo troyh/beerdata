@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="North-Coast-Brewing-Co/India-Pale-Ale" brewery_id="North-Coast-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/India-Pale-Ale</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
   <name>India Pale Ale</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="727344000458">
+    <size>
+      <upc>727344000458</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

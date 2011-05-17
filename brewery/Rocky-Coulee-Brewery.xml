@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rocky-Coulee-Brewery">
+<brewery>
+  <id>Rocky-Coulee-Brewery</id>
   <name>Rocky Coulee Brewery‎</name>
   <address>
     <street>205 E 1st Ave</street>

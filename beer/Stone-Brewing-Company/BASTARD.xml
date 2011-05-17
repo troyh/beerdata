@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Stone-Brewing-Company/BASTARD" brewery_id="Stone-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Company/BASTARD</id>
+  <brewery_id>Stone-Brewing-Company</brewery_id>
   <name>BASTARD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-36251-83003-7">
+    <size>
+      <upc>6-36251-83003-7</upc>
       <description>BOTTLE 1/3</description>
       <distributor>
         <name>columbia</name>

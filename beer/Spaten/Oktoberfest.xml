@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Spaten/Oktoberfest" brewery_id="Spaten">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten/Oktoberfest</id>
+  <brewery_id>Spaten</brewery_id>
   <name>Oktoberfest</name>
   <description/>
   <availability/>

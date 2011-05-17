@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stewarts-Brewing-Co">
+<brewery>
+  <id>Stewarts-Brewing-Co</id>
   <name>Stewarts Brewing Co‎</name>
   <address>
     <street>219 Governors Pl</street>

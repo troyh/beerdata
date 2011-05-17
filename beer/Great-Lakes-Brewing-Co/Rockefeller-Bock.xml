@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Rockefeller-Bock" brewery_id="Great-Lakes-Brewing-Co" abv="7.5" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Rockefeller-Bock</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>7.5</abv>
+  <ibu>35</ibu>
   <name>Rockefeller Bock</name>
   <description>A classic German Bock with a rich, malty flavor.</description>
   <availability>limited</availability>

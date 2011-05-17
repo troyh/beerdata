@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Old-Stock-Ale" brewery_id="North-Coast-Brewing-Co" abv="12.5" ibu="36">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Old-Stock-Ale</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>12.5</abv>
+  <ibu>36</ibu>
   <name>Old Stock Ale</name>
   <description>Like a fine port, Old Stock Ale is intended to be laid down. With an original gravity of over 1.100 and a generous hopping rate, Old Stock Ale is well-designed to round-out and mellow with age. It's brewed with classic Maris Otter malt and Fuggles and East Kent Goldings hops, all imported from England.</description>
   <availability/>

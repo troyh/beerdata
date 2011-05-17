@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Surly-Brewing-Co/Coffee-Bender" brewery_id="Surly-Brewing-Co" abv="5.2" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Surly-Brewing-Co/Coffee-Bender</id>
+  <brewery_id>Surly-Brewing-Co</brewery_id>
+  <abv>5.2</abv>
+  <ibu>45</ibu>
   <name>Coffee Bender</name>
   <description>Coffee Bender refreshes like an iced-coffee, is aromatic as a bag of whole beans as satisfies like your favorite beer. Utilizing the latest technology, the Surly brew team has developed a cold extraction process that results in intense coffee aromatics and flavor ? bringing together two of our favorite beverages. Your only dilemma will be whether to finish your day or start it with a Coffee Bender.</description>
   <availability>winter</availability>

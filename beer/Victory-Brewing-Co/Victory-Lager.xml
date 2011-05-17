@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Victory-Lager" brewery_id="Victory-Brewing-Co" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Victory-Lager</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
   <name>Victory Lager</name>
   <description>Perfectly balanced, this authentic version of a German helles-style lager satisfies gloriously. Lean, German malts and fine European hops offer subtle harmony.</description>
   <availability/>

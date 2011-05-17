@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Quay-Street-Brewing-Co">
+<brewery>
+  <id>Quay-Street-Brewing-Co</id>
   <name>Quay Street Brewing Co‎</name>
   <address>
     <street>330 Quay St</street>

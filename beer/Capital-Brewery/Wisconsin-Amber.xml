@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Capital-Brewery/Wisconsin-Amber" brewery_id="Capital-Brewery" abv="5.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Capital-Brewery/Wisconsin-Amber</id>
+  <brewery_id>Capital-Brewery</brewery_id>
+  <abv>5.2</abv>
   <name>Wisconsin Amber</name>
   <description>Loosely based on Vienna style, Wisconsin Amber is a rich, malty lager balanced out with mild hop bittering and enticing hop flavor. Very fulfilling. Very drinkable.</description>
   <availability/>

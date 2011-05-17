@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Restaurant-Bar-and-Brewery">
+<brewery>
+  <id>Hops-Restaurant-Bar-and-Brewery</id>
   <name>Hops Restaurant Bar &amp; Brewery‎</name>
   <address>
     <street>4502 14th St W</street>

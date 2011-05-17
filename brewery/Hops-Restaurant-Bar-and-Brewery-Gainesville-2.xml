@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Restaurant-Bar-and-Brewery-Gainesville-2">
+<brewery>
+  <id>Hops-Restaurant-Bar-and-Brewery-Gainesville-2</id>
   <name>Hops Restaurant Bar &amp; Brewery‎</name>
   <address>
     <street>3770 SW Archer Rd</street>

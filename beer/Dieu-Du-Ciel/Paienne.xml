@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Paienne" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Paienne</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>Paienne</name>
   <description>Paienne is a top-fermenting June straw blond coloured beer. It presents aromas of malt, fruits and hops. Its well-balanced flavours are dominated by malty and fresh cereals tastes, completed by a delicate bitterness. All of this makes the Paienne an inviting and thirst-quenching beer offering at the same time satisfying tastes and a generous body.</description>
   <availability/>

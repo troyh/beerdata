@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lucky-Labrador-Beer-Hall">
+<brewery>
+  <id>Lucky-Labrador-Beer-Hall</id>
   <name>Lucky Labrador Beer Hall‎</name>
   <address>
     <street>1945 NW Quimby St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Franziskaner/Hefe-weisse-Light" brewery_id="Franziskaner">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Franziskaner/Hefe-weisse-Light</id>
+  <brewery_id>Franziskaner</brewery_id>
   <name>Hefe-Weisse Light</name>
   <description/>
   <availability/>

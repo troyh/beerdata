@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Cleveland-Brown-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="6" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Cleveland-Brown-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6</abv>
+  <ibu>40</ibu>
   <name>Cleveland Brown Ale</name>
   <description>A rich brown ale with toasted malt notes blending into a dry, nutty finish.</description>
   <availability>limited</availability>

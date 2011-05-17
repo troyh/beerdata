@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Barleywine" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Barleywine</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>Barleywine</name>
   <description>a full bodied ale, deep mahogany in color and brewed with an array of complementing malts. Multiple hop additions in the boil and dry hopping during fermentation provide contrast to the big malt character resulting in the smooth balance that distinguishes this specialty brew. Like many fine wines, Alaskan Barley Wine may be aged in the bottle and gains deeper malt complexity and smoothness over time.</description>
   <availability>limited</availability>

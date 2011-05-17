@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Caldera-Brewing-Co">
+<brewery>
+  <id>Caldera-Brewing-Co</id>
   <name>Caldera Brewing Co‎</name>
   <address>
     <street>540 Clover Ln</street>

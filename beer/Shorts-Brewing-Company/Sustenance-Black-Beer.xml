@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Sustenance-Black-Beer" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Sustenance-Black-Beer</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Sustenance Black Beer</name>
   <description>Our dark American lager beer we brew in the spring time. Since released, this beer has gained an underground following. Black is the beer, but soft and sweet on the palate. Rich flavor stems from roasted and dark caramel grains. Sustenance is a very delightful and easy drinking lager with strong emphasis on the balanced malt profile.</description>
   <availability>spring</availability>

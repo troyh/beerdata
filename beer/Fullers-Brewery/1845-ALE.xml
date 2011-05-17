@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fullers-Brewery/1845-ALE" brewery_id="Fullers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fullers-Brewery/1845-ALE</id>
+  <brewery_id>Fullers-Brewery</brewery_id>
   <name>1845 ALE</name>
   <description/>
   <availability/>

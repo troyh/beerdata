@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Blackheart" brewery_id="Three-Floyds-Brewing" abv="8" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Blackheart</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>8</abv>
+  <ibu>70</ibu>
   <name>Blackheart</name>
   <description/>
   <availability>year-round</availability>

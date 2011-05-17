@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Springfield-Brewing-Co">
+<brewery>
+  <id>Springfield-Brewing-Co</id>
   <name>Springfield Brewing Co‎</name>
   <address>
     <street>301 S Market Ave</street>

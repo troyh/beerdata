@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cervezas-Mexicanas/AMBER" brewery_id="Cervezas-Mexicanas">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cervezas-Mexicanas/AMBER</id>
+  <brewery_id>Cervezas-Mexicanas</brewery_id>
   <name>AMBER</name>
   <description/>
   <availability/>

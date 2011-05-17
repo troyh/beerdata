@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/V-twelve" brewery_id="Victory-Brewing-Co" abv="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/V-twelve</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>12</abv>
   <name>V-Twelve</name>
   <description>Amber, aromatic strong ale... Our vintage-dated, Belgian-style specialty ale, offered in corked 25.4 oz. bottles, is a sensation in subtlety. Heady with a aromatic fruity start and taste, this amber ale features hints of pear and apricot in its well-nuanced flavor. The initial impression of fruitiness concludes in a refreshing dryness that begs you to sip again. Be fore- warned, this ale is immense as it registers 12% abv.</description>
   <availability/>

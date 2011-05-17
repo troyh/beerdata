@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lazy-Magnolia-Brewery">
+<brewery>
+  <id>Lazy-Magnolia-Brewery</id>
   <name>Lazy Magnolia Brewery‎</name>
   <address>
     <street>7030 Roscoe Turner Rd</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Summer-Ale" brewery_id="Alaskan-Brewing-Co" abv="5.3" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Summer-Ale</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+  <abv>5.3</abv>
+  <ibu>18</ibu>
   <name>Summer Ale</name>
   <description>Alaskan Summer Ale balances a softly malted palate with the clean freshness of hops. In the tradition of the style, neither overpowers the other. Both hops and malt come together to refresh and renew the palate. The straw-gold color and easy drinkability are an enjoyable way to celebrate summer. \nHistory: Brewed in our original brewhouse in 1997, this beer is part of our Rough Draft series and has met success with each limited edition release. The enthusiastic reception led the Brew Crew to bring it to the West Coast as a summer seasonal.</description>
   <availability>summer</availability>

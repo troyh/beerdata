@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lefthand/Sawtooth-Ale" brewery_id="Lefthand" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lefthand/Sawtooth-Ale</id>
+  <brewery_id>Lefthand</brewery_id>
+  <ibu>year-round</ibu>
   <name>Sawtooth ale</name>
   <description/>
   <availability/>

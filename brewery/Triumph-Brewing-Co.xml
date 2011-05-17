@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Triumph-Brewing-Co">
+<brewery>
+  <id>Triumph-Brewing-Co</id>
   <name>Triumph Brewing Co‎</name>
   <address>
     <street>138 Nassau St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/REV-QD" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/REV-QD</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>REV QD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-93630-00113-3">
+    <size>
+      <upc>7-93630-00113-3</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

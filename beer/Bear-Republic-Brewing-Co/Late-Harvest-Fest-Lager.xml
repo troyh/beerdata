@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Late-Harvest-Fest-Lager" brewery_id="Bear-Republic-Brewing-Co" abv="6.2" ibu="21">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Late-Harvest-Fest-Lager</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>21</ibu>
   <name>Late Harvest Fest Lager</name>
   <description>This malty, copper-colored lager is styled after Munich's traditional "Oktoberfest" beers. A full-bodied, rich malt character is balanced by a slight bitter finish. Perfect for cooler fall days, it is lagered for five weeks. Prost!!</description>
   <availability>limited</availability>

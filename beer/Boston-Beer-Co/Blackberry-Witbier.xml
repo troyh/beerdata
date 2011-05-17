@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Blackberry-Witbier" brewery_id="Boston-Beer-Co" calories_per_ml="0.49593899229029" abv="5.50" og="13Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Blackberry-Witbier</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.49593899229029</calories_per_ml>
+  <abv>5.50</abv>
+  <og>13Plato</og>
   <name>Blackberry Witbier</name>
   <description>The blackberries we use in Samuel AdamsÂ® Blackberry Witbier are perfect for this brew.   They deliver a subtle sweetness that balances the traditional citrus flavors from the witbier.  The blackberries used in Samuel Adams Blackberry Witbier are sourced from family farms, located at the foot of the Oregon Trail and Cascade Mountains in Western Oregon, where they have been growing some of the best blackberries in the world for centuries.  By bringing the blackberries, orange and coriander together with an appealing malt character and a spiciness from the hops, weâve brewed a flavorful beer with a smooth finish thatâs both sweet and tart.</description>
   <availability>year round</availability>

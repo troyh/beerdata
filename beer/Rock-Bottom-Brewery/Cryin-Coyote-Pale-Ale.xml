@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Cryin-Coyote-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Cryin-Coyote-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Cryin' Coyote Pale Ale</name>
   <description>This is brewed with plenty of Cascade hops and balanced with medium bodied 2-row and Caramel malt. They'll be no cryin' for hops with this Pale Ale. Spicy foods are a great compliment to hoppy beer.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/Mephistophele-s-Stout" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/Mephistophele-s-Stout</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>Mephistophele's Stout</name>
   <description/>
   <availability>winter</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="796363001258">
+    <size>
+      <upc>796363001258</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

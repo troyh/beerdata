@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Old-Toad-Barleywine" brewery_id="Bullfrog-Brewery" abv="11">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Old-Toad-Barleywine</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>11</abv>
   <name>Old Toad Barleywine</name>
   <description>Big, bold and rich with flavors of candied orange peels, caramelized malts, ripe dark fruits and a steady stream of hops( over 100 I.B.U.'s ). Brewed with over 3 times the "normal" amount of malt and hops but then again I'm not normal!</description>
   <availability/>

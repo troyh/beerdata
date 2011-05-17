@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Cherry-Wheat" brewery_id="Bullfrog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Cherry-Wheat</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
   <name>Cherry Wheat</name>
   <description>A crisp and refreshing Wheat beer with a kiss of cherries.</description>
   <availability/>

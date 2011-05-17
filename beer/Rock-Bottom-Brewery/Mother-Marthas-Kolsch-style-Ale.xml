@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Mother-Marthas-Kolsch-style-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Mother-Marthas-Kolsch-style-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Mother Martha's Kolsch-style Ale</name>
   <description>Brewed in the Menninger family tradition, this light bodied ale is lagered to create a highly refreshing beer with a subtle fruitiness in the nose and a soft palate. German Perle and Tettnang hops provide a subdued spicy balance that makes this beer a perfect match for salads and burgers. Awarded GOLD at the 2004 World Beer Cup in the German-Style Kolsch Category.</description>
   <availability>year-round</availability>

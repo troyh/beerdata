@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Phantom-Canyon-Brewing-Co-Colorado-Springs">
+<brewery>
+  <id>Phantom-Canyon-Brewing-Co-Colorado-Springs</id>
   <name>Phantom Canyon Brewing Co‎</name>
   <address>
     <street>2 E Pikes Peak Ave</street>

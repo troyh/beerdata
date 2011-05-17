@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trout-River-Brewing-Co">
+<brewery>
+  <id>Trout-River-Brewing-Co</id>
   <name>Trout River Brewing Co‎</name>
   <address>
     <street>58 Broad St</street>

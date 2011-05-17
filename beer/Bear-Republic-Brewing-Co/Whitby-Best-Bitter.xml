@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Whitby-Best-Bitter" brewery_id="Bear-Republic-Brewing-Co" abv="5.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Whitby-Best-Bitter</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
   <name>Whitby Best Bitter</name>
   <description>This English Ale was modeled after a historical 1830's recipe from the famous Youngers Brewery, using a traditional English fermentation process. We hope you like this piece of living history!</description>
   <availability/>

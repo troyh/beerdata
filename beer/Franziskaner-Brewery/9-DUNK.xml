@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Franziskaner-Brewery/9-DUNK" brewery_id="Franziskaner-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Franziskaner-Brewery/9-DUNK</id>
+  <brewery_id>Franziskaner-Brewery</brewery_id>
   <name>9 DUNK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88394-00020-2">
+    <size>
+      <upc>0-88394-00020-2</upc>
       <description>BOTTLE 20/16</description>
       <distributor>
         <name>columbia</name>

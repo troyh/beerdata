@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Olde-School-Barleywine" brewery_id="Dogfish-Head-Craft-Brewery-Milton" abv="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Olde-School-Barleywine</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <abv>15</abv>
   <name>Olde School Barleywine</name>
   <description>Bold, yet smooth! Fermented with dates and figs, this bone-crusher has a completely unique flavor.</description>
   <availability>limited</availability>
@@ -9,7 +12,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="19C">American Barleywine</style>
+    <style><bjcp_style_id>19C</bjcp_style_id>American Barleywine</style>
   </styles>
   <sizes>
     <size>

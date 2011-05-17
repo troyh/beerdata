@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Berliner-Weiss" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Berliner-Weiss</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Berliner Weiss</name>
   <description>Napoleon hailed this tart beer style "the Champagne of the North". A lively and elegant masterpiece this Berliner Weiss is a kaleidoscope of fresh flavor. Barrel fermentation, Pinot Grigio, Riesling grapes and Wisconsin White Wheat are bottle fermented with five proprietary yeast strains. A connoisseur's rare jewel both spirited and subtle, Enjoy your sparking toast under summer stars.</description>
   <availability>retired</availability>

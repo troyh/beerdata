@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Heineken-USA/T-LIGHT" brewery_id="Heineken-USA">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Heineken-USA/T-LIGHT</id>
+  <brewery_id>Heineken-USA</brewery_id>
   <name>T LIGHT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72890-00194-8">
+    <size>
+      <upc>0-72890-00194-8</upc>
       <description>CAN 2/5</description>
       <distributor>
         <name>columbia</name>

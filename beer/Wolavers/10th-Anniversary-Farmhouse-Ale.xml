@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Wolavers/10th-Anniversary-Farmhouse-Ale" brewery_id="Wolavers">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers/10th-Anniversary-Farmhouse-Ale</id>
+  <brewery_id>Wolavers</brewery_id>
   <name>10th Anniversary Farmhouse Ale</name>
   <description>Every purchase ofour delicious 10th Anniversary Farmhouse Ale will help sustainable farming grow even more- 10% of sales will be donated to the Organic Farming Research Foundation. Our 10th Anniversary Farmhouse Ale is a Belgian-style saison, brewed with plenty of organic malts and hops. The perfect tribute to our farmers and customers who have made 10 years of great organic beers possible!</description>
   <availability>limited</availability>

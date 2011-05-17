@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Double-Bock" brewery_id="Boston-Beer-Co" calories_per_ml="0.901707258709618" abv="9.50" og="24.5Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Double-Bock</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.901707258709618</calories_per_ml>
+  <abv>9.50</abv>
+  <og>24.5Plato</og>
   <name>Double Bock</name>
   <description>Samuel AdamsÂ® Double Bock was first brewed 20 years ago as the first of our Samuel AdamsÂ® seasonal offerings, and it is now one of our most acclaimed beers.  Double Bock became one the first big beers to be brewed here in the US, and we are now happy to offer it year round.  We use an enormous amount of malted barley, half a pound per bottle, to brew this intensely rich lager. Its deep mahogany color and velvet smooth flavor is a testament to the beerâs high quality two-row malted barley.  Samuel AdamsÂ® Double Bock, as with all of the beers in the Imperial Series, is brewed using only first wort (wort that has not been sparged in the lauter tun) to obtain a liquid that is very high in gravity. This high gravity allows for a fuller body and higher alcohol content in the final beer.  We age this beer for over 4 weeks to allow all of those intense flavors to develop and mature.
 
@@ -13,7 +18,7 @@ The intense flavors of Double Bock go well with rich meats like duck, quail or p
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="5C">Doppelbock</style>
+    <style><bjcp_style_id>5C</bjcp_style_id>Doppelbock</style>
   </styles>
   <sizes>
     <size>

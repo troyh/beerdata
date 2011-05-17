@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Surly-Brewing-Co/Bender" brewery_id="Surly-Brewing-Co" abv="5.1" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Surly-Brewing-Co/Bender</id>
+  <brewery_id>Surly-Brewing-Co</brewery_id>
+  <abv>5.1</abv>
+  <ibu>45</ibu>
   <name>Bender</name>
   <description>Here's what happens when substance meets smooth. This oatmeal brown ale defies traditional categories. Bender begins crisp and lightly hoppy, complemented by the velvety sleekness oats deliver. Belgian and British malts usher in cascades of cocoa, coffee, caramel and hints of vanilla and cream. An easy-drinking ale with many layers of satisfaction.</description>
   <availability/>

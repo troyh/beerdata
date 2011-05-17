@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mohegan-Cafe-Water">
+<brewery>
+  <id>Mohegan-Cafe-Water</id>
   <name>Mohegan Cafe Water‎</name>
   <address>
     <street>213 Water St</street>

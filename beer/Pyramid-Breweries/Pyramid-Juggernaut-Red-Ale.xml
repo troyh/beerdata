@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Pyramid-Breweries/Pyramid-Juggernaut-Red-Ale" brewery_id="Pyramid-Breweries" abv="5.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries/Pyramid-Juggernaut-Red-Ale</id>
+  <brewery_id>Pyramid-Breweries</brewery_id>
+  <abv>5.6</abv>
   <name>Pyramid Juggernaut Red Ale</name>
   <description>Juggernaut is an American Red ale brimming with delectable caramel malts, delicious hops and an unquenchable spirit.</description>
   <availability>Fall</availability>

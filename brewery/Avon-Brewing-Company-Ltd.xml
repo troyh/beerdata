@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Avon-Brewing-Company-Ltd">
+<brewery>
+  <id>Avon-Brewing-Company-Ltd</id>
   <name>Avon Brewing Company Ltd‎</name>
   <address>
     <street>Unit 4</street>

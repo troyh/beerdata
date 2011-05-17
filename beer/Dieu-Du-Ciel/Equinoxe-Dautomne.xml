@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Equinoxe-Dautomne" brewery_id="Dieu-Du-Ciel" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Equinoxe-Dautomne</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>7.5</abv>
   <name>EQUINOXE D'AUTOMNE</name>
   <description>This typical automn beer is brewed with beech smoked malt. Because it is fermented with lager style yeast, this beer offers very little in the way of fruity esters, leaving the way clear for the smoky alcohol flavours. To the taste, it is relatively full-bodied and sweet, with a nice malty flavour.</description>
   <availability>fall</availability>

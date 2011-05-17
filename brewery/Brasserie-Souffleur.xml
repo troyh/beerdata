@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brasserie-Souffleur">
+<brewery>
+  <id>Brasserie-Souffleur</id>
   <name>Brasserie Souffleur‎</name>
   <address>
     <street>Vlamingstraat 58</street>

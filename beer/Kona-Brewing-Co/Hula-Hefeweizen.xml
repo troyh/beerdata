@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Hula-Hefeweizen" brewery_id="Kona-Brewing-Co" abv="5.6" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Hula-Hefeweizen</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
+  <ibu>18</ibu>
   <name>Hula Hefeweizen</name>
   <description>Hula Hefeweizen is a traditional Bavarian-style weissbier that is medium to full bodied with a pronounced banana / herbal flavor and aroma. This unique flavor profile is a result of the special type of yeast strain used to brew this beer.</description>
   <availability>limited</availability>

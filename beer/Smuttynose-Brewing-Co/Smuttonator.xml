@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Smuttonator" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Smuttonator</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>S'Muttonator</name>
   <description>As the name implies, a doppelbock (double bock) is an extra strong, very malty German lager beer. Typically quite sweet with some roasted malt undertones, doppelbocks range in color from deep amber to nearly black and are normally associated with the winter season. Traditionally, German brewers have used the suffix "-ator" in naming their doppelbock beers; we have, too.S'muttonator is a tasty mixture of German ingredients &amp; good ol' fashioned New England tenaciousness. Our brewers take 30 hours to brew a single batch of this traditional Double Bock. Take your time &amp; enjoy its rich, malty &amp; deceptively smooth flavor.</description>
   <availability/>

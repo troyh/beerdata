@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Espresso-Oak-Aged-Yeti" brewery_id="Great-Divide-Brewing-Co" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Espresso-Oak-Aged-Yeti</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>9.5</abv>
   <name>Espresso Oak Aged Yeti</name>
   <description>is a new addition to the Yeti clan. A generous infusion of espresso adds yet another layer of complexity to this beer, combining with the vanilla oak character, intense roasty maltiness and bold hop profile to create a whole new breed of mythical creature. It's official: You can now have Yeti with breakfast.</description>
   <availability>spring</availability>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Shipyard-Brewing-Co/Longfellow-Winter-Ale" brewery_id="Shipyard-Brewing-Co" abv="5.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shipyard-Brewing-Co/Longfellow-Winter-Ale</id>
+  <brewery_id>Shipyard-Brewing-Co</brewery_id>
+  <abv>5.8</abv>
   <name>Longfellow Winter Ale</name>
   <description>Longfellow Winter Ale was first introduced in February 1995 to honor the poet Henery Wadsworth Longfellow. A full-bodied beer, Longfellow Winter Ale is almost a hybrid between a porter and Scottish ale, with a distinct roasted barley character. A well-balanced malty hoppiness comes through initially, and it finishes long and dry.</description>
   <availability>Winter</availability>

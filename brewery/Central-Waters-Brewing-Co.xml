@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Central-Waters-Brewing-Co">
+<brewery>
+  <id>Central-Waters-Brewing-Co</id>
   <name>Central Waters Brewing Co‎</name>
   <address>
     <street>Allen St</street>

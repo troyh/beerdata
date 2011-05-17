@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/Old-Ruffian-Barley-Wine" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Old-Ruffian-Barley-Wine</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
   <name>Old Ruffian Barley Wine</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="790586000173">
+    <size>
+      <upc>790586000173</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

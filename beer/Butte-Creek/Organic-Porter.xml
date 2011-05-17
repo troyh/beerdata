@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Butte-Creek/Organic-Porter" brewery_id="Butte-Creek">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Butte-Creek/Organic-Porter</id>
+  <brewery_id>Butte-Creek</brewery_id>
   <name>Organic Porter</name>
   <description/>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/20th-Anniversary-Munich-Dunkel" brewery_id="Karl-Strauss" abv="5.4" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/20th-Anniversary-Munich-Dunkel</id>
+  <brewery_id>Karl-Strauss</brewery_id>
+  <abv>5.4</abv>
+  <ibu>28</ibu>
   <name>20th Anniversary Munich Dunkel</name>
   <description>A dark brown German lager made with imported malts and Noble hops. Brewed in honor of our 20th Anniversary, with toasted and caramel flavors of the Bavarian classic.</description>
   <availability>limited</availability>

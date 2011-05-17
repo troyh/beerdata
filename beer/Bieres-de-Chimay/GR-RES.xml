@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bieres-de-Chimay/GR-RES" brewery_id="Bieres-de-Chimay">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bieres-de-Chimay/GR-RES</id>
+  <brewery_id>Bieres-de-Chimay</brewery_id>
   <name>GR RES</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-81706-00030-3">
+    <size>
+      <upc>0-81706-00030-3</upc>
       <description>BOTTLE 1/3</description>
       <distributor>
         <name>columbia</name>

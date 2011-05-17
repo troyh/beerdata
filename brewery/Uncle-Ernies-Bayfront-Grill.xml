@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Uncle-Ernies-Bayfront-Grill">
+<brewery>
+  <id>Uncle-Ernies-Bayfront-Grill</id>
   <name>Uncle Ernie's Bayfront Grill‎</name>
   <address>
     <street>1151 Bayview Ave</street>

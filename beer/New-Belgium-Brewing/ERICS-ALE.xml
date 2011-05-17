@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/ERICS-ALE" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/ERICS-ALE</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>ERICS ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-66666-66666-0">
+    <size>
+      <upc>0-66666-66666-0</upc>
       <description>KEG 1/6</description>
       <distributor>
         <name>columbia</name>

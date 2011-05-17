@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Braggot" brewery_id="Magic-Hat" abv="6.0" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Braggot</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>6.0</abv>
+  <ibu>20</ibu>
   <name>Braggot</name>
   <description>Our inaugural Epic Elixir, Braggot is a most remarkable honey ale, made with specialty malts &amp; wildflower honey from Vermont's Champlain Valley. The honey adds smoothness with subtle hints of chamomile. Braggot is an ale of shining perfection that simply must be experienced to be understood. But hurry ... for Braggot, as with each entry in our Humdinger series, vanishes almost as soon as it arrives.  Get a bottle of Braggot today and come to know a new 'Ale of Legend'. </description>
   <availability>winter</availability>

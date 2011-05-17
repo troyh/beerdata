@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Morimoto-Soba-Ale" brewery_id="Rogue-Ales" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Morimoto-Soba-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>30</ibu>
   <name>Morimoto Soba Ale</name>
   <description>The delicate flavor of our roasted Soba brings a nutty finish to this light and refreshing ale. A perfect accompaniment to lighter cuisine</description>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Lake-Erie-Monster" brewery_id="Great-Lakes-Brewing-Co" abv="9" ibu="92">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Lake-Erie-Monster</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>9</abv>
+  <ibu>92</ibu>
   <name>Lake Erie Monster</name>
   <description>An Imperial India Pale Ale with huge hop flavor.</description>
   <availability>limited</availability>

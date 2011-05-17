@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bent-River-Brewery-Restaurant-Moline">
+<brewery>
+  <id>Bent-River-Brewery-Restaurant-Moline</id>
   <name>Bent River Brewery Restaurant‎</name>
   <address>
     <street>1413 5th Ave</street>

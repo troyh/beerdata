@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sailfish-Grill">
+<brewery>
+  <id>Sailfish-Grill</id>
   <name>Sailfish Grill‎</name>
   <address>
     <street>104 N Lewis St</street>

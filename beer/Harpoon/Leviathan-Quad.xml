@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Leviathan-Quad" brewery_id="Harpoon" abv="11.75" ibu="44">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Leviathan-Quad</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>11.75</abv>
+  <ibu>44</ibu>
   <name>Leviathan Quad</name>
   <description>Leviathan Quad was fermented with a blend of two traditional Trappist yeasts. A mixture of two-row pale malts, caramel malts, and special aromatic malts gives the Quad its richness and texture. The subtle hop flavor imparted from Brewer's Gold hops lingers in the background and provides just enough bitterness to balance the malt sweetness. The addition of imported Belgian Dark Candi Syrup rounds out the beer, giving the Quad its full body and deep auburn color. Expect notes of honeyed dry fruit with peppery phenols in the aroma, a velvet-like mouthfeel, and a superbly drinkable beer. \nOriginal Released: March 2009</description>
   <availability>limited</availability>

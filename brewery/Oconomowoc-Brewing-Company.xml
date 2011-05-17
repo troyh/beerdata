@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oconomowoc-Brewing-Company">
+<brewery>
+  <id>Oconomowoc-Brewing-Company</id>
   <name>Oconomowoc Brewing Company‎</name>
   <address>
     <street>750 E Wisconsin Ave</street>

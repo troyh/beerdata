@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Southern-Tier-Brewing-Co/CHOKLAT" brewery_id="Southern-Tier-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Co/CHOKLAT</id>
+  <brewery_id>Southern-Tier-Brewing-Co</brewery_id>
   <name>CHOKLAT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

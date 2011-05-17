@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Brickway-Brown" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Brickway-Brown</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Brickway Brown</name>
   <description>Brewed in the style of a Brown Porter, this deep mahogany-colored Ale displays notes of toffee, semi-sweet chocolate, and roasted flavors. Subtle hop notes contribute a delightful balance.</description>
   <availability>year-round</availability>

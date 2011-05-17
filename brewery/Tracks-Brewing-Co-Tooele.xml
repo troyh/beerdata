@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tracks-Brewing-Co-Tooele">
+<brewery>
+  <id>Tracks-Brewing-Co-Tooele</id>
   <name>Tracks Brewing Co‎</name>
   <address>
     <street>1641 N Main St</street>

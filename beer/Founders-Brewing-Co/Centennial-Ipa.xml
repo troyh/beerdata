@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Centennial-Ipa" brewery_id="Founders-Brewing-Co" abv="7.2" ibu="65">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Centennial-Ipa</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>7.2</abv>
+  <ibu>65</ibu>
   <name>Centennial IPA</name>
   <description>Get ready to bask in the glory of the frothy head's floral bouquet. Relish the citrus accents from the abundance of dry-hopping. This one's sweet, yet balanced. Malty undertones shake hands with the hop character for a finish that never turns too bitter.</description>
   <availability/>

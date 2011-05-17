@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Hometown-Blonde" brewery_id="New-Glarus-Brewing-Company" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Hometown-Blonde</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>4.8</abv>
   <name>Hometown Blonde</name>
   <description>Embrace a classic! Hometown Blonde is an Old World style pilsner, assertively hopped with four premium hop varieties. Tettnanger, Saaz, Styrian Golding and Strisselpalt varieties all grace this German-style brew with the complex character you enjoy in a classic pilsner. \nExpect to pour an elegant blonde glass of beer, crowned with a rich head of foam that resonates with our chorus of hops. Although delicate in appearance, our Hometown Blonde has a backbone, but of course in Wisconsin that is no surprise.</description>
   <availability>retired</availability>

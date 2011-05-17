@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="High-Desert-Brewing-Co-Las-Cruces">
+<brewery>
+  <id>High-Desert-Brewing-Co-Las-Cruces</id>
   <name>High Desert Brewing Co‎</name>
   <address>
     <street>1201 W Hadley Ave</street>

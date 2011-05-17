@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stumptown-Brewery-Guerneville">
+<brewery>
+  <id>Stumptown-Brewery-Guerneville</id>
   <name>Stumptown Brewery‎</name>
   <address>
     <street>15045 River Rd</street>

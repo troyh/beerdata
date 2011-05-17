@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Rigor-Mortis-Triple" brewery_id="Dieu-Du-Ciel" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Rigor-Mortis-Triple</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>9</abv>
   <name>RIGOR MORTIS TRIPLE</name>
   <description>Blond like a ray of sunlight, crowned by thick foam and sustained by a pronounced effervescence, this beer is the delight of all our customers! Its bouquet is the result of a large array of floral and fruity esters which are complemented by a light and delicate fragrance of malts and hops. The first draught reveals a full-bodied beer with a malty sweetness and a warm touch of alcohol. A hint of acidity is discovered in the aftertaste, but it is quickly overcome by the sharp bitterness of the hops. The Rigor Mortis are complex beers designed and brewed with patience and care in the tradition of the great Belgian Abbey beers.</description>
   <availability/>

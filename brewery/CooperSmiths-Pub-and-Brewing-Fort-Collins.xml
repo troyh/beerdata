@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="CooperSmiths-Pub-and-Brewing-Fort-Collins">
+<brewery>
+  <id>CooperSmiths-Pub-and-Brewing-Fort-Collins</id>
   <name>CooperSmith's Pub &amp; Brewing‎</name>
   <address>
     <street>#5 Old Town Square</street>

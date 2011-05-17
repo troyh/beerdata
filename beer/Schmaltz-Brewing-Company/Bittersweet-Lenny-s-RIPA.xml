@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schmaltz-Brewing-Company/Bittersweet-Lenny-s-RIPA" brewery_id="Schmaltz-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schmaltz-Brewing-Company/Bittersweet-Lenny-s-RIPA</id>
+  <brewery_id>Schmaltz-Brewing-Company</brewery_id>
   <name>Bittersweet Lenny's RIPA</name>
   <description/>
   <availability/>

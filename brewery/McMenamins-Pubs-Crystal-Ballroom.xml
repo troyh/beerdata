@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Pubs-Crystal-Ballroom">
+<brewery>
+  <id>McMenamins-Pubs-Crystal-Ballroom</id>
   <name>McMenamins Pubs: Crystal Ballroom‎</name>
   <address>
     <street>1332 W Burnside St</street>

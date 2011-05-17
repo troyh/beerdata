@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Front-Street-Brewery-Davenport-2">
+<brewery>
+  <id>Front-Street-Brewery-Davenport-2</id>
   <name>Front Street Brewery‎</name>
   <address>
     <street>208 E River Dr</street>

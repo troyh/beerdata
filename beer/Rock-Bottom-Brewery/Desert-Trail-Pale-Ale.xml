@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Desert-Trail-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Desert-Trail-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Desert Trail Pale Ale</name>
   <description>This American India Pale Ale (IPA) balances Amarillo, Simco, and Cascade hops with a generous crystal malt charge. This full-flavored brew has a piney, citrus finish and pairs well with pizza or our Certified Angus Beef Burgers.</description>
   <availability>year-round</availability>

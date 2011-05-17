@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulevard-Brewing-Co/Single-wide-Ipa" brewery_id="Boulevard-Brewing-Co" abv="5.7" ibu="59">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulevard-Brewing-Co/Single-wide-Ipa</id>
+  <brewery_id>Boulevard-Brewing-Co</brewery_id>
+  <abv>5.7</abv>
+  <ibu>59</ibu>
   <name>Single-Wide IPA</name>
   <description>The latest addition to the Boulevard family of year-around beers, Single-Wide I.P.A. is our take on a style that originated in 18th century Great Britain. This American version -- inspired by our Smokestack Series Double-Wide I.P.A. -- boasts a heady combination of six varieties of hops, some of which were employed for dry-hopping.\nSENSORY DESCRIPTION: Slightly hazy, golden bronze in appearance. Aroma is flowery, with hints of citrus and fresh mown hay. Assertive hop signature, yet well balanced with a crisp, dry finish.</description>
   <availability>year-round</availability>

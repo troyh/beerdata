@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Odell-Brewing-Co/Easy-Street-Wheat" brewery_id="Odell-Brewing-Co" abv="4.6" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Odell-Brewing-Co/Easy-Street-Wheat</id>
+  <brewery_id>Odell-Brewing-Co</brewery_id>
+  <abv>4.6</abv>
+  <ibu>15</ibu>
   <name>Easy Street Wheat</name>
   <description>Light and refreshing, Easy Street Wheat is an unfiltered American-style wheat beer. Leaving in the yeast gives the beer a nice, smooth finish and a slightly citrusy flavor. Easy Street Wheat gets its name by brewers "taking it easy" and not filtering the beer.\nHowever, for ultimate enjoyment, we encourage you to work just a little harder in pouring it: just pour 2/3 of the beer into a glass, swirl what's left to stir up the yeast, then pour the rest and enjoy.</description>
   <availability>year-round</availability>

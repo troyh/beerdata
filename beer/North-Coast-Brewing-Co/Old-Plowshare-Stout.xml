@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Old-Plowshare-Stout" brewery_id="North-Coast-Brewing-Co" abv="5.7" ibu="27">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Old-Plowshare-Stout</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>5.7</abv>
+  <ibu>27</ibu>
   <name>Old Plowshare Stout</name>
   <description>Old Plowshare is a full-flavored Celtic-style stout--smooth and firm-bodied with the bold flavor notes of dark roasted malts. Because Old Plowshare is organic, it remains true tithe time-honored Irish tradition of respect for natural ingredients. A great pub classic--or the perfect black for your Black and Tan.</description>
   <availability/>

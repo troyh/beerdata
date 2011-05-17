@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Brother-Davids-Triple-Abbey-Style-Ale" brewery_id="Anderson-Valley-Brewing-Co" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Brother-Davids-Triple-Abbey-Style-Ale</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>10</abv>
   <name>Brother David's Triple Abbey Style Ale</name>
   <description>A bright dry aroma tops off this deeply complex Belgian-style beer that has over tones of malt, fruit, and freshly mown fields. The intensity of the higher alcohol is rounded out by the deep richness of the malt and the light hop flavors. Light and pale in color, a nice malt backbone holds up the highlights of spicy hops intermingled with yeast esters and aromas. The triple (or "tripel" as the Belgian's call it) is a medium-bodied strong Belgian-style beer, with just a touch of mild malt sweetness and a dry finish on the palate. The comparatively light body of this beer is achieved by substantial additions of candy sugar in the kettle and medium-high carbonation level. The hopping has been kept low, with the use of classic European hop varieties to give just a hint of spiciness.</description>
   <availability/>

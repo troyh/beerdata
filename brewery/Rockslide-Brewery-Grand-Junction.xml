@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rockslide-Brewery-Grand-Junction">
+<brewery>
+  <id>Rockslide-Brewery-Grand-Junction</id>
   <name>Rockslide Brewery‎</name>
   <address>
     <street>401 Main St</street>

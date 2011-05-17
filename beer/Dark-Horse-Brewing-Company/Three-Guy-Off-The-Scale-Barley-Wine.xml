@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/Three-Guy-Off-The-Scale-Barley-Wine" brewery_id="Dark-Horse-Brewing-Company" abv="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/Three-Guy-Off-The-Scale-Barley-Wine</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
+  <abv>15</abv>
   <name>Three Guy Off The Scale Barley Wine</name>
   <description>A barley wine style ale brewed to 15% alc with hints of raisin, chocolate, carmel, sherry, cherry, and alcohol, just to name a few and this beer will only get better with age.</description>
   <availability>spring</availability>

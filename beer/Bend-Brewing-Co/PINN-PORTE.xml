@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bend-Brewing-Co/PINN-PORTE" brewery_id="Bend-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bend-Brewing-Co/PINN-PORTE</id>
+  <brewery_id>Bend-Brewing-Co</brewery_id>
   <name>PINN PORTE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description>KEG 1/2</description>
       <distributor>
         <name>columbia</name>

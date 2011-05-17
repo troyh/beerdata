@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Lucky-13-Ale" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Lucky-13-Ale</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>Lucky 13 Ale</name>
   <description>Our 13th Birthday Beer was a staff favorite, so we'll do it again - BIG on the hops and dark malts.</description>
   <availability>Limited</availability>

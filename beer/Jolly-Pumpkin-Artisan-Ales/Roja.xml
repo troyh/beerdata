@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Roja" brewery_id="Jolly-Pumpkin-Artisan-Ales">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Roja</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
   <name>Roja</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="897435000022">
+    <size>
+      <upc>897435000022</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

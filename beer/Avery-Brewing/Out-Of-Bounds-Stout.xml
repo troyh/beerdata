@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Out-Of-Bounds-Stout" brewery_id="Avery-Brewing" abv="5.1" ibu="51">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Out-Of-Bounds-Stout</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>5.1</abv>
+  <ibu>51</ibu>
   <name>Out Of Bounds Stout</name>
   <description>This big, roasty stout takes flavor to the extreme. We aren't afraid to use plenty of rich roasted barley and a mountain of hops to give this full-bodied stout that little extra something you've been looking for in a beer.</description>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Moonglow-Weizenbock" brewery_id="Victory-Brewing-Co" abv="8.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Moonglow-Weizenbock</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>8.7</abv>
   <name>Moonglow Weizenbock</name>
   <description>This dark amber wheat beer features fruity and spicy aromas galore. Significant strength underlies the pleasant citric appeal of this bock beer. Redolent with the flavors of harvest fruit, Moonglow typifies the traditional weizenbock-style so thoroughly enjoyed throughout Bavaria. Left unfiltered, its unique yeast strain gives Moonglow a radiance all its own.</description>
   <availability>Fall</availability>

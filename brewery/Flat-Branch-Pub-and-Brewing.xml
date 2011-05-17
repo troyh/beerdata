@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flat-Branch-Pub-and-Brewing">
+<brewery>
+  <id>Flat-Branch-Pub-and-Brewing</id>
   <name>Flat Branch Pub &amp; Brewing‎</name>
   <address>
     <street>115 S 5th St</street>

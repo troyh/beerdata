@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Greene-King-Morland-Brewery/KING-ABBOT" brewery_id="Greene-King-Morland-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Greene-King-Morland-Brewery/KING-ABBOT</id>
+  <brewery_id>Greene-King-Morland-Brewery</brewery_id>
   <name>KING ABBOT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-43015-11111-1">
+    <size>
+      <upc>7-43015-11111-1</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="0-84662-00500-9">
+    <size>
+      <upc>0-84662-00500-9</upc>
       <description>6/4/14.9 CAN</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Xs-Imperial-Youngers-Special-Bitter" brewery_id="Rogue-Ales" ibu="52">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Xs-Imperial-Youngers-Special-Bitter</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>52</ibu>
   <name>XS: Imperial Younger's Special Bitter</name>
   <description>Smooth &amp; malty with a kick of bitterness, this is a couple noches above the standard YSB!</description>
   <availability/>

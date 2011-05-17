@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Carolina-Beer-and-Beverage">
+<brewery>
+  <id>Carolina-Beer-and-Beverage</id>
   <name>Carolina Beer &amp; Beverage‎</name>
   <address>
     <street>110 Barley Park Ln</street>

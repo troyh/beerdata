@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Neptunes-Brewery">
+<brewery>
+  <id>Neptunes-Brewery</id>
   <name>Neptune's Brewery‎</name>
   <address>
     <street>119 N L St</street>

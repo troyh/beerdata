@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Indian-Chicory-Stout" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Indian-Chicory-Stout</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
   <name>Indian Chicory Stout</name>
   <description/>
   <availability/>

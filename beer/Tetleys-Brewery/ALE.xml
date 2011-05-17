@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Tetleys-Brewery/ALE" brewery_id="Tetleys-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tetleys-Brewery/ALE</id>
+  <brewery_id>Tetleys-Brewery</brewery_id>
   <name>ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95978-8">
+    <size>
+      <upc>0-80660-95978-8</upc>
       <description>CAN 6-4/14</description>
       <distributor>
         <name>columbia</name>

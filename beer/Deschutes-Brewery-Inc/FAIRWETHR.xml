@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/FAIRWETHR" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/FAIRWETHR</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>FAIRWETHR</name>
   <description/>
   <availability/>

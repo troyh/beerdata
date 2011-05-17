@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Green-Flash-Brewing-Co/Summer-Saison" brewery_id="Green-Flash-Brewing-Co" abv="4.3" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/Summer-Saison</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
+  <abv>4.3</abv>
+  <ibu>20</ibu>
   <name>Summer Saison</name>
   <description>Unfiltered golden farmhouse ale, brewed with orange curacao, ginger and grains of paradise.</description>
   <availability/>

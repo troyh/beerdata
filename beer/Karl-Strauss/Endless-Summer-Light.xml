@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/Endless-Summer-Light" brewery_id="Karl-Strauss" abv="3.3" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/Endless-Summer-Light</id>
+  <brewery_id>Karl-Strauss</brewery_id>
+  <abv>3.3</abv>
+  <ibu>15</ibu>
   <name>Endless Summer Light</name>
   <description>Endless Summer Light tastes refreshing whether you like putting your toes to the nose or just in the sand. A blend of Vienna malts and pale barley give this flavorful low-calorie lager a firm malt center and golden color. Noble Saaz hops provide a subtle hop character and crisp clean finish.  In June of 2005, Bruce Brown Films and Karl Strauss Brewing Company came together to create Endless Summer Light as a tribute to two pioneers, Bruce Brown, legendary filmmaker and creator of the classic surf film, "The Endless Summer," and Karl Strauss, Master Brewer.</description>
   <availability>year-round</availability>

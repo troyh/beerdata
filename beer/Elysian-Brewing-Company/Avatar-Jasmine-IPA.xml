@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/Avatar-Jasmine-IPA" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/Avatar-Jasmine-IPA</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>Avatar Jasmine IPA</name>
   <description/>
   <availability>summer</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="81790400050">
+    <size>
+      <upc>81790400050</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

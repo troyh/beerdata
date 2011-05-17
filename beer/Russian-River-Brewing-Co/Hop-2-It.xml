@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Hop-2-It" brewery_id="Russian-River-Brewing-Co" abv="5.79" ibu="42">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Hop-2-It</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>5.79</abv>
+  <ibu>42</ibu>
   <name>Hop 2 It</name>
   <description>This is a single hop beer. Each time we brew Hop 2 It, we use a different hop variety. The idea is to showcase a single variety of hops to better our understanding of each variety.</description>
   <availability>limited</availability>

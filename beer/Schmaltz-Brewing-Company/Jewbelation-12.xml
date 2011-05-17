@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schmaltz-Brewing-Company/Jewbelation-12" brewery_id="Schmaltz-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schmaltz-Brewing-Company/Jewbelation-12</id>
+  <brewery_id>Schmaltz-Brewing-Company</brewery_id>
   <name>Jewbelation 12</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="642855522100">
+    <size>
+      <upc>642855522100</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

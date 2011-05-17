@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Naughty-Scot-Scotch-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Naughty-Scot-Scotch-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Naughty Scot Scotch Ale</name>
   <description>The flavors of sweet malt, toasted grain and a spicy finish lend a bold and complex taste to this full-bodied Scotch Ale. Try it with our BBQ Ribs or Texas Fire Steak.</description>
   <availability>year-round</availability>

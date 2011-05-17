@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allgäuer-Brauhaus-AG/BUBLE" brewery_id="Allgäuer-Brauhaus-AG">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allgäuer-Brauhaus-AG/BUBLE</id>
+  <brewery_id>Allgäuer-Brauhaus-AG</brewery_id>
   <name>BUBLE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-48862-01145-0">
+    <size>
+      <upc>7-48862-01145-0</upc>
       <description>20/.5L BTL</description>
       <distributor>
         <name>odom</name>

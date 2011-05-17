@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Blonde-Ale" brewery_id="Bear-Republic-Brewing-Co" abv="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Blonde-Ale</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>4</abv>
   <name>Blonde Ale</name>
   <description>Blonde ale, a.k.a. "No Commitment" blonde, simply for the fact that this ultra light ale offers a nice departure from the robust, hoppy, higher alcohol ale. A.B.V. 4%.</description>
   <availability/>

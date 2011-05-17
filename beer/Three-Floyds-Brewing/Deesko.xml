@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Deesko" brewery_id="Three-Floyds-Brewing" abv="3" ibu="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Deesko</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>3</abv>
+  <ibu>10</ibu>
   <name>Deesko</name>
   <description>Our take on a traditional Berliner weiss. A slightly tart and refreshing wheat beer, low in alcohol and often served with a flavored syrup. Ask your server for our current flavors.</description>
   <availability>year-round</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Hoptical-Illusion" brewery_id="Blue-Point-Brewing-Co" abv="6.3" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Hoptical-Illusion</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>6.3</abv>
+  <ibu>60</ibu>
   <name>Hoptical Illusion</name>
   <description>This classic American style IPA features a rare hop exclusively grown on a farm in Oregon. One taste of the Hoptical Illusion and you'll know why Blue Point bought the entire crop. A generous amount of the select hop balances out malty backbone of this delicious golden beer. Offered in six packs and on draft, Hoptical Illusion is tantalizing the tastebuds of beer lovers from Montauk to Manhattan.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Iron-Barley-Eating">
+<brewery>
+  <id>Iron-Barley-Eating</id>
   <name>Iron Barley Eating‎</name>
   <address>
     <street>5510 Virginia Ave</street>

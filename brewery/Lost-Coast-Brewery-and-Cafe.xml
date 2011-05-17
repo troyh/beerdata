@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lost-Coast-Brewery-and-Cafe">
+<brewery>
+  <id>Lost-Coast-Brewery-and-Cafe</id>
   <name>Lost Coast Brewery and Cafe‎</name>
   <address>
     <street>617 4th St</street>

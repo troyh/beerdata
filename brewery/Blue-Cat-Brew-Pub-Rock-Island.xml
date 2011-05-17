@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blue-Cat-Brew-Pub-Rock-Island">
+<brewery>
+  <id>Blue-Cat-Brew-Pub-Rock-Island</id>
   <name>Blue Cat Brew Pub‎</name>
   <address>
     <street>113 18th St</street>

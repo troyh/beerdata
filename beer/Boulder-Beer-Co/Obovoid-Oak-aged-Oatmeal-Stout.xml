@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Obovoid-Oak-aged-Oatmeal-Stout" brewery_id="Boulder-Beer-Co" abv="6.8" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Obovoid-Oak-aged-Oatmeal-Stout</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>6.8</abv>
+  <ibu>40</ibu>
   <name>Obovoid Oak-Aged Oatmeal Stout</name>
   <description/>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Harviestoun-Brewery/Ola-Dubh-Special-Reserve-30" brewery_id="Harviestoun-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harviestoun-Brewery/Ola-Dubh-Special-Reserve-30</id>
+  <brewery_id>Harviestoun-Brewery</brewery_id>
   <name>Ola Dubh Special Reserve 30</name>
   <description/>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Avalanche-Ale" brewery_id="Breckenridge-Brewery" abv="5.41" ibu="19">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Avalanche-Ale</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>5.41</abv>
+  <ibu>19</ibu>
   <name>Avalanche Ale</name>
   <description>Subtlety. That's what makes our Avalanche amber ale such a treat. We blend pale and caramel malts -- and just a kiss of bittering hops -- to create a refreshing-but-flavorful, any-time beer. Aromas of pale grains, a semi-sweet middle and a clean-as-Colorado-snow finish make this our best-selling beer.</description>
   <availability>year-round</availability>

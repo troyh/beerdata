@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Brewdog/Tokyo" brewery_id="Brewdog" abv="18.2" ibu="90+">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewdog/Tokyo</id>
+  <brewery_id>Brewdog</brewery_id>
+  <abv>18.2</abv>
+  <ibu>90+</ibu>
   <name>Tokyo</name>
   <description>The irony of existentialism, the parody of being and the inherent contradictions of post-modernism, all so delicately conveyed by the blocky, pixelated arcade action have all been painstakingly recreated in this bottles contents. This imperial stout is brewed with copious amounts of speciality malts, jasmine and cranberries. After fermentation we then dry-hop this killer stout with a bucketload of our favourite hops before carefully ageing the beer on French toasted oak chips. It is all about moderation. Everything in moderation, including moderation itself. What logically follows is that you must, from time, have excess. This beer is for those times.</description>
   <availability/>

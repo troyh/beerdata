@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bend-Brewing-Co/IPA" brewery_id="Bend-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bend-Brewing-Co/IPA</id>
+  <brewery_id>Bend-Brewing-Co</brewery_id>
   <name>IPA</name>
   <description/>
   <availability/>

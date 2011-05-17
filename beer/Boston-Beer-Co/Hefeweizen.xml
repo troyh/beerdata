@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Hefeweizen" brewery_id="Boston-Beer-Co" calories_per_ml="0.512846003391096" abv="5.40" og="13Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Hefeweizen</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.512846003391096</calories_per_ml>
+  <abv>5.40</abv>
+  <og>13Plato</og>
   <name>Hefeweizen</name>
   <description>Samuel AdamsÂ® Hefeweizen beer is a traditional spin on a classic American craft brewing style.  The brewers of Samuel AdamsÂ® used both malted and unmalted wheat, and two row Pale barley for a clean malty, cereal note.  This bright, fruity wheat ale is unfiltered, retaining a natural haze from malt proteins, crisp, bright flavors of wheat, and fresh, fruity ester complexity from our proprietary ale yeast. Accentuated with Noble Spalt-Spalter hops, Samuel AdamsÂ® Hefeweizen has an elegant and pleasant bitterness, finishing smooth and clean. Brewed with two row Harrington malt, wheat malt, and unmalted wheat.  It is also 100% unfiltered, leaving our ale yeast and its fruity fresh taste in place as well as a slight haze of proteins. These proteins are prone to settling out to the bottom of the bottle, so we recommend gently swirling this beer between sips, especially towards the bottom.</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="6D">American Wheat or Rye Beer</style>
+    <style><bjcp_style_id>6D</bjcp_style_id>American Wheat or Rye Beer</style>
   </styles>
   <sizes>
     <size>

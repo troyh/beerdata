@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Skyland-Distributing-Co-Asheville">
+<brewery>
+  <id>Skyland-Distributing-Co-Asheville</id>
   <name>Skyland Distributing Co‎</name>
   <address>
     <street>1 Overland Industrial Blvd</street>

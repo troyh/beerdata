@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Karma" brewery_id="Avery-Brewing" abv="5.2" ibu="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Karma</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>5.2</abv>
+  <ibu>10</ibu>
   <name>Karma</name>
   <description>We believe in Karma. We suspect most of you do, too. It truly is a global concept. Very simply put, "you get what you give." Inspired by this principle and the wonderful farmhouse and pale ales of Belgium, we've created Karma Ale, a decidedly fruity and estery ale, intricate in body and nose, all driven by a unique Belgian yeast strain. Remember, good things DO happen to good people. Here's to being good!</description>
   <availability>limited</availability>

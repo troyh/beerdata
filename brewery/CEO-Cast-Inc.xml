@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="CEO-Cast-Inc">
+<brewery>
+  <id>CEO-Cast-Inc</id>
   <name>CEO Cast Inc‎</name>
   <address>
     <street>55 John St # 11</street>

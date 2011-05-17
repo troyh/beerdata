@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Northern-Lights-Brewing-Co-Spokane/WINTER-ALE" brewery_id="Northern-Lights-Brewing-Co-Spokane">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Northern-Lights-Brewing-Co-Spokane/WINTER-ALE</id>
+  <brewery_id>Northern-Lights-Brewing-Co-Spokane</brewery_id>
   <name>WINTER ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-58403-32913-8">
+    <size>
+      <upc>6-58403-32913-8</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

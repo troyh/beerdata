@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Ipa" brewery_id="Southern-Tier-Brewing-Company" abv="6.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Ipa</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>6.5</abv>
   <name>IPA</name>
   <description>IPA stands for India Pale Ale and ours is an American version of the classic style. IPA's namesake lies in its colonial roots. British soldiers on their way to India drank a lot of beer, but found it would go stale on the long voyages. Meanwhile, brewers knew that by adding more hops the beer would stay fresh. Voila! A new style was born and it is one we are proud to brew. Southern Tier IPA is tripled on its journey to your glass for a fully aromatic experience.</description>
   <availability/>

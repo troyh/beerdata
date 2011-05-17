@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Midnight-Sun-Brewing-Company/Obliteration-Series-Iii-Double-Ipa" brewery_id="Midnight-Sun-Brewing-Company" abv="8 to 10" ibu="80-100">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Midnight-Sun-Brewing-Company/Obliteration-Series-Iii-Double-Ipa</id>
+  <brewery_id>Midnight-Sun-Brewing-Company</brewery_id>
+  <abv>8 to 10</abv>
+  <ibu>80-100</ibu>
   <name>Obliteration Series III Double IPA</name>
   <description>With passion and purpose, we present this series of hop-centric beers. Using different hop varieties and brewing techniques, we aim to capture bold, distinct hop characteristics in aroma, flavor and finish. While we explore the world of hops, we invite you to learn along with us: these beers offer an incredible opportunity to experience the diversity of hops while engaging the palate and obliterating the senses.</description>
   <availability/>

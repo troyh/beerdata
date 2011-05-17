@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Santa-Barbara-Brewing-Co">
+<brewery>
+  <id>Santa-Barbara-Brewing-Co</id>
   <name>Santa Barbara Brewing Co‎</name>
   <address>
     <street>501 State St</street>

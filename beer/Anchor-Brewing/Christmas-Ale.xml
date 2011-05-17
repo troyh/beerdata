@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anchor-Brewing/Christmas-Ale" brewery_id="Anchor-Brewing" abv="Varies">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing/Christmas-Ale</id>
+  <brewery_id>Anchor-Brewing</brewery_id>
+  <abv>Varies</abv>
   <name>Christmas Ale </name>
   <description>The brewers of Anchor Steam Beer are proud to announce the release of our thirty-fourth annual Christmas Ale.\nEvery year since 1975 the brewers at Anchor have brewed a distinctive and unique Christmas Ale, which is available from early November to mid-January. The Ale's recipe is different every year--as is the tree on the label--but the intent with which we offer it remains the same: joy and celebration of the newness of life. Since ancient times, trees have symbolized the winter solstice when the earth, with its seasons, appears born anew. Each year our Christmas Ale gets a unique label and a unique recipe for the Ale itself. Although our recipes must remain a secret, many enthusiasts save a few bottles from year to year--stored in a cool dark place--to taste later and compare with other vintages. Properly refrigerated, the beer remains intriguing and drinkable for years, with different nuances slowly emerging as the flavor mellows slightly.</description>
   <availability>Winter</availability>

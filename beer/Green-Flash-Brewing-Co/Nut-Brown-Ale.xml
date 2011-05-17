@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Green-Flash-Brewing-Co/Nut-Brown-Ale" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/Nut-Brown-Ale</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>Nut Brown Ale</name>
   <description>The Nut Brown is an English-Style Ale having rich caramel malt flavors and drying nutty characteristics in the finish. British and Belgian specialty malts are used in this brew to enhance the depth of malt flavor and aroma. Mild hops are used to lend just the right balance to the lush malt flavors and medium body.</description>
   <availability/>

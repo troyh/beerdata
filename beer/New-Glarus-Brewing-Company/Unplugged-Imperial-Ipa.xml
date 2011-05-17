@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Imperial-Ipa" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Imperial-Ipa</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Imperial IPA</name>
   <description>Warning: Caution: Our Imperial IPA will smack you In-Your-Face. This is an aggressively hoppy IPA. An explosion of hops including East Kent Golding, Cascade, Tomahawk, Warrior and Chinook dominate this pale summer brew. IBU's delivered like you've never enjoyed before. Our Imperial IPA is alive with a bottle fermentation that catapults hop aromas to the front with bitter notes that will dance till dawn on your palate. Serve immediately at 45 degrees F.</description>
   <availability>retired</availability>

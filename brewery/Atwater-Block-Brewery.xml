@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Atwater-Block-Brewery">
+<brewery>
+  <id>Atwater-Block-Brewery</id>
   <name>Atwater Block Brewery‎</name>
   <address>
     <street>237 Joseph Campau St</street>

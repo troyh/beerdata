@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Jackie-Brown" brewery_id="Mikkeller" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Jackie-Brown</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>6</abv>
   <name>Jackie Brown</name>
   <description>Had it been Quentin Tarantinos heroine Jackie Brown, she would probably have said, "Shut your raggedy ass up," and that would have been that. But this is Mikkellers Jackie Brown and it's somewhat more mildly mannered. In fact this beautiful, brown beer's characteristically; roasted malt taste nearly ends like chocolate on the tongue. And then it wouldn't be a Mikkeller beer if it wasn't well hopped. Here the green gold makes an otherwise dark beer surprisingly fresh and easy to drink.</description>
   <availability/>

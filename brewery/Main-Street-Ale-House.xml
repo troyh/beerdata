@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Main-Street-Ale-House">
+<brewery>
+  <id>Main-Street-Ale-House</id>
   <name>Main Street Ale House‎</name>
   <address>
     <street>333 N Main Ave</street>

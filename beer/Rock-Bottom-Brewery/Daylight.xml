@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Daylight" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Daylight</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Daylight</name>
   <description>This light-bodied lager is golden in color and crystal clear. Daylight has a moderately subtle flavor that makes this beer truly refreshing.</description>
   <availability>year-round</availability>

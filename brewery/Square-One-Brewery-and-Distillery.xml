@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Square-One-Brewery-and-Distillery">
+<brewery>
+  <id>Square-One-Brewery-and-Distillery</id>
   <name>Square One Brewery &amp; Distillery‎</name>
   <address>
     <street>1727 Park Ave</street>

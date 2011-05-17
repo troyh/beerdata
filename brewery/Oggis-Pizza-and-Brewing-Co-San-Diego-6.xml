@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oggis-Pizza-and-Brewing-Co-San-Diego-6">
+<brewery>
+  <id>Oggis-Pizza-and-Brewing-Co-San-Diego-6</id>
   <name>Oggi's Pizza &amp; Brewing Co‎</name>
   <address>
     <street>12840 Carmel Country Rd</street>

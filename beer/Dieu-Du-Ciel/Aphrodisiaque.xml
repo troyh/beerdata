@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Aphrodisiaque" brewery_id="Dieu-Du-Ciel" abv="6.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Aphrodisiaque</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6.5</abv>
   <name>Aphrodisiaque </name>
   <description>Black ale with aromas and flavours of vanilla, dark chocolate, bourbon and roasted malt. The vanilla and cocoa marry nicely, without out-competing each other, to produce a surprisingly well balanced beer. This beer is mildly hoppy, but the cocoa introduces a touch of bitterness. Its colour may be intimidating, but it is a very smooth beer within reach of most beer drinkers. This highly appreciated dessert beer is brewed with organic fair-trade cocoa and first rate vanilla beans.</description>
   <availability/>

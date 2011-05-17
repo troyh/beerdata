@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/SLOW-ELK-OATMEAL-STOUT" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/SLOW-ELK-OATMEAL-STOUT</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>SLOW ELK OATMEAL STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-09005-6">
+    <size>
+      <upc>7-00283-09005-6</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

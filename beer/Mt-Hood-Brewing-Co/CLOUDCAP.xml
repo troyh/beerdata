@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mt-Hood-Brewing-Co/CLOUDCAP" brewery_id="Mt-Hood-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mt-Hood-Brewing-Co/CLOUDCAP</id>
+  <brewery_id>Mt-Hood-Brewing-Co</brewery_id>
   <name>CLOUDCAP</name>
   <description/>
   <availability/>

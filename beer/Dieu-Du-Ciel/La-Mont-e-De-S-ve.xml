@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/La-Mont-e-De-S-ve" brewery_id="Dieu-Du-Ciel" abv="6.5">
-  <name>LA MONT&#x83;E DE S&#xE9;VE</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/La-Mont-e-De-S-ve</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6.5</abv>
+  <name>LA MONTE DE SéVE</name>
   <description>This porter was brewed with smoked malt from Germany, and maple syrup was added during the brewing process.</description>
   <availability/>
   <ingredients/>

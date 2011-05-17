@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Straffe-Hendrik/4-BLND" brewery_id="Brouwerij-Straffe-Hendrik">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Straffe-Hendrik/4-BLND</id>
+  <brewery_id>Brouwerij-Straffe-Hendrik</brewery_id>
   <name>4 BLND</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-10168-06502-4">
+    <size>
+      <upc>7-10168-06502-4</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

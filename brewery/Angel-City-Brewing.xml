@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Angel-City-Brewing">
+<brewery>
+  <id>Angel-City-Brewing</id>
   <name>Angel City Brewing‎</name>
   <address>
     <street>833 Torrance Blvd # 105</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Motor-City-Brewing-Works-Inc-Detroit">
+<brewery>
+  <id>Motor-City-Brewing-Works-Inc-Detroit</id>
   <name>Motor City Brewing Works Inc‎</name>
   <address>
     <street>470 W Canfield St</street>

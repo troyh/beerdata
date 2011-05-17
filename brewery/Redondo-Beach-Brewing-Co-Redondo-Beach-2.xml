@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Redondo-Beach-Brewing-Co-Redondo-Beach-2">
+<brewery>
+  <id>Redondo-Beach-Brewing-Co-Redondo-Beach-2</id>
   <name>Redondo Beach Brewing Co‎</name>
   <address>
     <street>1814 S Catalina Ave</street>

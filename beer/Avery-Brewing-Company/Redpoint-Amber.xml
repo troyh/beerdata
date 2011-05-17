@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/Redpoint-Amber" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/Redpoint-Amber</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>Redpoint Amber</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="796363002019">
+    <size>
+      <upc>796363002019</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

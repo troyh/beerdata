@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Obriens-Ipa" brewery_id="Alpine-Beer-Company" abv="6 to 7" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Obriens-Ipa</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>6 to 7</abv>
+  <ibu>60</ibu>
   <name>O'Brien's IPA</name>
   <description>Another single IPA with a lighter slant. A slightly elevated malt profile and a higher mash temp leaves more sweetness to balance the hop bitterness against. Several different popular hop varieties are used while boiling and dry-hopping.</description>
   <availability>limited</availability>

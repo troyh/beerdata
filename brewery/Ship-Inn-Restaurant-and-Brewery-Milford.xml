@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ship-Inn-Restaurant-and-Brewery-Milford">
+<brewery>
+  <id>Ship-Inn-Restaurant-and-Brewery-Milford</id>
   <name>Ship Inn Restaurant &amp; Brewery‎</name>
   <address>
     <street>61 Bridge St</street>

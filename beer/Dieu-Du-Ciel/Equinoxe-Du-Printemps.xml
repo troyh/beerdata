@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Equinoxe-Du-Printemps" brewery_id="Dieu-Du-Ciel" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Equinoxe-Du-Printemps</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>8</abv>
   <name>Equinoxe du printemps</name>
-  <description>&#x83;quinoxe du Printemps (French for "spring equinox") is the quintessential marriage of two great traditions: beer brewing in Scotland, and maple syrup production in Quebec. At the first draught, the mouth is overcome by woody, malty flavours, sustained by a discrete touch of sweetness. The aftertaste brings about the flavours of maple, which are sufficiently present to be appreciated, but never overwhelming the typical flavours of a Scotch Ale.</description>
+  <description>quinoxe du Printemps (French for "spring equinox") is the quintessential marriage of two great traditions: beer brewing in Scotland, and maple syrup production in Quebec. At the first draught, the mouth is overcome by woody, malty flavours, sustained by a discrete touch of sweetness. The aftertaste brings about the flavours of maple, which are sufficiently present to be appreciated, but never overwhelming the typical flavours of a Scotch Ale.</description>
   <availability>spring</availability>
   <ingredients/>
   <grains/>

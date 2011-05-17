@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Time-Brewery-and-Alehouse">
+<brewery>
+  <id>Big-Time-Brewery-and-Alehouse</id>
   <name>Big Time Brewery &amp; Alehouse‎</name>
   <address>
     <street>4133 University Way NE</street>

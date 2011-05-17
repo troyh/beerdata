@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Smoked-Porter" brewery_id="Bullfrog-Brewery" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Smoked-Porter</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>6</abv>
   <name>Smoked Porter</name>
   <description>A big, RICH dark ale with a complex combination of beechwood smoked malts, chocolate, coffee and caramel flavors rounding out the beers smooth creamy body.</description>
   <availability/>

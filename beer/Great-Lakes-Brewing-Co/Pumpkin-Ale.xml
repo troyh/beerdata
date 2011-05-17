@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Pumpkin-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="5.4" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Pumpkin-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>5.4</abv>
+  <ibu>15</ibu>
   <name>Pumpkin Ale</name>
   <description>A mild ale brewed with fresh pumpkins and spices.</description>
   <availability>limited</availability>

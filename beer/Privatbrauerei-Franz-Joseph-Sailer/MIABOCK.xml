@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Privatbrauerei-Franz-Joseph-Sailer/MIABOCK" brewery_id="Privatbrauerei-Franz-Joseph-Sailer">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Privatbrauerei-Franz-Joseph-Sailer/MIABOCK</id>
+  <brewery_id>Privatbrauerei-Franz-Joseph-Sailer</brewery_id>
   <name>MIABOCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-42572-06001-3">
+    <size>
+      <upc>0-42572-06001-3</upc>
       <description>20/16.9 BTL</description>
       <distributor>
         <name>odom</name>

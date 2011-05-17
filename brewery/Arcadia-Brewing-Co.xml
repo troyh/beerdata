@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Arcadia-Brewing-Co">
+<brewery>
+  <id>Arcadia-Brewing-Co</id>
   <name>Arcadia Brewing Co‎</name>
   <address>
     <street>103 Michigan Ave W</street>

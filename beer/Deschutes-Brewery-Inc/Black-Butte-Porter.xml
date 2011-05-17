@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Black-Butte-Porter" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.541024355225771" abv="5.20" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Black-Butte-Porter</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <calories_per_ml>0.541024355225771</calories_per_ml>
+  <abv>5.20</abv>
+  <ibu>30</ibu>
   <name>Black Butte Porter</name>
   <description>Towering high above Central Oregon, jetting into clear blue skies, Black Butte can be seen for miles. From its base flows the legendary Metolius River--with its source hidden deep beneath ancient lava flows. â¨â¨Black Butte Porter, crafted from chocolate and crystal malts, is Deschutes Breweryâs flagship brand. With a rich and distinctive flavor, this porter has enjoyed a loyal and passionate following since its first pint in 1991</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="12">Porter</style>
+    <style><bjcp_style_id>12</bjcp_style_id>Porter</style>
   </styles>
   <sizes>
     <size>

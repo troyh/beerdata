@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Silver-Queen" brewery_id="The-Livery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Silver-Queen</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.5</abv>
   <name>Silver Queen</name>
   <description>This beer is brewed with 100% spring water from the historic Eastman Springs, located here in Benton Harbor at Marys City of David. North American malts and North American hops blend to create a truly drinkable light lager.</description>
   <availability/>

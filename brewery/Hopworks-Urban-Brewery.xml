@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hopworks-Urban-Brewery">
+<brewery>
+  <id>Hopworks-Urban-Brewery</id>
   <name>Hopworks Urban Brewery‎</name>
   <address>
     <street>2944 SE Powell Blvd</street>

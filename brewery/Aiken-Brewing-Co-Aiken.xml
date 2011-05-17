@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Aiken-Brewing-Co-Aiken">
+<brewery>
+  <id>Aiken-Brewing-Co-Aiken</id>
   <name>Aiken Brewing Co‎</name>
   <address>
     <street>140 Laurens St SW</street>

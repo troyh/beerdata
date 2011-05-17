@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Alt-ernative-Ale" brewery_id="Bullfrog-Brewery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Alt-ernative-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5.5</abv>
   <name>ALT-ernative Ale</name>
   <description>Beautiful dark copper color with a slightly nutty maltiness and a crisp, clean spicy finish. This medium bodied German-styled Altbier is brewed with a blend of ale and lager yeasts then cold-conditioned for four weeks to mellow.</description>
   <availability/>

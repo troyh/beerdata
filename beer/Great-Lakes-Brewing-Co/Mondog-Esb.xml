@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Mondog-Esb" brewery_id="Great-Lakes-Brewing-Co" abv="5" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Mondog-Esb</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>5</abv>
+  <ibu>25</ibu>
   <name>Mondog ESB</name>
   <description>Extra Special Bitter ale with a flowery hop bouquet and crisp finish.</description>
   <availability>limited</availability>

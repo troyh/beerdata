@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Beer-Valley-Brewing-Co">
+<brewery>
+  <id>Beer-Valley-Brewing-Co</id>
   <name>Beer Valley Brewing Co‎</name>
   <address>
     <street>937 SE 12th Ave</street>

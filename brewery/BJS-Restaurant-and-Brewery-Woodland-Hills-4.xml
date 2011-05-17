@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="BJS-Restaurant-and-Brewery-Woodland-Hills-4">
+<brewery>
+  <id>BJS-Restaurant-and-Brewery-Woodland-Hills-4</id>
   <name>BJ'S Restaurant &amp; Brewery‎</name>
   <address>
     <street>6424 Canoga Ave</street>

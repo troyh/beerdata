@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Drink-Your-Sorrows-Away" brewery_id="Mikkeller" abv="11.99">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Drink-Your-Sorrows-Away</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>11.99</abv>
   <name>Drink Your Sorrows Away</name>
   <description/>
   <availability/>

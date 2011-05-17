@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Heartland-Light" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Heartland-Light</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Heartland Light</name>
   <description>Made in the American Lager tradition, this light-bodied beer is clean, crisp and refreshing.</description>
   <availability>year-round</availability>

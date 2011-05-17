@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="San-Pedro-Brewing-Co">
+<brewery>
+  <id>San-Pedro-Brewing-Co</id>
   <name>San Pedro Brewing Co‎</name>
   <address>
     <street>331 W 6th St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bull-and-Bush">
+<brewery>
+  <id>Bull-and-Bush</id>
   <name>Bull &amp; Bush‎</name>
   <address>
     <street>4700 Cherry Creek South Dr</street>

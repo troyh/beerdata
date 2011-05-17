@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Seven-Bridges-Grille-and-Brewery">
+<brewery>
+  <id>Seven-Bridges-Grille-and-Brewery</id>
   <name>Seven Bridges Grille &amp; Brewery‎</name>
   <address>
     <street>9735 Gate Pkwy</street>

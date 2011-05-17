@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Wolavers/Pat-Leavys-All-american-Ale" brewery_id="Wolavers">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers/Pat-Leavys-All-american-Ale</id>
+  <brewery_id>Wolavers</brewery_id>
   <name>Pat Leavy's All-American Ale</name>
   <description>The newest beer in our Farmer Series! Pat Leavy's All-American, brewed with Oregon-grown organic hops and American organic malts, is named in honor of hop grower Pat Leavy. Frustrated that organic hops had to be shipped in from overseas, we set out to find a more local source. Pat Leavy agreed to grow organic hops for our brewery and this All American ale is brewed with his organic Fuggles, Goldings, and Magnum hops. The beer is a highly drinkable amber ale with delicious hop flavors and aromas, available in 6 pks and on draft. More and more organic ales are becoming available but it is a rare feat to brew an all-organic all-American ale. This is the second beer from Wolaver's to be named in honor of an organic farmer.</description>
   <availability>limited</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Pandoras-Bock" brewery_id="Breckenridge-Brewery" abv="7.5" ibu="16">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Pandoras-Bock</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>7.5</abv>
+  <ibu>16</ibu>
   <name>Pandora's Bock</name>
   <description>Desire coupled with curiosity can drive you to do many foolish things.Fortunately, opening a bottle of our Pandora's Bock is not one of them. Once it is released, a wealth of flavor and complexity will spill out into the world. With a traditional bock flavor profile and a hint of hoppy goodness, there's a reason it's spoken about in mythical terms.</description>
   <availability>winter</availability>

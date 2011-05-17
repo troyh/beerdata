@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anchor-Brewing/Anchor-Steam" brewery_id="Anchor-Brewing" abv="4.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing/Anchor-Steam</id>
+  <brewery_id>Anchor-Brewing</brewery_id>
+  <abv>4.9</abv>
   <name>Anchor Steam</name>
   <description>San Francisco's famous Anchor Steam, the classic of American brewing tradition since 1896, is virtually handmade, with an exceptional respect for the ancient art of brewing. The deep amber color, thick creamy head, and rich flavor all testify to our traditional brewing methods. Anchor Steam is unique, for our brewing process has evolved over many decades and is like no other in the world.Anchor Steam derives its unusual name from the 19th century when "steam" seems to have been a nickname for beer brewed on the West Coast of America under primitive conditions and without ice. The brewing methods of those days are a mystery and, although there are many theories, no one can say with certainty why the word "steam" came to be associated with beer. For many decades Anchor alone has used this quaint name for its unique beer. In modern times, "Steam" has become a trademark of Anchor Brewing.</description>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Porter" brewery_id="Founders-Brewing-Co" abv="6.5" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Porter</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>6.5</abv>
+  <ibu>45</ibu>
   <name>Porter</name>
   <description>Pours silky black with a creamy tan head. The nose is sweet with strong chocolate and caramel malt presence. No absence of hops gives Founders robust porter the full flavor you deserve and expect. Cozy like velvet. It's a lover, not a fighter.</description>
   <availability/>

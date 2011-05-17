@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Lambec-Aux-Canneberges" brewery_id="Dieu-Du-Ciel" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Lambec-Aux-Canneberges</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6</abv>
   <name>LAMBEC AUX CANNEBERGES</name>
   <description/>
   <availability/>

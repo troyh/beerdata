@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Meantime-Brewing-Co/LONDON-PORTER" brewery_id="Meantime-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Meantime-Brewing-Co/LONDON-PORTER</id>
+  <brewery_id>Meantime-Brewing-Co</brewery_id>
   <name>LONDON PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="5-06001-31602-0">
+    <size>
+      <upc>5-06001-31602-0</upc>
       <description>6/25.4 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Willy" brewery_id="Alpine-Beer-Company" abv="4.9" ibu="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Willy</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>4.9</abv>
+  <ibu>4</ibu>
   <name>Willy</name>
   <description>Willy, named after my brother-in-law's childhood nickname, is crisp and light-bodied, with a slightly sweet, nutty flavor. The hopping is mild and gentle. It's perfect for times when you crave a beer utterly refreshing and low in alcohol. A true thirst quencher everyone enjoys.</description>
   <availability/>

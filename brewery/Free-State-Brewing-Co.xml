@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Free-State-Brewing-Co">
+<brewery>
+  <id>Free-State-Brewing-Co</id>
   <name>Free State Brewing Co‎</name>
   <address>
     <street>636 Massachusetts St</street>

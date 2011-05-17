@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Caldera-Brewing-Co/GINGER-ALE" brewery_id="Caldera-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Caldera-Brewing-Co/GINGER-ALE</id>
+  <brewery_id>Caldera-Brewing-Co</brewery_id>
   <name>GINGER ALE</name>
   <description/>
   <availability/>

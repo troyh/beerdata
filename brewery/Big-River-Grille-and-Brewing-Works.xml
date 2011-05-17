@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-River-Grille-and-Brewing-Works">
+<brewery>
+  <id>Big-River-Grille-and-Brewing-Works</id>
   <name>Big River Grille &amp; Brewing Works‎</name>
   <address>
     <street>111 Broadway</street>

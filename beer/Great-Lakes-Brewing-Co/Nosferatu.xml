@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Nosferatu" brewery_id="Great-Lakes-Brewing-Co" abv="8" ibu="75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Nosferatu</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>8</abv>
+  <ibu>75</ibu>
   <name>Nosferatu</name>
   <description>Highly hopped stock ale rich with flavor, yet remarkably balanced. Named after the notorious German vampire from the 1920s film era. </description>
   <availability>fall</availability>

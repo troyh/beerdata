@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Ommegang/Chocolate-Indulgence" brewery_id="Brewery-Ommegang">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Ommegang/Chocolate-Indulgence</id>
+  <brewery_id>Brewery-Ommegang</brewery_id>
   <name>Chocolate Indulgence</name>
   <description/>
   <availability>limited</availability>

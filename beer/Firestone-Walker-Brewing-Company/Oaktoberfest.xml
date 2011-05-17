@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Oaktoberfest" brewery_id="Firestone-Walker-Brewing-Company" abv="5.0" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Oaktoberfest</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <abv>5.0</abv>
+  <ibu>24</ibu>
   <name>Oaktoberfest</name>
   <description>Oaktoberfest is a true German Marzen bier brewed with premium imported Pilsner and Vienna malts and is spiced with Bavarian hop from the mother land. Light Amber in color, soft malty profile, full bodied lager beer. Fermented with the famous Bavarian Augustiner Lager yeast from Munich. We utilized German Hallertauer Traditions for both bittering and aroma additions adding a rich, noble hop presence to this beer. </description>
   <availability>limited</availability>

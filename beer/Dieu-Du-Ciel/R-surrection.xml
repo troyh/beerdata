@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/R-surrection" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>R&#x83;SURRECTION</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/R-surrection</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>RSURRECTION</name>
   <description>As black as ebony, the porter is the ancestor of the stout. The beer has a certain dryness which is reminiscent of dark chocolate. Unlike the stout, the porter is not pressurized with nitrogen. The roasted flavours are in harmony with the malt, caramel, and fruity tastes. The distinct presence of the hops units all of these wonderful elements and gives the beer a mildly bitter taste. This is not a well known beer but it deserves to be rediscovered for its wonderful qualities and flavours which are quite distinguishable from those of a stout.</description>
   <availability/>
   <ingredients/>

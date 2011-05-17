@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Ommegang/Three-Philosophers" brewery_id="Brewery-Ommegang">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Ommegang/Three-Philosophers</id>
+  <brewery_id>Brewery-Ommegang</brewery_id>
   <name>Three Philosophers</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="649440000142">
+    <size>
+      <upc>649440000142</upc>
       <description>6/4/12 oz</description>
       <distributor>
         <name>click</name>

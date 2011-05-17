@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pinkus-Muller-Brewery/JUBILATE" brewery_id="Pinkus-Muller-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pinkus-Muller-Brewery/JUBILATE</id>
+  <brewery_id>Pinkus-Muller-Brewery</brewery_id>
   <name>JUBILATE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-34004-4">
+    <size>
+      <upc>0-85725-34004-4</upc>
       <description>20/16.9 BTL</description>
       <distributor>
         <name>odom</name>

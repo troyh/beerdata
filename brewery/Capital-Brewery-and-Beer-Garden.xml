@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Capital-Brewery-and-Beer-Garden">
+<brewery>
+  <id>Capital-Brewery-and-Beer-Garden</id>
   <name>Capital Brewery &amp; Beer Garden‎</name>
   <address>
     <street>7734 Terrace Ave</street>

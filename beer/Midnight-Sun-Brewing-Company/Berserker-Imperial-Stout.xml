@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Midnight-Sun-Brewing-Company/Berserker-Imperial-Stout" brewery_id="Midnight-Sun-Brewing-Company" abv="12.7" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Midnight-Sun-Brewing-Company/Berserker-Imperial-Stout</id>
+  <brewery_id>Midnight-Sun-Brewing-Company</brewery_id>
+  <abv>12.7</abv>
+  <ibu>30</ibu>
   <name>Berserker Imperial Stout</name>
   <description>Vicious and viscous, this menacing brew pours opaque black with a creamy maduro-colored head. Its aroma offers seductive whiskey, chewy red wine, dark fruit and lavish tobacco. Berserker Imperial Stout invades your taste buds with in-your-face flavor. Weighing in at almost 13% alcohol by volume, Berserker is completely out-of-control. Give it a good fight. This version of Berserker Imperial Stout was aged in both red wine and whiskey barrels. The entire batch was brought back together before being packaged in kegs and 22-oz bottles.</description>
   <availability>limited</availability>

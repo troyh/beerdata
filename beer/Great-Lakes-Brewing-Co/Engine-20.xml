@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Engine-20" brewery_id="Great-Lakes-Brewing-Co" abv="6" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Engine-20</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6</abv>
+  <ibu>40</ibu>
   <name>Engine 20</name>
   <description>Hoppy American Pale Ale with smoky undertones.</description>
   <availability>limited</availability>

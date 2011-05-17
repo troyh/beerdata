@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Hocus-Pocus" brewery_id="Magic-Hat" abv="4.5" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Hocus-Pocus</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>4.5</abv>
+  <ibu>13</ibu>
   <name>Hocus Pocus</name>
   <description>Its malty sweetness finishes tart and crisp and is best appreciated with a wedge of orange.</description>
   <availability>retired</availability>

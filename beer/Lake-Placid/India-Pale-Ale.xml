@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lake-Placid/India-Pale-Ale" brewery_id="Lake-Placid" abv="6.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lake-Placid/India-Pale-Ale</id>
+  <brewery_id>Lake-Placid</brewery_id>
+  <abv>6.8</abv>
   <name>India Pale Ale</name>
   <description>Lake Placid IPA is deep copper in color and brimming with hops from the first sniff to the final taste, balanced by just a touch of malty sweetness. Originally brewed as a winter seasonal, it quickly earned a place in our permanent line-up and is our most award-winning brew. Here's to hops!</description>
   <availability>year-round</availability>

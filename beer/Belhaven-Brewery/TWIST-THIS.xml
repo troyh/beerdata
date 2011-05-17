@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Belhaven-Brewery/TWIST-THIS" brewery_id="Belhaven-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Belhaven-Brewery/TWIST-THIS</id>
+  <brewery_id>Belhaven-Brewery</brewery_id>
   <name>TWIST THIS</name>
   <description/>
   <availability/>

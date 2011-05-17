@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stonefly-Brewery">
+<brewery>
+  <id>Stonefly-Brewery</id>
   <name>Stonefly Brewery‎</name>
   <address>
     <street>735 E. Center Street</street>

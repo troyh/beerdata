@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Court-Avenue-Brewing-Co-Des-Moines">
+<brewery>
+  <id>Court-Avenue-Brewing-Co-Des-Moines</id>
   <name>Court Avenue Brewing Co‎</name>
   <address>
     <street>309 Court Ave # 1</street>

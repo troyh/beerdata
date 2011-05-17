@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Hog-Heaven" brewery_id="Avery-Brewing" abv="9.2" ibu="104">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Hog-Heaven</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>9.2</abv>
+  <ibu>104</ibu>
   <name>Hog Heaven</name>
   <description>This dangerously drinkable garnet beauty is a hop lover's delight. The intense dry-hop nose and the alcohol content are perfectly balanced for a caramel candy-like malt finish. This is a serious beer for serious beer afficianados and it only gets better with age. Cellarable for 3 years.</description>
   <availability/>

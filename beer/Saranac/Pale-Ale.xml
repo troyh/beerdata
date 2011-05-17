@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Pale-Ale" brewery_id="Saranac" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Pale-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.5</abv>
   <name>Pale Ale</name>
   <description>A beer that would make the English jealous! This true English Pale Ale is rich and fruity, yet finishes crisp. You'll love the copper amber color and medium body.</description>
   <availability>year-round</availability>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Tyanena-Brewing-Company/Fighting-Finches-Mai-Bock" brewery_id="Tyanena-Brewing-Company" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tyanena-Brewing-Company/Fighting-Finches-Mai-Bock</id>
+  <brewery_id>Tyanena-Brewing-Company</brewery_id>
+  <ibu>25</ibu>
   <name>Fighting Finches Mai Bock</name>
   <description>"The Finches will get you if you don't watch out!" In the early days of southern Wisconsin, falling into the clutches of the "Fighting Finches" was the ultimate threat. Moses Finch fathered 21 offspring whose most notable talents were stealing horses and robbing stagecoaches. From their stronghold in the impenetrable marshes west of Lake Mills, the Finches raided the farms of local settlers and held up the early travelers between Madison and Milwaukee.The Finches are long gone, but their legend lives on. So enjoy a pint of our Fighting Finches Bock... or you better watch out, 'cause the Finches are gonna get you!Fighting Finches Mai Bock is a deep golden traditional German-style Maibock. This medium bodied beer has a rich malty flavor and aroma accented with the subtle flavor of noble hops.</description>
   <availability>limited</availability>

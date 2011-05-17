@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-St-Feuillien/TRIPEL" brewery_id="Brewery-St-Feuillien">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-St-Feuillien/TRIPEL</id>
+  <brewery_id>Brewery-St-Feuillien</brewery_id>
   <name>TRIPEL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-47934-20233-8">
+    <size>
+      <upc>7-47934-20233-8</upc>
       <description>4/1.5L BTL</description>
       <distributor>
         <name>odom</name>

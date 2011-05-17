@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Main-Street-Cafe">
+<brewery>
+  <id>Main-Street-Cafe</id>
   <name>Main Street Cafe‎</name>
   <address>
     <street>967 Main St</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Flying-Dog-Brewery/Double-Dog-Double-Pale-Ale" brewery_id="Flying-Dog-Brewery" abv="11.5" ibu="85">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery/Double-Dog-Double-Pale-Ale</id>
+  <brewery_id>Flying-Dog-Brewery</brewery_id>
+  <abv>11.5</abv>
+  <ibu>85</ibu>
   <name>Double Dog Double Pale Ale</name>
   <description>Back by popular demand, our original "Wild Dog Release" is back, and this time it's for good. Double Dog Double Pale Ale is a generously hopped ale with a deep red color and pours with a nice frothy head. The abundance of hops will conjure some provocative aromas with hints of raisins and citrus.</description>
   <availability/>

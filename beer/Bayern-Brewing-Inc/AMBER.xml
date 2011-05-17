@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bayern-Brewing-Inc/AMBER" brewery_id="Bayern-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bayern-Brewing-Inc/AMBER</id>
+  <brewery_id>Bayern-Brewing-Inc</brewery_id>
   <name>AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-35779-12006-4">
+    <size>
+      <upc>6-35779-12006-4</upc>
       <description>2/5L CA</description>
       <distributor>
         <name>odom</name>

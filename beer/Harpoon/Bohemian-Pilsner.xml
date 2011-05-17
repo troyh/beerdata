@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Bohemian-Pilsner" brewery_id="Harpoon" abv="4.7" ibu="42">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Bohemian-Pilsner</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>4.7</abv>
+  <ibu>42</ibu>
   <name>Bohemian Pilsner</name>
   <description>On one of our yearly Harpoon trips abroad to experience beer culture, we traveled to birthplace of this famous style and were very impressed by the history, freshness, and flavor of this beer. We brewed our Bohemian Pilsner in order to taste those wonderful flavors once again.\nOur Pilsner is made from three different European malts including a large portion of Pilsner malt which provided the slightly sweet and malty backbone of the beer. In order to achieve the crisp bitterness and aromatic nose, we brewed with Tetnanger and Czech Saaz hops. The beer was dry hopped with the Saaz as well. The authentic Bohemian Pilsner yeast added depth and after a prolonged lagering period helped produce much of the character of this beer. Our Bohemian Pilsner has a smooth, slightly malty flavor that is balanced with a crisp bitterness and clean hop aroma. It brings back great memories of our trip every time I taste it.\nI hope you enjoy it as well.</description>
   <availability>limited</availability>

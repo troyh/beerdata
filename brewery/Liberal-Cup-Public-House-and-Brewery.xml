@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Liberal-Cup-Public-House-and-Brewery">
+<brewery>
+  <id>Liberal-Cup-Public-House-and-Brewery</id>
   <name>Liberal Cup Public House and Brewery‎</name>
   <address>
     <street>115 Water St</street>

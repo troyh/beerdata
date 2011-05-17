@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brooklyn-Brewery-Brooklyn/DE-NAMUR" brewery_id="Brooklyn-Brewery-Brooklyn">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brooklyn-Brewery-Brooklyn/DE-NAMUR</id>
+  <brewery_id>Brooklyn-Brewery-Brooklyn</brewery_id>
   <name>DE NAMUR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="5-41633-75005-0">
+    <size>
+      <upc>5-41633-75005-0</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

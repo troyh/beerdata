@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Undercover-Investigation-Shut-down-Ale" brewery_id="Lagunitas-Brewing-Co" abv="9.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Undercover-Investigation-Shut-down-Ale</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
+  <abv>9.7</abv>
   <name>Undercover Investigation Shut-Down Ale</name>
   <description>Our oxymoronic 'Imperial Mild' - A redux to remember the '05 St. Paddy's Day Massacre. Defiant as to style ... We Can say for sure it is unforgiven and unrepentant.</description>
   <availability>Spring</availability>

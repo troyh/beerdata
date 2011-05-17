@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Never-Summer-Ale" brewery_id="Boulder-Beer-Co" abv="5.94">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Never-Summer-Ale</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>5.94</abv>
   <name>Never Summer Ale</name>
   <description/>
   <availability>winter</availability>

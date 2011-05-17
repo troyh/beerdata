@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tucks-Brewery">
+<brewery>
+  <id>Tucks-Brewery</id>
   <name>Tuck's Brewery‎</name>
   <address>
     <street>6698 SW Capitol Hwy</street>

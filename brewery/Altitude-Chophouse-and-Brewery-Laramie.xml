@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Altitude-Chophouse-and-Brewery-Laramie">
+<brewery>
+  <id>Altitude-Chophouse-and-Brewery-Laramie</id>
   <name>Altitude Chophouse &amp; Brewery‎</name>
   <address>
     <street>320 S 2nd St</street>

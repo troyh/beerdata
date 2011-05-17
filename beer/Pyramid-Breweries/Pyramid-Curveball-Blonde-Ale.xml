@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Pyramid-Breweries/Pyramid-Curveball-Blonde-Ale" brewery_id="Pyramid-Breweries" abv="5" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries/Pyramid-Curveball-Blonde-Ale</id>
+  <brewery_id>Pyramid-Breweries</brewery_id>
+  <abv>5</abv>
+  <ibu>18</ibu>
   <name>Pyramid Curveball Blonde Ale</name>
   <description>Our deceptively drinkable golden summer seasonal is a crisp, clean-tasting, cold lagered ale. This frosty thirst quencher is the perfect accompaniment to summer adventures.</description>
   <availability>Summer</availability>

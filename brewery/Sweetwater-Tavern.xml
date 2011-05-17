@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sweetwater-Tavern">
+<brewery>
+  <id>Sweetwater-Tavern</id>
   <name>Sweetwater Tavern‎</name>
   <address>
     <street>3066 Gate House Plz</street>

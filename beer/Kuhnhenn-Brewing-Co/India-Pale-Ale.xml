@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/India-Pale-Ale" brewery_id="Kuhnhenn-Brewing-Co" abv="5.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/India-Pale-Ale</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
+  <abv>5.8</abv>
   <name>India Pale Ale</name>
   <description>This amber colored beer is creamy and delectable, probably our best India Pale Ale yet. Hops, hops and more hops will satisfy even the most extreme hop head.</description>
   <availability/>

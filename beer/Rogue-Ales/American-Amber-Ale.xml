@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/American-Amber-Ale" brewery_id="Rogue-Ales" ibu="53">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/American-Amber-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>53</ibu>
   <name>American Amber Ale</name>
   <description>Tawny in color, with a coffee aroma, tight head and a delicate roasted malt accent. Generous use of hops and a smooth finish.</description>
   <availability/>

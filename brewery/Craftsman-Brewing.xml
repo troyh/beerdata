@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Craftsman-Brewing">
+<brewery>
+  <id>Craftsman-Brewing</id>
   <name>Craftsman Brewing‎</name>
   <address>
     <street>1260 Lincoln Ave # 100</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/One-Oatmeal-Stout" brewery_id="Dark-Horse-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/One-Oatmeal-Stout</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
   <name>One Oatmeal Stout</name>
   <description>Number one in a series of five stouts produced to help ease you through the cold and grey midwestern winters. This beer is full bodied with hints of chocolate, roasted barley, coffee flavors and a nice creamy head.</description>
   <availability>fall/winter</availability>

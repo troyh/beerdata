@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Olde-School-Barley-Wine" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Olde-School-Barley-Wine</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
   <name>Olde School Barley Wine</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="638489000534">
+    <size>
+      <upc>638489000534</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

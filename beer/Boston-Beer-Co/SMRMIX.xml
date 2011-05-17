@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/SMRMIX" brewery_id="Boston-Beer-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/SMRMIX</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
   <name>SMRMIX</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87692-38106-8">
+    <size>
+      <upc>0-87692-38106-8</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>

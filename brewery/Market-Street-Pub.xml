@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Market-Street-Pub">
+<brewery>
+  <id>Market-Street-Pub</id>
   <name>Market Street Pub‎</name>
   <address>
     <street>120 SW 1st Ave</street>

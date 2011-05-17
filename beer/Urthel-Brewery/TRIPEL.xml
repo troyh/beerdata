@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Urthel-Brewery/TRIPEL" brewery_id="Urthel-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Urthel-Brewery/TRIPEL</id>
+  <brewery_id>Urthel-Brewery</brewery_id>
   <name>TRIPEL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-47934-88033-8">
+    <size>
+      <upc>7-47934-88033-8</upc>
       <description>6/4/11.2 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Full-Circle-Brewing-Co">
+<brewery>
+  <id>Full-Circle-Brewing-Co</id>
   <name>Full Circle Brewing Co‎</name>
   <address>
     <street>620 F St</street>

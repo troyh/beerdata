@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Black-Rye" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Black-Rye</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>Black Rye</name>
   <description>What do you get when you age an Imperial Stout for 6 months in an old, rye-whiskey, oak barrel? We call it Black Rye. Served cask style, we're sure you'll enjoy its robust, roasty heartiness courted by a vanilla-like whiskey undertone that's sure to put hair on your paws! Cheers!</description>
   <availability/>

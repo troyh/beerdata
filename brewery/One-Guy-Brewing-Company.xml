@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="One-Guy-Brewing-Company">
+<brewery>
+  <id>One-Guy-Brewing-Company</id>
   <name>One Guy Brewing Company‎</name>
   <address>
     <street>328 W Front St</street>

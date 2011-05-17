@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewing-Restaurant">
+<brewery>
+  <id>Gordon-Biersch-Brewing-Restaurant</id>
   <name>Gordon Biersch Brewing Restaurant‎</name>
   <address>
     <street>145 S San Fernando Blvd</street>

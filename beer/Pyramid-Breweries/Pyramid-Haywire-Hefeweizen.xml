@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Pyramid-Breweries/Pyramid-Haywire-Hefeweizen" brewery_id="Pyramid-Breweries" abv="5.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries/Pyramid-Haywire-Hefeweizen</id>
+  <brewery_id>Pyramid-Breweries</brewery_id>
+  <abv>5.2</abv>
   <name>Pyramid Haywire Hefeweizen</name>
   <description>The standard by which all other wheat beers are judged. Our deliciously deranged American-Style Hefeweizen is an award winning take on this Bavarian classic. This refreshingly unfiltered wheat ale delivers a distinctively smooth flavor worth sharing with friends.</description>
   <availability/>

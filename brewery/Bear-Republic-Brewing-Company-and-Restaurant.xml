@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bear-Republic-Brewing-Company-and-Restaurant">
+<brewery>
+  <id>Bear-Republic-Brewing-Company-and-Restaurant</id>
   <name>Bear Republic Brewing Company &amp; Restaurant‎</name>
   <address>
     <street>345 Healdsburg Ave</street>

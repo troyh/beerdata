@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cervezas-Mexicanas/LGR" brewery_id="Cervezas-Mexicanas">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cervezas-Mexicanas/LGR</id>
+  <brewery_id>Cervezas-Mexicanas</brewery_id>
   <name>LGR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72311-23012-4">
+    <size>
+      <upc>0-72311-23012-4</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Christmas-Ale" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Christmas-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Christmas Ale</name>
   <description>Christmas Ale (November -- December) rounds out our calendar. Generally, this beer is a dark ale, however, the recipe changes each year, offering a unique product crafted with special care. Enjoy your holidays with Abita Christmas Ale. The spicy character is excellent with traditional holiday foods such as gingerbread or spiced nuts. Try some Blue cheese or a creamy Camembert with a Christmas Ale.</description>
   <availability>fall</availability>

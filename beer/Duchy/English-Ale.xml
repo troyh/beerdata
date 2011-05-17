@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Duchy/English-Ale" brewery_id="Duchy">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Duchy/English-Ale</id>
+  <brewery_id>Duchy</brewery_id>
   <name>English Ale</name>
   <description/>
   <availability/>

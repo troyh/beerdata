@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Copper-Kettle-Weiss" brewery_id="New-Glarus-Brewing-Company" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Copper-Kettle-Weiss</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>6</abv>
   <name>Copper Kettle Weiss</name>
   <description>Warm reflective copper, it is the perfected hue of our dunkle weiss and our brewhouse. Dan traveled to Germany in search of the very special Bavarian Weiss yeast that defines this bottle-fermented brew. Copper Kettle Weiss is designed in the traditional style of a dark wheat beer. Rich malt flavors are accentuated through our complicated decoction mash and finally balanced with select Hallertau hops. This isn't our first brew from our copper kettles but it is one of our best.</description>
   <availability>retired</availability>

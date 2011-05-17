@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Odell-Brewing-Co/Cutthroat-Porter" brewery_id="Odell-Brewing-Co" abv="4.8" ibu="43">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Odell-Brewing-Co/Cutthroat-Porter</id>
+  <brewery_id>Odell-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
+  <ibu>43</ibu>
   <name>Cutthroat Porter</name>
   <description>Not quite a stout but definitely no lightweight, Cutthroat Porter is smooth and robust. Inspired by the classic London porters, we use dark roasted malts to create a deep, rich color and flavor that hint at chocolate and coffee. We named it Cutthroat Porter as our tribute to the Colorado state fish - with its own rich heritage and unmistakable dark coloring. And while we're big fans of small batches, here's to the currently threatened Cutthroat population reaching mass quantities.</description>
   <availability>year-round</availability>

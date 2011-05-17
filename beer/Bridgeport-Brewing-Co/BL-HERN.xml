@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bridgeport-Brewing-Co/BL-HERN" brewery_id="Bridgeport-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/BL-HERN</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
   <name>BL HERN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-98554-01000-2">
+    <size>
+      <upc>0-98554-01000-2</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

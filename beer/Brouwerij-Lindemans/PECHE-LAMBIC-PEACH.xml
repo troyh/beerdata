@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Lindemans/PECHE-LAMBIC-PEACH" brewery_id="Brouwerij-Lindemans">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Lindemans/PECHE-LAMBIC-PEACH</id>
+  <brewery_id>Brouwerij-Lindemans</brewery_id>
   <name>PECHE LAMBIC (PEACH)</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-9">
+    <size>
+      <upc>9-99999-99999-9</upc>
       <description>25L BBL</description>
       <distributor>
         <name>odom</name>

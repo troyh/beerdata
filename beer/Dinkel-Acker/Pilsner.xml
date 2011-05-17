@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Dinkel-Acker/Pilsner" brewery_id="Dinkel-Acker">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dinkel-Acker/Pilsner</id>
+  <brewery_id>Dinkel-Acker</brewery_id>
   <name>Pilsner</name>
   <description/>
   <availability/>

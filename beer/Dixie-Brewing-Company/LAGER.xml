@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dixie-Brewing-Company/LAGER" brewery_id="Dixie-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dixie-Brewing-Company/LAGER</id>
+  <brewery_id>Dixie-Brewing-Company</brewery_id>
   <name>LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-82393-00002-7">
+    <size>
+      <upc>0-82393-00002-7</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

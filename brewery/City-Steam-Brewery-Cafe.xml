@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="City-Steam-Brewery-Cafe">
+<brewery>
+  <id>City-Steam-Brewery-Cafe</id>
   <name>City Steam Brewery Cafe‎</name>
   <address>
     <street>942 Main St</street>

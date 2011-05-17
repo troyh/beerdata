@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Scuttlebutt-Brewing-Co-Everett/Barleywine-sold-out" brewery_id="Scuttlebutt-Brewing-Co-Everett">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Scuttlebutt-Brewing-Co-Everett/Barleywine-sold-out</id>
+  <brewery_id>Scuttlebutt-Brewing-Co-Everett</brewery_id>
   <name>Barleywine (sold out)</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="85482200030">
+    <size>
+      <upc>85482200030</upc>
       <description>12/12 oz</description>
       <distributor>
         <name>click</name>

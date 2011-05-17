@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pitchers-Brewery-and-Sports">
+<brewery>
+  <id>Pitchers-Brewery-and-Sports</id>
   <name>Pitcher's Brewery &amp; Sports‎</name>
   <address>
     <street>2501 11th Ave</street>

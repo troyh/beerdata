@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bitburger/Drive" brewery_id="Bitburger">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bitburger/Drive</id>
+  <brewery_id>Bitburger</brewery_id>
   <name>Drive</name>
   <description/>
   <availability/>

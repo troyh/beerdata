@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Orlando-Brewing">
+<brewery>
+  <id>Orlando-Brewing</id>
   <name>Orlando Brewing‎</name>
   <address>
     <street>1301 Atlanta Avenue</street>

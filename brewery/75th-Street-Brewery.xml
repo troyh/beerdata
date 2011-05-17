@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="75th-Street-Brewery">
+<brewery>
+  <id>75th-Street-Brewery</id>
   <name>75th Street Brewery‎</name>
   <address>
     <street>520 W 75th St</street>

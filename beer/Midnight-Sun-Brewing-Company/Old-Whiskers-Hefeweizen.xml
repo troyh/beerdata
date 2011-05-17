@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Midnight-Sun-Brewing-Company/Old-Whiskers-Hefeweizen" brewery_id="Midnight-Sun-Brewing-Company" abv="5" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Midnight-Sun-Brewing-Company/Old-Whiskers-Hefeweizen</id>
+  <brewery_id>Midnight-Sun-Brewing-Company</brewery_id>
+  <abv>5</abv>
+  <ibu>20</ibu>
   <name>Old Whiskers Hefeweizen</name>
   <description>This is our perennial summer seasonal beer, first brewed in Summer 1995 when we opened.Affectionately called "Spunky and Chunky", Old Whiskers Hefeweizen is a traditional Bavarian-style unfiltered wheat beer. Created with equal parts malted wheat and pale two-row malt, Old Whiskers is lightly hopped to style. A unique Bavarian strain of yeast imparts a clove- or banana-like aroma and flavor. (We swear we did not put cloves into the brew. It is the magical powers of The Yeast.) Old Whisker is delicious and refeshing--the perfect summer quencher, served with or without a slice of lemon.</description>
   <availability/>

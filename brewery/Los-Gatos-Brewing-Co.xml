@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Los-Gatos-Brewing-Co">
+<brewery>
+  <id>Los-Gatos-Brewing-Co</id>
   <name>Los Gatos Brewing Co‎</name>
   <address>
     <street>130 N Santa Cruz Ave</street>

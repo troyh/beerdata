@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Nelson" brewery_id="Alpine-Beer-Company" abv="7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Nelson</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
+  <abv>7</abv>
   <name>Nelson</name>
   <description>An outstanding hop from New Zealand, Nelson Sauvin, is generously used throughout the brewing and dry-hopping of this unique beer. European rye is added for a smooth, malty addition to flavor.</description>
   <availability>limited</availability>

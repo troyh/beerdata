@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Alpine-Beer-Company/Willy-Vanilly" brewery_id="Alpine-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Company/Willy-Vanilly</id>
+  <brewery_id>Alpine-Beer-Company</brewery_id>
   <name>Willy Vanilly</name>
   <description>Since "Willy" is so versatile and can be flavored with fruits and essences, we add a touch of vanilla extract to compliment the sweet nuttiness. Also good mixed with Captain Stout, a blend we call "The Captain and Vanil."</description>
   <availability/>

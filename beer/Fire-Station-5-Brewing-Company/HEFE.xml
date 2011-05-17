@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fire-Station-5-Brewing-Company/HEFE" brewery_id="Fire-Station-5-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fire-Station-5-Brewing-Company/HEFE</id>
+  <brewery_id>Fire-Station-5-Brewing-Company</brewery_id>
   <name>HEFE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-46123-6">
+    <size>
+      <upc>7-69596-46123-6</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

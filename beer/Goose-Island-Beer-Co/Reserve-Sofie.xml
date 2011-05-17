@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Reserve-Sofie" brewery_id="Goose-Island-Beer-Co" abv="6.5" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Reserve-Sofie</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>6.5</abv>
+  <ibu>15</ibu>
   <name>Reserve: Sofie</name>
   <description>Fermented with wild yeasts and aged in wine barrels with orange peel, Sofie is a tart, dry, sparkling ale. A subtle, spicy white pepper note, a hint of citrus from the orange peel and a creamy vanilla finish make Sofie an intriguing choice for Champagne drinkers and beer drinkers who are fond of Belgian Saisons.</description>
   <availability>limited</availability>

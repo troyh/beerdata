@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Danse-Macabre" brewery_id="Dieu-Du-Ciel" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Danse-Macabre</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>7.5</abv>
   <name>danse macabre</name>
   <description>Brown ale inspired by the beer brewed by Belgian Trappist monks. Very little bitterness, this beer has malty and sweet flavours, mixed with the taste of chocolate and caramel. It presents complex red fruit and spice flavours due to the type of yeast that is used during the brewing process.</description>
   <availability/>

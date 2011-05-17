@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Tetleys-Brewery/7" brewery_id="Tetleys-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tetleys-Brewery/7</id>
+  <brewery_id>Tetleys-Brewery</brewery_id>
   <name>7</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-16813-00041-0">
+    <size>
+      <upc>0-16813-00041-0</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

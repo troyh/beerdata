@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jose-OReillys-Cantina-San-Diego">
+<brewery>
+  <id>Jose-OReillys-Cantina-San-Diego</id>
   <name>Jose O'Reilly's Cantina‎</name>
   <address>
     <street>8111 Mira Mesa Blvd</street>

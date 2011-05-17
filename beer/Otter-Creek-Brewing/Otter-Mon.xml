@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Otter-Mon" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Otter-Mon</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Otter Mon</name>
   <description>"Otter Mon" is a Jamaican Stout, brewed with black malt, chocolate malt, flaked barley and caramel malt, and fermented with British ale yeast. Raw sugar cane provides a sweet tooth of rum-like flavor and aroma, while East Kent and Liberty hops add balance to the sweetness</description>
   <availability>limited</availability>

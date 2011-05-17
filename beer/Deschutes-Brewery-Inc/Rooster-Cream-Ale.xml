@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Rooster-Cream-Ale" brewery_id="Deschutes-Brewery-Inc" abv="5.00" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Rooster-Cream-Ale</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>5.00</abv>
+  <ibu>20</ibu>
   <name>Rooster Cream Ale</name>
   <description>ThisÂ American-style cream ale is one of the smoothest beers ever made here at Deschutes Brewery!Â  The grist bill consists of pale malt, honey malt, flaked barley,Â MunichÂ malt, and oats.Â Â The fruity aroma is imparted by Sterling and Crystal hops.Â  Beware of this beer, you might find yourself coming back for another over and over again...</description>
   <availability/>
@@ -9,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="6A">Cream Ale</style>
+    <style><bjcp_style_id>6A</bjcp_style_id>Cream Ale</style>
   </styles>
   <sizes>
     <size>

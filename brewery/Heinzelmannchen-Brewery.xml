@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Heinzelmannchen-Brewery">
+<brewery>
+  <id>Heinzelmannchen-Brewery</id>
   <name>Heinzelmannchen Brewery‎</name>
   <address>
     <street>545 Mill St</street>

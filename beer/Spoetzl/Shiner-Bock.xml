@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-Bock" brewery_id="Spoetzl" abv="4.4" ibu="13">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-Bock</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>4.4</abv>
+  <ibu>13</ibu>
   <name>Shiner Bock</name>
   <description>Bock reflects the tradition of genuine Bavarian beers as a brew only a craftsman like Kosmos Spoetzl, trained in the "?Old Country,"? could bring to life. With its deep amber color, distinctive rich flavor and full body, Shiner Bock demonstrates the care of a handcrafted brewing process to bring forth a mellow taste free of the bitter aftertaste found in many micro, specialty and imported beers. Just think of it as Shiner smooth.</description>
   <availability>year-round</availability>

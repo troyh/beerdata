@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Ciel-toil" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>CIEL &#x83;TOIL&#x83;</name>
-  <description>The Ciel &#x83;toil&#x8E; is a well balanced and refreshing beer with a strong aniseed flavour.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Ciel-toil</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>CIEL TOIL</name>
+  <description>The Ciel toil is a well balanced and refreshing beer with a strong aniseed flavour.</description>
   <availability/>
   <ingredients/>
   <grains/>

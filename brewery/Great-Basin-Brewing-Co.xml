@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Great-Basin-Brewing-Co">
+<brewery>
+  <id>Great-Basin-Brewing-Co</id>
   <name>Great Basin Brewing Co‎</name>
   <address>
     <street>846 Victorian Ave</street>

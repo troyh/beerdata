@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bitburger-Braugruppe-GmbH/9-PILS" brewery_id="Bitburger-Braugruppe-GmbH">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bitburger-Braugruppe-GmbH/9-PILS</id>
+  <brewery_id>Bitburger-Braugruppe-GmbH</brewery_id>
   <name>9 PILS</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-20507-01150-7">
+    <size>
+      <upc>0-20507-01150-7</upc>
       <description>BOTTLE 20/16</description>
       <distributor>
         <name>columbia</name>

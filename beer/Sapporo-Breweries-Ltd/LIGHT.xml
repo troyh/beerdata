@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sapporo-Breweries-Ltd/LIGHT" brewery_id="Sapporo-Breweries-Ltd">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sapporo-Breweries-Ltd/LIGHT</id>
+  <brewery_id>Sapporo-Breweries-Ltd</brewery_id>
   <name>LIGHT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87975-91355-9">
+    <size>
+      <upc>0-87975-91355-9</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

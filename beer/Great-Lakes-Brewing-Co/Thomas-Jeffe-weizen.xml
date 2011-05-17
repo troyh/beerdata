@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Thomas-Jeffe-weizen" brewery_id="Great-Lakes-Brewing-Co" abv="4.6" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Thomas-Jeffe-weizen</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>4.6</abv>
+  <ibu>18</ibu>
   <name>Thomas Jeffe-Weizen</name>
   <description>Thomas Jefferson's delicate American Wheat Ale.</description>
   <availability>limited</availability>

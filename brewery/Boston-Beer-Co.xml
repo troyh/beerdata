@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boston-Beer-Co">
+<brewery>
+  <id>Boston-Beer-Co</id>
   <name>Boston Beer Co‎</name>
   <address>
     <street>30 Germania St</street>

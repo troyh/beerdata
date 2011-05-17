@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Pilsener" brewery_id="Summit-Brewing" abv="5.0" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Pilsener</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>5.0</abv>
+  <ibu>25</ibu>
   <name>Pilsener</name>
   <description/>
   <availability>year-round</availability>

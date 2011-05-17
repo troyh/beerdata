@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Belgian-Apricot-Wheat" brewery_id="Bullfrog-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Belgian-Apricot-Wheat</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Belgian Apricot Wheat</name>
   <description>A twist on our popular Apricot Wheat, this time brewed with a Belgian yeast and left unfiltered for its fruity and spicy contribution.</description>
   <availability/>

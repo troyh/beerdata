@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Birdsview-Brewing-Co">
+<brewery>
+  <id>Birdsview-Brewing-Co</id>
   <name>Birdsview Brewing Co‎</name>
   <address>
     <street>38302 State Route 20</street>

@@ -1,11 +1,15 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Robust-Porter" brewery_id="Smuttynose-Brewing-Co" abv="5.1" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Robust-Porter</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
+  <abv>5.1</abv>
+  <ibu>15</ibu>
   <name>Robust Porter</name>
-  <description>This hearty, mahogany colored ale is brewed to evoke the dark, full-bodied ales that were a favorite of dockworkers and warehousemen (hence the name &#xD2;Porter&#xD3;) in 19th century London. It is a good bet that when Dickens&#xD5; Mr. Pickwick sat down for a pint, we would have been drinking an ale much like our Robust Porter.This is a smooth and very drinkable beer, characterized by its well-balanced malt and hops, plus subtle notes of coffee and chocolate.</description>
+  <description>This hearty, mahogany colored ale is brewed to evoke the dark, full-bodied ales that were a favorite of dockworkers and warehousemen (hence the name ÒPorterÓ) in 19th century London. It is a good bet that when DickensÕ Mr. Pickwick sat down for a pint, we would have been drinking an ale much like our Robust Porter.This is a smooth and very drinkable beer, characterized by its well-balanced malt and hops, plus subtle notes of coffee and chocolate.</description>
   <availability/>
   <ingredients/>
-  <grains>pale 2-row, carastan, dark crystal, special &#xD2;B,&#xD3; chocolate</grains>
-  <grains>pale 2-row, carastan, dark crystal, special &#xD2;B,&#xD3; chocolate</grains>
+  <grains>pale 2-row, carastan, dark crystal, special ÒB,Ó chocolate</grains>
+  <grains>pale 2-row, carastan, dark crystal, special ÒB,Ó chocolate</grains>
   <hops>Cascade</hops>
   <yeast/>
   <otherings/>

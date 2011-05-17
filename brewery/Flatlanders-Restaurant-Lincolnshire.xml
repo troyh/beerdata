@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flatlanders-Restaurant-Lincolnshire">
+<brewery>
+  <id>Flatlanders-Restaurant-Lincolnshire</id>
   <name>Flatlander's Restaurant‎</name>
   <address>
     <street>200 Village Grn</street>

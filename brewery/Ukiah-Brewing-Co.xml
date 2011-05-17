@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ukiah-Brewing-Co">
+<brewery>
+  <id>Ukiah-Brewing-Co</id>
   <name>Ukiah Brewing Co‎</name>
   <address>
     <street>102 S State St</street>

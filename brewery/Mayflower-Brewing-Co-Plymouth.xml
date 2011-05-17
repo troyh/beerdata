@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mayflower-Brewing-Co-Plymouth">
+<brewery>
+  <id>Mayflower-Brewing-Co-Plymouth</id>
   <name>Mayflower Brewing Co‎</name>
   <address>
     <street>12 Resnik Rd # 3</street>

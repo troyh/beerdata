@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Woof-Breweries">
+<brewery>
+  <id>Woof-Breweries</id>
   <name>Woof Breweries‎</name>
   <address>
     <street>19480 SW 97th Ave</street>

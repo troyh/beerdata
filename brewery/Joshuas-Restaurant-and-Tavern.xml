@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Joshuas-Restaurant-and-Tavern">
+<brewery>
+  <id>Joshuas-Restaurant-and-Tavern</id>
   <name>Joshua's Restaurant &amp; Tavern‎</name>
   <address>
     <street>123 Maine St # A</street>

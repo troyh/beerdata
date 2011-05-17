@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="RAXX-BBQ-and-Brewing-Co">
+<brewery>
+  <id>RAXX-BBQ-and-Brewing-Co</id>
   <name>RAXX BBQ &amp; Brewing Co.‎</name>
   <address>
     <street>3397 Mission Inn Ave</street>

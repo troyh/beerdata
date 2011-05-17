@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="North-Peak-Brewing-Company-Kilkennys-Irish-Public-House-Traverse-City">
+<brewery>
+  <id>North-Peak-Brewing-Company-Kilkennys-Irish-Public-House-Traverse-City</id>
   <name>North Peak Brewing Company/Kilkenny's Irish Public House‎</name>
   <address>
     <street>400 W Front Street</street>

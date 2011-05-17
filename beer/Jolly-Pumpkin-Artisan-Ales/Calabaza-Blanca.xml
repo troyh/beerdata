@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Calabaza-Blanca" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Calabaza-Blanca</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>4.8</abv>
   <name>Calabaza Blanca</name>
   <description>Aged in large oak casks and refermented in the bottle, Calabaza Blanca is a Belgian Biere Blanche. Spiced with orange peel and corriander, you'll find it refreshingly tart, with a wonderfully dry finish.</description>
   <availability/>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="897435000039">
+    <size>
+      <upc>897435000039</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

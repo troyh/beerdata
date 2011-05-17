@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pyramid-Breweries-Inc/HEFEWZN" brewery_id="Pyramid-Breweries-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries-Inc/HEFEWZN</id>
+  <brewery_id>Pyramid-Breweries-Inc</brewery_id>
   <name>HEFEWZN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-76420-91117-2">
+    <size>
+      <upc>0-76420-91117-2</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

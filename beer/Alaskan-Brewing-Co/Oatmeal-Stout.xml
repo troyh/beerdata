@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Oatmeal-Stout" brewery_id="Alaskan-Brewing-Co" abv="5.7" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Oatmeal-Stout</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+  <abv>5.7</abv>
+  <ibu>28</ibu>
   <name>Oatmeal Stout</name>
   <description>The unique blend of the oats and malts in Alaskan Stout produce a balanced, smooth beer with hints of coffee and caramel. Alaskan Stout was originally brewed as a Rough Draft for our customers in Alaska. The popularity of the Stout allowed it to become the Brewery's fourth year-round product in the fall of 1998. </description>
   <availability>year-round</availability>

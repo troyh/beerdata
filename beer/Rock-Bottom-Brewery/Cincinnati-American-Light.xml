@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Cincinnati-American-Light" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Cincinnati-American-Light</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Cincinnati American Light</name>
   <description>Our classic blonde Lager is aged near freezing for at least one month togive this beer a delicate softness witha clean, crisp finish. This Lager style islight, balanced and highly drinkable.</description>
   <availability>year-round</availability>

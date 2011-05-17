@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Selins-Grove-Brewing-Company/Captain-Selins-Cream-Ale" brewery_id="Selins-Grove-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Selins-Grove-Brewing-Company/Captain-Selins-Cream-Ale</id>
+  <brewery_id>Selins-Grove-Brewing-Company</brewery_id>
   <name>Captain Selin's Cream Ale</name>
   <description/>
   <availability/>

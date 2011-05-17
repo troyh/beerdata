@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Itasca-Extra-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Itasca-Extra-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Itasca Extra Pale Ale</name>
   <description>The Brewer's favorite! A copper-hued American Pale Ale. Brewed with Pale Ale and Crystal malts for a medium-bodied caramel flavor. Generously hopped with four varities for an orange-grapefruit flavor and aroma. This is the choice for hopheads! Pairs well with pizzas and our Certified Angus Beef Burgers.</description>
   <availability>year-round</availability>

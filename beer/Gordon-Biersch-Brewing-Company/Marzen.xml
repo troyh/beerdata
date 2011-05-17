@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Gordon-Biersch-Brewing-Company/Marzen" brewery_id="Gordon-Biersch-Brewing-Company" abv="5.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gordon-Biersch-Brewing-Company/Marzen</id>
+  <brewery_id>Gordon-Biersch-Brewing-Company</brewery_id>
+  <abv>5.7</abv>
   <name>Marzen</name>
-  <description>Our most popular beer, M&#x8A;rzen is a smooth, mildly sweet, auburn colored lager. This beer originates from Bavaria where it was brewed in March ("M&#x8A;rzen" in German) and stored in caves to be enjoyed during warmer weather. At the end of September, any remaining kegs of M&#x8A;rzen were consumed during the two week celebration which became known as Oktoberfest.</description>
+  <description>Our most popular beer, Mrzen is a smooth, mildly sweet, auburn colored lager. This beer originates from Bavaria where it was brewed in March ("Mrzen" in German) and stored in caves to be enjoyed during warmer weather. At the end of September, any remaining kegs of Mrzen were consumed during the two week celebration which became known as Oktoberfest.</description>
   <availability>year-round</availability>
   <ingredients/>
   <grains/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Florida-Beer-Co">
+<brewery>
+  <id>Florida-Beer-Co</id>
   <name>Florida Beer Co‎</name>
   <address>
     <street>2500 S Harbor City Blvd</street>

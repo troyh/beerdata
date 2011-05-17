@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pyramid-Breweries-Inc/BRWRBOX" brewery_id="Pyramid-Breweries-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries-Inc/BRWRBOX</id>
+  <brewery_id>Pyramid-Breweries-Inc</brewery_id>
   <name>BRWRBOX</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-76420-96008-8">
+    <size>
+      <upc>0-76420-96008-8</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

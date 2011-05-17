@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grupo-Modelo/DARK" brewery_id="Grupo-Modelo">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grupo-Modelo/DARK</id>
+  <brewery_id>Grupo-Modelo</brewery_id>
   <name>DARK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95787-6">
+    <size>
+      <upc>0-80660-95787-6</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

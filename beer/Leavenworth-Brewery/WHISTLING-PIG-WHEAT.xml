@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Leavenworth-Brewery/WHISTLING-PIG-WHEAT" brewery_id="Leavenworth-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Leavenworth-Brewery/WHISTLING-PIG-WHEAT</id>
+  <brewery_id>Leavenworth-Brewery</brewery_id>
   <name>WHISTLING PIG WHEAT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-66024-11111-1">
+    <size>
+      <upc>9-66024-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

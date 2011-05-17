@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Lips-Of-Faith-Le-Fleur-Misseur" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Lips-Of-Faith-Le-Fleur-Misseur</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Lips of Faith Le Fleur Misseur</name>
   <description>Deep burnished gold with a slight haze, Le Fleur Misseur opens with pineapple, clove and honey notes. Dry-hopping produces a flower leaf aroma supported by tones of fresh bread and honey. Bottle conditioned with our special house strain of Brettanomyces (wild ale) yeast, Le Fleur finishes dry and slightly herbal.\nProduced for New Belgium coworkers to celebrate our 15th anniversary, Le Fleur has roots in the earliest days of our history. In 1988 founder Jeff Lebesch sat weary on the side of a Belgian road when a young lad passing by picked a delicate yellow flower and offered it to Jeff.\n"Le Fleur, Misseur?" Jeff misspelled the boy's comment in his journal as he accepted the offering. A treasured memory, a beer to treasure.</description>
   <availability>limited</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bosteels-Brewery/DEUS-BRUT-FLANDER" brewery_id="Bosteels-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bosteels-Brewery/DEUS-BRUT-FLANDER</id>
+  <brewery_id>Bosteels-Brewery</brewery_id>
   <name>DEUS BRUT FLANDER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-18798-66001-6">
+    <size>
+      <upc>0-18798-66001-6</upc>
       <description>6/25.4 BTL</description>
       <distributor>
         <name>odom</name>

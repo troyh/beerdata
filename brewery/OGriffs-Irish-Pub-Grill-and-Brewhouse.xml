@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="OGriffs-Irish-Pub-Grill-and-Brewhouse">
+<brewery>
+  <id>OGriffs-Irish-Pub-Grill-and-Brewhouse</id>
   <name>O'Griff's Irish Pub, Grill and Brewhouse‎</name>
   <address>
     <street>415 Hampshire</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pizza-Port-Carlsbad-Brewery">
+<brewery>
+  <id>Pizza-Port-Carlsbad-Brewery</id>
   <name>Pizza Port-Carlsbad Brewery‎</name>
   <address>
     <street>571 Carlsbad Village Dr</street>

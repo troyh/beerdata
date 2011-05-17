@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bards-Tale-Beer-Co-Llc">
+<brewery>
+  <id>Bards-Tale-Beer-Co-Llc</id>
   <name>Bard's Tale Beer Co Llc‎</name>
   <address>
     <street>25 Van Zant St # 8</street>

@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Rigor-Mortis-Blonde" brewery_id="Dieu-Du-Ciel" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Rigor-Mortis-Blonde</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6</abv>
   <name>RIGOR MORTIS BLONDE</name>
-  <description>This monastic blond beer&#xD5;s bouquet is the result of a large array of floral and alcoholic esters which are complemented by a light and delicate fragrance of malts, fruit and hops. This medium-bodied beer has a fruity and delicately sweet flavour with a hint of alcohol. The aftertaste is a discrete display of hoppy bitterness. The Rigor Mortis are complex beers designed and brewed with patience and care in the tradition of the great Belgian Abbey beers.</description>
+  <description>This monastic blond beerÕs bouquet is the result of a large array of floral and alcoholic esters which are complemented by a light and delicate fragrance of malts, fruit and hops. This medium-bodied beer has a fruity and delicately sweet flavour with a hint of alcohol. The aftertaste is a discrete display of hoppy bitterness. The Rigor Mortis are complex beers designed and brewed with patience and care in the tradition of the great Belgian Abbey beers.</description>
   <availability/>
   <ingredients/>
   <grains/>

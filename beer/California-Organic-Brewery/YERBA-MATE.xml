@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="California-Organic-Brewery/YERBA-MATE" brewery_id="California-Organic-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>California-Organic-Brewery/YERBA-MATE</id>
+  <brewery_id>California-Organic-Brewery</brewery_id>
   <name>YERBA MATE</name>
   <description/>
   <availability/>

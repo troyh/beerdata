@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bavarian-Barbarian-Brewing-Co-Williamsport">
+<brewery>
+  <id>Bavarian-Barbarian-Brewing-Co-Williamsport</id>
   <name>Bavarian Barbarian Brewing Co‎</name>
   <address>
     <street>429 W 3rd St # 12</street>

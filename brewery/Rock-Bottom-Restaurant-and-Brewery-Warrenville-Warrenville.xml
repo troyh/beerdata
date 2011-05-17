@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurant-and-Brewery-Warrenville-Warrenville">
+<brewery>
+  <id>Rock-Bottom-Restaurant-and-Brewery-Warrenville-Warrenville</id>
   <name>Rock Bottom Restaurant &amp; Brewery Warrenville‎</name>
   <address>
     <street>28256 Diehl Rd</street>

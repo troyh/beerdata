@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="District-Chophouse-and-Brewery">
+<brewery>
+  <id>District-Chophouse-and-Brewery</id>
   <name>District Chophouse &amp; Brewery‎</name>
   <address>
     <street>509 7th St NW # 1</street>

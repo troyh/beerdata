@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Mirror-Mirror" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Mirror-Mirror</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>Mirror Mirror</name>
   <description/>
   <availability/>

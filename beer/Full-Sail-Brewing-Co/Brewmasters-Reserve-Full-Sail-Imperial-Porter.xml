@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Full-Sail-Imperial-Porter" brewery_id="Full-Sail-Brewing-Co" abv="6.8" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Brewmasters-Reserve-Full-Sail-Imperial-Porter</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <abv>6.8</abv>
+  <ibu>60</ibu>
   <name>Brewmaster's Reserve: Full Sail Imperial Porter</name>
   <description>An amplified robust porter with a deep black color, a roasty malt flavor and a rich malt sweetness that's smooth and drinkable. A hearty cellar beer. </description>
   <availability>Spring</availability>

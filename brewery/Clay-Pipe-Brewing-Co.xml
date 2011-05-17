@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Clay-Pipe-Brewing-Co">
+<brewery>
+  <id>Clay-Pipe-Brewing-Co</id>
   <name>Clay Pipe Brewing Co‎</name>
   <address>
     <street>95 Carroll St # 203</street>

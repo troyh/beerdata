@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cerveceria-La-Constancia-SA/LT" brewery_id="Cerveceria-La-Constancia-SA">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cerveceria-La-Constancia-SA/LT</id>
+  <brewery_id>Cerveceria-La-Constancia-SA</brewery_id>
   <name>LT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-17698-90212-7">
+    <size>
+      <upc>0-17698-90212-7</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$10.99</deposit>
       </distributor>
     </size>
-    <size upc="0-17698-90206-6">
+    <size>
+      <upc>0-17698-90206-6</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

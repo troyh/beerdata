@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Grillhouse-and-Brewery-Miami-2">
+<brewery>
+  <id>Hops-Grillhouse-and-Brewery-Miami-2</id>
   <name>Hops Grillhouse &amp; Brewery‎</name>
   <address>
     <street>9000 SW 136th St</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Dry-Hopped-Pale-Ale" brewery_id="Founders-Brewing-Co" abv="5.4" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Dry-Hopped-Pale-Ale</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
+  <abv>5.4</abv>
+  <ibu>35</ibu>
   <name>Dry Hopped Pale Ale</name>
   <description>A testament to Cascade hops in a bottle. This medium-bodied pale ale has a distinctive floral hop aroma and refreshing citrus flavor. You'll notice a slight malty sweetness with a balanced hop finish. Perfect to enjoy anytime, anywhere.</description>
   <availability/>

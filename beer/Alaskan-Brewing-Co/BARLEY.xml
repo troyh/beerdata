@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alaskan-Brewing-Co/BARLEY" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/BARLEY</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>BARLEY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-40850-06007-6">
+    <size>
+      <upc>0-40850-06007-6</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

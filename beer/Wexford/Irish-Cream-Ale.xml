@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Wexford/Irish-Cream-Ale" brewery_id="Wexford">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wexford/Irish-Cream-Ale</id>
+  <brewery_id>Wexford</brewery_id>
   <name>Irish Cream Ale</name>
   <description/>
   <availability/>

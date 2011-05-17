@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Taps-Fish-House-and-Brewery">
+<brewery>
+  <id>Taps-Fish-House-and-Brewery</id>
   <name>Taps Fish House &amp; Brewery‎</name>
   <address>
     <street>101 E Imperial Hwy</street>

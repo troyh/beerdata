@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Bruggetown-Blonde" brewery_id="Bullfrog-Brewery" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Bruggetown-Blonde</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>5.4</abv>
   <name>Bruggetown Blonde</name>
   <description>A play on our staple beer Billtown Blonde and named for the capitol of Belgium, Brugge, this Belgian inspired blonde ale is light and fruity with a spicy hop finish.</description>
   <availability/>

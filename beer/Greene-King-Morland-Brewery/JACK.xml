@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Greene-King-Morland-Brewery/JACK" brewery_id="Greene-King-Morland-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Greene-King-Morland-Brewery/JACK</id>
+  <brewery_id>Greene-King-Morland-Brewery</brewery_id>
   <name>JACK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-43011-11111-1">
+    <size>
+      <upc>7-43011-11111-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

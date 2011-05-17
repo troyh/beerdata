@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Servejaria-Sul-Brasileira/LOUCA" brewery_id="Servejaria-Sul-Brasileira">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Servejaria-Sul-Brasileira/LOUCA</id>
+  <brewery_id>Servejaria-Sul-Brasileira</brewery_id>
   <name>LOUCA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-0">
+    <size>
+      <upc>9-99999-99999-0</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

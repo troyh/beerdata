@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Kellerbier" brewery_id="Harpoon" abv="5.2" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Kellerbier</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>5.2</abv>
+  <ibu>45</ibu>
   <name>Kellerbier</name>
   <description>Our Kellerbier is made in the German style that is traditionally matured in un-bunged wooden barrels in caves. The lower alcohol and low carbonation accent the balance between the generous amounts of German malts and hops used to make this beer. Surprisingly thirst quenching, this beer goes wonderfully with many different food styles--or by itself. Prosit! (Cheers!)</description>
   <availability>limited</availability>

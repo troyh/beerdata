@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Falls-Brewing-Company-Oconto-Falls">
+<brewery>
+  <id>Falls-Brewing-Company-Oconto-Falls</id>
   <name>Falls Brewing Company‎</name>
   <address>
     <street>782 North Main Street</street>

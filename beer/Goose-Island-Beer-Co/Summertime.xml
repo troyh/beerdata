@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Summertime" brewery_id="Goose-Island-Beer-Co" abv="4.7" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Summertime</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>4.7</abv>
+  <ibu>20</ibu>
   <name>Summertime</name>
-  <description>The color of sunshine, with a light fruity aroma and a hint of fruity acidity, Goose Island Summertime is the perfect summer session ale. A K&#x9A;lsch beer brewed in the traditional German fashion, you&#xD5;ll find yourself enjoying and savoring each sip of summertime as much as you do those hot summer days and cool summer nights.</description>
+  <description>The color of sunshine, with a light fruity aroma and a hint of fruity acidity, Goose Island Summertime is the perfect summer session ale. A Klsch beer brewed in the traditional German fashion, youÕll find yourself enjoying and savoring each sip of summertime as much as you do those hot summer days and cool summer nights.</description>
   <availability>summer</availability>
   <ingredients/>
   <grains>2 Row, Wheat</grains>

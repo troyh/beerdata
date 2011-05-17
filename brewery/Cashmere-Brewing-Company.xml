@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cashmere-Brewing-Company">
+<brewery>
+  <id>Cashmere-Brewing-Company</id>
   <name>Cashmere Brewing Company‎</name>
   <address>
     <street>215 Mission Ave</street>

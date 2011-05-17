@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-Tripel" brewery_id="Allagash-Brewing-Company" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-Tripel</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>9</abv>
   <name>Allagash Tripel</name>
   <description>This golden hued ale is marked by passion fruit and herbal notes in the aroma, with subtle suggestions of banana and honey surfacing from its deep and complex palate. The Tripel's finish is remarkably long and soothing.</description>
   <availability/>

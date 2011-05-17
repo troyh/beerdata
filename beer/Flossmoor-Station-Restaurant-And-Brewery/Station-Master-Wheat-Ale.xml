@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flossmoor-Station-Restaurant-And-Brewery/Station-Master-Wheat-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flossmoor-Station-Restaurant-And-Brewery/Station-Master-Wheat-Ale</id>
+  <brewery_id>Flossmoor-Station-Restaurant-And-Brewery</brewery_id>
   <name>Station Master Wheat Ale</name>
   <description>A golden, flavorful, and crisp light ale brewed with 33% wheat malt, our Station Master Wheat is distinguished by a hoppy yet smooth taste with a malty body and a subtly spicy aroma.</description>
   <availability/>

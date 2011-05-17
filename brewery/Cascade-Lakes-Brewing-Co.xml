@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cascade-Lakes-Brewing-Co">
+<brewery>
+  <id>Cascade-Lakes-Brewing-Co</id>
   <name>Cascade Lakes Brewing Co‎</name>
   <address>
     <street>2141 SW 1st St</street>

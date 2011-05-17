@@ -1,7 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Helsinki-G-ld" brewery_id="Otter-Creek-Brewing">
-  <name>Helsinki G&#x9A;ld</name>
-  <description>Helsinki G&#x9A;ld, Otter Creek's&#xCA;fifth beer on&#xCA;the "OTTER CREEK WORLD TOUR,"&#xCA;is&#xCA;a golden ale brewed with juniper and rye, inspired by the Finnish beer "sahti." In the &#xD2;Sahti Belt,&#xD3; just north of Helsinki, the Finnish beer sahti is still being brewed the same way that it was 400 years ago. According to tradition, bags of rye and barley are soaked in the rivers and lakes to germinate, and then malted in the family sauna. The Finnish brewers use juniper branches to filter the malt from the wort. The juniper berries add a gin-like bitterness to the brew and the rye imparts a malty creaminess. As they say in Finland, Kippis!</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Helsinki-G-ld</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
+  <name>Helsinki Gld</name>
+  <description>Helsinki Gld, Otter Creek'sÊfifth beer onÊthe "OTTER CREEK WORLD TOUR,"ÊisÊa golden ale brewed with juniper and rye, inspired by the Finnish beer "sahti." In the ÒSahti Belt,Ó just north of Helsinki, the Finnish beer sahti is still being brewed the same way that it was 400 years ago. According to tradition, bags of rye and barley are soaked in the rivers and lakes to germinate, and then malted in the family sauna. The Finnish brewers use juniper branches to filter the malt from the wort. The juniper berries add a gin-like bitterness to the brew and the rye imparts a malty creaminess. As they say in Finland, Kippis!</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

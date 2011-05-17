@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-York-Times-Co">
+<brewery>
+  <id>New-York-Times-Co</id>
   <name>New York Times Co‎‎</name>
   <address>
     <street>229 W 43RD St</street>

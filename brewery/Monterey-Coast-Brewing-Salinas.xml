@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Monterey-Coast-Brewing-Salinas">
+<brewery>
+  <id>Monterey-Coast-Brewing-Salinas</id>
   <name>Monterey Coast Brewing‎</name>
   <address>
     <street>165 Main St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Peoples-Pint">
+<brewery>
+  <id>Peoples-Pint</id>
   <name>People's Pint‎</name>
   <address>
     <street>24 Federal St</street>

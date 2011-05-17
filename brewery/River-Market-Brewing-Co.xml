@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="River-Market-Brewing-Co">
+<brewery>
+  <id>River-Market-Brewing-Co</id>
   <name>River Market Brewing Co‎</name>
   <address>
     <street>500 Walnut St</street>

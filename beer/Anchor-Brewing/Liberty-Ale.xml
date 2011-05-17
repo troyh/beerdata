@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anchor-Brewing/Liberty-Ale" brewery_id="Anchor-Brewing" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing/Liberty-Ale</id>
+  <brewery_id>Anchor-Brewing</brewery_id>
+  <abv>6</abv>
   <name>Liberty Ale</name>
   <description>First introduced in 1975, Liberty Ale is brewed strictly according to traditional brewing methods, and, like all Anchor Brewing Company products, uses only natural ingredients -- water, malted barley, fresh whole hops and yeast. A special top-fermenting ale yeast is used during fermentation and is responsible for many of Liberty Ale's subtle flavors and characteristics. Carbonation is produced by an entirely natural process called "bunging," which produces champagne-like bubbles. Dry-hopping (adding fresh hops to the brew during aging), imparts a unique aroma to the ale. It is a process rarely used in this country today.</description>
   <availability/>

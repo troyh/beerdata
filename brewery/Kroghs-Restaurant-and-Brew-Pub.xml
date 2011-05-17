@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kroghs-Restaurant-and-Brew-Pub">
+<brewery>
+  <id>Kroghs-Restaurant-and-Brew-Pub</id>
   <name>Krogh's Restaurant &amp; Brew Pub‎</name>
   <address>
     <street>23 White Deer Plz</street>

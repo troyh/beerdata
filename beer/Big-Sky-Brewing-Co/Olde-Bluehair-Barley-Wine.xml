@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Olde-Bluehair-Barley-Wine" brewery_id="Big-Sky-Brewing-Co" abv="8.75" ibu="75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Olde-Bluehair-Barley-Wine</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>8.75</abv>
+  <ibu>75</ibu>
   <name>Olde Bluehair Barley Wine</name>
   <description/>
   <availability>limited</availability>

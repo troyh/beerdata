@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Victory-Brewing-Co-Downingtown">
+<brewery>
+  <id>Victory-Brewing-Co-Downingtown</id>
   <name>Victory Brewing Co‎</name>
   <address>
     <street>420 Acorn Ln</street>

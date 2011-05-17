@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bend-Brewing-Co">
+<brewery>
+  <id>Bend-Brewing-Co</id>
   <name>Bend Brewing Co‎</name>
   <address>
     <street>1019 NW Brooks St</street>

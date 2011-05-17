@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Cantillon-Brewery/Iris" brewery_id="Cantillon-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cantillon-Brewery/Iris</id>
+  <brewery_id>Cantillon-Brewery</brewery_id>
   <name>Iris</name>
   <description>The Cantillon brewery is closely linked to Brussels, a city which has the iris as its symbol. As the name indicates, the "marsh iris" is a plant growing in humid areas. The historical center of Brussels is built on swamps where this flower used to grow abundantly.In 1998, the Brussels Museum of the Gueuze celebrated its 20th anniversary. The Cantillon brewery decided to make a new spontaneous fermentation beer for this occasion, named after this symbolic flower.It is a completely original beer which, contrary to the other products of the Brewery, is not brewed with 35% of wheat. The Iris, which is only made with malt of the pale ale type (giving a more amber colour to the beer) conserves the typical flavour of the spontaneous fermentation, the complex aromas and the vinous taste.The hopping is different too. Lambic is made with 100% dried hops, for the Iris we use 50% of dried hops and 50% of fresh hops. The latter cause a superb acidity, the former, due to their tannins, enable to conserve the beer while preserving all its qualities.After two years in the barrel, the Iris undergoes a second fresh hopping two weeks before the bottling. A linen bag, filled with hops, is soaked in the beer for two weeks. This technique, called "cold hopping", gives the beer a more intense savour and makes the smell and the taste more bitterris is brewed only once every season and all the beers come from the same brewing. This is why the beer is dated. The second fermentation is obtained by adding liquor.\nAlthough it is a spontaneous fermentation beer, the Iris is very different from the Lambic. The amber colour and the bitter and slightly caramelized taste make it a complex beer.</description>
   <availability/>

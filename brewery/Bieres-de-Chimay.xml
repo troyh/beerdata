@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bieres-de-Chimay">
+<brewery>
+  <id>Bieres-de-Chimay</id>
   <name>Bieres de Chimay</name>
-    <address>
-        <street></street>
-	    <city></city>
-	        <state></state>
-		    <zip></zip>
-		        <country>Belgium</country>
-			  </address>
-			    <phone></phone>
-			    </brewery>
-
+  <address>
+    <street/>
+    <city/>
+    <state/>
+    <zip/>
+    <country>Belgium</country>
+  </address>
+  <phone/>
+</brewery>

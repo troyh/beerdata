@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Callahans-Pub-and-Brewery">
+<brewery>
+  <id>Callahans-Pub-and-Brewery</id>
   <name>Callahan's Pub &amp; Brewery‎</name>
   <address>
     <street>8111 Mira Mesa Blvd</street>

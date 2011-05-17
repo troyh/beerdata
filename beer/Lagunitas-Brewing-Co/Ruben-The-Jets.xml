@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Ruben-The-Jets" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Ruben-The-Jets</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>Ruben &amp; The Jets</name>
   <description>Our Last Tribute to the prolific Zappa -- a chewy, chocolatey, slippery slide into 2009.</description>
   <availability>Limited</availability>

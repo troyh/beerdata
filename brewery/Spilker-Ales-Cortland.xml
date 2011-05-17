@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Spilker-Ales-Cortland">
+<brewery>
+  <id>Spilker-Ales-Cortland</id>
   <name>Spilker Ales‎</name>
   <address>
     <street>300 W 4th</street>

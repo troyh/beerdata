@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Sunny-Day-Ipa" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Sunny-Day-Ipa</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Sunny Day IPA</name>
   <description>Make any day in Portland a sunny day! Our IPA has a bountiful floral nose, followed by a rich toasty malt character and a pleasingly dry finish. A perfect pair with a light and flavorful pasta.</description>
   <availability>year-round</availability>

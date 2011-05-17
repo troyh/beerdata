@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="John-Harvards-Brew-House-Cambridge">
+<brewery>
+  <id>John-Harvards-Brew-House-Cambridge</id>
   <name>John Harvard's Brew House‎</name>
   <address>
     <street>33 Dunster St</street>

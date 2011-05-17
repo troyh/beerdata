@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Lap-Dance" brewery_id="Russian-River-Brewing-Co" abv="5.55" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Lap-Dance</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>5.55</abv>
+  <ibu>35</ibu>
   <name>Lap Dance</name>
   <description/>
   <availability>limited</availability>

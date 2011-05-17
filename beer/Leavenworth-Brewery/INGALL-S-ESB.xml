@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Leavenworth-Brewery/INGALL-S-ESB" brewery_id="Leavenworth-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Leavenworth-Brewery/INGALL-S-ESB</id>
+  <brewery_id>Leavenworth-Brewery</brewery_id>
   <name>INGALL'S ESB</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-0">
+    <size>
+      <upc>9-99999-99999-0</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

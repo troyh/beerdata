@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Clef-Des-Champs" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Clef-Des-Champs</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>Clef Des Champs</name>
   <description>Inspired by ancestral brewing techniques that used a variety of available local herbs and spices instead of hops (this type of beer is often called "gruit"), this beer has amber-red hues and a lace like head. Typical Scottish herbs (heather and mugwort) are used for this beer. Gruit is an ancient beer style, from a time when hop was little-known and rarely used in brewing. This is an atypical beer, very floral, thin, and slightly caramelized.</description>
   <availability/>

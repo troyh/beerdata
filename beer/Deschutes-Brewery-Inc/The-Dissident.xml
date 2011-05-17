@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/The-Dissident" brewery_id="Deschutes-Brewery-Inc" abv="9" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/The-Dissident</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>9</abv>
+  <ibu>30</ibu>
   <name>The Dissident</name>
   <description>After much anticipation, we are proud to introduce our wildest brew yet â The Dissident. Arguing for more time in the cellar, this Reserve Series beer is anything but conventional. Fermented for more than 18 months in isolation from the rest of the beers, The Dissident is a distinctive Oud Bruin, Flanders-style sour brown ale, with a fruity aroma and flavor. â¨â¨The Dissident pairs well with a wide variety of dishes - the high acidity is perfect for cutting creamy dishes or cooling spicy ones. Because of the fruity characteristics derived from the cherries, the beer also pairs well with chocolate.</description>
   <availability>fall</availability>
@@ -9,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="17C">Flanders Brown Ale/Oud Bruin</style>
+    <style><bjcp_style_id>17C</bjcp_style_id>Flanders Brown Ale/Oud Bruin</style>
   </styles>
   <sizes>
     <size>

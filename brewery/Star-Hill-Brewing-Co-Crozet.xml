@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Star-Hill-Brewing-Co-Crozet">
+<brewery>
+  <id>Star-Hill-Brewing-Co-Crozet</id>
   <name>Star Hill Brewing Co‎</name>
   <address>
     <street>5391 Three Notched Rd</street>

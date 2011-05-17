@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Papago-Brewing-Co-Inc-Scottsdale">
+<brewery>
+  <id>Papago-Brewing-Co-Inc-Scottsdale</id>
   <name>Papago Brewing Co Inc‎</name>
   <address>
     <street>7107 E Mcdowell Rd</street>

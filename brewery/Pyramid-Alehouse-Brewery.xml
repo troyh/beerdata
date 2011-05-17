@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pyramid-Alehouse-Brewery">
+<brewery>
+  <id>Pyramid-Alehouse-Brewery</id>
   <name>Pyramid Alehouse Brewery‎</name>
   <address>
     <street>1029 K St</street>

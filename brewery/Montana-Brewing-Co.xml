@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Montana-Brewing-Co">
+<brewery>
+  <id>Montana-Brewing-Co</id>
   <name>Montana Brewing Co‎</name>
   <address>
     <street>113 N 28th St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Moylans-Brewery-and-Restaurant/IMPERIAL-STOUT" brewery_id="Moylans-Brewery-and-Restaurant">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Moylans-Brewery-and-Restaurant/IMPERIAL-STOUT</id>
+  <brewery_id>Moylans-Brewery-and-Restaurant</brewery_id>
   <name>IMPERIAL STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-35014-11111-1">
+    <size>
+      <upc>7-35014-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

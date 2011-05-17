@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lilys-Seafood-Grill">
+<brewery>
+  <id>Lilys-Seafood-Grill</id>
   <name>Lily's Seafood Grill‎</name>
   <address>
     <street>410 S Washington Ave</street>

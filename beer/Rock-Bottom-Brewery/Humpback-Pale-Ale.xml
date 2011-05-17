@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Humpback-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Humpback-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Humpback Pale Ale</name>
   <description>Pale and Crystal malts create a smooth malt flavor, combined with Yakima Valley hops to create a malty and floral Northwest-style Pale Ale.</description>
   <availability>year-round</availability>

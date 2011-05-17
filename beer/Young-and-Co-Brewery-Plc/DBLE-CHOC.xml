@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Young-and-Co-Brewery-Plc/DBLE-CHOC" brewery_id="Young-and-Co-Brewery-Plc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Young-and-Co-Brewery-Plc/DBLE-CHOC</id>
+  <brewery_id>Young-and-Co-Brewery-Plc</brewery_id>
   <name>DBLE CHOC</name>
   <description/>
   <availability/>

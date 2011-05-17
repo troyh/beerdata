@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Erdinger-Brewery/CRYSTAL-CLEAR" brewery_id="Erdinger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Erdinger-Brewery/CRYSTAL-CLEAR</id>
+  <brewery_id>Erdinger-Brewery</brewery_id>
   <name>CRYSTAL CLEAR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-11556-01636-9">
+    <size>
+      <upc>7-11556-01636-9</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

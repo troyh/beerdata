@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Lefebvre/2-BAR" brewery_id="Brasserie-Lefebvre">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Lefebvre/2-BAR</id>
+  <brewery_id>Brasserie-Lefebvre</brewery_id>
   <name>2 BAR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-10774-30246-2">
+    <size>
+      <upc>6-10774-30246-2</upc>
       <description>BOTTLE 6-4/11</description>
       <distributor>
         <name>columbia</name>

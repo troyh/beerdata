@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Full-Sail-Brewing-Company-Admin-Ofc">
+<brewery>
+  <id>Full-Sail-Brewing-Company-Admin-Ofc</id>
   <name>Full Sail Brewing Company: Admin Ofc‎</name>
   <address>
     <street>506 Columbia St</street>

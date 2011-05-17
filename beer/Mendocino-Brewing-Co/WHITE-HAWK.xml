@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mendocino-Brewing-Co/WHITE-HAWK" brewery_id="Mendocino-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mendocino-Brewing-Co/WHITE-HAWK</id>
+  <brewery_id>Mendocino-Brewing-Co</brewery_id>
   <name>WHITE HAWK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-92212-11112-4">
+    <size>
+      <upc>0-92212-11112-4</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

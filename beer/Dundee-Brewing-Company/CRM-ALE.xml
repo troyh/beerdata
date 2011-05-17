@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dundee-Brewing-Company/CRM-ALE" brewery_id="Dundee-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dundee-Brewing-Company/CRM-ALE</id>
+  <brewery_id>Dundee-Brewing-Company</brewery_id>
   <name>CRM ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-70310-00040-3">
+    <size>
+      <upc>0-70310-00040-3</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

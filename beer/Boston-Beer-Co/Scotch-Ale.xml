@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Scotch-Ale" brewery_id="Boston-Beer-Co" calories_per_ml="0.563567036693511" abv="5.40" og="15Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Scotch-Ale</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.563567036693511</calories_per_ml>
+  <abv>5.40</abv>
+  <og>15Plato</og>
   <name>Scotch Ale</name>
   <description>This is a brew for adventurous beer drinkers.  It is brewed with four malts: two row pale Harrington, Munich malt, chocolate malt, and a rare peat smoked malt commonly used by distillers of Scotch malt whiskey.  This unique malt gives Samuel AdamsÂ® Scotch Ale its distinct, subtle smoky character and deep amber hue. Samuel AdamsÂ® Scotch Ale is brewed using traditional English hops, Goldings and Fuggles. This is a big brew dominated by malt flavors and aromas, rich and full bodied, slightly sweet.  Its layered malt complexity lingers to a smooth and silky finish.</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast>top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style bjcp_style_id="9E">Strong Scotch Ale</style>
+    <style><bjcp_style_id>9E</bjcp_style_id>Strong Scotch Ale</style>
   </styles>
   <sizes>
     <size>

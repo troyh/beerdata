@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Buzzards-Bay-Brewing-Inc">
+<brewery>
+  <id>Buzzards-Bay-Brewing-Inc</id>
   <name>Buzzard's Bay Brewing Inc‎</name>
   <address>
     <street>98 Horseneck Rd</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Power-Hound" brewery_id="Big-Sky-Brewing-Co" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Power-Hound</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
   <name>Power Hound</name>
   <description>Two words describe Montana winters... Cold, dark, and snowy. And we wouldn't have it any other way, because it's the only time of year for Powder Hound, our Northern Rockies Winter Ale. Rich malt taste and an avalanche of hops will make you want to say these three words- "I'll have another Powder Hound!"\nSince Powder Hound is our own creation, it does not fit neatly into a style. Some folks would call it an "Old Ale" and others might call it a "Winter Warmer". Regardless of what you call it, Powder Hound satisfies, with the fine, hand-selected British hops fully complementing the smooth malt notes. After a day on the snow, enjoy a Powder Hound Winter Ale.</description>
   <availability>winter</availability>

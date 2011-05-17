@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Elliott-Bay-Brewhouse-and-Pub">
+<brewery>
+  <id>Elliott-Bay-Brewhouse-and-Pub</id>
   <name>Elliott Bay Brewhouse &amp; Pub‎</name>
   <address>
     <street>255 SW 152nd St</street>

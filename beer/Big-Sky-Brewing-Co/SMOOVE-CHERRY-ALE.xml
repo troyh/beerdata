@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/SMOOVE-CHERRY-ALE" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/SMOOVE-CHERRY-ALE</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>SMOOVE CHERRY ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-11005-1">
+    <size>
+      <upc>7-00283-11005-1</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

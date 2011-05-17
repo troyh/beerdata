@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Waimea-Brewing-Co-Waimea">
+<brewery>
+  <id>Waimea-Brewing-Co-Waimea</id>
   <name>Waimea Brewing Co‎</name>
   <address>
     <street>9400 Kaumualii Hwy</street>

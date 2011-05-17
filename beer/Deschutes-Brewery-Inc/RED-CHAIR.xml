@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/RED-CHAIR" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/RED-CHAIR</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>RED CHAIR</name>
   <description/>
   <availability/>

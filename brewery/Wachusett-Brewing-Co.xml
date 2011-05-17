@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wachusett-Brewing-Co">
+<brewery>
+  <id>Wachusett-Brewing-Co</id>
   <name>Wachusett Brewing Co‎</name>
   <address>
     <street>175 State Rd E</street>

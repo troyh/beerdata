@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brooklyn-Brewery/Brooklyn-Lager" brewery_id="Brooklyn-Brewery" abv="5.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brooklyn-Brewery/Brooklyn-Lager</id>
+  <brewery_id>Brooklyn-Brewery</brewery_id>
+  <abv>5.2</abv>
   <name>Brooklyn Lager</name>
   <description/>
   <availability>year-round</availability>

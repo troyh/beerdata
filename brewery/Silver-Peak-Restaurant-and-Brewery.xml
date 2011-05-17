@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Silver-Peak-Restaurant-and-Brewery">
+<brewery>
+  <id>Silver-Peak-Restaurant-and-Brewery</id>
   <name>Silver Peak Restaurant &amp; Brewery‎</name>
   <address>
     <street>124 Wonder St</street>

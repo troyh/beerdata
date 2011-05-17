@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Nut-Brown-Ale" brewery_id="Saranac" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Nut-Brown-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.4</abv>
   <name>Nut Brown Ale</name>
   <description>Saranac Nut Brown Ale's soft mellow malt character is rich and smooth with a medium body. Look for hints of toasted malt flavor, slight hop bitterness and amber brown color.</description>
   <availability>seasonal</availability>

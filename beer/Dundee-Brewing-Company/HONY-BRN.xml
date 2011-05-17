@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dundee-Brewing-Company/HONY-BRN" brewery_id="Dundee-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dundee-Brewing-Company/HONY-BRN</id>
+  <brewery_id>Dundee-Brewing-Company</brewery_id>
   <name>HONY BRN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-70310-37037-7">
+    <size>
+      <upc>0-70310-37037-7</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

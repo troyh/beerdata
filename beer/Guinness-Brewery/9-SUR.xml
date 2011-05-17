@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Guinness-Brewery/9-SUR" brewery_id="Guinness-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Guinness-Brewery/9-SUR</id>
+  <brewery_id>Guinness-Brewery</brewery_id>
   <name>9 SUR</name>
   <description/>
   <availability/>

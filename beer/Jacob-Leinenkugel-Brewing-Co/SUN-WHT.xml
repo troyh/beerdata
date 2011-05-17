@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Jacob-Leinenkugel-Brewing-Co/SUN-WHT" brewery_id="Jacob-Leinenkugel-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jacob-Leinenkugel-Brewing-Co/SUN-WHT</id>
+  <brewery_id>Jacob-Leinenkugel-Brewing-Co</brewery_id>
   <name>SUN WHT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-49805-4">
+    <size>
+      <upc>0-34100-49805-4</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

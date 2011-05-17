@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Weston-Brewing-Co-Weston">
+<brewery>
+  <id>Weston-Brewing-Co-Weston</id>
   <name>Weston Brewing Co‎</name>
   <address>
     <street>500 Welt St</street>

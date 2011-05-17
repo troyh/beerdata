@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Signal-Hill-Gold" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Signal-Hill-Gold</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Signal Hill Gold</name>
   <description>A refreshing golden ale with a fresh citrus, cascade finish. Perfect with spicy foods, this ale will put out any fire.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Petes-Brewing-Co/Petes-Wicked-Ale" brewery_id="Petes-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Petes-Brewing-Co/Petes-Wicked-Ale</id>
+  <brewery_id>Petes-Brewing-Co</brewery_id>
   <name>Pete's Wicked Ale</name>
   <description>Pete's Wicked Ale is an experience out of the ordinary. Our tantalizing ruby-brown ale with distinctive malts and aromatic Brewers Gold hops is sure to stir up an urge to get loose.</description>
   <availability/>

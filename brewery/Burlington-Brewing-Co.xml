@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Burlington-Brewing-Co">
+<brewery>
+  <id>Burlington-Brewing-Co</id>
   <name>Burlington Brewing Co‎</name>
   <address>
     <street>217 N Pine St</street>

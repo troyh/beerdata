@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Hobgoblin/English-Ale" brewery_id="Hobgoblin">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hobgoblin/English-Ale</id>
+  <brewery_id>Hobgoblin</brewery_id>
   <name>English Ale</name>
   <description/>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Butte-Creek-Brewing-Co/SUSTAN" brewery_id="Butte-Creek-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Butte-Creek-Brewing-Co/SUSTAN</id>
+  <brewery_id>Butte-Creek-Brewing-Co</brewery_id>
   <name>SUSTAN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-03231-27594-2">
+    <size>
+      <upc>6-03231-27594-2</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

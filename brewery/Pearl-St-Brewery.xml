@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pearl-St-Brewery">
+<brewery>
+  <id>Pearl-St-Brewery</id>
   <name>Pearl St Brewery‎</name>
   <address>
     <street>1401 Saint Andrew St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-York-Marriott-at-the-Brooklyn-Bridge">
+<brewery>
+  <id>New-York-Marriott-at-the-Brooklyn-Bridge</id>
   <name>New York Marriott at the Brooklyn Bridge‎</name>
   <address>
     <street>333 Adams Street</street>

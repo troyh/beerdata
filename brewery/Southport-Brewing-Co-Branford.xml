@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southport-Brewing-Co-Branford">
+<brewery>
+  <id>Southport-Brewing-Co-Branford</id>
   <name>Southport Brewing Co-Branford‎</name>
   <address>
     <street>850 W Main St</street>

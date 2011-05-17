@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Cock-N-Bull/Ginger" brewery_id="Cock-N-Bull">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cock-N-Bull/Ginger</id>
+  <brewery_id>Cock-N-Bull</brewery_id>
   <name>Ginger</name>
   <description/>
   <availability/>

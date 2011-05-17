@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-De-Landtsheer-NV/BRUT-DARK" brewery_id="Brouwerij-De-Landtsheer-NV">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-De-Landtsheer-NV/BRUT-DARK</id>
+  <brewery_id>Brouwerij-De-Landtsheer-NV</brewery_id>
   <name>BRUT DARK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="5-41397-01501-2">
+    <size>
+      <upc>5-41397-01501-2</upc>
       <description>BOTTLE 6/26</description>
       <distributor>
         <name>columbia</name>

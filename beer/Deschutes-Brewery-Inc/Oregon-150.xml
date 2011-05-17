@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Oregon-150" brewery_id="Deschutes-Brewery-Inc" abv="4.20" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Oregon-150</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>4.20</abv>
+  <ibu>20</ibu>
   <name>Oregon 150</name>
   <description>n order to celebrate the sesquicentennial of our great state, we decided to create a beer with ingredients only from Oregon.Â  We took 350 pounds or barley grown in the Klamath Falls basin (malted in Portland), 180 pounds of blackberry honey from Yamhill County, 112 pounds of Oregon Marrionberries and 6 pounds of Crystal hops from the Willamette Valley and created a beer like you've never tasted before.Â  Our mash conversion took place at, you guessed it, 150 degrees! </description>
   <availability>special release</availability>

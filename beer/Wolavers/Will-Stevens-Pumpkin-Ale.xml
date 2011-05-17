@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Wolavers/Will-Stevens-Pumpkin-Ale" brewery_id="Wolavers">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers/Will-Stevens-Pumpkin-Ale</id>
+  <brewery_id>Wolavers</brewery_id>
   <name>Will Stevens' Pumpkin Ale</name>
   <description>The pumpkins were grown by Will Stevens and his wife Judy, of Golden Russet Farm in Shoreham, Vermont. They have been growing organic vegetables and flowers for over 25 years. Their farm is less than 15 miles away from our brewery!</description>
   <availability>fall</availability>

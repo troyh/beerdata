@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Charles-Wells-Brewery/3-BOM" brewery_id="Charles-Wells-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Charles-Wells-Brewery/3-BOM</id>
+  <brewery_id>Charles-Wells-Brewery</brewery_id>
   <name>3 BOM</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-57283-00009-4">
+    <size>
+      <upc>8-57283-00009-4</upc>
       <description>BOTTLE 12/19</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Voodoo-Brewing-Co-LLC">
+<brewery>
+  <id>Voodoo-Brewing-Co-LLC</id>
   <name>Voodoo Brewing Co LLC‎</name>
   <address>
     <street>215 1/2 Arch St</street>

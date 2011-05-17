@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Elmwood-Brewing-Company">
+<brewery>
+  <id>Elmwood-Brewing-Company</id>
   <name>Elmwood Brewing Company‎</name>
   <address>
     <street>118 E Main St</street>

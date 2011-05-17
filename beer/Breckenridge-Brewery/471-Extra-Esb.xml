@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/471-Extra-Esb" brewery_id="Breckenridge-Brewery" abv="7.8" ibu="55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/471-Extra-Esb</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>7.8</abv>
+  <ibu>55</ibu>
   <name>471 Extra ESB</name>
   <description>Extra, extra? You better believe it. We like to say it's double extra special. The balance of malt and hops makes it truly one-of-a-kind. Warming malt notes at the onset with a hop kick in the back and opens up to a nice dry finish. Our small batch ESB is a big traditional ale with characteristics that break tradition and a complexity that constantly surprises.</description>
   <availability>year-round</availability>

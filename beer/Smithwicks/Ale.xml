@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smithwicks/Ale" brewery_id="Smithwicks">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smithwicks/Ale</id>
+  <brewery_id>Smithwicks</brewery_id>
   <name>Ale</name>
   <description/>
   <availability/>

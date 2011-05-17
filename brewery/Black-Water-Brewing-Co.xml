@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Black-Water-Brewing-Co">
+<brewery>
+  <id>Black-Water-Brewing-Co</id>
   <name>Black Water Brewing Co‎</name>
   <address>
     <street>Thomas Ave &amp; William Ave</street>

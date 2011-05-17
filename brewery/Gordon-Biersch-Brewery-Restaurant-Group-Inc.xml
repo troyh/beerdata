@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-Restaurant-Group-Inc">
+<brewery>
+  <id>Gordon-Biersch-Brewery-Restaurant-Group-Inc</id>
   <name>Gordon Biersch Brewery Restaurant Group Inc‎</name>
   <address>
     <street>1961 Chain Bridge Rd</street>

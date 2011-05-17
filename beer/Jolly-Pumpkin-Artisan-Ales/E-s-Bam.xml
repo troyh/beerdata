@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/E-s-Bam" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="4.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/E-s-Bam</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>4.7</abv>
   <name>E.S. Bam</name>
   <description>Extra Special Farmhouse Ale A Bam celebration of excess. More malt, more hops, same vivacious personality.</description>
   <availability>spring</availability>

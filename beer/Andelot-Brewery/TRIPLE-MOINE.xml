@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Andelot-Brewery/TRIPLE-MOINE" brewery_id="Andelot-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Andelot-Brewery/TRIPLE-MOINE</id>
+  <brewery_id>Andelot-Brewery</brewery_id>
   <name>TRIPLE MOINE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-11633-75002-0">
+    <size>
+      <upc>9-11633-75002-0</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wolf-Pack-Brewing-Co">
+<brewery>
+  <id>Wolf-Pack-Brewing-Co</id>
   <name>Wolf Pack Brewing Co‎</name>
   <address>
     <street>139 N Canyon St</street>

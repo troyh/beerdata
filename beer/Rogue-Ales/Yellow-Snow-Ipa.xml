@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Yellow-Snow-Ipa" brewery_id="Rogue-Ales" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Yellow-Snow-Ipa</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>70</ibu>
   <name>Yellow Snow IPA</name>
   <description>Pale golden in color with a hoppy fruity aroma. Big hop flavor up front complemented by medium body and hoppyness mid-pallet. Finishes with a characteristic lingering bitterness.</description>
   <availability>winter</availability>

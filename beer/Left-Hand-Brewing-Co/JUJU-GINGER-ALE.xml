@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Left-Hand-Brewing-Co/JUJU-GINGER-ALE" brewery_id="Left-Hand-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Left-Hand-Brewing-Co/JUJU-GINGER-ALE</id>
+  <brewery_id>Left-Hand-Brewing-Co</brewery_id>
   <name>JUJU GINGER ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-93866-39002-5">
+    <size>
+      <upc>7-93866-39002-5</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

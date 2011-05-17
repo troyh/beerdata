@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Great-Baraboo-Brewing-Co">
+<brewery>
+  <id>Great-Baraboo-Brewing-Co</id>
   <name>Great Baraboo Brewing Co‎</name>
   <address>
     <street>35905 Utica Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Oranjeboom-Brewery/2" brewery_id="Oranjeboom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Oranjeboom-Brewery/2</id>
+  <brewery_id>Oranjeboom-Brewery</brewery_id>
   <name>2</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-15601-51605-8">
+    <size>
+      <upc>0-15601-51605-8</upc>
       <description>CAN 4-6/11</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Mortification" brewery_id="Russian-River-Brewing-Co" abv="11">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Mortification</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>11</abv>
   <name>Mortification</name>
   <description/>
   <availability/>

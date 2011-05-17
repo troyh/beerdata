@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gas-Light-Brewery-Restaurant">
+<brewery>
+  <id>Gas-Light-Brewery-Restaurant</id>
   <name>Gas Light Brewery-Restaurant‎</name>
   <address>
     <street>15 S Orange Ave</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Issaquah-Brew-House">
+<brewery>
+  <id>Issaquah-Brew-House</id>
   <name>Issaquah Brew House‎</name>
   <address>
     <street>35 W Sunset Way # C</street>

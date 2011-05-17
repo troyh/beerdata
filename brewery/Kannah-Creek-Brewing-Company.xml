@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kannah-Creek-Brewing-Company">
+<brewery>
+  <id>Kannah-Creek-Brewing-Company</id>
   <name>Kannah Creek Brewing Company‎</name>
   <address>
     <street>1960 N. 12th Street</street>

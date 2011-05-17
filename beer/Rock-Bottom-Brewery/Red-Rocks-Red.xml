@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Red-Rocks-Red" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Red-Rocks-Red</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Red Rocks Red</name>
   <description>A medium bodied Irish-style Red brewed with premium English Pale and Crystal malts. Deep amber color, subtle caramel and toffee sweetness, and perfectly balanced with Tettnang hops lending a refreshing orange spice. A perfect match with chicken or seafood entrees.</description>
   <availability>year-round</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Gorch-Fock" brewery_id="Three-Floyds-Brewing" abv="5" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Gorch-Fock</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5</abv>
+  <ibu>25</ibu>
   <name>Gorch Fock</name>
   <description/>
   <availability>seasonal</availability>

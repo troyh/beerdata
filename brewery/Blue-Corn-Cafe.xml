@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blue-Corn-Cafe">
+<brewery>
+  <id>Blue-Corn-Cafe</id>
   <name>Blue Corn Cafe‎</name>
   <address>
     <street>716 9th St</street>

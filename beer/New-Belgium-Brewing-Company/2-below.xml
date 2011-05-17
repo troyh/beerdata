@@ -1,7 +1,9 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/2-below" brewery_id="New-Belgium-Brewing-Company">
-  <name>2&#xA1;Below</name>
-  <description>Pull on your wool socks and crack open a 2&#xA1; Below Ale. This tasty winter warmer started life as a small batch beer brewed for the Al Johnson Uphill Downhill &#xD0; a telemark ski race in Crested Butte, Colorado. The Uphill Downhill celebrates the exploits of Al Johnson, letter carrier extraordinaire, who delivered mail by ski in the late 1800&#xD5;s. Dry hopping during fermentation creates a floral nose with a hint of pepper and spicy, subtle undertones. 2&#xA1; Below provides a bright, hoppy palate and a cheery warm afterglow.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/2-below</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
+  <name>2¡Below</name>
+  <description>Pull on your wool socks and crack open a 2¡ Below Ale. This tasty winter warmer started life as a small batch beer brewed for the Al Johnson Uphill Downhill Ð a telemark ski race in Crested Butte, Colorado. The Uphill Downhill celebrates the exploits of Al Johnson, letter carrier extraordinaire, who delivered mail by ski in the late 1800Õs. Dry hopping during fermentation creates a floral nose with a hint of pepper and spicy, subtle undertones. 2¡ Below provides a bright, hoppy palate and a cheery warm afterglow.</description>
   <availability>winter</availability>
   <ingredients/>
   <grains/>

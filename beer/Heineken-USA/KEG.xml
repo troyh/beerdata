@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Heineken-USA/KEG" brewery_id="Heineken-USA">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Heineken-USA/KEG</id>
+  <brewery_id>Heineken-USA</brewery_id>
   <name>KEG</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72890-00000-2">
+    <size>
+      <upc>0-72890-00000-2</upc>
       <description>CAN 4-6/12</description>
       <distributor>
         <name>columbia</name>

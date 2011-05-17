@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-St-Feuillien/BRUNE" brewery_id="Brewery-St-Feuillien">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-St-Feuillien/BRUNE</id>
+  <brewery_id>Brewery-St-Feuillien</brewery_id>
   <name>BRUNE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-47934-22036-3">
+    <size>
+      <upc>7-47934-22036-3</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

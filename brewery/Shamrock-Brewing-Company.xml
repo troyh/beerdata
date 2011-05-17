@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Shamrock-Brewing-Company">
+<brewery>
+  <id>Shamrock-Brewing-Company</id>
   <name>Shamrock Brewing Company‎</name>
   <address>
     <street>108 W 3rd Street</street>

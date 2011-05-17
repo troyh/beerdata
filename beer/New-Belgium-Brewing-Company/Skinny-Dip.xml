@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Skinny-Dip" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Skinny-Dip</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Skinny Dip</name>
   <description>New Belgium's Skinny Dip started out as a challenge from our founder Jeff to brewmaster, Peter Bouckaert. Jeff was looking for a full-bodied, highly drinkable beer for after workouts - something a little lighter than the rest of the portfolio. Peter, a Belgian, responded: "Only in America would I be asked to brew a beer with no calories and less alcohol." The challenge was to give the beer body and complexity not usually found in beers at the lighter end of the spectrum. Cascade hops frolic with a hint of lime leaf, making Skinny Dip a bright, refreshing splash for the summer season.</description>
   <availability>summer</availability>

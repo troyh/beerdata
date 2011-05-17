@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Schooners-Grille-and-Brewery">
+<brewery>
+  <id>Schooners-Grille-and-Brewery</id>
   <name>Schooner's Grille &amp; Brewery‎</name>
   <address>
     <street>4250 Lone Tree Way</street>

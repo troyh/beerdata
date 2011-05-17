@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wild-Mountain-Smokehouse-Nederland">
+<brewery>
+  <id>Wild-Mountain-Smokehouse-Nederland</id>
   <name>Wild Mountain Smokehouse‎</name>
   <address>
     <street>70 E 1st St</street>

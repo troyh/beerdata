@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="IBHL-USA/2-THI" brewery_id="IBHL-USA">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>IBHL-USA/2-THI</id>
+  <brewery_id>IBHL-USA</brewery_id>
   <name>2 THI</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-97263-51303-5">
+    <size>
+      <upc>6-97263-51303-5</upc>
       <description>BOTTLE 4-6/11</description>
       <distributor>
         <name>columbia</name>

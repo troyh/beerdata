@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Gift-of-the-Magi" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Gift-of-the-Magi</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Gift of the Magi</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="689926005100">
+    <size>
+      <upc>689926005100</upc>
       <description>12/750 ml </description>
       <distributor>
         <name>click</name>

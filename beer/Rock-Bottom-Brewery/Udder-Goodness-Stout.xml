@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Udder-Goodness-Stout" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Udder-Goodness-Stout</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Udder Goodness Stout</name>
   <description>This style of British Sweet Stout is brewed using a powder of lactose in the biol giving it a nice velvety mouth feel, which enhances the hints of chocolate and creaminess from the malts. 2006 Gold Medal Winner Great American Beer Festival Sweet Stout Catagory</description>
   <availability>year-round</availability>

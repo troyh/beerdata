@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Clinton-Street-Brewing">
+<brewery>
+  <id>Clinton-Street-Brewing</id>
   <name>Clinton Street Brewing‎</name>
   <address>
     <street>2520 SE Clinton St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Les-Brasseurs-de-Gayant/LA-DIVINE" brewery_id="Les-Brasseurs-de-Gayant">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Les-Brasseurs-de-Gayant/LA-DIVINE</id>
+  <brewery_id>Les-Brasseurs-de-Gayant</brewery_id>
   <name>LA DIVINE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-73562-00002-5">
+    <size>
+      <upc>6-73562-00002-5</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

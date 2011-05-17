@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hales-Ales-Pub/Rudyard-s-Rare" brewery_id="Hales-Ales-Pub">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hales-Ales-Pub/Rudyard-s-Rare</id>
+  <brewery_id>Hales-Ales-Pub</brewery_id>
   <name>Rudyard's Rare</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="798644050504">
+    <size>
+      <upc>798644050504</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

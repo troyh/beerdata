@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Seabright-Brewery">
+<brewery>
+  <id>Seabright-Brewery</id>
   <name>Seabright Brewery‎</name>
   <address>
     <street>519 Seabright Ave # 107</street>

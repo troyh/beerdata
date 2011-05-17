@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Orphan-Abbey-Belgian-Style-Ale" brewery_id="Utah-Brewers-Cooperative">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Orphan-Abbey-Belgian-Style-Ale</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
   <name>Orphan Abbey Belgian Style Ale</name>
   <description/>
   <availability>Fall/Winter</availability>

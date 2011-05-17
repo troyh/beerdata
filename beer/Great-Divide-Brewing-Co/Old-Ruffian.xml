@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Old-Ruffian" brewery_id="Great-Divide-Brewing-Co" abv="10.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Old-Ruffian</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>10.2</abv>
   <name>Old Ruffian</name>
   <description>is a hefty, hop-forward Barley Wine- Style Ale. Seemingly mellow at the start with subtle fruit aromas and complex caramel sweetness, it quickly becomes aggressive with its bold hop flavors and huge hop bitterness. Ultimately, the big body, succulent sweetness and massive hop character come together to work wonders on your palate.</description>
   <availability>winter</availability>

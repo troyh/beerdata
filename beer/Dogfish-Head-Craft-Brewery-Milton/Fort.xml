@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Fort" brewery_id="Dogfish-Head-Craft-Brewery-Milton">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Fort</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
   <name>Fort</name>
   <description>An ale brewed with a ridiculous amount of pureed raspberries (over a ton of em!).</description>
   <availability>Limited</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-38489-00071-8">
+    <size>
+      <upc>6-38489-00071-8</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Thunder-Canyon-Brewery">
+<brewery>
+  <id>Thunder-Canyon-Brewery</id>
   <name>Thunder Canyon Brewery‎</name>
   <address>
     <street>7401 N La Cholla Blvd # 178</street>

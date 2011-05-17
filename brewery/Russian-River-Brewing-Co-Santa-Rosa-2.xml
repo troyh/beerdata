@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Russian-River-Brewing-Co-Santa-Rosa-2">
+<brewery>
+  <id>Russian-River-Brewing-Co-Santa-Rosa-2</id>
   <name>Russian River Brewing Co‎</name>
   <address>
     <street>725 4th St</street>

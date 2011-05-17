@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Long-Trail-Brewing-Co/Double-Ipa" brewery_id="Long-Trail-Brewing-Co" abv="8.6" ibu="100">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Long-Trail-Brewing-Co/Double-Ipa</id>
+  <brewery_id>Long-Trail-Brewing-Co</brewery_id>
+  <abv>8.6</abv>
+  <ibu>100</ibu>
   <name>Double IPA</name>
   <description/>
   <availability>limited</availability>

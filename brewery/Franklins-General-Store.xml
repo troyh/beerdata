@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Franklins-General-Store">
+<brewery>
+  <id>Franklins-General-Store</id>
   <name>Franklin's General Store‎</name>
   <address>
     <street>27 Coogan Boulevard</street>

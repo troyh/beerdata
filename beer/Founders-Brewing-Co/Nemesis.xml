@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Founders-Brewing-Co/Nemesis" brewery_id="Founders-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Founders-Brewing-Co/Nemesis</id>
+  <brewery_id>Founders-Brewing-Co</brewery_id>
   <name>Nemesis</name>
   <description>What you have here is a rarity. A special, one-of-a-kind ale that is only made once a year. Sometimes that's all. Forever. No more. Nada. Limited-time only. You never know what you're gonna get. But you can be sure that it'll be damn tasty.</description>
   <availability>limited</availability>

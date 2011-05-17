@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brau-Haus-Lucan">
+<brewery>
+  <id>Brau-Haus-Lucan</id>
   <name>Brau Haus‎</name>
   <address>
     <street>111 Main St</street>

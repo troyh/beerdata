@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Gluten-Free-Golden-Ale" brewery_id="Deschutes-Brewery-Inc" abv="5.20" ibu="42">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Gluten-Free-Golden-Ale</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>5.20</abv>
+  <ibu>42</ibu>
   <name>Gluten Free Golden Ale</name>
   <description>100% Gluten-free ale!Â  This beer is made with sorghum, brown rice, and roasted chestnuts for a smooth, gluten-free experience.Â  We used all Cascade hops for bittering and aroma.Â  Tell your friends!</description>
   <availability/>

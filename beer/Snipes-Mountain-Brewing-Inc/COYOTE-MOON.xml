@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Snipes-Mountain-Brewing-Inc/COYOTE-MOON" brewery_id="Snipes-Mountain-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Snipes-Mountain-Brewing-Inc/COYOTE-MOON</id>
+  <brewery_id>Snipes-Mountain-Brewing-Inc</brewery_id>
   <name>COYOTE MOON</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-84343-12345-1">
+    <size>
+      <upc>6-84343-12345-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

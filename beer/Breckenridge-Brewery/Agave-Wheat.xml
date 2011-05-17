@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Agave-Wheat" brewery_id="Breckenridge-Brewery" abv="4.2" ibu="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Agave-Wheat</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>4.2</abv>
+  <ibu>9</ibu>
   <name>Agave Wheat</name>
   <description>This true American-style unfiltered wheat has something a little special -- the nectar of the great Salmiana Agave. Agave complements the refreshingly light quality of our wheat and adds a subtle note of flavor that expands this beer's uplifting taste profile. It is familiar, yet creative.</description>
   <availability>year-round</availability>

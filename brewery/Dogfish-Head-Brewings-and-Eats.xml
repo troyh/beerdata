@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dogfish-Head-Brewings-and-Eats">
+<brewery>
+  <id>Dogfish-Head-Brewings-and-Eats</id>
   <name>Dogfish Head Brewings &amp; Eats‎</name>
   <address>
     <street>320 Rehoboth Ave</street>

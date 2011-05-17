@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Otter-Creek-Brewing-Inc-Middlebury">
+<brewery>
+  <id>Otter-Creek-Brewing-Inc-Middlebury</id>
   <name>Otter Creek Brewing Inc‎</name>
   <address>
     <street>793 Exchange St</street>

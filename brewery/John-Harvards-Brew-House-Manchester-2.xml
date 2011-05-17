@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="John-Harvards-Brew-House-Manchester-2">
+<brewery>
+  <id>John-Harvards-Brew-House-Manchester-2</id>
   <name>John Harvard's Brew House‎</name>
   <address>
     <street>1487 Pleasant Valley Rd</street>

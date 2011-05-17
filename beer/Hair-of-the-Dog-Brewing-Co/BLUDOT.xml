@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hair-of-the-Dog-Brewing-Co/BLUDOT" brewery_id="Hair-of-the-Dog-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hair-of-the-Dog-Brewing-Co/BLUDOT</id>
+  <brewery_id>Hair-of-the-Dog-Brewing-Co</brewery_id>
   <name>BLUDOT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-99282-02201-4">
+    <size>
+      <upc>7-99282-02201-4</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

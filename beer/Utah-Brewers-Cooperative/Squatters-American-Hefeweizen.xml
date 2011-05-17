@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Squatters-American-Hefeweizen" brewery_id="Utah-Brewers-Cooperative" abv="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Squatters-American-Hefeweizen</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
+  <abv>4</abv>
   <name>Squatters American Hefeweizen</name>
   <description>This medium-bodied, American style, unfiltered wheat beer is brewed with a special Alt Bier yeast. That creates subtle citrus flavors that balance perfectly with the aroma and bitterness of Tettnanger hops and the delicate flavor of the malted wheat. Serve Squatters American Wheat with a lemon wedge for a refreshing treat. 4.0% alcohol by volume.</description>
   <availability/>

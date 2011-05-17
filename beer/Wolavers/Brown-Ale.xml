@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Wolavers/Brown-Ale" brewery_id="Wolavers" ibu="21">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers/Brown-Ale</id>
+  <brewery_id>Wolavers</brewery_id>
+  <ibu>21</ibu>
   <name>Brown Ale</name>
   <description>Mild and creamy, deep amber in color, with a smooth and luscious taste. A soft beer, slightly malty and well balanced with hints of cherry and black currant. Perfect with light foods.</description>
   <availability>year-round</availability>

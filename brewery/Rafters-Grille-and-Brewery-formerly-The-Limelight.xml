@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rafters-Grille-and-Brewery-formerly-The-Limelight">
+<brewery>
+  <id>Rafters-Grille-and-Brewery-formerly-The-Limelight</id>
   <name>Rafter's Grille and Brewery (formerly The Limelight)‎</name>
   <address>
     <street>812 Fourth St</street>

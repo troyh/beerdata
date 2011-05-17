@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Cascade-Cask" brewery_id="Dieu-Du-Ciel" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Cascade-Cask</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>8</abv>
   <name>Cascade Cask</name>
   <description/>
   <availability/>

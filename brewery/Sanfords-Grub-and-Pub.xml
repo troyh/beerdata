@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sanfords-Grub-and-Pub">
+<brewery>
+  <id>Sanfords-Grub-and-Pub</id>
   <name>Sanford's Grub &amp; Pub‎</name>
   <address>
     <street>406 W Juniper Ln</street>

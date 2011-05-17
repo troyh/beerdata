@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tioga-Suites-Hotel-Chanute">
+<brewery>
+  <id>Tioga-Suites-Hotel-Chanute</id>
   <name>Tioga Suites Hotel‎</name>
   <address>
     <street>12 East Main Street</street>

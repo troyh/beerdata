@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brooklyn-Brewery/Intensified-Coffee-Stout" brewery_id="Brooklyn-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brooklyn-Brewery/Intensified-Coffee-Stout</id>
+  <brewery_id>Brooklyn-Brewery</brewery_id>
+  <abv>8</abv>
   <name>Intensified Coffee Stout</name>
   <description/>
   <availability>year-round</availability>

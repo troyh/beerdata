@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/Blacks-Beach-Extra-Dark" brewery_id="Karl-Strauss" ibu="limited">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/Blacks-Beach-Extra-Dark</id>
+  <brewery_id>Karl-Strauss</brewery_id>
+  <ibu>limited</ibu>
   <name>Black's Beach Extra Dark</name>
   <description/>
   <availability/>

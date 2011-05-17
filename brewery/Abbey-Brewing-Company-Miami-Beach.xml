@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Abbey-Brewing-Company-Miami-Beach">
+<brewery>
+  <id>Abbey-Brewing-Company-Miami-Beach</id>
   <name>Abbey Brewing Company‎</name>
   <address>
     <street>1115 16th St</street>

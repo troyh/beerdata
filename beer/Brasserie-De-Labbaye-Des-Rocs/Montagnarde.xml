@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brasserie-De-Labbaye-Des-Rocs/Montagnarde" brewery_id="Brasserie-De-Labbaye-Des-Rocs" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-De-Labbaye-Des-Rocs/Montagnarde</id>
+  <brewery_id>Brasserie-De-Labbaye-Des-Rocs</brewery_id>
+  <abv>9</abv>
   <name>Montagnarde</name>
   <description>The inhabitants of Montignies-sur-Roc, south of Mons in the province of Hainaut, are called Montagnards. It was therefore perfectly normal for a beer brewed in this city to be called Montagnarde. This beer, robust in taste and strength (9%) is the tops for flavour. It has a fruity and spicy bouquet, it has a stark taste, between a sharp bitterness and a caramelised flavour. It has no sugar, and this pure malt beer oscillates between various tendencies which all round off the bitterness. It has a peppery taste at the back of the mouth and a sharpness on the tongue. It is active in the mouth and lets each flavour express itself individually. It is very active in the glass which gives it a full, lasting, head. It has a long conclusion and puts emphasis on an ever present bitterness but less supported by the caramel. The final impression is one of gingerbread without sugar.</description>
   <availability/>

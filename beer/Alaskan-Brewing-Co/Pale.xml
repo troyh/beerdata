@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Pale" brewery_id="Alaskan-Brewing-Co" abv="5.2" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Pale</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+  <abv>5.2</abv>
+  <ibu>24</ibu>
   <name>Pale</name>
   <description>A clean, softly malted body with a hint of citrus overtones, followed by a hop-accented dry, crisp finish. </description>
   <availability>year-round</availability>

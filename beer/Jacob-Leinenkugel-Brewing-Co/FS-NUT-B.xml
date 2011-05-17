@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Jacob-Leinenkugel-Brewing-Co/FS-NUT-B" brewery_id="Jacob-Leinenkugel-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jacob-Leinenkugel-Brewing-Co/FS-NUT-B</id>
+  <brewery_id>Jacob-Leinenkugel-Brewing-Co</brewery_id>
   <name>FS NUT B</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-72805-2">
+    <size>
+      <upc>0-34100-72805-2</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southend-Brewery-and-Smokehouse-Charlotte-2">
+<brewery>
+  <id>Southend-Brewery-and-Smokehouse-Charlotte-2</id>
   <name>Southend Brewery &amp; Smokehouse‎</name>
   <address>
     <street>2100 South Blvd</street>

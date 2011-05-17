@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/World-Wide-Stout" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="1.04823468824993" abv="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/World-Wide-Stout</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>1.04823468824993</calories_per_ml>
+  <abv>18</abv>
   <name>World Wide Stout</name>
   <description>YES! This is the beer you've heard so much about. Dark, rich, roasty and complex, World Wide Stout has more in common with a fine port than a can of cheap, mass-marketed beer. Brewed with a ridiculous amount of barley. Have one with (or as!) dessert tonight!</description>
   <availability>limited</availability>
@@ -21,7 +25,8 @@
         <deposit>$218.79</deposit>
       </distributor>
     </size>
-    <size upc="638489000237">
+    <size>
+      <upc>638489000237</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

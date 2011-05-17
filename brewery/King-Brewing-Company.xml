@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="King-Brewing-Company">
+<brewery>
+  <id>King-Brewing-Company</id>
   <name>King Brewing Company‎</name>
   <address>
     <street>895 Oakland Avenue</street>

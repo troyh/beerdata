@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Skagit-River-Brewing-Co/NAVIDAD" brewery_id="Skagit-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Skagit-River-Brewing-Co/NAVIDAD</id>
+  <brewery_id>Skagit-River-Brewing-Co</brewery_id>
   <name>NAVIDAD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-41018-11111-1">
+    <size>
+      <upc>7-41018-11111-1</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

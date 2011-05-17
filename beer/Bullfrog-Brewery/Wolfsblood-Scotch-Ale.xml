@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Wolfsblood-Scotch-Ale" brewery_id="Bullfrog-Brewery" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Wolfsblood-Scotch-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>9.5</abv>
   <name>Wolfsblood Scotch Ale</name>
   <description>Blood red in color with a big, rich, slightly smokey body and robust alcohol content for those cold winter nights. Smooth, smooth, smooth! Whatch out, it'll get ya! ( a tribute to the Misfits! )</description>
   <availability/>

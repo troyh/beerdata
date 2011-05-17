@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="JT-Schmids-Restaurant-and-Brew">
+<brewery>
+  <id>JT-Schmids-Restaurant-and-Brew</id>
   <name>JT Schmid's Restaurant &amp; Brew‎</name>
   <address>
     <street>2610 E Katella Ave</street>

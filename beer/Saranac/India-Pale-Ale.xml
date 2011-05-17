@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/India-Pale-Ale" brewery_id="Saranac" abv="5.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/India-Pale-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.8</abv>
   <name>India Pale Ale</name>
   <description>A hop lover's delight. In the India Pale Ale tradition this brew is very hoppy in both aroma and flavor from the generous amounts of cascade hops used in brewing. Look for a medium to full body and golden straw color.</description>
   <availability>year-round</availability>

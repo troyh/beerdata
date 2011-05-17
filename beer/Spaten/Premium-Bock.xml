@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Spaten/Premium-Bock" brewery_id="Spaten">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten/Premium-Bock</id>
+  <brewery_id>Spaten</brewery_id>
   <name>Premium Bock</name>
   <description/>
   <availability/>

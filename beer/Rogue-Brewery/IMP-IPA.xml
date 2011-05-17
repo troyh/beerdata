@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Rogue-Brewery/IMP-IPA" brewery_id="Rogue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Brewery/IMP-IPA</id>
+  <brewery_id>Rogue-Brewery</brewery_id>
   <name>IMP IPA</name>
   <description/>
   <availability/>

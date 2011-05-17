@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Dogs-Brewing-Co">
+<brewery>
+  <id>Big-Dogs-Brewing-Co</id>
   <name>Big Dog's Brewing Co‎</name>
   <address>
     <street>4543 N Rancho Dr</street>

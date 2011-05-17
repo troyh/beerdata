@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Beer-Valley-Brewing-Co/Black-Flag-Imperial-Stout" brewery_id="Beer-Valley-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Beer-Valley-Brewing-Co/Black-Flag-Imperial-Stout</id>
+  <brewery_id>Beer-Valley-Brewing-Co</brewery_id>
   <name>Black Flag Imperial Stout</name>
   <description/>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Oatmeal-Stout" brewery_id="Goose-Island-Beer-Co" abv="5.1" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Oatmeal-Stout</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>5.1</abv>
+  <ibu>30</ibu>
   <name>Oatmeal Stout</name>
   <description>An aromatic blend of oats, chocolate and roast malts make up this classic English-Style Oatmeal Stout. A rich black over ruby hue and creamy tan head make our stout a memorable beer to behold.</description>
   <availability/>

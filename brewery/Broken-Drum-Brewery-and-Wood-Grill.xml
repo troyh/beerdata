@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Broken-Drum-Brewery-and-Wood-Grill">
+<brewery>
+  <id>Broken-Drum-Brewery-and-Wood-Grill</id>
   <name>Broken Drum Brewery &amp; Wood Grill‎</name>
   <address>
     <street>1132 4th St</street>

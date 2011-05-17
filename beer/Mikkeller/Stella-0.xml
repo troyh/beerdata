@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Stella-0" brewery_id="Mikkeller" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Stella-0</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>10</abv>
   <name>Stella 0</name>
   <description/>
   <availability>lim</availability>

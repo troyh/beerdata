@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bayern-Brewing-Inc/SCHWARZBIER-LAGER" brewery_id="Bayern-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bayern-Brewing-Inc/SCHWARZBIER-LAGER</id>
+  <brewery_id>Bayern-Brewing-Inc</brewery_id>
   <name>SCHWARZBIER LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-90020-11111-1">
+    <size>
+      <upc>7-90020-11111-1</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

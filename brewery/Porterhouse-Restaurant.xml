@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Porterhouse-Restaurant">
+<brewery>
+  <id>Porterhouse-Restaurant</id>
   <name>Porterhouse Restaurant‎</name>
   <address>
     <street>126 Old Graves Mill Rd</street>

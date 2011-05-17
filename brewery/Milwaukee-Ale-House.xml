@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Milwaukee-Ale-House">
+<brewery>
+  <id>Milwaukee-Ale-House</id>
   <name>Milwaukee Ale House‎</name>
   <address>
     <street>233 N Water St # 1</street>

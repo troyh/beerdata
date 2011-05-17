@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trap-Rock-Restaurant-and-Brewery">
+<brewery>
+  <id>Trap-Rock-Restaurant-and-Brewery</id>
   <name>Trap Rock Restaurant &amp; Brewery‎</name>
   <address>
     <street>279 Springfield Ave</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Traffic-Jam-and-Snug-Restaurant">
+<brewery>
+  <id>Traffic-Jam-and-Snug-Restaurant</id>
   <name>Traffic Jam &amp; Snug Restaurant‎</name>
   <address>
     <street>511 W Canfield St</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Helles-Blond-Bock" brewery_id="Harpoon" abv="7.4" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Helles-Blond-Bock</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>7.4</abv>
+  <ibu>15</ibu>
   <name>Helles Blond Bock</name>
   <description>Brew Date: 4/17/09\nPackaging Date: 5/15/09\nThe 27th offering of Harpoon's 100 Barrel Series is Helles Blond Bock. This light amber beer has a bready aroma, creamy smooth mouthfeel, and a clean, lingering sweetness at the finish.\nBrewer Jaime Schier set out to create a beer with a robust body that was light in color and delicate on the palate. Jaime combined Pale Ale malt, Munich malt, and Black malt to give the beer its intense malt flavor. A German Bock yeast accentuates the malt character, yielding a slightly sweet aroma. German Noble hops add a touch of bitterness to balance the malt.\nThis Helles Bock recipe comprised the most malt per 120-barrel batch ever brewed at Harpoon. Enjoy it on a warm, sunny day, with a big basket of pretzels and mustard.\nBREWED BY\nThis beer was brewed by Harpoon Brewer Jaime Schier.\nJaime also brewed 100 Barrel Series editions Wit Beer (#2) and Saison (#14)</description>
   <availability>limited</availability>

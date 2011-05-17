@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Thirsty-Pagan-Brewing">
+<brewery>
+  <id>Thirsty-Pagan-Brewing</id>
   <name>Thirsty Pagan Brewing‎</name>
   <address>
     <street>1623 Broadway St</street>

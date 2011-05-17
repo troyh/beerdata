@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Blackstone-Restaurant">
+<brewery>
+  <id>Blackstone-Restaurant</id>
   <name>Blackstone Restaurant‎</name>
   <address>
     <street>4686 S Atlanta Rd SE</street>

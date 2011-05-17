@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dragonmead-Microbrewery">
+<brewery>
+  <id>Dragonmead-Microbrewery</id>
   <name>Dragonmead Microbrewery‎</name>
   <address>
     <street>14600 E 11 Mile Rd</street>

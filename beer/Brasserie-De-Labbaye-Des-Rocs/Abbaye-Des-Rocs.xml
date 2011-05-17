@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brasserie-De-Labbaye-Des-Rocs/Abbaye-Des-Rocs" brewery_id="Brasserie-De-Labbaye-Des-Rocs" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-De-Labbaye-Des-Rocs/Abbaye-Des-Rocs</id>
+  <brewery_id>Brasserie-De-Labbaye-Des-Rocs</brewery_id>
+  <abv>9</abv>
   <name>Abbaye des Rocs</name>
   <description>Abbaye des Rocs (9% alcohol vol.) is a pure malt beer, with no added sugar. The entire range of tastes is directly linked to the double fermentation, the precise quantities of malts (7 types) as well as the mixtures of three kinds of hops (Belgian, German and Czech). Its colour is a striking deep and majestic red. Its taste is rich and full of subtlety. It is tasted like a red wine with which it shares the ruby colour without having the tannin. It develops a strong sweet smell. It confirms the initial impression in the first mouthful, with a sharp body that is balanced with a certain fruitiness. It frees itself on the palate and develops an impressive depth of taste. Some traces of burnt wood are detectable, but never scorched even if it contains this kind of malt. The foretaste is very prolonged because of its rich and unctuous development throughout the mouth. The bitter and sugar tendencies (even though there is no sugar in its composition) compete and come back together to the taster's great satisfaction. It is a deep, mystic and extremely mature beer to be classed among the great products of our soil.</description>
   <availability/>

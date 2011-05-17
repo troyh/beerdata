@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/India-Brown-Ale" brewery_id="Saranac" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/India-Brown-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>6</abv>
   <name>India Brown Ale</name>
   <description>Taking an India Ale to the next level, Saranac India Brown Ale has the malt backbone to carry the hoppiness you expect in an India Ale. Carefully selected malts from North America and Europe are decoction mashed to highlight their character and the brew is complimented with generous amounts of citrusy Columbus, Cascade and Centennial hops. Cheers!</description>
   <availability>winter</availability>

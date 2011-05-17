@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/FATTIRE" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/FATTIRE</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>FATTIRE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-54527-00161-2">
+    <size>
+      <upc>7-54527-00161-2</upc>
       <description>CAN 2/12</description>
       <distributor>
         <name>columbia</name>

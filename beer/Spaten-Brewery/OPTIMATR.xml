@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spaten-Brewery/OPTIMATR" brewery_id="Spaten-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten-Brewery/OPTIMATR</id>
+  <brewery_id>Spaten-Brewery</brewery_id>
   <name>OPTIMATR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description/>
       <distributor>
         <name>columbia</name>

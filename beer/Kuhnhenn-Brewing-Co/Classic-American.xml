@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Classic-American" brewery_id="Kuhnhenn-Brewing-Co" abv="4.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Classic-American</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
   <name>Classic American</name>
   <description>Our answer to the light beer drinker, this American style domestic lager is ages longer than your regular domestic to give it a smoother, cleaner finish. It exhibits some sweet characteristics balanced by some bitterness, giving it a light and refreshing taste.</description>
   <availability/>

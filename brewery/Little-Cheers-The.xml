@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Little-Cheers-The">
+<brewery>
+  <id>Little-Cheers-The</id>
   <name>Little Cheers The‎</name>
   <address>
     <street>329 Main St</street>

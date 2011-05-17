@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mt-Hood-Brewing-Co/CASC-PALE" brewery_id="Mt-Hood-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mt-Hood-Brewing-Co/CASC-PALE</id>
+  <brewery_id>Mt-Hood-Brewing-Co</brewery_id>
   <name>CASC PALE</name>
   <description/>
   <availability/>

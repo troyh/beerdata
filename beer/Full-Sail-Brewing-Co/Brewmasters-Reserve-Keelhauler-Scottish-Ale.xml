@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Keelhauler-Scottish-Ale" brewery_id="Full-Sail-Brewing-Co" abv="6.8" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Brewmasters-Reserve-Keelhauler-Scottish-Ale</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <abv>6.8</abv>
+  <ibu>45</ibu>
   <name>Brewmaster's Reserve: Keelhauler Scottish Ale</name>
   <description>This is a full bodied rich ale with slight notes of caramel and cocoa and a strong malty character. The hop character is spicy and earthy with a nice finishing hop flavor.</description>
   <availability>Summer</availability>

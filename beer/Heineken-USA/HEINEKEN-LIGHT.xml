@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Heineken-USA/HEINEKEN-LIGHT" brewery_id="Heineken-USA">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Heineken-USA/HEINEKEN-LIGHT</id>
+  <brewery_id>Heineken-USA</brewery_id>
   <name>HEINEKEN LIGHT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-72890-00159-7">
+    <size>
+      <upc>0-72890-00159-7</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$16.89</deposit>
       </distributor>
     </size>
-    <size upc="0-72890-00161-0">
+    <size>
+      <upc>0-72890-00161-0</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>
@@ -33,7 +37,8 @@
         <deposit>$29.39</deposit>
       </distributor>
     </size>
-    <size upc="0-72890-00158-0">
+    <size>
+      <upc>0-72890-00158-0</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>
@@ -45,7 +50,8 @@
         <deposit>$7.49</deposit>
       </distributor>
     </size>
-    <size upc="0-72890-00188-7">
+    <size>
+      <upc>0-72890-00188-7</upc>
       <description>CAN 2-12/12</description>
       <distributor>
         <name>columbia</name>
@@ -57,7 +63,8 @@
         <deposit>$16.89</deposit>
       </distributor>
     </size>
-    <size upc="0-72890-00411-6">
+    <size>
+      <upc>0-72890-00411-6</upc>
       <description>CAN 6-4/16</description>
       <distributor>
         <name>columbia</name>

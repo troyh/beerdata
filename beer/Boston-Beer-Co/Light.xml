@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Light" brewery_id="Boston-Beer-Co" calories_per_ml="0.335322386832639" abv="4.05" og="9Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Light</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.335322386832639</calories_per_ml>
+  <abv>4.05</abv>
+  <og>9Plato</og>
   <name>Light</name>
   <description>Sam Adams LightÂ® is not just a lighter version of our Samuel Adams Boston LagerÂ® but rather the culmination of over two years of tireless research and brewing trials to create a flavorful Light beer. And it has proved to be worth the wait. Brewed using only the finest two row malt and German Noble hops it has a smooth, complex roasted malt character that is superbly balanced with the subtle orange fruit notes of the Noble hops. Sam Adams LightÂ® finishes crisp and smooth without any lingering bitterness, leaving you yearning for more.</description>
   <availability>year round</availability>
@@ -9,10 +14,11 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="1C">Premium American Lager</style>
+    <style><bjcp_style_id>1C</bjcp_style_id>Premium American Lager</style>
   </styles>
   <sizes>
-    <size upc="0-87692-11102-3">
+    <size>
+      <upc>0-87692-11102-3</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

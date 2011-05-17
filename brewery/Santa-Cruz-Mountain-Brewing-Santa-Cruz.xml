@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Santa-Cruz-Mountain-Brewing-Santa-Cruz">
+<brewery>
+  <id>Santa-Cruz-Mountain-Brewing-Santa-Cruz</id>
   <name>Santa Cruz Mountain Brewing‎</name>
   <address>
     <street>402 Ingalls St # 27</street>

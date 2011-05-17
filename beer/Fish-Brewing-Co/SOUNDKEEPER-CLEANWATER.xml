@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/SOUNDKEEPER-CLEANWATER" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/SOUNDKEEPER-CLEANWATER</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>SOUNDKEEPER CLEANWATER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-0">
+    <size>
+      <upc>9-99999-99999-0</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

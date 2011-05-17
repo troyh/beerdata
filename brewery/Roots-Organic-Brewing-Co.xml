@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Roots-Organic-Brewing-Co">
+<brewery>
+  <id>Roots-Organic-Brewing-Co</id>
   <name>Roots Organic Brewing Co‎</name>
   <address>
     <street>1520 SE 7th Ave</street>

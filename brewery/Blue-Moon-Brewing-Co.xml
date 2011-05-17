@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Blue-Moon-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Blue-Moon-Brewing-Co</id>
   <name>Blue Moon Brewing Co</name>
 </brewery>

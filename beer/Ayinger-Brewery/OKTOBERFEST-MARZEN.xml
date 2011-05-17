@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ayinger-Brewery/OKTOBERFEST-MARZEN" brewery_id="Ayinger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ayinger-Brewery/OKTOBERFEST-MARZEN</id>
+  <brewery_id>Ayinger-Brewery</brewery_id>
   <name>OKTOBERFEST MARZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-91067-11111-1">
+    <size>
+      <upc>9-91067-11111-1</upc>
       <description>30L BBL</description>
       <distributor>
         <name>odom</name>

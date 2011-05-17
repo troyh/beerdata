@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Summer-Ale" brewery_id="Blue-Point-Brewing-Co" abv="4.39" ibu="16">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Summer-Ale</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>4.39</abv>
+  <ibu>16</ibu>
   <name>Summer Ale</name>
   <description>Blue Point Brewing's Summer Ale has a delicious golden taste. In addition to traditional barley malt, a substantial portion of wheat malt is added to the mix giving this brew a unique tartness that's not found in many beers today. This light, thirst-quenching microbrew is enjoyed by all on a hot, Long Island Summer day.</description>
   <availability>Summer</availability>

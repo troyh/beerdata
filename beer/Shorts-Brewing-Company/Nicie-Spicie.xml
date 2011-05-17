@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Nicie-Spicie" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Nicie-Spicie</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Nicie Spicie</name>
   <description>Northern Michigan spiced wheat ale. A 50% mixture of premium two-row malted barley and malted white wheat makes this gorgeous golden beer balanced to support bold spiciness. This ale is loaded with fresh citrus zest, coriander, and a four pepper blend. So extremely satisfying you would think it was the finest beer ever made!</description>
   <availability>Summer</availability>

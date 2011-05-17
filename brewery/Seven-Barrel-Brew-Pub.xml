@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Seven-Barrel-Brew-Pub">
+<brewery>
+  <id>Seven-Barrel-Brew-Pub</id>
   <name>Seven Barrel Brew Pub‎</name>
   <address>
     <street>5 Airport Rd</street>

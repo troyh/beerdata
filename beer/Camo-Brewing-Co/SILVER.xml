@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Camo-Brewing-Co/SILVER" brewery_id="Camo-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Camo-Brewing-Co/SILVER</id>
+  <brewery_id>Camo-Brewing-Co</brewery_id>
   <name>SILVER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-33745-33002-8">
+    <size>
+      <upc>6-33745-33002-8</upc>
       <description>CAN 12/24</description>
       <distributor>
         <name>columbia</name>

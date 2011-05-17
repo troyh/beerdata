@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Big-Horn-Nut-Brown-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Big-Horn-Nut-Brown-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Big Horn Nut Brown Ale</name>
   <description>A medium to full-bodied chestnut colored Ale. Belgian Armoatic, Chocolate and Special "B" malts lend the raisin and cocoa flavors. Willamette hops give the subtle dryness.The rich malt flavor goes great with our Brown Ale Chicken and Chicken Genovese Pasta.</description>
   <availability>year-round</availability>

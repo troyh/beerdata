@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Telegraph-Brewing-Co-Inc">
+<brewery>
+  <id>Telegraph-Brewing-Co-Inc</id>
   <name>Telegraph Brewing Co Inc‎</name>
   <address>
     <street>416 N Salsipuedes St</street>

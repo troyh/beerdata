@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="St-Arnold-Brewing-Co">
+<brewery>
+  <id>St-Arnold-Brewing-Co</id>
   <name>St Arnold Brewing Co‎</name>
   <address>
     <street>2522 Fairway Park Dr</street>

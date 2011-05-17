@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trader-Todds">
+<brewery>
+  <id>Trader-Todds</id>
   <name>Trader Todd's‎</name>
   <address>
     <street>3216 North Sheffield Avenue</street>

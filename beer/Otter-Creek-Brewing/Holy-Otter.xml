@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Holy-Otter" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Holy-Otter</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Holy Otter</name>
   <description>Otter Creek Brewing's fourth beer in their latest brew series "OTTER CREEK WORLD TOUR:" is a Belgian-style Tripel ale dubbed "Holy Otter." True to the tripel style, this beer contains three times the usual amount of barley, is fermented three separate times, and has triple the kick! Look for themonk otters on the label, but hurry the World Tour beers are LIMITED! As they say in Belgium- Proost!</description>
   <availability>limited</availability>

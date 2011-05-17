@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Black-Mountain-Sweet-Shop">
+<brewery>
+  <id>Black-Mountain-Sweet-Shop</id>
   <name>Black Mountain Sweet Shop‎</name>
   <address>
     <street>6245 E Cave Creek Rd</street>

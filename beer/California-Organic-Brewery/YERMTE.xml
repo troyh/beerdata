@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="California-Organic-Brewery/YERMTE" brewery_id="California-Organic-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>California-Organic-Brewery/YERMTE</id>
+  <brewery_id>California-Organic-Brewery</brewery_id>
   <name>YERMTE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-03231-81606-0">
+    <size>
+      <upc>6-03231-81606-0</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

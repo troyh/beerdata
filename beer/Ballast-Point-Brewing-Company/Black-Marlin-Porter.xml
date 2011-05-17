@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Ballast-Point-Brewing-Company/Black-Marlin-Porter" brewery_id="Ballast-Point-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ballast-Point-Brewing-Company/Black-Marlin-Porter</id>
+  <brewery_id>Ballast-Point-Brewing-Company</brewery_id>
   <name>Black Marlin Porter</name>
   <description>Black Marlin Porter (Dark, creamy, velvet smooth American style Porter we brewed this beer because we couldn't find it anywhere else!)\nPorters are a style of beer that developed in London in the mid 1800's.  It has a confusing and difficult to sort out their history. We know that some Porters began as a bartender's blend of three ales that would be ordered as "three strands." Breweries caught on to the popularity of the blend and began to brew beers having the characteristics of the blend. This popular beer became known as Porter, because railroad porters were its biggest fans.A typical London workingman's meal of the time might have consisted of Porter, bread, and oysters (which were then considered to be lower class fare). As different styles of Porters developed, one of the most popular was dry porter, which emphasized the use of roasted barley. This type of Porter eventually became known as Stout. Today the use of roasted barley distinguishes Stouts from Porters.Ballast Point Black Marlin Porter is a rich dark chocolaty Porter with a distinctive American hop character. It is a great beer to go with hearty foods and is surprisingly one of the few beers that goes well with dessert. One of our favorite combinations here at Ballast Point is Black Marlin Porter with apple pie a la mode.</description>
   <availability/>

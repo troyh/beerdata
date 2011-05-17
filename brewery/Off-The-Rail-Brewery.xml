@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Off-The-Rail-Brewery">
+<brewery>
+  <id>Off-The-Rail-Brewery</id>
   <name>Off The Rail Brewery‎</name>
   <address>
     <street>2800 Taylor Way</street>

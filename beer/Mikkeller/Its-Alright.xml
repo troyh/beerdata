@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Its-Alright" brewery_id="Mikkeller" abv="4.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Its-Alright</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>4.5</abv>
   <name>It's Alright!</name>
   <description>It's Alive's! Little brother. A Mikkeller session beer. Low in alcohol, dry, light, sour and refreshing.</description>
   <availability/>

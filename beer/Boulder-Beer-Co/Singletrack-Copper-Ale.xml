@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Boulder-Beer-Co/Singletrack-Copper-Ale" brewery_id="Boulder-Beer-Co" abv="4.97">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Co/Singletrack-Copper-Ale</id>
+  <brewery_id>Boulder-Beer-Co</brewery_id>
+  <abv>4.97</abv>
   <name>Singletrack Copper Ale</name>
   <description/>
   <availability/>

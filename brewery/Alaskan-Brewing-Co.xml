@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Alaskan-Brewing-Co">
+<brewery>
+  <id>Alaskan-Brewing-Co</id>
   <name>Alaskan Brewing Co‎</name>
   <address>
     <street>5429 Shaune Dr</street>

@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Fall-Fest" brewery_id="Three-Floyds-Brewing" abv="5.4" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Fall-Fest</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5.4</abv>
+  <ibu>20</ibu>
   <name>Fall Fest</name>
-  <description>Fall Fest (September &#xD0; November) is a Marzen-style Octoberfest lager. It is brewed with German Haullertau hops and pale and crystal malts. The result is a full-bodied, malty beer with a beautiful amber color. Cheese pairings include Gruy&#x8F;re and Swiss-style cheeses.</description>
+  <description>Fall Fest (September Ð November) is a Marzen-style Octoberfest lager. It is brewed with German Haullertau hops and pale and crystal malts. The result is a full-bodied, malty beer with a beautiful amber color. Cheese pairings include Gruyre and Swiss-style cheeses.</description>
   <availability>fall</availability>
   <ingredients/>
   <grains/>

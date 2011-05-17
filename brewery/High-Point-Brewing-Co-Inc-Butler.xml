@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="High-Point-Brewing-Co-Inc-Butler">
+<brewery>
+  <id>High-Point-Brewing-Co-Inc-Butler</id>
   <name>High Point Brewing Co Inc‎</name>
   <address>
     <street>22 Park Pl</street>

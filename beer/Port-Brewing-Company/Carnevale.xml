@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Carnevale" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Carnevale</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Carnevale</name>
   <description/>
   <availability/>

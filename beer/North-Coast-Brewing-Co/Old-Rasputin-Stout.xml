@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="North-Coast-Brewing-Co/Old-Rasputin-Stout" brewery_id="North-Coast-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Old-Rasputin-Stout</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
   <name>Old Rasputin Stout</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="727344000236">
+    <size>
+      <upc>727344000236</upc>
       <description>6/4/12 oz</description>
       <distributor>
         <name>click</name>

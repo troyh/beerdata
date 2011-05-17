@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lunar-Brewing-Co-Villa-Park">
+<brewery>
+  <id>Lunar-Brewing-Co-Villa-Park</id>
   <name>Lunar Brewing Co‎</name>
   <address>
     <street>54 E Saint Charles Rd</street>

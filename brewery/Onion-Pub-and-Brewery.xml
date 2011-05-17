@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Onion-Pub-and-Brewery">
+<brewery>
+  <id>Onion-Pub-and-Brewery</id>
   <name>Onion Pub &amp; Brewery‎</name>
   <address>
     <street>22N221 Pepper Rd</street>

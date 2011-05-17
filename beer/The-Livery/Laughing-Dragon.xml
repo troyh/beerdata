@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Laughing-Dragon" brewery_id="The-Livery" abv="6.25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Laughing-Dragon</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>6.25</abv>
   <name>Laughing Dragon</name>
   <description>Named for our friend and patron Tad Eastman, whose Laughing Dragon Tie-Dye studio puts out our fabulous shirts-each one an individual work of art signed by Tad! Reddish Amber in color, this beer has a very bold Chinook hop character.</description>
   <availability/>

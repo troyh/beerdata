@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Wipeout-IPA" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Wipeout-IPA</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Wipeout IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="689926001034">
+    <size>
+      <upc>689926001034</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lagunitas-Brewing-Co/CAPPUCCINO" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/CAPPUCCINO</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>CAPPUCCINO</name>
   <description/>
   <availability/>

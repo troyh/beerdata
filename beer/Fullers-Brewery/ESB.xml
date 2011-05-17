@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fullers-Brewery/ESB" brewery_id="Fullers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fullers-Brewery/ESB</id>
+  <brewery_id>Fullers-Brewery</brewery_id>
   <name>ESB</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="3-20024-11111-1">
+    <size>
+      <upc>3-20024-11111-1</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

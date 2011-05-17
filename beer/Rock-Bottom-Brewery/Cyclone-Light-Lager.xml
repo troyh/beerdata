@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Cyclone-Light-Lager" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Cyclone-Light-Lager</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Cyclone Light Lager</name>
   <description>This crisp, refreshing lager is a classic American "session" brew and couples well with all of the Chef's offerings.</description>
   <availability>year-round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="San-Francisco-Brewing-Co">
+<brewery>
+  <id>San-Francisco-Brewing-Co</id>
   <name>San Francisco Brewing Co‎</name>
   <address>
     <street>155 Columbus Ave</street>

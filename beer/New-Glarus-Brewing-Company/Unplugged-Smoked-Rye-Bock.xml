@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Smoked-Rye-Bock" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Smoked-Rye-Bock</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Smoked Rye Bock</name>
   <description>Rich imported malts are dominated by our Bamberg smoked malted barley as well as Wisconsin Rye. Special Bavarian Weiss beer yeast was imported to ferment this beer in the bottle. This is a big dark beer appropriate for lying down or drinking immediately.</description>
   <availability>retired</availability>

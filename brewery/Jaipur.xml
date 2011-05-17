@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jaipur">
+<brewery>
+  <id>Jaipur</id>
   <name>Jaipur‎</name>
   <address>
     <street>10922 Elm St</street>

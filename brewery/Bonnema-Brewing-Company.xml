@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bonnema-Brewing-Company">
+<brewery>
+  <id>Bonnema-Brewing-Company</id>
   <name>Bonnema Brewing Company‎</name>
   <address>
     <street>6900 El Camino Real</street>

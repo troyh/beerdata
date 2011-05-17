@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pike-Brewing-Co/KILT-LFT" brewery_id="Pike-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pike-Brewing-Co/KILT-LFT</id>
+  <brewery_id>Pike-Brewing-Co</brewery_id>
   <name>KILT LFT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-27916-10017-3">
+    <size>
+      <upc>7-27916-10017-3</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

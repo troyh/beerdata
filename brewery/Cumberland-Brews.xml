@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cumberland-Brews">
+<brewery>
+  <id>Cumberland-Brews</id>
   <name>Cumberland Brews‎</name>
   <address>
     <street>1576 Bardstown Rd</street>

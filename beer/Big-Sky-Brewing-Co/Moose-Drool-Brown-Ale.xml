@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Moose-Drool-Brown-Ale" brewery_id="Big-Sky-Brewing-Co" abv="5.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Moose-Drool-Brown-Ale</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>5.3</abv>
   <name>Moose Drool Brown Ale</name>
   <description>That first taste, the best part of a beer after a long day. We want to make that better than ever. So we made Moose Drool. The name sounds a little iffy, but it's really the best Brown Ale you'll ever taste. That's why Moose Drool is far and away the best-selling beer brewed in Montana. It's chocolate brown in color with a creamy texture. A malty beer with just enough hop presence to keep it from being too sweet. The aroma mostly comes from the malt with a hint of spice added by the hops.</description>
   <availability/>

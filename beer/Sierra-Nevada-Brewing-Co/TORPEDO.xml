@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sierra-Nevada-Brewing-Co/TORPEDO" brewery_id="Sierra-Nevada-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/TORPEDO</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
   <name>TORPEDO</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83783-33100-4">
+    <size>
+      <upc>0-83783-33100-4</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

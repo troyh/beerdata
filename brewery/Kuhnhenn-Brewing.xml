@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kuhnhenn-Brewing">
+<brewery>
+  <id>Kuhnhenn-Brewing</id>
   <name>Kuhnhenn Brewing‎</name>
   <address>
     <street>5919 Chicago Rd</street>

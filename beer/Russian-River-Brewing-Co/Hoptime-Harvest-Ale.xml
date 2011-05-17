@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Hoptime-Harvest-Ale" brewery_id="Russian-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Hoptime-Harvest-Ale</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
   <name>Hoptime Harvest Ale</name>
   <description>Made with 100% fresh "wet" hops from our hopyard.</description>
   <availability>fall</availability>

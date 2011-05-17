@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Fultonwood-Draft-Fleur" brewery_id="Goose-Island-Beer-Co" abv="7" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Fultonwood-Draft-Fleur</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>7</abv>
+  <ibu>32</ibu>
   <name>FultonWood Draft: Fleur</name>
   <description>A refreshingly tart and fruity Belgian style ale, resulting from a secondary fermentation with hibiscus flowers and wild yeasts.</description>
   <availability>limited</availability>

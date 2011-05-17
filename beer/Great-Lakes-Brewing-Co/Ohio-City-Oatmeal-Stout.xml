@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Ohio-City-Oatmeal-Stout" brewery_id="Great-Lakes-Brewing-Co" abv="4.8" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Ohio-City-Oatmeal-Stout</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
+  <ibu>25</ibu>
   <name>Ohio City Oatmeal Stout</name>
   <description>A smooth and creamy medium-bodied stout with soft malty notes and dry finish.</description>
   <availability>limited</availability>

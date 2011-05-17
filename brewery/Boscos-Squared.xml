@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boscos-Squared">
+<brewery>
+  <id>Boscos-Squared</id>
   <name>Boscos Squared‎</name>
   <address>
     <street>2120 Madison Ave</street>

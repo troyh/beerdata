@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Madison-Brewery-Co">
+<brewery>
+  <id>Madison-Brewery-Co</id>
   <name>Madison Brewery Co‎</name>
   <address>
     <street>428 Main St</street>

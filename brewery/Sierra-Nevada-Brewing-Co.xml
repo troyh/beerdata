@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sierra-Nevada-Brewing-Co">
+<brewery>
+  <id>Sierra-Nevada-Brewing-Co</id>
   <name>Sierra Nevada Brewing Co‎</name>
   <address>
     <street>1075 E 20th St</street>

@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Cuv-e-Series-Two" brewery_id="Southern-Tier-Brewing-Company" abv="11">
-  <name>Cuv&#x8E;e Series Two</name>
-  <description>ALE IMPRESSIONS: Dark ruby red color, roasted malt flavor with apparent bitterness. Finishes with a rich caramel and espresso aroma. \nAMERICAN OAK IMPRESSIONS: Impressions of vanilla cr&#x8F;me, classic cr&#x8F;me br&#x9E;l&#x8E;e and nougat. A little more oak flavor than series one, but with creamy intensity.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Cuv-e-Series-Two</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>11</abv>
+  <name>Cuve Series Two</name>
+  <description>ALE IMPRESSIONS: Dark ruby red color, roasted malt flavor with apparent bitterness. Finishes with a rich caramel and espresso aroma. \nAMERICAN OAK IMPRESSIONS: Impressions of vanilla crme, classic crme brle and nougat. A little more oak flavor than series one, but with creamy intensity.</description>
   <availability>spring</availability>
   <ingredients/>
   <grains/>

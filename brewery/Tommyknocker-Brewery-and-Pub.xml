@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tommyknocker-Brewery-and-Pub">
+<brewery>
+  <id>Tommyknocker-Brewery-and-Pub</id>
   <name>Tommyknocker Brewery &amp; Pub‎</name>
   <address>
     <street>1401 Miner</street>

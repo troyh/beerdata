@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flyers-Restaurant-and-Brewery">
+<brewery>
+  <id>Flyers-Restaurant-and-Brewery</id>
   <name>Flyers Restaurant &amp; Brewery‎</name>
   <address>
     <street>32295 State Road 20</street>

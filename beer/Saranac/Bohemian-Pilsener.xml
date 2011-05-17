@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Bohemian-Pilsener" brewery_id="Saranac" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Bohemian-Pilsener</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.8</abv>
   <name>Bohemian Pilsener</name>
   <description>Saranac Bohemian Pilsener is a medium bodied Pilsener crafted like the original Pilseners of Czechoslovakia. Brewed with the finest Pilsener malt and Saaz hops, you will find this beer has a crisp, clean taste and leaves you wanting another. Enjoy!</description>
   <availability>winter</availability>

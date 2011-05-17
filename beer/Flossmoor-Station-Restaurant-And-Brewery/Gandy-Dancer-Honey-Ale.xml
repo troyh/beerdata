@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flossmoor-Station-Restaurant-And-Brewery/Gandy-Dancer-Honey-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flossmoor-Station-Restaurant-And-Brewery/Gandy-Dancer-Honey-Ale</id>
+  <brewery_id>Flossmoor-Station-Restaurant-And-Brewery</brewery_id>
   <name>Gandy Dancer Honey Ale</name>
   <description>With a blend of aromatic rye and a whisper of Orange Blossom honey, our Gandy Dancer is light and sparkling, yet full of flavor. The addition of three varieties of hops guarantees an inviting and complex taste, proving that lighter beers can have character.</description>
   <availability/>

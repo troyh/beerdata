@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Red-Tendon-Porter" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Red-Tendon-Porter</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Red Tendon Porter</name>
   <description>Our version of a Polish or Baltic porter. Baltic breweries copied English porters acquired through trade in the 18th century. Intensely malty and sweet, brewed in memory of Three Floyds investor William Gardow.</description>
   <availability>year-round</availability>

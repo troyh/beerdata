@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Claymore-Scotch-Ale" brewery_id="Great-Divide-Brewing-Co" abv="7.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Claymore-Scotch-Ale</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>7.7</abv>
   <name>Claymore Scotch Ale</name>
   <description>Named for a medieval Scottish sword, Claymore Scotch Ale is our tribute to the legendary "Wee Heavy" beers of Scotland. This malty, deep-ruby beauty features lots of caramel sweetness, a reserved hop profile, and a subtle warming character. Unlike its namesake, this beer only requires one hand, but it'll still make you feel like nobility.</description>
   <availability>spring</availability>

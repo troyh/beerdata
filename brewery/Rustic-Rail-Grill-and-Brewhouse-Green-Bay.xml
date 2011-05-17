@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rustic-Rail-Grill-and-Brewhouse-Green-Bay">
+<brewery>
+  <id>Rustic-Rail-Grill-and-Brewhouse-Green-Bay</id>
   <name>Rustic Rail Grill &amp; Brewhouse‎</name>
   <address>
     <street>1966 Velp Avenue</street>

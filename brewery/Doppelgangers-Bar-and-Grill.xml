@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Doppelgangers-Bar-and-Grill">
+<brewery>
+  <id>Doppelgangers-Bar-and-Grill</id>
   <name>Doppelganger's Bar &amp; Grill‎</name>
   <address>
     <street>302 N Carson St</street>

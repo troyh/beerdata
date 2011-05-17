@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/Tower-10-Ipa" brewery_id="Karl-Strauss" abv="6.5" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/Tower-10-Ipa</id>
+  <brewery_id>Karl-Strauss</brewery_id>
+  <abv>6.5</abv>
+  <ibu>60</ibu>
   <name>Tower 10 IPA</name>
   <description>Tower 10 IPA boasts hops from beginning to end, and everywhere in between. We fill the brew kettle to the brim with assertive Chinook hops, giving the beer its intense grapefruit and pine flavors that linger through its dry finish. After fermentation, we dry hop with a blend of Cascade and Centennial hops for a floral citrus aroma. A touch of lightly kilned caramel malts make Tower 10 a well balanced, full flavored IPA. Mission Beach, the late 1980s. Amid a sea of neon bikinis, Tower 10 marked the spot where two college grads and a 75 year-old master brewer drew up plans for the first local craft brewery in San Diego since Prohibition. Named in honor of our first good idea, Tower 10 IPA is brewed to inspire the next one.</description>
   <availability>year-round</availability>

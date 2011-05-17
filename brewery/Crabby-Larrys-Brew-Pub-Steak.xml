@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Crabby-Larrys-Brew-Pub-Steak">
+<brewery>
+  <id>Crabby-Larrys-Brew-Pub-Steak</id>
   <name>Crabby Larry's Brew Pub Steak‎</name>
   <address>
     <street>237 W Butler Ave</street>

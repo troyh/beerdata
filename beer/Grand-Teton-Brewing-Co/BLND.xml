@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grand-Teton-Brewing-Co/BLND" brewery_id="Grand-Teton-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grand-Teton-Brewing-Co/BLND</id>
+  <brewery_id>Grand-Teton-Brewing-Co</brewery_id>
   <name>BLND</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-39736-50934-3">
+    <size>
+      <upc>6-39736-50934-3</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

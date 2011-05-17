@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Russian-River-Brewing-Co/Happy-Hops" brewery_id="Russian-River-Brewing-Co" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Happy-Hops</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
+  <abv>5.4</abv>
   <name>Happy Hops</name>
   <description>Not really a Blonde Ale, not a Pale Ale, not an IPA. Happy Hops is a light colored refreshing ale with a pronouced hop character.</description>
   <availability/>

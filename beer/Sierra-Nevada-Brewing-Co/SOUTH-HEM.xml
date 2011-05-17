@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sierra-Nevada-Brewing-Co/SOUTH-HEM" brewery_id="Sierra-Nevada-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/SOUTH-HEM</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
   <name>SOUTH HEM</name>
   <description/>
   <availability/>

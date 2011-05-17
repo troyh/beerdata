@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trinidad-Brewing-Company">
+<brewery>
+  <id>Trinidad-Brewing-Company</id>
   <name>Trinidad Brewing Company‎</name>
   <address>
     <street>516 Elm St</street>

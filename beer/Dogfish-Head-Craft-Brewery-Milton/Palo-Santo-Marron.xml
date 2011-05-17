@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Palo-Santo-Marron" brewery_id="Dogfish-Head-Craft-Brewery-Milton" abv="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Palo-Santo-Marron</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <abv>12</abv>
   <name>Palo Santo Marron</name>
   <description>Palo Santo Marron (Holy Tree Brown)
 An unfiltered, unfettered, unprecedented brown ale aged in handmade wooden brewing vessels. The caramel and vanilla complexity unique to this beer comes from the exotic Paraguayan Palo Santo wood from which these tanks were crafted. Palo Santo means "holy tree"" and it's woodÂ has been used in South AmericanÂ wine-making communities.Â 
@@ -14,10 +17,11 @@ It's all very exciting. We have wood. Now you do too.</description>
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10C">American Brown Ale</style>
+    <style><bjcp_style_id>10C</bjcp_style_id>American Brown Ale</style>
   </styles>
   <sizes>
-    <size upc="6-38489-00088-6">
+    <size>
+      <upc>6-38489-00088-6</upc>
       <description>BOTTLE 6/4</description>
       <distributor>
         <name>columbia</name>

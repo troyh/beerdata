@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="New-Belgium-Brewing/La-Folie" brewery_id="New-Belgium-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing/La-Folie</id>
+  <brewery_id>New-Belgium-Brewing</brewery_id>
   <name>La Folie</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="754527001346">
+    <size>
+      <upc>754527001346</upc>
       <description>12/750 ml  </description>
       <distributor>
         <name>click</name>

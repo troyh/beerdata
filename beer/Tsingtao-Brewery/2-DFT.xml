@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Tsingtao-Brewery/2-DFT" brewery_id="Tsingtao-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Tsingtao-Brewery/2-DFT</id>
+  <brewery_id>Tsingtao-Brewery</brewery_id>
   <name>2 DFT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-33544-94462-2">
+    <size>
+      <upc>0-33544-94462-2</upc>
       <description>BOTTLE 4-6/11</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Saugatuck-Brewing-Company-inc">
+<brewery>
+  <id>Saugatuck-Brewing-Company-inc</id>
   <name>Saugatuck Brewing Company inc‎</name>
   <address>
     <street>2948 Blue Star Highway</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-Gardens-Sorrento-Mesa">
+<brewery>
+  <id>Karl-Strauss-Brewery-and-Restaurants-Karl-Strauss-Brewery-Gardens-Sorrento-Mesa</id>
   <name>Karl Strauss Brewery &amp; Restaurants: Karl Strauss Brewery Gardens-Sorrento Mesa‎</name>
   <address>
     <street>9675 Scranton Rd</street>

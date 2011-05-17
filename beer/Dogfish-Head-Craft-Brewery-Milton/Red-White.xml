@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Red-White" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.873528906874943" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Red-White</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.873528906874943</calories_per_ml>
+  <abv>10</abv>
   <name>Red &amp; White</name>
   <description>A big, belgian-style Wit brewed with coriander and orange peel and fermented with Pinot Noir juice. After fermentation a fraction of the batch is aged in Oregon Pinot Noir barrels, and another fraction is aged on oak staves. The beer is blended together before packaging.
 This has been one of our most popular Limited Edition beers at both our Rehoboth Beach, DE brewpub and at festivals. It successfully marries the refreshing citrusy qualities of a Belgian-style white beer with the robust complexity of a bold red wine.</description>
@@ -10,10 +14,11 @@ This has been one of our most popular Limited Edition beers at both our Rehoboth
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="16A">Witbier</style>
+    <style><bjcp_style_id>16A</bjcp_style_id>Witbier</style>
   </styles>
   <sizes>
-    <size upc="6-38489-00076-3">
+    <size>
+      <upc>6-38489-00076-3</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>
@@ -25,7 +30,8 @@ This has been one of our most popular Limited Edition beers at both our Rehoboth
         <deposit>$11.39</deposit>
       </distributor>
     </size>
-    <size upc="638489000763">
+    <size>
+      <upc>638489000763</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

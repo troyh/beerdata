@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Spar-Cafe-and-Bar">
+<brewery>
+  <id>McMenamins-Spar-Cafe-and-Bar</id>
   <name>McMenamins Spar Cafe &amp; Bar‎</name>
   <address>
     <street>114 4th Ave E</street>

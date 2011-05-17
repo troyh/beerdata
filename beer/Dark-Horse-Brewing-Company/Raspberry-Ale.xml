@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/Raspberry-Ale" brewery_id="Dark-Horse-Brewing-Company" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/Raspberry-Ale</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
+  <abv>5</abv>
   <name>Raspberry Ale</name>
   <description>A lot of people have asked us "why are there Bee's on the label?" Well, we don't really have an answer for you other than they just look cool. This is a light bodied easy drinking ale. We only use real raspberries so the flavor is very mild fruit and balanced, not what you would expect from a "fruit" beer. The way we see it is we're brewers so lets make good beer, not some fruity carbonated malt beverage. Oh yeah, our motto..."beer first, fruit second".</description>
   <availability/>

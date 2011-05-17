@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Colorado-Belle-Hotel-and-Casino">
+<brewery>
+  <id>Colorado-Belle-Hotel-and-Casino</id>
   <name>Colorado Belle Hotel &amp; Casino‎</name>
   <address>
     <street>2100 S. Casino Drive</street>

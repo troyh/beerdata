@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Hop-Bomb-Ipa" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Hop-Bomb-Ipa</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Hop Bomb IPA</name>
   <description>For the serious hop connoisseur. Five different Northwest hops are blended to produce the citrus, floral and pine aromas that overwhelm your taste buds in this big Northwest hop monster. 2007 Silver medal winner - Great American Beer Festival. American-Style Strong Pale Ale Category.</description>
   <availability>year-round</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Brewdog/Paradox" brewery_id="Brewdog" abv="10" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewdog/Paradox</id>
+  <brewery_id>Brewdog</brewery_id>
+  <abv>10</abv>
+  <ibu>70</ibu>
   <name>Paradox</name>
   <description>The Life and Times of a BrewDog Whisky Cask little acorn into a mighty oak tree, really long ago oak tree turned into a cask by a skilled human cask is then used to mature American Bourbon, releasing wonderful flavours from the oak cask then undertakes a perilous marine voyage across the Atlantic, narrowly escaping the clutches of storms, giant squid and pirates safely at the Scottish distillery it is used to mature the finest Whisky, adding depth and character to the flavours inculcated in the oak cask arrives at BrewDog where we fill it with our Imperial Stout. The ageing process infuses all the Whisky flavours and emblazons the casks journey deep into our smooth robust stout, resulting in an unrivalled taste adventure for the lucky human who gets their paws on the finished masterpiece</description>
   <availability/>

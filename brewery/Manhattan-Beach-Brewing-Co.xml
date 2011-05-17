@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Manhattan-Beach-Brewing-Co">
+<brewery>
+  <id>Manhattan-Beach-Brewing-Co</id>
   <name>Manhattan Beach Brewing Co‎</name>
   <address>
     <street>124 Manhattan Beach Blvd</street>

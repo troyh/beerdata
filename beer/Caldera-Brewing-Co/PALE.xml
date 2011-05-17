@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Caldera-Brewing-Co/PALE" brewery_id="Caldera-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Caldera-Brewing-Co/PALE</id>
+  <brewery_id>Caldera-Brewing-Co</brewery_id>
   <name>PALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="1-88739-00017-8">
+    <size>
+      <upc>1-88739-00017-8</upc>
       <description>CAN 4-6/12</description>
       <distributor>
         <name>columbia</name>

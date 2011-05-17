@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fredericksburg-Brewing-Co-Inc">
+<brewery>
+  <id>Fredericksburg-Brewing-Co-Inc</id>
   <name>Fredericksburg Brewing Co Inc‎</name>
   <address>
     <street>245 E Main St</street>

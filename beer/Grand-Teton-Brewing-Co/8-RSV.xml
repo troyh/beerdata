@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grand-Teton-Brewing-Co/8-RSV" brewery_id="Grand-Teton-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grand-Teton-Brewing-Co/8-RSV</id>
+  <brewery_id>Grand-Teton-Brewing-Co</brewery_id>
   <name>8 RSV</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-39736-08374-4">
+    <size>
+      <upc>6-39736-08374-4</upc>
       <description>BOTTLE 6/33</description>
       <distributor>
         <name>columbia</name>

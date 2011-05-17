@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-St-Feuillien/CUVEE-DE-NOEL" brewery_id="Brewery-St-Feuillien">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-St-Feuillien/CUVEE-DE-NOEL</id>
+  <brewery_id>Brewery-St-Feuillien</brewery_id>
   <name>CUVEE DE NOEL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="4-12138-30331-4">
+    <size>
+      <upc>4-12138-30331-4</upc>
       <description>24/11.2 BTL</description>
       <distributor>
         <name>odom</name>

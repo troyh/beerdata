@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Green-Mill-Brewing-Company">
+<brewery>
+  <id>Green-Mill-Brewing-Company</id>
   <name>Green Mill Brewing Company‎</name>
   <address>
     <street>57 Hamline Ave S</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Coopers/Lager" brewery_id="Coopers">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Coopers/Lager</id>
+  <brewery_id>Coopers</brewery_id>
   <name>Lager</name>
   <description/>
   <availability/>

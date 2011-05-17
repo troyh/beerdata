@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Aktien-Brauerei-Kaufbeuren-AG/DUNKEL-SINGLE-BOCK-ST-MARTIN" brewery_id="Aktien-Brauerei-Kaufbeuren-AG">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Aktien-Brauerei-Kaufbeuren-AG/DUNKEL-SINGLE-BOCK-ST-MARTIN</id>
+  <brewery_id>Aktien-Brauerei-Kaufbeuren-AG</brewery_id>
   <name>DUNKEL SINGLE BOCK ST MARTIN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-34003-11111-1">
+    <size>
+      <upc>7-34003-11111-1</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

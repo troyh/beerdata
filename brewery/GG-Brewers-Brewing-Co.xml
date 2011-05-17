@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="GG-Brewers-Brewing-Co">
+<brewery>
+  <id>GG-Brewers-Brewing-Co</id>
   <name>GG Brewers Brewing Co‎</name>
   <address>
     <street>282 N Keswick Ave</street>

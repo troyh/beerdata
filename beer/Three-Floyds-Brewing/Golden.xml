@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Golden" brewery_id="Three-Floyds-Brewing" abv="4.2" ibu="11">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Golden</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>4.2</abv>
+  <ibu>11</ibu>
   <name>Golden</name>
   <description>Golden is a crisp, clean continental lager. Just four ingredients are all it takes: American malt, Mt. Hood hops, German lager yeast and pure Abita Spring's water. As the name implies, Abita Golden has a brilliant gold color. Its flavor makes this light lager the perfect match for Louisiana Creole food.\nBoth Abita Light and Abita Golden go well with just about anything. Try it with mild rice or pasta dishes, grilled vegetables, grilled chicken and fish, and even with something spicy like Louisiana boiled crawfish, shrimp and crabs. Goat cheeses like feta and chevre pair well with Abita Golden.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Welsh/Esb" brewery_id="Welsh">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Welsh/Esb</id>
+  <brewery_id>Welsh</brewery_id>
   <name>ESB</name>
   <description/>
   <availability/>

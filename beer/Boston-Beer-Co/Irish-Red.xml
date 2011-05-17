@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Irish-Red" brewery_id="Boston-Beer-Co" calories_per_ml="0.50721033302416" abv="5.50" og="14Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Irish-Red</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.50721033302416</calories_per_ml>
+  <abv>5.50</abv>
+  <og>14Plato</og>
   <name>Irish Red</name>
   <description>The gentle rain and fertile soil of Ireland helped inspire this style of ale, known for being remarkably balanced.  Pale and Caramel malts give the beer its rich, deep red color and distinctive caramel flavor.  The sweetness of the malt is pleasantly balanced by a pronounced hop bitterness and an earthy note from the East Kent Goldings hops.  Samuel AdamsÂ® Irish Red finishes smooth and leaves you wanting to take another sip.</description>
   <availability>year round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="General-Lafayette-Inn-and-Brewery-Lafayette-Hill">
+<brewery>
+  <id>General-Lafayette-Inn-and-Brewery-Lafayette-Hill</id>
   <name>General Lafayette Inn &amp; Brewery‎</name>
   <address>
     <street>646 Germantown Pike</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ginga-Kogen-Brewery/WHEAT" brewery_id="Ginga-Kogen-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ginga-Kogen-Brewery/WHEAT</id>
+  <brewery_id>Ginga-Kogen-Brewery</brewery_id>
   <name>WHEAT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="5-15841-00611-6">
+    <size>
+      <upc>5-15841-00611-6</upc>
       <description>BOTTLE 20/300</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="23rd-Street-Brewery">
+<brewery>
+  <id>23rd-Street-Brewery</id>
   <name>23rd Street Brewery‎</name>
   <address>
     <street>3512 Clinton Pkwy</street>

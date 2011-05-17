@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alaskan-Brewing-Co/BARLEY-WNE" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/BARLEY-WNE</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>BARLEY WNE</name>
   <description/>
   <availability/>

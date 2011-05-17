@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Willoughby-Brewing-Co">
+<brewery>
+  <id>Willoughby-Brewing-Co</id>
   <name>Willoughby Brewing Co‎</name>
   <address>
     <street>4057 Erie St</street>

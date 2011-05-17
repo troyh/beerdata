@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Leviathan-Baltic-Porter" brewery_id="Harpoon" abv="9.5" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Leviathan-Baltic-Porter</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>9.5</abv>
+  <ibu>38</ibu>
   <name>Leviathan Baltic Porter</name>
   <description>Dark fruit and bittersweet chocolate notes meld into a spicy finish of this hearty beer made with de-husked roasted malts and a lager yeast. \nOriginal Release: November 2008</description>
   <availability>limited</availability>

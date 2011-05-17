@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Theakston/Old-Peculiar" brewery_id="Theakston">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Theakston/Old-Peculiar</id>
+  <brewery_id>Theakston</brewery_id>
   <name>Old Peculiar</name>
   <description/>
   <availability/>

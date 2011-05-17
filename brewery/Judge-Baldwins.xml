@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Judge-Baldwins">
+<brewery>
+  <id>Judge-Baldwins</id>
   <name>Judge Baldwin's‎</name>
   <address>
     <street>4 S. Cascade Avenue</street>

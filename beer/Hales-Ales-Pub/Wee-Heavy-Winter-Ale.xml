@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hales-Ales-Pub/Wee-Heavy-Winter-Ale" brewery_id="Hales-Ales-Pub">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hales-Ales-Pub/Wee-Heavy-Winter-Ale</id>
+  <brewery_id>Hales-Ales-Pub</brewery_id>
   <name>Wee Heavy Winter Ale</name>
   <description/>
   <availability>winter</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="798644040406">
+    <size>
+      <upc>798644040406</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

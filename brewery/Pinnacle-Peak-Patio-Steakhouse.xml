@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pinnacle-Peak-Patio-Steakhouse">
+<brewery>
+  <id>Pinnacle-Peak-Patio-Steakhouse</id>
   <name>Pinnacle Peak Patio Steakhouse‎</name>
   <address>
     <street>10426 E Jomax Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Rogue-Brewery/MORIMP" brewery_id="Rogue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Brewery/MORIMP</id>
+  <brewery_id>Rogue-Brewery</brewery_id>
   <name>MORIMP</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-95301-13301-4">
+    <size>
+      <upc>0-95301-13301-4</upc>
       <description>BOTTLE 6/750</description>
       <distributor>
         <name>columbia</name>

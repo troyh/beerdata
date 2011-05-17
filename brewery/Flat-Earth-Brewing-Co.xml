@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flat-Earth-Brewing-Co">
+<brewery>
+  <id>Flat-Earth-Brewing-Co</id>
   <name>Flat Earth Brewing Co‎</name>
   <address>
     <street>2035 Benson Ave</street>

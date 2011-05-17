@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Urthel-Brewery/HOP-IT" brewery_id="Urthel-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Urthel-Brewery/HOP-IT</id>
+  <brewery_id>Urthel-Brewery</brewery_id>
   <name>HOP IT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-21009-11111-1">
+    <size>
+      <upc>6-21009-11111-1</upc>
       <description>30L BBL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="7-47934-88039-0">
+    <size>
+      <upc>7-47934-88039-0</upc>
       <description>6/4/11.2 BTL</description>
       <distributor>
         <name>odom</name>

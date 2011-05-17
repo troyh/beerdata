@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-de-Rochefort/ALE-10" brewery_id="Brasserie-de-Rochefort">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-de-Rochefort/ALE-10</id>
+  <brewery_id>Brasserie-de-Rochefort</brewery_id>
   <name>ALE 10'</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-16503-6">
+    <size>
+      <upc>0-85725-16503-6</upc>
       <description>12/11.2 BTL</description>
       <distributor>
         <name>odom</name>

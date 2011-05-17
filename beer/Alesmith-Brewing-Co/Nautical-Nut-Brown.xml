@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alesmith-Brewing-Co/Nautical-Nut-Brown" brewery_id="Alesmith-Brewing-Co" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alesmith-Brewing-Co/Nautical-Nut-Brown</id>
+  <brewery_id>Alesmith-Brewing-Co</brewery_id>
+  <abv>5</abv>
   <name>Nautical Nut Brown </name>
   <description>AleSmith's interpretation of this classic English-style ale is smooth, dark, and rich. A variety of specialty malts produce a brilliant dark brown color and a wonderful malt complexity. A light dose of East Kent Goldings and Styrian Goldings hops from England balance the malt sweetness without adding bitterness to the flavor profile. Reintrodcued at AleSmith in 2002, Nautical Nut Brown ale has quickly become one of our most popular beer</description>
   <availability/>

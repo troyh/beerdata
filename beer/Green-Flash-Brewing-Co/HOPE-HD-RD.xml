@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Green-Flash-Brewing-Co/HOPE-HD-RD" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/HOPE-HD-RD</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>HOPE HD RD</name>
   <description/>
   <availability/>

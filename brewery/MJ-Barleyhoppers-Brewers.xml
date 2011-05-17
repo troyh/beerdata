@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="MJ-Barleyhoppers-Brewers">
+<brewery>
+  <id>MJ-Barleyhoppers-Brewers</id>
   <name>MJ Barleyhoppers Brewers‎</name>
   <address>
     <street>621 21st St</street>

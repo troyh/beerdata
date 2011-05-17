@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tractor-Brewing-Co">
+<brewery>
+  <id>Tractor-Brewing-Co</id>
   <name>Tractor Brewing Co.‎</name>
   <address>
     <street>120 Nelson LN</street>

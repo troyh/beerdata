@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Otter-Summer" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Otter-Summer</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Otter Summer</name>
   <description>Otter Summer is a highly drinkable, light bodied wheat ale. This is a beer built for Summer: a flavor that is slightly tart, with a citrus-like finish. Often served with a slice of fresh lemon, 'Otter Summer is a pleasing and thirst quenching brew.</description>
   <availability>summer</availability>

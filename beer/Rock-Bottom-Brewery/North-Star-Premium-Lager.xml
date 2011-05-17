@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/North-Star-Premium-Lager" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/North-Star-Premium-Lager</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>North Star Premium Lager</name>
   <description>A light straw-colored Premium Lager. Brewed with Pilsen malt for a hint of honey flavor and a light body. Sterling and Perle hops provide the crisp refreshing finish. A great introduction to craft brewed lagers. Great with salads and lighter flavored fare.</description>
   <availability>year-round</availability>

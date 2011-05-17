@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-E-Ales">
+<brewery>
+  <id>Big-E-Ales</id>
   <name>Big E Ales‎</name>
   <address>
     <street>5030 208th St SW</street>

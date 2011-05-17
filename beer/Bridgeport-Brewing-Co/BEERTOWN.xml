@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bridgeport-Brewing-Co/BEERTOWN" brewery_id="Bridgeport-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/BEERTOWN</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
   <name>BEERTOWN</name>
   <description/>
   <availability/>

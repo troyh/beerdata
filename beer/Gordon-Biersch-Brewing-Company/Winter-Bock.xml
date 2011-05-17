@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Gordon-Biersch-Brewing-Company/Winter-Bock" brewery_id="Gordon-Biersch-Brewing-Company" abv="7.5" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gordon-Biersch-Brewing-Company/Winter-Bock</id>
+  <brewery_id>Gordon-Biersch-Brewing-Company</brewery_id>
+  <abv>7.5</abv>
+  <ibu>24</ibu>
   <name>Winter Bock</name>
   <description>In the 11th century, Bavarian monks sustained themselves during winter fasts with beers made from strong, dark flavored malts. These creamy bocks ensured that the monks would fast frequently.</description>
   <availability>winter</availability>

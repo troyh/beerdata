@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Crosley-Field-Pale-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Crosley-Field-Pale-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Crosley Field Pale Ale</name>
   <description>A true classic American Pale Alebrewed with an aggressive amount of hops which give a dry citrus character. This beer finishes with a slight malt sweetness, aiding in its well-balanced, flavorful character.</description>
   <availability>year-round</availability>

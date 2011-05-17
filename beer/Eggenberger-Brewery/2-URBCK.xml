@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eggenberger-Brewery/2-URBCK" brewery_id="Eggenberger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eggenberger-Brewery/2-URBCK</id>
+  <brewery_id>Eggenberger-Brewery</brewery_id>
   <name>2 URBCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-08782-50222-6">
+    <size>
+      <upc>6-08782-50222-6</upc>
       <description>BOTTLE 6/11</description>
       <distributor>
         <name>columbia</name>

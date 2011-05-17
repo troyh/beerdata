@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Workingmans-Red" brewery_id="Mcmenamins" abv="4.77">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Workingmans-Red</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>4.77</abv>
   <name>Workingman's Red</name>
   <description>Embrace the change of seasons with McMenamins Spring Seasonal, Workingman's Red. The Vernal Equinox celebrates the renewed life of the Earth that comes with spring. It is a solar festival, observed when the length of night and day (on the equator, at least) are equal, striking a perfect balance between dark and light. Workingman's Red is an exceptional beer for the occasion, since its reddish hue strikes a perfect balance between the darker beers of winter and the lighter beers of summer. Its flavor is also perfectly balanced between the sweetness derived from malted barley and the bitterness derived from whole hop cones. \nThe Irish Red style was first brewed in Ireland by Franciscan monks sometime in the 14th century, which was long before stout became the national drink. The use of unmalted roasted barley reflected the Irish tradition of dodging British-imposed malt taxes while adding depth and complexity to the ale's character. It gained appeal as a restorative brew to slake the thirsts of farm hands at harvest time and, later, industrial workers after a day in the factory. An exceptionally drinkable quality characterized this ale. The same can be said for Workingman's Red, which has a deep mahogany color and a slight, malty sweetness up front. This rich foundation and flavor is surprisingly smooth due to the perfect balance of noble hop flavors. It finishes with a toasty mouth feel and a bold, aromatic hop character that compliments the up front sweetness exquisitely. \nWorkingman's Red is flavorful enough to satisfy discerning tastes, but still quaffable enough to quench the mighty thirst of the workingman. Strike a balance this spring with Workingman's Red.</description>
   <availability>spring</availability>

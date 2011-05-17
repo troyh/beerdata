@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/Pine-Marten-Pale-Ale" brewery_id="Cascade-Lakes-Brewing-Co" abv="5.10" og="1.050" fg="1.012" ibu="38">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/Pine-Marten-Pale-Ale</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>5.10</abv>
+  <og>1.050</og>
+  <fg>1.012</fg>
+  <ibu>38</ibu>
   <name>Pine Marten Pale Ale</name>
   <description>This beer has a floral hop aroma to die for and a medium bodied malty character that brings terrific balance.Â  A significant amount of time and effort has gone into perfecting this anytime adult beverage refreshment!</description>
   <availability>year round</availability>
@@ -9,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10A">American Pale Ale</style>
+    <style><bjcp_style_id>10A</bjcp_style_id>American Pale Ale</style>
   </styles>
   <sizes>
     <size>

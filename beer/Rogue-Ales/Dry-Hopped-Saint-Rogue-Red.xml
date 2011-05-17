@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Dry-Hopped-Saint-Rogue-Red" brewery_id="Rogue-Ales" ibu="44">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Dry-Hopped-Saint-Rogue-Red</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>44</ibu>
   <name>Dry Hopped Saint Rogue Red</name>
   <description>Reddish copper in color, a roasty malty flavor, with a hoppy-spruce finish.</description>
   <availability/>

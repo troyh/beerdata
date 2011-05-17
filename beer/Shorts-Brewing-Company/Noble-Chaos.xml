@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Noble-Chaos" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Noble-Chaos</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Noble Chaos</name>
   <description>This is our Oktoberfest style lager. This beer is well balanced with Noble hop additions which provide a subtle bouquet and a nice malty nose. The flavor is unique and inviting, providing a full bodied beer from rich caramel, and other hearty malted grains. A highly sought after seasonal.</description>
   <availability>Fall</availability>

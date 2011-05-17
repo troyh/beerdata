@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boulder-Beer-Company/HAZED-AND-INFUSED" brewery_id="Boulder-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Company/HAZED-AND-INFUSED</id>
+  <brewery_id>Boulder-Beer-Company</brewery_id>
   <name>HAZED AND INFUSED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50939-12127-7">
+    <size>
+      <upc>0-50939-12127-7</upc>
       <description>2/12/12 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="0-50939-61204-1">
+    <size>
+      <upc>0-50939-61204-1</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

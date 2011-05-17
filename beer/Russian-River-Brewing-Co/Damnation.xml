@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Russian-River-Brewing-Co/Damnation" brewery_id="Russian-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/Damnation</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
   <name>Damnation</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="892543000025">
+    <size>
+      <upc>892543000025</upc>
       <description>12/750 ml</description>
       <distributor>
         <name>click</name>

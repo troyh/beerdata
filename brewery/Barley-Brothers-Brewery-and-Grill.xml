@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barley-Brothers-Brewery-and-Grill">
+<brewery>
+  <id>Barley-Brothers-Brewery-and-Grill</id>
   <name>Barley Brothers Brewery and Grill‎</name>
   <address>
     <street>1425 McCulloch Blvd</street>

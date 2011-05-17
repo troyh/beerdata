@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Alt" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Alt</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>ALT</name>
   <description>Saluting our continued survival on this planet we decided to go all out with New Glarus ALT. The Brilliant bronze body was cultivated in a three hour kettle boil of Caramel malts and Raw Turbinado Sugar. Aged in Oak in open top fermentors followed by a second round of bottle conditioning. \nA firm head of foam sweeps brisk hop notes of Syrian Golding and German Hallertau to your nose. A defiant anomaly tenacious and independent this is a flavor experience to relish.</description>
   <availability>retired</availability>

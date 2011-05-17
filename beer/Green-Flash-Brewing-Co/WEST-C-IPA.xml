@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Green-Flash-Brewing-Co/WEST-C-IPA" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/WEST-C-IPA</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>WEST C IPA</name>
   <description/>
   <availability/>

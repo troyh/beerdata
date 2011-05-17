@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Harpoon-Brewery-Boston">
+<brewery>
+  <id>Harpoon-Brewery-Boston</id>
   <name>Harpoon Brewery‎</name>
   <address>
     <street>306 Northern Ave</street>

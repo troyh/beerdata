@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/V-saison" brewery_id="Victory-Brewing-Co" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/V-saison</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>7.5</abv>
   <name>V-Saison</name>
   <description>Our latest release in the V Series of bottle conditioned, Belgian-inspired ales is heady with an earthy, aromatic hop start. Involving hops from the Czech Republic, Germany and England, this flavorful ale slides into flavors of honey and mildly tart fruit. Leaving a refreshing impression of dryness, this is a quenching, invigorating ale, despite it substantial strength at 7.5% abv.</description>
   <availability/>

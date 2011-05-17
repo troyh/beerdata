@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Trademark-Pale-Ale" brewery_id="Breckenridge-Brewery" abv="5.7" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Trademark-Pale-Ale</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>5.7</abv>
+  <ibu>40</ibu>
   <name>Trademark Pale Ale</name>
   <description>Demanding beer for demanding beer drinkers -- that's our Pale Ale. We craft this American pale ale with hearty amounts of pale and Munich malts, then balance it with lofty amounts of hops throughout. It's a finessed version of hop-head fun -- a black diamond beer without the bumps and dangerous curves.</description>
   <availability>year-round</availability>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Nine" brewery_id="Kuhnhenn-Brewing-Co" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Nine</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
+  <abv>9</abv>
   <name>Nine</name>
   <description>A brown Belgian Abbey Style ale. Caramel, banana, buscuit and fruity-aromas contribute to the balance of this strong, complex beer. A sweet, bready and caramel flavor follows with a silky, creamy finish.</description>
   <availability/>

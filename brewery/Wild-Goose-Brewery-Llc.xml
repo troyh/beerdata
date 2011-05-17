@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wild-Goose-Brewery-Llc">
+<brewery>
+  <id>Wild-Goose-Brewery-Llc</id>
   <name>Wild Goose Brewery Llc‎</name>
   <address>
     <street>4607 Wedgewood Blvd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Unplugged" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Unplugged</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged UNPLUGGED</name>
   <description>Third in our "Unplugged" series is a Belgian Style Triple. This beer is handcrafted in the Monastic tradition and bottle fermented for a slightly dry finish. The incredibly complex layers of fruit and spice tones will sing on your palette. Those born with saintly patience might lay this beer down for a year or more, the rest of us will enjoy the bold smoothness of this Triple today.</description>
   <availability>retired</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Le-Merle" brewery_id="North-Coast-Brewing-Co" abv="7.9" ibu="26">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Le-Merle</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>7.9</abv>
+  <ibu>26</ibu>
   <name>Le Merle</name>
   <description>Le Merle is a rustic ale, pale in color, inspired by the rich brewing traditions of the Flanders region. Abundant hops and a Belgian yeast strain contribute exotic aromas of tropical fruit.</description>
   <availability/>

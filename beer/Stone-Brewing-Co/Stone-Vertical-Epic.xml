@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Stone-Vertical-Epic" brewery_id="Stone-Brewing-Co" abv="varies" ibu="varies">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Stone-Vertical-Epic</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>varies</abv>
+  <ibu>varies</ibu>
   <name>Stone Vertical Epic</name>
   <description>As with any good epic, herein lies the promise of larger-than-life experiences, heroics and twists &amp; turns as the adventure unfolds. These bottle-conditioned ales are specifically designed to be aged until sometime after December 12th, 2012. Provided you can wait that long. At that time, enjoy them in a "vertical" tasting. Each one unique to it's year of release. Each with its own "twist &amp; turn" in the plotline. Each one released one year, one month and one day from the previous year's edition. To remind you, the remaining dates are: 09.09.09, 10.10.10, 11.11.11., 12.12.12</description>
   <availability>Summer 2009</availability>

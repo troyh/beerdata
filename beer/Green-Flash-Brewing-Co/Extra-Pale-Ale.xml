@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Green-Flash-Brewing-Co/Extra-Pale-Ale" brewery_id="Green-Flash-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Green-Flash-Brewing-Co/Extra-Pale-Ale</id>
+  <brewery_id>Green-Flash-Brewing-Co</brewery_id>
   <name>Extra Pale Ale</name>
   <description>This American-Style Pale Ale has a bright golden color as the name indicates. Cascade hops impart a floral aroma that is accented by citrus notes lent from Chinook hops. The hop flavors mingle with premium pale malted barley to create a flavorful ale that is crisp and refreshing.</description>
   <availability/>

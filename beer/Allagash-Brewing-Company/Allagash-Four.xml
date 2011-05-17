@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-Four" brewery_id="Allagash-Brewing-Company" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-Four</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>10</abv>
   <name>Allagash Four</name>
   <description>Allagash Four is brewed with four malts, four hops, four sugars and four Belgian yeast strains. During the mashing process, we add Date Sugar to the mash tun. Later, during the boil, we add Light Candi, Dark Candi, and Light Golden Molasses. After primary fermentation with the first strain of yeast, we add more Candi Sugar, and referment the beer with a secondary strain of yeast... that process is then repeated with a third strain of yeast, and finally a fourth for bottle conditioning in the cellar. The Allagash Four Ale is presented in a strikingly decorated bottle, and is truly a unique beer!</description>
   <availability/>

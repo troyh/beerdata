@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Badger-Stripe-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Badger-Stripe-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Badger Stripe Ale</name>
   <description>This well balanced Red Ale has deep caramel malt flavors from the imported malts and a subtle citrus hop character. A great first stop into darker Ales, it's the House Burger's best friend.</description>
   <availability>year-round</availability>

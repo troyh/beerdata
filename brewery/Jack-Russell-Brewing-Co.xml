@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jack-Russell-Brewing-Co">
+<brewery>
+  <id>Jack-Russell-Brewing-Co</id>
   <name>Jack Russell Brewing Co‎</name>
   <address>
     <street>2380 Larsen Dr</street>

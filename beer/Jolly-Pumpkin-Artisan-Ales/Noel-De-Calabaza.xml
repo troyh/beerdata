@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Noel-De-Calabaza" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Noel-De-Calabaza</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>9</abv>
   <name>Noel de Calabaza</name>
   <description>Deep mahogany and malty, layered hops, figs, raisins, sugar plums, cashews betwixt rum laden truffles.</description>
   <availability>winter</availability>

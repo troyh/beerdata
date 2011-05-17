@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Midnight-Sun-Brewing-Co">
+<brewery>
+  <id>Midnight-Sun-Brewing-Co</id>
   <name>Midnight Sun Brewing Co‎</name>
   <address>
     <street>7329 Arctic Blvd</street>

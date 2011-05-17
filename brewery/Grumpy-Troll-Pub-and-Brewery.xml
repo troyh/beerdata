@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Grumpy-Troll-Pub-and-Brewery">
+<brewery>
+  <id>Grumpy-Troll-Pub-and-Brewery</id>
   <name>Grumpy Troll Pub &amp; Brewery‎</name>
   <address>
     <street>105 S 2nd St</street>

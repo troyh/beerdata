@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Opa-Opa-Steakhouse-and-Brewery">
+<brewery>
+  <id>Opa-Opa-Steakhouse-and-Brewery</id>
   <name>Opa Opa Steakhouse &amp; Brewery‎</name>
   <address>
     <street>169 College Hwy</street>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Aprilhop" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.676280444032214" abv="7" ibu="55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Aprilhop</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.676280444032214</calories_per_ml>
+  <abv>7</abv>
+  <ibu>55</ibu>
   <name>Aprilhop</name>
   <description>Brewed with luscious apricots, finished with whole-leaf hops. </description>
   <availability>Spring</availability>

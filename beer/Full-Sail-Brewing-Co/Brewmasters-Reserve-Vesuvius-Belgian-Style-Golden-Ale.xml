@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Vesuvius-Belgian-Style-Golden-Ale" brewery_id="Full-Sail-Brewing-Co" abv="8.2" ibu="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Brewmasters-Reserve-Vesuvius-Belgian-Style-Golden-Ale</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <abv>8.2</abv>
+  <ibu>24</ibu>
   <name>Brewmaster's Reserve: Vesuvius Belgian Style Golden Ale</name>
   <description>Strong in flavor and alcohol yet light in color and malt character this style has the warming presence of alcohol and is hopped for a nice balance.</description>
   <availability>Fall</availability>

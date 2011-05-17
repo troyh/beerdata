@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Caldera-Brewing-Co/PASS-FRUIT" brewery_id="Caldera-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Caldera-Brewing-Co/PASS-FRUIT</id>
+  <brewery_id>Caldera-Brewing-Co</brewery_id>
   <name>PASS FRUIT</name>
   <description/>
   <availability/>

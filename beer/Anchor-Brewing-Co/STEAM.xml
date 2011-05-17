@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Anchor-Brewing-Co/STEAM" brewery_id="Anchor-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing-Co/STEAM</id>
+  <brewery_id>Anchor-Brewing-Co</brewery_id>
   <name>STEAM</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mehana-Brewing-Co">
+<brewery>
+  <id>Mehana-Brewing-Co</id>
   <name>Mehana Brewing Co‎</name>
   <address>
     <street>275 E Kawili St</street>

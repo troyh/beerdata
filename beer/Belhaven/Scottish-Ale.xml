@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Belhaven/Scottish-Ale" brewery_id="Belhaven">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Belhaven/Scottish-Ale</id>
+  <brewery_id>Belhaven</brewery_id>
   <name>Scottish Ale</name>
   <description/>
   <availability/>

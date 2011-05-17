@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Manayunk-Brewery-and-Restaurant">
+<brewery>
+  <id>Manayunk-Brewery-and-Restaurant</id>
   <name>Manayunk Brewery &amp; Restaurant‎</name>
   <address>
     <street>4120 Main St</street>

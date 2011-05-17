@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Two-Rows-Restaurant-and-Brewery">
+<brewery>
+  <id>Two-Rows-Restaurant-and-Brewery</id>
   <name>Two Rows Restaurant &amp; Brewery‎</name>
   <address>
     <street>17225 Dallas Pkwy</street>

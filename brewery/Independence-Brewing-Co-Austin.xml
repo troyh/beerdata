@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Independence-Brewing-Co-Austin">
+<brewery>
+  <id>Independence-Brewing-Co-Austin</id>
   <name>Independence Brewing Co‎</name>
   <address>
     <street>3913 Todd Ln</street>

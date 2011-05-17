@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Bigfoot-Barleywine-Style-Ale" brewery_id="Sierra-Nevada-Brewing-Co" abv="9.6" ibu="90">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/Sierra-Nevada-Bigfoot-Barleywine-Style-Ale</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
+  <abv>9.6</abv>
+  <ibu>90</ibu>
   <name>Sierra Nevada Bigfoot Barleywine Style Ale</name>
-  <description>This year marks the 25th release of Bigfoot&#xA8;. Our award-winning barleywine boasts a dense, fruity bouquet, an intense flavor palate and a deep reddish-brown color. Its big maltiness is superbly balanced by a wonderfully bittersweet hoppiness.</description>
+  <description>This year marks the 25th release of Bigfoot¨. Our award-winning barleywine boasts a dense, fruity bouquet, an intense flavor palate and a deep reddish-brown color. Its big maltiness is superbly balanced by a wonderfully bittersweet hoppiness.</description>
   <availability>Limited</availability>
   <ingredients/>
   <grains>Two-row Pale &amp; English Caramel</grains>

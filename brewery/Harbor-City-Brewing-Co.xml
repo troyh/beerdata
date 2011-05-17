@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Harbor-City-Brewing-Co">
+<brewery>
+  <id>Harbor-City-Brewing-Co</id>
   <name>Harbor City Brewing Co‎</name>
   <address>
     <street>535 W Grand Ave</street>

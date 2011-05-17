@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/120-Minute-IPA" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="1.2680258325604" abv="20" ibu="120">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/120-Minute-IPA</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>1.2680258325604</calories_per_ml>
+  <abv>20</abv>
+  <ibu>120</ibu>
   <name>120 Minute IPA</name>
   <description>Too extreme to be called beer? Brewed to a colossal 45-degree plato, boiled for a full 2 hours while being continuously hopped with high-alpha American hops, then dry-hopped daily in the fermenter for a month &amp; aged for another month on whole-leaf hops!!! Our 120 Minute I.P.A. is by far the biggest I.P.A. ever brewed! At 20% abv and 120 ibus you can see why we call this beer THE HOLY GRAIL for hopheads!</description>
   <availability>Limited</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="14C">Imperial IPA</style>
+    <style><bjcp_style_id>14C</bjcp_style_id>Imperial IPA</style>
   </styles>
   <sizes>
     <size>
@@ -24,7 +29,8 @@
         <deposit>$218.79</deposit>
       </distributor>
     </size>
-    <size upc="638489000206">
+    <size>
+      <upc>638489000206</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

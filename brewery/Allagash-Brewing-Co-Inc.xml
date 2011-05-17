@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Allagash-Brewing-Co-Inc">
+<brewery>
+  <id>Allagash-Brewing-Co-Inc</id>
   <name>Allagash Brewing Co Inc‎</name>
   <address>
     <street>50 Industrial Way</street>

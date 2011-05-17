@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Amber" brewery_id="Alaskan-Brewing-Co" abv="5.3" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Amber</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+  <abv>5.3</abv>
+  <ibu>18</ibu>
   <name>Amber</name>
   <description>Richly malty and long on the palate, with just enough hop backing to make this beautiful amber colored "alt" style beer notably well balanced. Alaskan Amber is based on a recipe from a turn-of-the-century brewery in the Juneau area. It was voted "Best Beer in the Nation" in the 1988 Great American Beer Festival Consumer Poll.</description>
   <availability>year-round</availability>
@@ -23,7 +27,7 @@
       </distributor>
     </size>
   </sizes>
- <styles>
+  <styles>
     <style>Altbier</style>
   </styles>
 </beer>

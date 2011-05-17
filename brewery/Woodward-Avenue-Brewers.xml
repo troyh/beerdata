@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Woodward-Avenue-Brewers">
+<brewery>
+  <id>Woodward-Avenue-Brewers</id>
   <name>Woodward Avenue Brewers‎</name>
   <address>
     <street>22646 Woodward Ave</street>

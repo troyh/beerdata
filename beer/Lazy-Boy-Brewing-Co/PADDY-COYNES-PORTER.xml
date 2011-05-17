@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lazy-Boy-Brewing-Co/PADDY-COYNES-PORTER" brewery_id="Lazy-Boy-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lazy-Boy-Brewing-Co/PADDY-COYNES-PORTER</id>
+  <brewery_id>Lazy-Boy-Brewing-Co</brewery_id>
   <name>PADDY COYNES PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="4-46021-11111-1">
+    <size>
+      <upc>4-46021-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

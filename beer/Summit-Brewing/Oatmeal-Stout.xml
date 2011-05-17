@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Oatmeal-Stout" brewery_id="Summit-Brewing" abv="4.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Oatmeal-Stout</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>4.7</abv>
   <name>Oatmeal Stout</name>
   <description>While it may resemble a popular Irish stout, our Oatmeal Stout is quite different.  Most notably it's sweeter.  Chocolate, coffee and caramel flavors round out this smooth, full-bodied beer.</description>
   <availability>Limited</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/White-Tiger-Wheat" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/White-Tiger-Wheat</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>White Tiger Wheat</name>
   <description>A Southern German-style Hefeweizen. The Bavarian yeast strain used adds a unique blend of banana and clove characteristics. This unfiltered wheatbeer finishes with a crisp spiciness.</description>
   <availability>year-round</availability>

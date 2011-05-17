@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brauerei-Veltins/GERMAN-PILSNER" brewery_id="Brauerei-Veltins">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brauerei-Veltins/GERMAN-PILSNER</id>
+  <brewery_id>Brauerei-Veltins</brewery_id>
   <name>GERMAN PILSNER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

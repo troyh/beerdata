@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Warbird-Brewing-CO-Fort-Wayne">
+<brewery>
+  <id>Warbird-Brewing-CO-Fort-Wayne</id>
   <name>Warbird Brewing CO‎</name>
   <address>
     <street>10510 Majic Port Ln</street>

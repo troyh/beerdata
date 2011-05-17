@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mill-Steakhouse">
+<brewery>
+  <id>Mill-Steakhouse</id>
   <name>Mill Steakhouse‎</name>
   <address>
     <street>5798 S Rapp St</street>

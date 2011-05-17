@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-der-Trappisten-van-Westmalle/TRIPLE" brewery_id="Brouwerij-der-Trappisten-van-Westmalle">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-der-Trappisten-van-Westmalle/TRIPLE</id>
+  <brewery_id>Brouwerij-der-Trappisten-van-Westmalle</brewery_id>
   <name>TRIPLE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-15406-0">
+    <size>
+      <upc>0-85725-15406-0</upc>
       <description>6/750ML</description>
       <distributor>
         <name>odom</name>

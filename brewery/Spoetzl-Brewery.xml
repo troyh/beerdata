@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Spoetzl-Brewery">
+<brewery>
+  <id>Spoetzl-Brewery</id>
   <name>Spoetzl Brewery‎</name>
   <address>
     <street>Brewery NO1 St</street>

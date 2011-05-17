@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Hands-Off-Maibock" brewery_id="Bullfrog-Brewery" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Hands-Off-Maibock</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>8</abv>
   <name>Hands Off Maibock</name>
   <description>A springtime favorite, this traditional German Maibock (my-bock) is golden in color with a rich maltiness and a long, spicy finish</description>
   <availability/>

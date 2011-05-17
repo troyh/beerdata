@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Arrogant-Bastard-Ale" brewery_id="Stone-Brewing-Co" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Arrogant-Bastard-Ale</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>7.2</abv>
   <name>Arrogant Bastard Ale</name>
   <description>This is an aggressive beer. You probably won't like it. It is quite doubtful that you have the taste or sophistication to be able to appreciate an ale of this quality and depth. We would suggest that you stick to safer and more familiar territory--maybe something with a multi-million dollar campaign aimed at convincing you it's made in a little brewery, or one that implies that their tasteless fizzy yellow beer will give you more sex appeal. Perhaps you think multi-million dollar ad campaigns make a beer taste better. Perhaps you're mouthing your words as you read this. </description>
   <availability/>

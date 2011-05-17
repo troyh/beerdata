@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Backcountry-Brewery-Frisco">
+<brewery>
+  <id>Backcountry-Brewery-Frisco</id>
   <name>Backcountry Brewery‎</name>
   <address>
     <street>720 Main St</street>

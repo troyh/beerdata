@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Esb-Early-Spring-Beer" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.9" ibu="45-46">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/Sierra-Nevada-Esb-Early-Spring-Beer</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
+  <ibu>45-46</ibu>
   <name>Sierra Nevada ESB Early Spring Beer</name>
   <description>Our ESB combines the best of English tradition with West Coast style. A blend of malts featuring British-grown Maris Otter is balanced with the earthy spiciness of hand-selected English and US hops. The ale is left unfiltered, which enhances mouthfeel and hop aroma creating a slightly reddish-copper hue.</description>
   <availability>Spring</availability>

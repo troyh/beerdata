@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Belgium-Brewing-Company/Frambozen" brewery_id="New-Belgium-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Belgium-Brewing-Company/Frambozen</id>
+  <brewery_id>New-Belgium-Brewing-Company</brewery_id>
   <name>Frambozen</name>
   <description>Frambozen begins with the aroma of fresh red raspberries, followed by the ripe seductiveness of a fruity brown ale with depth and delicate malt notes. It is deep ruby in color, with flavors just as rich. Every year, New Belgium sends a delegate to the Pacific Northwest to oversee the process of turning freshly picked berries into a pure juice to be added in fermentation. The coming of Thanksgiving at New Belgium is ushered in with the first sighting of our cellar operators scuttling about, covered head to tow in a festive crimson berry wash.</description>
   <availability>fall</availability>

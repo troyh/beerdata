@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Maibock" brewery_id="Harpoon" abv="5.8" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Maibock</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>5.8</abv>
+  <ibu>40</ibu>
   <name>Maibock</name>
   <description>The big, malty scent of the Harpoon 100 Barrel Series Maibock is present just above the floral hop nose. The combination of five malts creates a full, smooth texture that yields a clean, dry bitterness. This is a full-bodied beer with a pronounced hop and malt character.</description>
   <availability>limited</availability>

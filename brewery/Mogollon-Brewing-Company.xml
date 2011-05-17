@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mogollon-Brewing-Company">
+<brewery>
+  <id>Mogollon-Brewing-Company</id>
   <name>Mogollon Brewing Company‎</name>
   <address>
     <street>15 N Agassiz St</street>

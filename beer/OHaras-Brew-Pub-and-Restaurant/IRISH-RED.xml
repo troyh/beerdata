@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="OHaras-Brew-Pub-and-Restaurant/IRISH-RED" brewery_id="OHaras-Brew-Pub-and-Restaurant">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>OHaras-Brew-Pub-and-Restaurant/IRISH-RED</id>
+  <brewery_id>OHaras-Brew-Pub-and-Restaurant</brewery_id>
   <name>IRISH RED</name>
   <description/>
   <availability/>
@@ -21,7 +23,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="8-01333-00025-1">
+    <size>
+      <upc>8-01333-00025-1</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

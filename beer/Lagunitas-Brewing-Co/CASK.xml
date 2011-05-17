@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lagunitas-Brewing-Co/CASK" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/CASK</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>CASK</name>
   <description/>
   <availability/>

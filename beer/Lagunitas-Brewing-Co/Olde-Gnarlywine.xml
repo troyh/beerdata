@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Olde-Gnarlywine" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Olde-Gnarlywine</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>Olde GnarlyWine</name>
   <description>The Annual release of our BarleyWine... This is Surely Not a Beer for the Designated Driver.</description>
   <availability>Limited</availability>

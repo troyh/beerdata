@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Selins-Grove-Brewing-Company/Shade-Mountain-Organic-Oatmeal-Stout" brewery_id="Selins-Grove-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Selins-Grove-Brewing-Company/Shade-Mountain-Organic-Oatmeal-Stout</id>
+  <brewery_id>Selins-Grove-Brewing-Company</brewery_id>
   <name>Shade Mountain Organic Oatmeal Stout</name>
   <description/>
   <availability/>

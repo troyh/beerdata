@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barrio-Brewing-Co-Tucson">
+<brewery>
+  <id>Barrio-Brewing-Co-Tucson</id>
   <name>Barrio Brewing Co‎</name>
   <address>
     <street>800 E 16th St</street>

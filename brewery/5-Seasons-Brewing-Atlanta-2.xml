@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="5-Seasons-Brewing-Atlanta-2">
+<brewery>
+  <id>5-Seasons-Brewing-Atlanta-2</id>
   <name>5 Seasons Brewing‎</name>
   <address>
     <street>5600 Roswell Rd NE # 21</street>

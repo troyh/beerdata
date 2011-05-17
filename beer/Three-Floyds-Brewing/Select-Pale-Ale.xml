@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Pale-Ale" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Pale-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Pale Ale</name>
   <description>Our Pale Ale is made with Maris Otter Pale Malt from Norfolk, England. Maris Otter barley has been a favorite of English brewers for decades because of its rich color and exceptionally full-bodied flavor. We liberally hopped and dry hopped our Ale with American Cascade hops and fermented it with Pale Ale yeast. The use of our pristine and unaltered Abita Springs water softens the bitterness of the hops. The result is burnish orange ale with a rich body, fruity esters, and a snappy fresh citrus hop flavor.</description>
   <availability>retired</availability>

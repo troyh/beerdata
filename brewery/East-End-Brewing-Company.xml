@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="East-End-Brewing-Company">
+<brewery>
+  <id>East-End-Brewing-Company</id>
   <name>East End Brewing Company‎</name>
   <address>
     <street>6923 Susquehanna St.</street>

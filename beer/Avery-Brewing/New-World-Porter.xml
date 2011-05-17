@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/New-World-Porter" brewery_id="Avery-Brewing" abv="6.7" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/New-World-Porter</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>6.7</abv>
+  <ibu>45</ibu>
   <name>New World Porter</name>
   <description>A traditional black porter, with a surprise twist - it's dry-hopped!! We've expanded the porter category a bit, adding a delightful, dry hop aroma to blend with the sweet caramel and chocolate characteristics of a Robust Porter.</description>
   <availability>Spring</availability>

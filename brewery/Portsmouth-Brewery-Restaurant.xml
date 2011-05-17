@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Portsmouth-Brewery-Restaurant">
+<brewery>
+  <id>Portsmouth-Brewery-Restaurant</id>
   <name>Portsmouth Brewery Restaurant‎</name>
   <address>
     <street>56 Market St</street>

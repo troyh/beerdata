@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Wassial-Winter-Ale" brewery_id="Full-Sail-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Wassial-Winter-Ale</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
   <name>Wassial Winter Ale</name>
   <description>A few unmistakable signs tell us when winter has arrived here in Hood River. The waterfalls in the Gorge start kicking out the jams. The snow report for the backcountry regains its hold over us. And the Wassail starts flowing once again. We've brewed Wassail every holiday season since 1988, and it's now as much a part of the festivities as sharing a roaring fire with our closest family and friends. A deep mahogany color, Wassail is brewed with four different malts and a blend of Pacific Northwest hops, giving it a malty full body and a pleasantly hoppy finish that appeals to both hop and malt lovers alike. In other words, a Christmas miracle.</description>
   <availability>Winter</availability>

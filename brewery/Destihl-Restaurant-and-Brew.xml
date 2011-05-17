@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Destihl-Restaurant-and-Brew">
+<brewery>
+  <id>Destihl-Restaurant-and-Brew</id>
   <name>Destihl Restaurant &amp; Brew‎</name>
   <address>
     <street>318 S Towanda Ave</street>

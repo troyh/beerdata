@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bloomington-Brewing-Co">
+<brewery>
+  <id>Bloomington-Brewing-Co</id>
   <name>Bloomington Brewing Co‎</name>
   <address>
     <street>1795 E 10th St</street>

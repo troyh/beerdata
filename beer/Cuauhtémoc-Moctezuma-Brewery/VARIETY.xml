@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cuauhtémoc-Moctezuma-Brewery/VARIETY" brewery_id="Cuauhtémoc-Moctezuma-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cuauhtémoc-Moctezuma-Brewery/VARIETY</id>
+  <brewery_id>Cuauhtémoc-Moctezuma-Brewery</brewery_id>
   <name>VARIETY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-86232-13532-0">
+    <size>
+      <upc>7-86232-13532-0</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

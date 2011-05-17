@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="OGaras-Bar-and-Grill">
+<brewery>
+  <id>OGaras-Bar-and-Grill</id>
   <name>O'Gara's Bar and Grill‎</name>
   <address>
     <street>164 Snelling Ave N</street>

@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Imperial-Stout" brewery_id="Harpoon" abv="7.7" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Imperial-Stout</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>7.7</abv>
+  <ibu>50</ibu>
   <name>Imperial Stout</name>
-  <description>Imperial Stout had its noble beginnings in the late 18th century to appease the Tsarist courts of Empress Catherine II. With an original gravity of 19&#xA1; P, high percentages of roasted barley, brown and caramel malts, and the finest noble English hops, this beer will surely keep the winter chill off.</description>
+  <description>Imperial Stout had its noble beginnings in the late 18th century to appease the Tsarist courts of Empress Catherine II. With an original gravity of 19¡ P, high percentages of roasted barley, brown and caramel malts, and the finest noble English hops, this beer will surely keep the winter chill off.</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

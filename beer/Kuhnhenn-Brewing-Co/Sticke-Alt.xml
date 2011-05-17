@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Sticke-Alt" brewery_id="Kuhnhenn-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Sticke-Alt</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
   <name>Sticke Alt</name>
   <description/>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Karl-Strauss/Holiday-Beer" brewery_id="Karl-Strauss" ibu="limited">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Karl-Strauss/Holiday-Beer</id>
+  <brewery_id>Karl-Strauss</brewery_id>
+  <ibu>limited</ibu>
   <name>Holiday Beer</name>
   <description/>
   <availability/>

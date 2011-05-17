@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Furthermore-Beer">
+<brewery>
+  <id>Furthermore-Beer</id>
   <name>Furthermore Beer‎</name>
   <address>
     <street>525 E Madison St</street>

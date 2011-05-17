@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Highland-Brewing-Co">
+<brewery>
+  <id>Highland-Brewing-Co</id>
   <name>Highland Brewing Co‎</name>
   <address>
     <street>12 Old Charlotte Hwy # H</street>

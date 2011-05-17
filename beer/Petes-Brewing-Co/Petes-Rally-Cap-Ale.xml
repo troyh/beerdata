@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Petes-Brewing-Co/Petes-Rally-Cap-Ale" brewery_id="Petes-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Petes-Brewing-Co/Petes-Rally-Cap-Ale</id>
+  <brewery_id>Petes-Brewing-Co</brewery_id>
   <name>Pete's Rally Cap Ale</name>
   <description>The key ingredient to a good summer is a GREAT brew! Born to play, Pete's Wicked Rally Cap Ale is crafted with a special blend of pale and wheat malts, Mt. Hood hops and a smack of natural lemon. Get in the game... Get Wicked!</description>
   <availability/>

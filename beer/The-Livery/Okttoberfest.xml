@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Okttoberfest" brewery_id="The-Livery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Okttoberfest</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>5.5</abv>
   <name>Okttoberfest</name>
   <description>Traditionally brewed to celebrate the harvest season in the fall, this Lager has an amber/copper color and a nutty malt flavor. Available September through November.</description>
   <availability/>

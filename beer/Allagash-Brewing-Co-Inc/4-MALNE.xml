@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allagash-Brewing-Co-Inc/4-MALNE" brewery_id="Allagash-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Co-Inc/4-MALNE</id>
+  <brewery_id>Allagash-Brewing-Co-Inc</brewery_id>
   <name>4 MALNE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-03675-10995-7">
+    <size>
+      <upc>6-03675-10995-7</upc>
       <description>BOTTLE 6/25</description>
       <distributor>
         <name>columbia</name>

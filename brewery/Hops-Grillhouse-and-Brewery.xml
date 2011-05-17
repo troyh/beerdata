@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="HOPS-GRILLHOUSE-and-BREWERY">
+<brewery>
+  <id>HOPS-GRILLHOUSE-and-BREWERY</id>
   <name>HOPS GRILLHOUSE &amp; BREWERY‎</name>
   <address>
     <street>3260 Berlin Turnpike</street>

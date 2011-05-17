@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Unibroue/Blanche-De-Chambly" brewery_id="Unibroue">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Unibroue/Blanche-De-Chambly</id>
+  <brewery_id>Unibroue</brewery_id>
   <name>Blanche de Chambly</name>
   <description/>
   <availability/>

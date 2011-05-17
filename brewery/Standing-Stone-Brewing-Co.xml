@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Standing-Stone-Brewing-Co">
+<brewery>
+  <id>Standing-Stone-Brewing-Co</id>
   <name>Standing Stone Brewing Co‎</name>
   <address>
     <street>101 Oak St</street>

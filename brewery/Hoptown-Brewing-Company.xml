@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hoptown-Brewing-Company">
+<brewery>
+  <id>Hoptown-Brewing-Company</id>
   <name>Hoptown Brewing Company‎</name>
   <address>
     <street>5937 Graham Ct # D</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Hazelnut-Brown-Nectar" brewery_id="Rogue-Ales" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Hazelnut-Brown-Nectar</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>28</ibu>
   <name>Hazelnut Brown Nectar</name>
   <description>A nutty twist to a traditional European Brown Ale. Dark brown in color with a hazelnut aroma, a rich nutty flavor and a smooth malty finish.</description>
   <availability/>

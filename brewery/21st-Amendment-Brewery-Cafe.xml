@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="21st-Amendment-Brewery-Cafe">
+<brewery>
+  <id>21st-Amendment-Brewery-Cafe</id>
   <name>21st Amendment Brewery Cafe‎</name>
   <address>
     <street>563 2nd St</street>

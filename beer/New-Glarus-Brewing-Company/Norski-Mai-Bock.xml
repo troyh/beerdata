@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Norski-Mai-Bock" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Norski-Mai-Bock</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Norski Mai Bock</name>
   <description>Blonde bocks were first brewed as fest biers during May Day celebrations. Mai Bocks are traditionally pale in color and lightly hopped. Wisconsin and European barleys are joined together to create the heart of this intensely malty bier. Norski Honey Bock is accented with fresh clover honey harvested just over the hill from our little brewery. The Vikings of Norway also used honey in their strong brews. We have included Thor's Hammer on this label as a nod to our forbearers.\nExpect this bier to pour the deepest golden blonde body crowned with incredible creamy foam. The subtle bouquet is reminiscent of Old World Hallertau and Saaz Hops. Mai Bock is best served ice cold. Taste and enjoy Wisconsin's nectar.</description>
   <availability>retired</availability>

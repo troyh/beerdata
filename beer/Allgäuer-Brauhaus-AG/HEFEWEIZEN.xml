@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allgäuer-Brauhaus-AG/HEFEWEIZEN" brewery_id="Allgäuer-Brauhaus-AG">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allgäuer-Brauhaus-AG/HEFEWEIZEN</id>
+  <brewery_id>Allgäuer-Brauhaus-AG</brewery_id>
   <name>HEFEWEIZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-48862-01015-6">
+    <size>
+      <upc>7-48862-01015-6</upc>
       <description>20/.5L BTL</description>
       <distributor>
         <name>odom</name>

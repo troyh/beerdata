@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Bourbon-Barrel-Barley-Wine" brewery_id="Kuhnhenn-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Bourbon-Barrel-Barley-Wine</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
   <name>Bourbon Barrel Barley Wine</name>
   <description/>
   <availability/>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Fat-Angel" brewery_id="Magic-Hat" abv="4.8" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Fat-Angel</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>4.8</abv>
+  <ibu>28</ibu>
   <name>Fat Angel</name>
   <description>This beer offers a complex palate that balances the rich pleasures of malt with the crisp refreshing flavor of hops with a finish that is fresh and clean.  Eminently drinkable, Fat Angel brings divergent tastes together to create a satisfyingly smooth harmony.  Fat Angel is amber in the glass and a great session beer.</description>
   <availability>retired</availability>

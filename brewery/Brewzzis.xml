@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brewzzis">
+<brewery>
+  <id>Brewzzis</id>
   <name>Brewzzi's‎</name>
   <address>
     <street>2222 Glades Rd</street>

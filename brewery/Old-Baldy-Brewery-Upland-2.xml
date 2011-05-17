@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-Baldy-Brewery-Upland-2">
+<brewery>
+  <id>Old-Baldy-Brewery-Upland-2</id>
   <name>Old Baldy Brewery‎</name>
   <address>
     <street>271 N 2nd Avenue</street>

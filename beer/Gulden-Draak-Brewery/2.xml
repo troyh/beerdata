@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Gulden-Draak-Brewery/2" brewery_id="Gulden-Draak-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gulden-Draak-Brewery/2</id>
+  <brewery_id>Gulden-Draak-Brewery</brewery_id>
   <name>2</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-10168-00401-6">
+    <size>
+      <upc>7-10168-00401-6</upc>
       <description>BOTTLE 24/11</description>
       <distributor>
         <name>columbia</name>

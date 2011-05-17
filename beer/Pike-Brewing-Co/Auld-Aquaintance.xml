@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pike-Brewing-Co/Auld-Aquaintance" brewery_id="Pike-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pike-Brewing-Co/Auld-Aquaintance</id>
+  <brewery_id>Pike-Brewing-Co</brewery_id>
   <name>Auld Aquaintance</name>
   <description/>
   <availability>fall</availability>

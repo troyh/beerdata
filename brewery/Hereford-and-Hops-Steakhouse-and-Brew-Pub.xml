@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hereford-and-Hops-Steakhouse-and-Brew-Pub">
+<brewery>
+  <id>Hereford-and-Hops-Steakhouse-and-Brew-Pub</id>
   <name>Hereford &amp; Hops Steakhouse &amp; Brew Pub‎</name>
   <address>
     <street>624 Ludington St</street>

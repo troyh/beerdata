@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Sweetwater-Brewing-Company/Road-Trip" brewery_id="Sweetwater-Brewing-Company" ibu="Summer">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sweetwater-Brewing-Company/Road-Trip</id>
+  <brewery_id>Sweetwater-Brewing-Company</brewery_id>
+  <ibu>Summer</ibu>
   <name>Road Trip</name>
   <description/>
   <availability/>

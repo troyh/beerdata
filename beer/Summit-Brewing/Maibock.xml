@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Maibock" brewery_id="Summit-Brewing" abv="6.7" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Maibock</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>6.7</abv>
+  <ibu>40</ibu>
   <name>Maibock</name>
   <description/>
   <availability>spring</availability>

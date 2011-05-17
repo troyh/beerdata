@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Compuware-Arena">
+<brewery>
+  <id>Compuware-Arena</id>
   <name>Compuware Arena‎</name>
   <address>
     <street>14900 N Beck Rd</street>

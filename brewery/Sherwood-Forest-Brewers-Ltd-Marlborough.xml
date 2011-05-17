@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sherwood-Forest-Brewers-Ltd-Marlborough">
+<brewery>
+  <id>Sherwood-Forest-Brewers-Ltd-Marlborough</id>
   <name>Sherwood Forest Brewers Ltd‎</name>
   <address>
     <street>655 Farm Rd</street>

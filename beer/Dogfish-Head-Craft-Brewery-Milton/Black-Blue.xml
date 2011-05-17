@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Black-Blue" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.817172203205592" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Black-Blue</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.817172203205592</calories_per_ml>
+  <abv>10</abv>
   <name>Black &amp; Blue</name>
   <description>A belgian-style Strong ale fermented with blackberries and blueberries.</description>
   <availability>Limited</availability>
@@ -9,10 +13,11 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="18">Belgian Strong Ale</style>
+    <style><bjcp_style_id>18</bjcp_style_id>Belgian Strong Ale</style>
   </styles>
   <sizes>
-    <size upc="6-38489-00078-7">
+    <size>
+      <upc>6-38489-00078-7</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>
@@ -24,7 +29,8 @@
         <deposit>$11.39</deposit>
       </distributor>
     </size>
-    <size upc="638489000787">
+    <size>
+      <upc>638489000787</upc>
       <description>12/25.4 oz</description>
       <distributor>
         <name>click</name>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Prohibition-Pils" brewery_id="Great-Lakes-Brewing-Co" abv="5.1" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Prohibition-Pils</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>5.1</abv>
+  <ibu>40</ibu>
   <name>Prohibition Pils</name>
   <description>Crisp golden pilsner loaded with noble hop flavors.</description>
   <availability>limited</availability>

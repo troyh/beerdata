@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dillon-Dam-Brewery-Dillon">
+<brewery>
+  <id>Dillon-Dam-Brewery-Dillon</id>
   <name>Dillon Dam Brewery‎</name>
   <address>
     <street>100 Little Dam Rd</street>

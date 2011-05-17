@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Schmaltz-Brewing-Company">
+<brewery>
+  <id>Schmaltz-Brewing-Company</id>
   <name>Schmaltz Brewing Company</name>
-    <address>
-        <street></street>
-	    <city></city>
-	        <state></state>
-		    <zip></zip>
-		        <country>US</country>
-			  </address>
-			    <phone></phone>
-			    </brewery>
-
+  <address>
+    <street/>
+    <city/>
+    <state/>
+    <zip/>
+    <country>US</country>
+  </address>
+  <phone/>
+</brewery>

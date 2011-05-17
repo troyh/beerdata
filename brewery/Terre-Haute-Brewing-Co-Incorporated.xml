@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Terre-Haute-Brewing-Co-Incorporated">
+<brewery>
+  <id>Terre-Haute-Brewing-Co-Incorporated</id>
   <name>Terre Haute Brewing Co Incorporated‎</name>
   <address>
     <street>812 Oak St</street>

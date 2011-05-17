@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulevard-Brewing-Co/Zon" brewery_id="Boulevard-Brewing-Co" abv="4.4" ibu="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulevard-Brewing-Co/Zon</id>
+  <brewery_id>Boulevard-Brewing-Co</brewery_id>
+  <abv>4.4</abv>
+  <ibu>12</ibu>
   <name>Zon</name>
   <description>Boulevard's summer seasonal is our interpretation of a classic Belgian witbier. Z?N (Flemish for "sun") combines the subtle flavors of coriander and orange peel with other traditional ingredients to create a delightful, refreshing summertime brew. Available from May through August, in bottles and draught.\nSENSORY DESCRIPTION: Delicate foods work best so as to not overpower yeast characteristics. Flavor hooks: fruit, orange</description>
   <availability>Summer</availability>

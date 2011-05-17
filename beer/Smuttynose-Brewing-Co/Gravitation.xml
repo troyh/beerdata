@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Gravitation" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Gravitation</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>Gravitation</name>
   <description>First released in January, 2009, Gravitation Belgian Quad is the newest offering in the Smuttynose Big Beer Series. This strong dark ale is brewed using a variety of Belgian specialty malts along with 200 pounds of raisin puree per batch. The resulting flavor is a viscous mix of dark fruit, rum, toffee and raisins balanced with aromatic fruitiness of the Belgian yeast. This beer has a starting gravity of 23 degrees Plato.</description>
   <availability/>

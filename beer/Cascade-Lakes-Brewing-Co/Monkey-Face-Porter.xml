@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/Monkey-Face-Porter" brewery_id="Cascade-Lakes-Brewing-Co" abv="5.00" og="1.052" fg="1.014" ibu="34">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/Monkey-Face-Porter</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>5.00</abv>
+  <og>1.052</og>
+  <fg>1.014</fg>
+  <ibu>34</ibu>
   <name>Monkey Face Porter</name>
   <description>This is a medium bodied robust style porter with significant roast character from chocolate and black malts. This beer finished extremely dry with a hint of the Willamette Hops used to create this perfectly balanced porter.Â  Monkey Face Porter is perfect after a long day at the mountain or on the river!</description>
   <availability>year round</availability>
@@ -9,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="12">Porter</style>
+    <style><bjcp_style_id>12</bjcp_style_id>Porter</style>
   </styles>
   <sizes>
     <size>

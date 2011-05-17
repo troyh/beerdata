@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Huyghe-Brewery/NOCTURNUM" brewery_id="Huyghe-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Huyghe-Brewery/NOCTURNUM</id>
+  <brewery_id>Huyghe-Brewery</brewery_id>
   <name>NOCTURNUM</name>
   <description/>
   <availability/>

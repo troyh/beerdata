@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Surly-Brewing-Co/Darkness" brewery_id="Surly-Brewing-Co" abv="9.6" ibu="85">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Surly-Brewing-Co/Darkness</id>
+  <brewery_id>Surly-Brewing-Co</brewery_id>
+  <abv>9.6</abv>
+  <ibu>85</ibu>
   <name>Darkness</name>
   <description>this massive Russian Imperial Stout brings waves of flavors; chocolate, cherries, raisins, coffee, and toffee. We add a touch of hops to make this delicious brew even tasties.</description>
   <availability>limited</availability>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Summerbright-Ale" brewery_id="Breckenridge-Brewery" abv="4.5" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Summerbright-Ale</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>4.5</abv>
+  <ibu>15</ibu>
   <name>Summerbright Ale</name>
   <description>The brewmaster's goal: the perfect ale for summertime quaffing, nothing more. Breck Brew's SummerBright is the result. The craftsman's touch combines white wheat, two row pale and munich malt with the pacific northwest's most intriguing hops to create a bright, clean ale ideal for picnicking, evenings on the screen porch and enjoying the whims of the summer breeze.</description>
   <availability>summer</availability>

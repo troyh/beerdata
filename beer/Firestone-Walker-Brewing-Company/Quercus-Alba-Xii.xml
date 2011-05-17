@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Quercus-Alba-Xii" brewery_id="Firestone-Walker-Brewing-Company" ibu="limited">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Quercus-Alba-Xii</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <ibu>limited</ibu>
   <name>Quercus Alba XII</name>
   <description/>
   <availability/>

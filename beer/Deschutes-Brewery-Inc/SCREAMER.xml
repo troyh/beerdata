@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/SCREAMER" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/SCREAMER</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>SCREAMER</name>
   <description/>
   <availability/>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Brown-Ale" brewery_id="Boston-Beer-Co" calories_per_ml="0.448035794171342" abv="5.35" og="12Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Brown-Ale</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.448035794171342</calories_per_ml>
+  <abv>5.35</abv>
+  <og>12Plato</og>
   <name>Brown Ale</name>
   <description>Samuel AdamsÂ® Brown Ale is a study in flavor, body, and style. Supported by an interesting blend of malts, it shines with a deep mahogany luster.  The roasted malt blend is complex and deep as well, with notes of biscuit, nut and caramel.  The hops are imported from Europe;  Noble Spalt from Germany and citrusy Goldings, a traditional British ale hop selected from a single farm in East Kent.  With moderate hop bitterness, a deep malt body, and a fruity ale fermentation character, Samuel AdamsÂ® Brown Ale satisfies the soul and doesnât overwhelm the tongue.</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast>top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10C">American Brown Ale</style>
+    <style><bjcp_style_id>10C</bjcp_style_id>American Brown Ale</style>
   </styles>
   <sizes>
     <size>

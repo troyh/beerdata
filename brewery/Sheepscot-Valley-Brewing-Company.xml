@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sheepscot-Valley-Brewing-Company">
+<brewery>
+  <id>Sheepscot-Valley-Brewing-Company</id>
   <name>Sheepscot Valley Brewing Company‎</name>
   <address>
     <street>74 Hollywood Blvd</street>

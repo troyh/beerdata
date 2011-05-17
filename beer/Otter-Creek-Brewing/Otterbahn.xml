@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Otterbahn" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Otterbahn</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Otterbahn</name>
   <description>This time the Otter is going to Germany, with "Otterbahn," a weizenbock, set for May release. "Otterbahn" is a uniquecombination of a hefeweizen (unfiltered wheat beer), and a bock (robust malty ale). The wheat adds a citrus like flavor and light body, the unique yeast strain produces clove like character and banana esters. The addition of toasted malts adds even more complexity to this already full-flavored style. As they say in Germany- prosit!</description>
   <availability>limited</availability>

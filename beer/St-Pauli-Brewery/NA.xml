@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="St-Pauli-Brewery/NA" brewery_id="St-Pauli-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Pauli-Brewery/NA</id>
+  <brewery_id>St-Pauli-Brewery</brewery_id>
   <name>NA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95955-9">
+    <size>
+      <upc>0-80660-95955-9</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

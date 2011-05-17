@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Schooners-Grille-And-Brewery/Pale-Ale" brewery_id="Schooners-Grille-And-Brewery" abv="4.8" ibu="39">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schooners-Grille-And-Brewery/Pale-Ale</id>
+  <brewery_id>Schooners-Grille-And-Brewery</brewery_id>
+  <abv>4.8</abv>
+  <ibu>39</ibu>
   <name>Pale Ale</name>
   <description>Our Pale Ale is brewed with amarillo, ahtanum and cascade hops. All three hops are used as the bittering, flavor, aroma and dry hop in this brew. It's citrusy, grapefruit character comes through in flying colors and is perfectly balanced by the caramel character of the specialty grains.</description>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Saison" brewery_id="Great-Divide-Brewing-Co" abv="7.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Saison</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>7.3</abv>
   <name>Saison</name>
   <description>Saison is our homage to the beers that Belgian farm workers have enjoyed for centuries. Brewed with barley, wheat and rice and fermented at high temperatures with a special blend of four different yeast strains, Saison is fruity and slightly tart, with a dry finish that makes it that rarest of treats - a beer as refreshing as it is complex.</description>
   <availability>spring</availability>

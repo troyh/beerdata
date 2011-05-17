@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-Hat-Brewery-and-Grill">
+<brewery>
+  <id>Old-Hat-Brewery-and-Grill</id>
   <name>Old Hat Brewery &amp; Grill‎</name>
   <address>
     <street>114 N Main St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allagash-Brewing-Co-Inc/MUSETTE" brewery_id="Allagash-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Co-Inc/MUSETTE</id>
+  <brewery_id>Allagash-Brewing-Co-Inc</brewery_id>
   <name>MUSETTE</name>
   <description/>
   <availability/>

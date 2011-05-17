@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Minocqua-Brewing-Co">
+<brewery>
+  <id>Minocqua-Brewing-Co</id>
   <name>Minocqua Brewing Co‎</name>
   <address>
     <street>238 Lakeshore Dr</street>

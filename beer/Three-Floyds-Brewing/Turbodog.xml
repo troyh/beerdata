@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Turbodog" brewery_id="Three-Floyds-Brewing" abv="5.6" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Turbodog</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5.6</abv>
+  <ibu>28</ibu>
   <name>Turbodog</name>
   <description>Turbodog is a dark brown ale brewed with Willamette hops and a combination of pale, crystal and chocolate malts. This combination gives Turbodog its rich body and color and a sweet chocolate toffee-like flavor. Turbodog began as a specialty ale but has gained a huge loyal following and has become one of our flagship brews.\nThis ale pairs well with most meats and is great served with hamburgers or sausages. It is a good match with smoked fish and can even stand up to wild game dishes. Turbodog is also great for marinating and braising meats and cooking such things as cabbage and greens. Colby, Gloucester, Cheddar and Blue cheeses go nicely with Turbodog. It's perfect with spicy Louisiana jambalaya or Spanish paella. Some even like it paired with chocolate!</description>
   <availability>year-round</availability>

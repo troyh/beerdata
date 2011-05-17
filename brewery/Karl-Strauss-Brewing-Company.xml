@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Karl-Strauss-Brewing-Company">
+<brewery>
+  <id>Karl-Strauss-Brewing-Company</id>
   <name>Karl Strauss Brewing Company‎</name>
   <address>
     <street>5985 Santa Fe Street</street>

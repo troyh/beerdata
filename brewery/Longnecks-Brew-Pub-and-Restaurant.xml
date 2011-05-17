@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Longnecks-Brew-Pub-and-Restaurant">
+<brewery>
+  <id>Longnecks-Brew-Pub-and-Restaurant</id>
   <name>Longnecks Brew Pub &amp; Restaurant‎</name>
   <address>
     <street>S69W22665 National Ave</street>

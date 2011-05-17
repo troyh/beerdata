@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Uinta-Brewing-Co-Salt-Lake-City">
+<brewery>
+  <id>Uinta-Brewing-Co-Salt-Lake-City</id>
   <name>Uinta Brewing Co‎</name>
   <address>
     <street>1722 Fremont Dr</street>

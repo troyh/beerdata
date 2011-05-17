@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Nativit-Blonde" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>NATIVIT&#x83; BLONDE</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Nativit-Blonde</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>NATIVIT BLONDE</name>
   <description>Brewed with malted wheat, this golden coloured effervescent beer has a thick, compact head which sticks to the glass. The aromas are those of clove, banana and fresh baked bread. The bitterness is quite subtle, resulting in a beer that is smooth and fruity with a touch of acidity in the aftertaste.</description>
   <availability/>
   <ingredients/>

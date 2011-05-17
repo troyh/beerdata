@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Price-And-Joy" brewery_id="Three-Floyds-Brewing" abv="5" ibu="33">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Price-And-Joy</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>5</abv>
+  <ibu>33</ibu>
   <name>Price and Joy</name>
   <description>Our interpretation of an American mild. A smooth medium bodied session beer with a bright citrus hop aroma and finish.</description>
   <availability>year-round</availability>

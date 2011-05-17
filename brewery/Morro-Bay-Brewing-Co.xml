@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Morro-Bay-Brewing-Co">
+<brewery>
+  <id>Morro-Bay-Brewing-Co</id>
   <name>Morro Bay Brewing Co‎</name>
   <address>
     <street>280 Harbor St</street>

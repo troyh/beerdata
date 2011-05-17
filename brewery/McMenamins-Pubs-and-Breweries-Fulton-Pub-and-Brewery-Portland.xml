@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Pubs-and-Breweries-Fulton-Pub-and-Brewery-Portland">
+<brewery>
+  <id>McMenamins-Pubs-and-Breweries-Fulton-Pub-and-Brewery-Portland</id>
   <name>McMenamins Pubs &amp; Breweries: Fulton Pub &amp; Brewery‎</name>
   <address>
     <street>618 SW Nebraska St</street>

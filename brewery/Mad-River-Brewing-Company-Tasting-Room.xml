@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mad-River-Brewing-Company-Tasting-Room">
+<brewery>
+  <id>Mad-River-Brewing-Company-Tasting-Room</id>
   <name>Mad River Brewing Company - Tasting Room‎</name>
   <address>
     <street>101 Taylor Way</street>

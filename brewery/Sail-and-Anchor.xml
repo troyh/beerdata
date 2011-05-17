@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sail-and-Anchor">
+<brewery>
+  <id>Sail-and-Anchor</id>
   <name>Sail &amp; Anchor‎</name>
   <address>
     <street>64 South Tce</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Glacier-Brewing-Co">
+<brewery>
+  <id>Glacier-Brewing-Co</id>
   <name>Glacier Brewing Co‎</name>
   <address>
     <street>6 10th Ave E</street>

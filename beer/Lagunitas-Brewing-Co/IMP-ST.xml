@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lagunitas-Brewing-Co/IMP-ST" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/IMP-ST</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>IMP ST</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-23830-00003-2">
+    <size>
+      <upc>7-23830-00003-2</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

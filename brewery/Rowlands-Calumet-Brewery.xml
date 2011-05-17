@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rowlands-Calumet-Brewery">
+<brewery>
+  <id>Rowlands-Calumet-Brewery</id>
   <name>Rowland's Calumet Brewery‎</name>
   <address>
     <street>25 N Madison St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rochester-Mills-Beer-Co">
+<brewery>
+  <id>Rochester-Mills-Beer-Co</id>
   <name>Rochester Mills Beer Co‎</name>
   <address>
     <street>400 Water St</street>

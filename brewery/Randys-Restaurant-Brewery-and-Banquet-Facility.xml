@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Randys-Restaurant-Brewery-and-Banquet-Facility">
+<brewery>
+  <id>Randys-Restaurant-Brewery-and-Banquet-Facility</id>
   <name>Randy's Restaurant, Brewery &amp; Banquet Facility‎</name>
   <address>
     <street>841 E. Milwaukee St.</street>

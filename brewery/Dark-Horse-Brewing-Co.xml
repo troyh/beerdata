@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dark-Horse-Brewing-Co">
+<brewery>
+  <id>Dark-Horse-Brewing-Co</id>
   <name>Dark Horse Brewing Co‎</name>
   <address>
     <street>511 S Kalamazoo Ave</street>

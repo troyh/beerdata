@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Winter-Ale" brewery_id="Blue-Point-Brewing-Co" abv="5.5" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Winter-Ale</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>5.5</abv>
+  <ibu>30</ibu>
   <name>Winter Ale</name>
   <description>Blue Point Brewing's Winter Ale is a hearty and robust amber ale. Brewed to chase away the chill of a cool winter night. Made with Pale, Vienna, crystal and chocolate malt. This uncommon amber is only brewed during the cold months of the year. Winter Ale is an extremely popular seasonal specialty. Enjoy the tasty balance of malt and hops. Remember this special ale leaves with Winter.</description>
   <availability>Winter</availability>

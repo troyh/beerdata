@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Beaver-Street-Brewery">
+<brewery>
+  <id>Beaver-Street-Brewery</id>
   <name>Beaver Street Brewery‎</name>
   <address>
     <street>11 S Beaver St # 1</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Chicago-Brewing-Co-Las-Vegas">
+<brewery>
+  <id>Chicago-Brewing-Co-Las-Vegas</id>
   <name>Chicago Brewing Co‎</name>
   <address>
     <street>2201 S Fort Apache Rd</street>

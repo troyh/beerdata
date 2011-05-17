@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Spoetzl/Shiner-Hefeweizen" brewery_id="Spoetzl" abv="5.4" ibu="17">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spoetzl/Shiner-Hefeweizen</id>
+  <brewery_id>Spoetzl</brewery_id>
+  <abv>5.4</abv>
+  <ibu>17</ibu>
   <name>Shiner Hefeweizen</name>
   <description>Hefeweizen (Hef-ay-vite-zen) recalls the classic beers of Bavaria as a true unfiltered wheat brew. This beer captures old-world Munich Malt, wheat grist used in a scant 1% of all brews worldwide, orange and lemon zest in a frothy classic example of bottle-conditioned beer. Adding clover honey and yeast just before it'?s bottled touches off a unique, secondary fermentation process inside every keg and bottle before its final release from the brewery.</description>
   <availability>year-round</availability>

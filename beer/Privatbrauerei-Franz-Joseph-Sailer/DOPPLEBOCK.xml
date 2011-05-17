@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Privatbrauerei-Franz-Joseph-Sailer/DOPPLEBOCK" brewery_id="Privatbrauerei-Franz-Joseph-Sailer">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Privatbrauerei-Franz-Joseph-Sailer/DOPPLEBOCK</id>
+  <brewery_id>Privatbrauerei-Franz-Joseph-Sailer</brewery_id>
   <name>DOPPLEBOCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-42572-06401-1">
+    <size>
+      <upc>0-42572-06401-1</upc>
       <description>4/2L</description>
       <distributor>
         <name>odom</name>

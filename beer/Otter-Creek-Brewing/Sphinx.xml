@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Sphinx" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Sphinx</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Sphinx</name>
   <description>Our 12th "stop" on the World Tour: "Sphinx" is an Egyptian-inspired multigrain ale brewed with Vermont honey and chamomile.\nThe Ancient Egyptians were the first to brew beer, and they also were the first to grow many of the grains we use today. We brewed this golden ale with spelt, millet, rye, oats, barley,and wheat; for a well-deserved tribute to the ancient inventors of beer.</description>
   <availability>limited</availability>

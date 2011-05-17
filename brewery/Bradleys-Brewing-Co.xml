@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bradleys-Brewing-Co">
+<brewery>
+  <id>Bradleys-Brewing-Co</id>
   <name>Bradley's Brewing Co‎</name>
   <address>
     <street>8942 Greenback Ln # C</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Smokin-Amber-Ale" brewery_id="Bullfrog-Brewery" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Smokin-Amber-Ale</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>6.2</abv>
   <name>Smokin' Amber Ale</name>
   <description>Based on the Rauchbiers of Bamburg, Germany this amber ale has a rich and toffee-like maltiness and a wonderfully smokey aroma and flavor.</description>
   <availability/>

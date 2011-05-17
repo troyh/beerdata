@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fletcher-Street-Brewing-Co-Alpena">
+<brewery>
+  <id>Fletcher-Street-Brewing-Co-Alpena</id>
   <name>Fletcher Street Brewing Co‎</name>
   <address>
     <street>124 W Fletcher St</street>

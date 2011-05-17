@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Imperial-Stout" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Imperial-Stout</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Imperial Stout</name>
   <description>Fourth in our series this is Dan's "Unplugged Imperial Stout." This beer is handcrafted for you with the same care that English brewers used when they brewed Imperial Stouts for the Russian Royal Family. This is a strong beer brewed with lots of black barley. Back home that makes this beer an excellent candidate for lying down in your beer cellars.</description>
   <availability>retired</availability>

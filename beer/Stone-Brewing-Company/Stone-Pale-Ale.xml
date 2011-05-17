@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Stone-Brewing-Company/Stone-Pale-Ale" brewery_id="Stone-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Company/Stone-Pale-Ale</id>
+  <brewery_id>Stone-Brewing-Company</brewery_id>
   <name>Stone Pale Ale</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="636251756122">
+    <size>
+      <upc>636251756122</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

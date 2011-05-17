@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Snipes-Mountain-Brewing-Inc/PORTER" brewery_id="Snipes-Mountain-Brewing-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Snipes-Mountain-Brewing-Inc/PORTER</id>
+  <brewery_id>Snipes-Mountain-Brewing-Inc</brewery_id>
   <name>PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-84343-23232-0">
+    <size>
+      <upc>6-84343-23232-0</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

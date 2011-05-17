@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spanish-Peaks-Brewing-Micro/DOG-ALE" brewery_id="Spanish-Peaks-Brewing-Micro">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spanish-Peaks-Brewing-Micro/DOG-ALE</id>
+  <brewery_id>Spanish-Peaks-Brewing-Micro</brewery_id>
   <name>DOG ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87396-99916-3">
+    <size>
+      <upc>0-87396-99916-3</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

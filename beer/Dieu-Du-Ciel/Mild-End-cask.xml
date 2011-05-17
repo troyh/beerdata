@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Mild-End-cask" brewery_id="Dieu-Du-Ciel" abv="5.5">
-  <name>Mild End &#xD4;Cask&#xD3; </name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Mild-End-cask</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5.5</abv>
+  <name>Mild End ÔCaskÓ </name>
   <description>This mahogany coloured beer has a caramel malt bouquet accompanied by the light aroma of hops. The caramel malt taste sails wonderfully into the mouth alongside a fruity taste brought about by a trio of hops.</description>
   <availability/>
   <ingredients/>

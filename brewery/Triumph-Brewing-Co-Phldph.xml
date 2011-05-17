@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Triumph-Brewing-Co-Phldph">
+<brewery>
+  <id>Triumph-Brewing-Co-Phldph</id>
   <name>Triumph Brewing Co-Phldph‎</name>
   <address>
     <street>117 Chestnut St</street>

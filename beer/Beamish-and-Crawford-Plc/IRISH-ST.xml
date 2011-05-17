@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Beamish-and-Crawford-Plc/IRISH-ST" brewery_id="Beamish-and-Crawford-Plc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Beamish-and-Crawford-Plc/IRISH-ST</id>
+  <brewery_id>Beamish-and-Crawford-Plc</brewery_id>
   <name>IRISH ST</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description>13.2 BBL</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$161.29</deposit>
       </distributor>
     </size>
-    <size upc="0-88345-10057-9">
+    <size>
+      <upc>0-88345-10057-9</upc>
       <description>16 CAN</description>
       <distributor>
         <name>columbia</name>

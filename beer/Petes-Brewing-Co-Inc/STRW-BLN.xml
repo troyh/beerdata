@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Petes-Brewing-Co-Inc/STRW-BLN" brewery_id="Petes-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Petes-Brewing-Co-Inc/STRW-BLN</id>
+  <brewery_id>Petes-Brewing-Co-Inc</brewery_id>
   <name>STRW BLN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85498-11113-1">
+    <size>
+      <upc>0-85498-11113-1</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

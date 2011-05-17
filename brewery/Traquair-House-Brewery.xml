@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Traquair-House-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Traquair-House-Brewery</id>
   <name>Traquair House Brewery</name>
 </brewery>

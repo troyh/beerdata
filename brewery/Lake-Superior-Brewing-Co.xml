@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lake-Superior-Brewing-Co">
+<brewery>
+  <id>Lake-Superior-Brewing-Co</id>
   <name>Lake Superior Brewing Co‎</name>
   <address>
     <street>N14283 Lake Ave</street>

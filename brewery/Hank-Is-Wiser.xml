@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hank-Is-Wiser">
+<brewery>
+  <id>Hank-Is-Wiser</id>
   <name>Hank Is Wiser‎</name>
   <address>
     <street>213 N Main St</street>

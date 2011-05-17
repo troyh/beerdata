@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/14er-Esb" brewery_id="Avery-Brewing" abv="5" ibu="37">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/14er-Esb</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>5</abv>
+  <ibu>37</ibu>
   <name>14'ER ESB</name>
   <description>Named for the 54 Colorado peaks which tower over 14,000 feet in elevation, our session beer is a spectacular copper hued beauty. The treatment of our water to simulate English hard water and the blending of several specialty malts and hops produce a delicate balance between aromatic maltiness and herbal hops.</description>
   <availability/>

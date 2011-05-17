@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Thunderhead-Brewing">
+<brewery>
+  <id>Thunderhead-Brewing</id>
   <name>Thunderhead Brewing‎</name>
   <address>
     <street>18 E 21st St</street>

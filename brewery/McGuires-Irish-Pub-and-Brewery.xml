@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McGuires-Irish-Pub-and-Brewery">
+<brewery>
+  <id>McGuires-Irish-Pub-and-Brewery</id>
   <name>McGuire's Irish Pub &amp; Brewery‎</name>
   <address>
     <street>33 Highway 98</street>

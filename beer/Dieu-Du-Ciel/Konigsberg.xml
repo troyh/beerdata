@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Konigsberg" brewery_id="Dieu-Du-Ciel" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Konigsberg</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5.5</abv>
   <name>KONIGSBERG</name>
-  <description>Not very well known in America, Kellerbiers are very popular in Bavaria. Kellerbier, which means cellar beer in German, is a cask conditioned unfiltered lager. There is therefore very little effervescence and it is served by gravity, similar to the cask conditioned English ales.The K&#x9A;nigsberg (which means King&#xD5;s mountain or Mont Royal) is an amber beer, slightly cloudy, with malt and floral hop aromas. To the taste, the malt and roasted cereal flavours come through along with a sharp bitterness that is not overpowering. Konigsberg was brewed for the first time as the official beer of the 13th Mondial beer festival in Montreal.</description>
+  <description>Not very well known in America, Kellerbiers are very popular in Bavaria. Kellerbier, which means cellar beer in German, is a cask conditioned unfiltered lager. There is therefore very little effervescence and it is served by gravity, similar to the cask conditioned English ales.The Knigsberg (which means KingÕs mountain or Mont Royal) is an amber beer, slightly cloudy, with malt and floral hop aromas. To the taste, the malt and roasted cereal flavours come through along with a sharp bitterness that is not overpowering. Konigsberg was brewed for the first time as the official beer of the 13th Mondial beer festival in Montreal.</description>
   <availability/>
   <ingredients/>
   <grains/>

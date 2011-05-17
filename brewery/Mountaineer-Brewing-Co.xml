@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mountaineer-Brewing-Co">
+<brewery>
+  <id>Mountaineer-Brewing-Co</id>
   <name>Mountaineer Brewing Co‎</name>
   <address>
     <street>219 Lawn St</street>

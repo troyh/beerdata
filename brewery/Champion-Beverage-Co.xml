@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Champion-Beverage-Co">
+<brewery>
+  <id>Champion-Beverage-Co</id>
   <name>Champion Beverage Co‎</name>
   <address>
     <street>44 Talmadge Hill Rd</street>

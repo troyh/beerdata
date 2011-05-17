@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Charbonni-re" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>CHARBONNI&#xE9;RE</name>
-  <description>Brewed in the tradition of the smoked ales of Bamberg (Germany), this amber ale has delicate malty and smoky aromas. It is full-bodied, malty and slightly sweet to the taste, and the smoky flavour is fully expressed with every draught. An original and distinctive beer, La Charbonni&#x8F;re is a house specialty. It is very much appreciated by beer enthusiasts who happily discover a type of beer that is rarely available on the market.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Charbonni-re</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>CHARBONNIéRE</name>
+  <description>Brewed in the tradition of the smoked ales of Bamberg (Germany), this amber ale has delicate malty and smoky aromas. It is full-bodied, malty and slightly sweet to the taste, and the smoky flavour is fully expressed with every draught. An original and distinctive beer, La Charbonnire is a house specialty. It is very much appreciated by beer enthusiasts who happily discover a type of beer that is rarely available on the market.</description>
   <availability/>
   <ingredients/>
   <grains/>

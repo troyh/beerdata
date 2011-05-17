@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/The-Magician" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/The-Magician</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>The Magician </name>
   <description>A lustrous dark red London ale. Rich malt complexities lending notes of toasted caramel, raisins, toffee, and slight roast chocolate. Very light hop additions let the true malt characters promenade throughout the tasting enjoyment this beer offers. It's a new member of our beer family and has gone over so well, we're making it year round.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Appalachian-Brewing-Co-Harrisburg-2">
+<brewery>
+  <id>Appalachian-Brewing-Co-Harrisburg-2</id>
   <name>Appalachian Brewing Co‎</name>
   <address>
     <street>50 N Cameron St</street>

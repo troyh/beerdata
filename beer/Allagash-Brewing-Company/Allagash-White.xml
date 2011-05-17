@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-White" brewery_id="Allagash-Brewing-Company" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-White</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>5</abv>
   <name>Allagash White</name>
   <description>Our interpretation of a traditional Belgian wheat beer, Allagash White is unique and truly refreshing. Brewed with a generous portion of wheat and our own special blend of spices, this beer is light and slightly cloudy in appearance, with a spicy aroma. Overall, it is a beer that is very drinkable and smooth any time of the year.</description>
   <availability/>

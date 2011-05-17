@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Michael-Sheas/Irish-Amber" brewery_id="Michael-Sheas">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Michael-Sheas/Irish-Amber</id>
+  <brewery_id>Michael-Sheas</brewery_id>
   <name>Irish Amber</name>
   <description/>
   <availability/>

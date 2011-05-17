@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Saugrenue" brewery_id="Dieu-Du-Ciel" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Saugrenue</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>7.5</abv>
   <name>SAUGRENUE</name>
   <description>Porter to which sour cherries have been added at the end of the fermentation</description>
   <availability/>

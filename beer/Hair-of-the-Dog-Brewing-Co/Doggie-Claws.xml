@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Hair-Of-The-Dog-Brewing-Co/Doggie-Claws" brewery_id="Hair-Of-The-Dog-Brewing-Co" abv="11.5" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hair-Of-The-Dog-Brewing-Co/Doggie-Claws</id>
+  <brewery_id>Hair-Of-The-Dog-Brewing-Co</brewery_id>
+  <abv>11.5</abv>
+  <ibu>70</ibu>
   <name>Doggie Claws</name>
   <description>Doggie Claws Doggie Claws is a Barley Wine made in the West Coast style. Big malt and hops make this copper colored ale one of our most popular products. Produced in September and October and released in November, this Beer will improve for years to come. Alcohol: 11.5% by volume. IBU's 70</description>
   <availability>fall</availability>
@@ -10,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="799282010127">
+    <size>
+      <upc>799282010127</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Dunkel-Weiss" brewery_id="Great-Divide-Brewing-Co" abv="6.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Dunkel-Weiss</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>6.4</abv>
   <name>Dunkel Weiss</name>
   <description>Think of it as hefeweizen's older brother. A hearty mix of wheat and dark German barley malts gives it a medium body and muddy brown hue, while our proprietary yeast strain strain provides the signature notes of banana and clove. If you like wheat beers, come to the Dunkel side. You won't be disappointed. Just don't put an lemon in it.</description>
   <availability>spring</availability>

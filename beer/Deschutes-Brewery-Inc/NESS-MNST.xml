@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/NESS-MNST" brewery_id="Deschutes-Brewery-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/NESS-MNST</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
   <name>NESS MNST</name>
   <description/>
   <availability/>

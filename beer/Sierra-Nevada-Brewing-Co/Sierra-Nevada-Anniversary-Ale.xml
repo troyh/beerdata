@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Sierra-Nevada-Brewing-Co/Sierra-Nevada-Anniversary-Ale" brewery_id="Sierra-Nevada-Brewing-Co" abv="5.9" ibu="46">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sierra-Nevada-Brewing-Co/Sierra-Nevada-Anniversary-Ale</id>
+  <brewery_id>Sierra-Nevada-Brewing-Co</brewery_id>
+  <abv>5.9</abv>
+  <ibu>46</ibu>
   <name>Sierra Nevada Anniversary Ale</name>
   <description>Anniversaries are important. They are benchmarks to help us gauge where we stand, and more importantly, they help us to see where we have come from. Each fall, we like to celebrate our anniversary by releasing a very special beer. A beer that represents our past while looking forward to our future. For the past 28 years, we at Sierra Nevada have had a commitment to using the finest raw ingredients, and the freshest, most flavorful hops in all of our award winning ales and lagers. Our Anniversary Ale is no exception.\nThis beer is a big, full-flavored ale bursting at the seams with fresh, spicy and aromatic hops. Our 2008 Anniversary Ale is brewed in the style of an American IPA, a style that Sierra Nevada helped create. This beer is a complex brew made up with a combination of four varieties of malts that add a rich and complex backbone to showcase our signature hop variety: the Cascade. This hop produces the big piney and citrusy flavors that Sierra Nevada beers are known for and is one of the varieties that have become the definition for what the new styles of American beers represent.\nCome help us celebrate 28 years by raising a glass of Anniversary Ale. Take a look back at where we've come from, and join us in looking forward to the future.</description>
   <availability/>

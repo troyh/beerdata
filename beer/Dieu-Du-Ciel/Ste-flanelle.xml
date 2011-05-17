@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Ste-flanelle" brewery_id="Dieu-Du-Ciel" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Ste-flanelle</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>8</abv>
   <name>STE-FLANELLE</name>
   <description>Imperial Pale ale brewed with the "Centennial" hops variety. Instead of being dry hopped, "Centennial" was used in hopback.</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schlitz-Brewing-Co/NA" brewery_id="Schlitz-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schlitz-Brewing-Co/NA</id>
+  <brewery_id>Schlitz-Brewing-Co</brewery_id>
   <name>NA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-52300-00035-8">
+    <size>
+      <upc>0-52300-00035-8</upc>
       <description>CAN 2-12/12</description>
       <distributor>
         <name>columbia</name>

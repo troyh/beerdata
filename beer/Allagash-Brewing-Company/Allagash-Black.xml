@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Allagash-Black" brewery_id="Allagash-Brewing-Company" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Allagash-Black</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>7.5</abv>
   <name>Allagash Black </name>
   <description>Allagash Black, our new Belgian style stout, is brewed with German 2 row barley, Torrified wheat and oats, balanced by a large addition of Belgian dark candi to give the Black a full and silky mouthfeel. Roasted malts give this stout its classic chocolate, toast and malty taste, and contribute to chocolate notes and a hint of roasted coffee in the aroma. The Black is fermented with a Belgian yeast strain and refermented in the bottle with the methode champenoise to make this beer truly unique.</description>
   <availability/>

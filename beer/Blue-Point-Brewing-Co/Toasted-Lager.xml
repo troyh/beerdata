@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Toasted-Lager" brewery_id="Blue-Point-Brewing-Co" abv="5.3" ibu="28">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Toasted-Lager</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>5.3</abv>
+  <ibu>28</ibu>
   <name>Toasted Lager</name>
   <description>Blue Point Brewing's award-winning Toasted Lager is our flagship product. Copper in color this brew is made from six different malts including: English Pale, Crystal, Munich, Carapils, Wheat and Belgian Caravienna. Toasted Lager displays a balanced flavor of malt and hop which makes for easy drinking. Special lager yeast is used to produce that long lasting, smooth finish. The "toasted" part of the name refers to our direct-fire brew kettle's hot flames that impart a toasted flavor to our most popular microbrew.</description>
   <availability/>

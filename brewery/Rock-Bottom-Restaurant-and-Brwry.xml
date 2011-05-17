@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurant-and-Brwry">
+<brewery>
+  <id>Rock-Bottom-Restaurant-and-Brwry</id>
   <name>Rock Bottom Restaurant &amp; Brwry‎</name>
   <address>
     <street>115 Stuart St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brugge-LLC">
+<brewery>
+  <id>Brugge-LLC</id>
   <name>Brugge LLC‎</name>
   <address>
     <street>1011 E Westfield Blvd # A</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/Beast-Grand-Cru" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/Beast-Grand-Cru</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>Beast Grand Cru</name>
   <description/>
   <availability>fall</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="796363001180">
+    <size>
+      <upc>796363001180</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

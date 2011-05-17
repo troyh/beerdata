@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Wasatch-White-Label" brewery_id="Utah-Brewers-Cooperative" abv="6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Wasatch-White-Label</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
+  <abv>6</abv>
   <name>Wasatch White Label</name>
   <description>Wasatch White Label is an easy-drinking Belgian-style White Ale with 6% alcohol by volume and subtlety seasoned with orange peel and coriander. The beer is kind of like Blue Moon, but bigger, better, and bolder. Unlike Blue Moon, which you know is made by Coors in Canada, this is a true craft beer made right hear in Utah.</description>
   <availability/>

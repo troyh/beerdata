@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Pumpkin-Ale" brewery_id="Bjs-Restaurant-And-Brewhouse">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Pumpkin-Ale</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
   <name>Pumpkin Ale</name>
   <description/>
   <availability>fall</availability>

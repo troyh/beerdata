@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Ros-e-Dhibiscus" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>Ros&#x8E;e d'hibiscus</name>
-  <description>Ros&#x8E;e d&#xD5;Hibiscus is a soft spoken wheat beer. The rose colour comes from the hibiscus flowers added during the brewing process. The aromas and flavour of this tropical flower are very prominent in the beer, giving it a slight acidity and a very agreeable fragrance. It is the perfect thirst quencher on a hot summer day.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Ros-e-Dhibiscus</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>Rose d'hibiscus</name>
+  <description>Rose dÕHibiscus is a soft spoken wheat beer. The rose colour comes from the hibiscus flowers added during the brewing process. The aromas and flavour of this tropical flower are very prominent in the beer, giving it a slight acidity and a very agreeable fragrance. It is the perfect thirst quencher on a hot summer day.</description>
   <availability/>
   <ingredients/>
   <grains/>

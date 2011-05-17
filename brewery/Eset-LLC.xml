@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Eset-LLC">
+<brewery>
+  <id>Eset-LLC</id>
   <name>Eset LLC‎</name>
   <address>
     <street>610 W Ash St</street>

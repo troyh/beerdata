@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Green-Bay-Brewing-Co">
+<brewery>
+  <id>Green-Bay-Brewing-Co</id>
   <name>Green Bay Brewing Co‎</name>
   <address>
     <street>313 Dousman St</street>

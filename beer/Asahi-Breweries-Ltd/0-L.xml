@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Asahi-Breweries-Ltd/0-L" brewery_id="Asahi-Breweries-Ltd">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Asahi-Breweries-Ltd/0-L</id>
+  <brewery_id>Asahi-Breweries-Ltd</brewery_id>
   <name>0 L</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-38766-30270-0">
+    <size>
+      <upc>0-38766-30270-0</upc>
       <description>CAN 12/1</description>
       <distributor>
         <name>columbia</name>

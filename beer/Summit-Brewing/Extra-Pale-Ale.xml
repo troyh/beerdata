@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Extra-Pale-Ale" brewery_id="Summit-Brewing" abv="5.3" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Extra-Pale-Ale</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>5.3</abv>
+  <ibu>40</ibu>
   <name>Extra Pale Ale</name>
   <description>Summit's first-born child and flagship beer, Extra Pale Ale has a pronounced hop flavor and a lght bronze color. </description>
   <availability>year-round</availability>

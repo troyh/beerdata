@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lagunitas-Brewing-Co/FOR" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/FOR</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>FOR</name>
   <description/>
   <availability/>

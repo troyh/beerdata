@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Aktien-Brauerei-Kaufbeuren-AG/JUBILAUMS-PILSNER" brewery_id="Aktien-Brauerei-Kaufbeuren-AG">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Aktien-Brauerei-Kaufbeuren-AG/JUBILAUMS-PILSNER</id>
+  <brewery_id>Aktien-Brauerei-Kaufbeuren-AG</brewery_id>
   <name>JUBILAUMS PILSNER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-48862-02055-1">
+    <size>
+      <upc>7-48862-02055-1</upc>
       <description>20/.5L BTL</description>
       <distributor>
         <name>odom</name>

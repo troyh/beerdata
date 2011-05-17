@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Brooklyn-Brewery/Oktoberfest" brewery_id="Brooklyn-Brewery" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brooklyn-Brewery/Oktoberfest</id>
+  <brewery_id>Brooklyn-Brewery</brewery_id>
+  <abv>5.5</abv>
   <name>Oktoberfest</name>
   <description/>
   <availability>year-round</availability>

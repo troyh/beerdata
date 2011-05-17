@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Speedway-Brewing-Company">
+<brewery>
+  <id>Speedway-Brewing-Company</id>
   <name>Speedway Brewing Company‎</name>
   <address>
     <street>1225 Ruddell Rd. SE, Suite 'F'</street>

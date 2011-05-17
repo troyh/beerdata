@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Beach-Chalet-Brewery-and-Restaurant">
+<brewery>
+  <id>Beach-Chalet-Brewery-and-Restaurant</id>
   <name>Beach Chalet Brewery &amp; Restaurant‎</name>
   <address>
     <street>1000 Great Hwy</street>

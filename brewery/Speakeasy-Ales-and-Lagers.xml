@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Speakeasy-Ales-and-Lagers">
+<brewery>
+  <id>Speakeasy-Ales-and-Lagers</id>
   <name>Speakeasy Ales &amp; Lagers‎</name>
   <address>
     <street>1195 Evans Ave # A</street>

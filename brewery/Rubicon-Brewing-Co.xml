@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rubicon-Brewing-Co">
+<brewery>
+  <id>Rubicon-Brewing-Co</id>
   <name>Rubicon Brewing Co‎</name>
   <address>
     <street>2004 Capitol Ave</street>

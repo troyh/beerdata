@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Oggies-Pizza-Brewing-Co/Black-Magic-Stout" brewery_id="Oggies-Pizza-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Oggies-Pizza-Brewing-Co/Black-Magic-Stout</id>
+  <brewery_id>Oggies-Pizza-Brewing-Co</brewery_id>
   <name>Black Magic Stout</name>
   <description/>
   <availability/>

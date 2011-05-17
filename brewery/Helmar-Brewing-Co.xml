@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Helmar-Brewing-Co">
+<brewery>
+  <id>Helmar-Brewing-Co</id>
   <name>Helmar Brewing Co‎</name>
   <address>
     <street>87 Oakdale Blvd</street>

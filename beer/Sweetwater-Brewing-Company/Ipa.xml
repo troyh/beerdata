@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Sweetwater-Brewing-Company/Ipa" brewery_id="Sweetwater-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sweetwater-Brewing-Company/Ipa</id>
+  <brewery_id>Sweetwater-Brewing-Company</brewery_id>
   <name>IPA</name>
   <description/>
   <availability>year-round</availability>

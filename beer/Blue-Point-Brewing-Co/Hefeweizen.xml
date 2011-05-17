@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Hefeweizen" brewery_id="Blue-Point-Brewing-Co" abv="4.64" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Hefeweizen</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>4.64</abv>
+  <ibu>15</ibu>
   <name>Hefeweizen</name>
   <description>Blue Point Brewing's Hefeweizen. In Germany, "weizen" means "wheat." As the name implies this wheat beer is left unfiltered which leaves some yeast in suspension. This cloudy wheat beer has flavors of banana and cloves which come from a particular yeast we use. In Bavaria it's known as a "breakfast beer" because it's light, cleansing, and digestible. Hefeweizen is served in a special, tall glass with a slice of lemon to add a tarty zing to the microbrew.</description>
   <availability/>

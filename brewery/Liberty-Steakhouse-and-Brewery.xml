@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Liberty-Steakhouse-and-Brewery">
+<brewery>
+  <id>Liberty-Steakhouse-and-Brewery</id>
   <name>Liberty Steakhouse &amp; Brewery‎</name>
   <address>
     <street>1321 Celebrity Cir # R4</street>

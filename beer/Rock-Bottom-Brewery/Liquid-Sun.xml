@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Liquid-Sun" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Liquid-Sun</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Liquid Sun</name>
   <description>Rock Bottom's answer to light beer. This straw-colored Lager has a slightly sweet, clean body and crisp finish. A true "session beer" and nice companion to pastas or salads.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Wasatch-Pumpkin-Ale" brewery_id="Utah-Brewers-Cooperative">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Wasatch-Pumpkin-Ale</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
   <name>Wasatch Pumpkin Ale</name>
   <description>Brewed with the finest barley and pure pumpkin, then spiced like your favorite holiday pie. This amber-hued ale is sure to please!</description>
   <availability>Fall</availability>

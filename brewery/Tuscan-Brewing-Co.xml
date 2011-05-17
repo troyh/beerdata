@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tuscan-Brewing-Co">
+<brewery>
+  <id>Tuscan-Brewing-Co</id>
   <name>Tuscan Brewing Co‎</name>
   <address>
     <street>25009 Kauffman Ave</street>

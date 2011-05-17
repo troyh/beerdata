@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sacramento-Brewing-Company-Oasis-Fulton-and-Marconi">
+<brewery>
+  <id>Sacramento-Brewing-Company-Oasis-Fulton-and-Marconi</id>
   <name>Sacramento Brewing Company Oasis: Fulton &amp; Marconi‎</name>
   <address>
     <street>2713 El Paseo Ln</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fullers-Brewery/IPA" brewery_id="Fullers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fullers-Brewery/IPA</id>
+  <brewery_id>Fullers-Brewery</brewery_id>
   <name>IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-09439-00250-0">
+    <size>
+      <upc>0-09439-00250-0</upc>
       <description>12/16 BTL</description>
       <distributor>
         <name>odom</name>

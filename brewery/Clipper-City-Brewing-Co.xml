@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Clipper-City-Brewing-Co">
+<brewery>
+  <id>Clipper-City-Brewing-Co</id>
   <name>Clipper City Brewing Co‎</name>
   <address>
     <street>4615 Hollins Ferry Rd</street>

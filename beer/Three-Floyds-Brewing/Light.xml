@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Light" brewery_id="Three-Floyds-Brewing" abv="4" ibu="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Light</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>4</abv>
+  <ibu>10</ibu>
   <name>Light</name>
   <description>Light is uniquely hand-crafted using 100% all natural ingredients: malted barley, the finest hops, German lager yeast and pristine Abita Springs water. The result is the smoothest, most flavorful light beer you will ever taste. Great with almost anything, it's an excellent choice for lighter foods and salads too. Try Abita Light with a sharp Cheddar Cheese.</description>
   <availability>year-round</availability>

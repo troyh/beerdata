@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Edgefield-Wheat" brewery_id="Mcmenamins" abv="4.77">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Edgefield-Wheat</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>4.77</abv>
   <name>Edgefield Wheat</name>
   <description>Edgefield Wheat is a classic example of an American wheat ale. Unlike the popular Northwest Hefeweizen, Edgefield Wheat is a bright, clear, clean tasting ale. The smooth flavor of wheat malt is highlighted and has become a favorite of light ale drinkers.</description>
   <availability>year-round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sanford-Lake-Bar-and-Grill-Sanford">
+<brewery>
+  <id>Sanford-Lake-Bar-and-Grill-Sanford</id>
   <name>Sanford Lake Bar and Grill‎</name>
   <address>
     <street>3770 N Bailey Rd</street>

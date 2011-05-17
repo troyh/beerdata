@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lafayette-Brewing-Co">
+<brewery>
+  <id>Lafayette-Brewing-Co</id>
   <name>Lafayette Brewing Co‎</name>
   <address>
     <street>622 Main St</street>

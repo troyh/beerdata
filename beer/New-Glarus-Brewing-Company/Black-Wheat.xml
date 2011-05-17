@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Black-Wheat" brewery_id="New-Glarus-Brewing-Company" abv="5.75">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Black-Wheat</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>5.75</abv>
   <name>Black Wheat</name>
   <description>Our Black Wheat arrives to relieve the bleak bore of Wisconsin's winter. Rich and chewy this bottle conditioned weiss is bursting with Midwestern wheat, oats, rye and finished by malted barley. This style is a rare gem even in the Black Forests of Bavaria. We brew it now as an accompaniment to meaty feasts or to sip near a roaring fire. \nExpect this beer to pour the deepest black body topped by an opulent head of lip smacking foam. Roasted chocolate and toasted caramel notes brim over the top. Lavish spice aromas of clove and cinnamon are promoted naturally by the yeast we import especially for this most individual of brews. While some find comfort in a familiar glass, this brew will satisfy the bold explorer who dares to be..</description>
   <availability>spring</availability>

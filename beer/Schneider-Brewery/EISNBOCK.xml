@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schneider-Brewery/EISNBOCK" brewery_id="Schneider-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schneider-Brewery/EISNBOCK</id>
+  <brewery_id>Schneider-Brewery</brewery_id>
   <name>EISNBOCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-37398-02924-5">
+    <size>
+      <upc>0-37398-02924-5</upc>
       <description/>
       <distributor>
         <name>columbia</name>

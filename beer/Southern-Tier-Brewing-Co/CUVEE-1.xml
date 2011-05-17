@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Southern-Tier-Brewing-Co/CUVEE-1" brewery_id="Southern-Tier-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Co/CUVEE-1</id>
+  <brewery_id>Southern-Tier-Brewing-Co</brewery_id>
   <name>CUVEE #1</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-53759-00006-3">
+    <size>
+      <upc>8-53759-00006-3</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

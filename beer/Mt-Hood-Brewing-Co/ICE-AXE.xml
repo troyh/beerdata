@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mt-Hood-Brewing-Co/ICE-AXE" brewery_id="Mt-Hood-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mt-Hood-Brewing-Co/ICE-AXE</id>
+  <brewery_id>Mt-Hood-Brewing-Co</brewery_id>
   <name>ICE AXE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description>KEG 1/4</description>
       <distributor>
         <name>columbia</name>

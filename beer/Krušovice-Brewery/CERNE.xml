@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Krušovice-Brewery/CERNE" brewery_id="Krušovice-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Krušovice-Brewery/CERNE</id>
+  <brewery_id>Krušovice-Brewery</brewery_id>
   <name>CERNE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-3">
+    <size>
+      <upc>9-99999-99999-3</upc>
       <description>30L BBL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Jacob-Leinenkugel-Brewing-Co/SUN-WHEAT" brewery_id="Jacob-Leinenkugel-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jacob-Leinenkugel-Brewing-Co/SUN-WHEAT</id>
+  <brewery_id>Jacob-Leinenkugel-Brewing-Co</brewery_id>
   <name>SUN WHEAT</name>
   <description/>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spaten-Brewery/OKTOBF" brewery_id="Spaten-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten-Brewery/OKTOBF</id>
+  <brewery_id>Spaten-Brewery</brewery_id>
   <name>OKTOBF</name>
   <description/>
   <availability/>

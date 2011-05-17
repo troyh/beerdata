@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Front-Street-Brewery-Wilmington">
+<brewery>
+  <id>Front-Street-Brewery-Wilmington</id>
   <name>Front Street Brewery‎</name>
   <address>
     <street>9 N Front St</street>

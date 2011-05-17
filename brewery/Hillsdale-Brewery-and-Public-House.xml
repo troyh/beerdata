@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hillsdale-Brewery-and-Public-House">
+<brewery>
+  <id>Hillsdale-Brewery-and-Public-House</id>
   <name>Hillsdale Brewery &amp; Public House‎</name>
   <address>
     <street>1505 SW Sunset Blvd</street>

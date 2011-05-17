@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McCall-Brewing-Company-Mccall">
+<brewery>
+  <id>McCall-Brewing-Company-Mccall</id>
   <name>McCall Brewing Company‎</name>
   <address>
     <street>807 N 3rd St</street>

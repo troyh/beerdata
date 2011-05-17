@@ -1,7 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Spring-Ale" brewery_id="Otter-Creek-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Spring-Ale</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
   <name>Spring Ale</name>
-  <description>Otter Creek's new Spring Ale Special Release is a German-style K&#x9A;lsch: a bright golden ale originating in Cologne. Craft brewed with 2-row malt and malted wheat, and hopped with Tettnang and Liberty hops, this beer is crisp and refreshing with a dry finish.</description>
+  <description>Otter Creek's new Spring Ale Special Release is a German-style Klsch: a bright golden ale originating in Cologne. Craft brewed with 2-row malt and malted wheat, and hopped with Tettnang and Liberty hops, this beer is crisp and refreshing with a dry finish.</description>
   <availability>spring</availability>
   <ingredients/>
   <grains/>

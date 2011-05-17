@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Edimbourg-Oat-Ale" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Edimbourg-Oat-Ale</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>EDIMBOURG OAT ALE</name>
   <description>Brewed in the tradition of Scotch Ales, this beer has similar flavours characteristic of this style, all the while being lighter and less strong in alcohol. The oats give the beer complexity and a characteristic cereal taste.</description>
   <availability/>

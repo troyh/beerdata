@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Really-Old-Brown-Dog-Ale" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Really-Old-Brown-Dog-Ale</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>Really Old Brown Dog Ale</name>
   <description>Old Ale (also known as "Stock" Ale), is a full-bodied beer with high levels of dextrins. In times past, this beer was typically laid up to mature, hence the name. The color varies from rich, dark amber to a very dark brown. This style features fruity, vinuous &amp; deep, malty flavors, giving it an almost port-like qualities. Sight acidity is not uncommon.Olive, iconic mascot &amp; spirit guide of our brewery, first appeared on our Old Brown Dog label in 1994 &amp; returned, thirteen years later, to pose for our Really Old Brown Dog, a luscious, malt-rich, full bodied "old ale" featuring deep notes of complex fruit. Much like our beloved Olive, this beer will mellow &amp; age gracefully.</description>
   <availability/>

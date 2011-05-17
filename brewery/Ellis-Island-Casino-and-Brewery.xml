@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ellis-Island-Casino-and-Brewery">
+<brewery>
+  <id>Ellis-Island-Casino-and-Brewery</id>
   <name>Ellis Island Casino &amp; Brewery‎</name>
   <address>
     <street>4178 Koval Ln</street>

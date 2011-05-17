@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ayinger-Brewery/UR-WEISSE" brewery_id="Ayinger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ayinger-Brewery/UR-WEISSE</id>
+  <brewery_id>Ayinger-Brewery</brewery_id>
   <name>UR WEISSE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-12208-4">
+    <size>
+      <upc>0-85725-12208-4</upc>
       <description>20/17 BTL</description>
       <distributor>
         <name>odom</name>

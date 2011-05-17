@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Elliott-Bay-Brewery-and-Pub">
+<brewery>
+  <id>Elliott-Bay-Brewery-and-Pub</id>
   <name>Elliott Bay Brewery &amp; Pub‎</name>
   <address>
     <street>4720 California Ave SW</street>

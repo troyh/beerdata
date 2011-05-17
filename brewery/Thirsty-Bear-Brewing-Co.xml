@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Thirsty-Bear-Brewing-Co">
+<brewery>
+  <id>Thirsty-Bear-Brewing-Co</id>
   <name>Thirsty Bear Brewing Co‎</name>
   <address>
     <street>661 Howard St</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Atlanta-Brewing-Company/Red-Brick-Bogart-Ale" brewery_id="Atlanta-Brewing-Company" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Atlanta-Brewing-Company/Red-Brick-Bogart-Ale</id>
+  <brewery_id>Atlanta-Brewing-Company</brewery_id>
+  <ibu>year-round</ibu>
   <name>Red Brick Bogart Ale</name>
   <description/>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Capital-Brewery/Bavarian-Lager" brewery_id="Capital-Brewery" abv="4.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Capital-Brewery/Bavarian-Lager</id>
+  <brewery_id>Capital-Brewery</brewery_id>
+  <abv>4.9</abv>
   <name>Bavarian Lager</name>
   <description>While being a mild pilsner style beer, Bavarian Lager is our version of a clasic German "Helles" style of beer from Bavaria. Bavarian Lager is pale golden colored with a nice hop character over-laying mellow malt flavor.</description>
   <availability/>

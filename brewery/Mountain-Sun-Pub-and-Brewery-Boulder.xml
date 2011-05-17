@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mountain-Sun-Pub-and-Brewery-Boulder">
+<brewery>
+  <id>Mountain-Sun-Pub-and-Brewery-Boulder</id>
   <name>Mountain Sun Pub &amp; Brewery‎</name>
   <address>
     <street>1535 Pearl St</street>

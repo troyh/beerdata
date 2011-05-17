@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Tenth-Anniversary-Ale" brewery_id="Allagash-Brewing-Company" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Tenth-Anniversary-Ale</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>10</abv>
   <name>Tenth Anniversary Ale</name>
   <description>Allagash Brewing Company would like to introduce its Tenth Anniversary Ale, a special 10% ABV beer that celebrates 10 years of brewing artisanal Belgian Style ales. A unique interpretation of our flagship Allagash White, Tenth Anniversary is a blend of two different whites: a sweeter batch (brewed in February, 2005) and a drier batch (brewed in March, 2005). By blending the two batches, an additional complexity is imparted. Further complexity, most notably expressed by the delicate vanilla notes, was gained by aging some of the beer in new oak barrels Similar to our other ales, Tenth Anniversary is bottle conditioned. Just prior to bottling, a fresh dose of sugar and yeast was added to the 'still' beer (at this stage there is no carbonation present). After bottling, the beer was aged in the warm room, where the fresh dose of yeast ferments the sugar, and naturally carbonates the beer. The batch of Tenth Anniversary was bottled in May of '05 (800 cases, six bottles in each case), and it is the only batch that will be available. Due to the unique brewing process of this special ale, it is important to store the bottle upright and serve it cold. The bottle should be chilled in a refrigerator for 12 hours, or in an ice bucket with water and ice for 30 minutes before serving. </description>
   <availability>limited</availability>

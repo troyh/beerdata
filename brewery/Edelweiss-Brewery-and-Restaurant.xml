@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Edelweiss-Brewery-and-Restaurant">
+<brewery>
+  <id>Edelweiss-Brewery-and-Restaurant</id>
   <name>Edelweiss Brewery &amp; Restaurant‎</name>
   <address>
     <street>209 W Holland Ave</street>

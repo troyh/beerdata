@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Sixi-me-Soir" brewery_id="Dieu-Du-Ciel" abv="7.5">
-  <name>SIXI&#xE9;ME SOIR</name>
-  <description>This beer was specially brewed for Dieu du Ciel&#xD5;s sixth anniversary. It reflects the recent tendency of American brewers to push all beer styles to the extremes. This lager is therefore quite strong in alcohol and it has a sharp but delicate bitterness, like all pilsners. The beer is full-bodied and well balanced thanks to the delicate sweet flavours that come through.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Sixi-me-Soir</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>7.5</abv>
+  <name>SIXIéME SOIR</name>
+  <description>This beer was specially brewed for Dieu du CielÕs sixth anniversary. It reflects the recent tendency of American brewers to push all beer styles to the extremes. This lager is therefore quite strong in alcohol and it has a sharp but delicate bitterness, like all pilsners. The beer is full-bodied and well balanced thanks to the delicate sweet flavours that come through.</description>
   <availability/>
   <ingredients/>
   <grains/>

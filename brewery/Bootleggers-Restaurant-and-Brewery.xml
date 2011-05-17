@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bootleggers-Restaurant-and-Brewery">
+<brewery>
+  <id>Bootleggers-Restaurant-and-Brewery</id>
   <name>Bootleggers Restaurant &amp; Brewery‎</name>
   <address>
     <street>101 S Madison Ave</street>

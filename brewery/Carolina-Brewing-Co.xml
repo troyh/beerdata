@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Carolina-Brewing-Co">
+<brewery>
+  <id>Carolina-Brewing-Co</id>
   <name>Carolina Brewing Co‎</name>
   <address>
     <street>140 Thomas Mill Rd</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fullers-Brewery/LONDON-PORTER" brewery_id="Fullers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fullers-Brewery/LONDON-PORTER</id>
+  <brewery_id>Fullers-Brewery</brewery_id>
   <name>LONDON PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="3-20023-11111-1">
+    <size>
+      <upc>3-20023-11111-1</upc>
       <description>6/4/16.9 CAN</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Dad-Watsons">
+<brewery>
+  <id>McMenamins-Dad-Watsons</id>
   <name>McMenamins Dad Watsons‎</name>
   <address>
     <street>3601 Fremont Ave N</street>

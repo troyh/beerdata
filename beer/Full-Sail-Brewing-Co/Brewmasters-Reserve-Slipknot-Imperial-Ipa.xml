@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Slipknot-Imperial-Ipa" brewery_id="Full-Sail-Brewing-Co" abv="7.8" ibu="80">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Brewmasters-Reserve-Slipknot-Imperial-Ipa</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <abv>7.8</abv>
+  <ibu>80</ibu>
   <name>Brewmaster's Reserve: Slipknot Imperial IPA</name>
   <description>As the name implies, every aspect of this American style IPA is amplified - from the up-front hop aroma and bitterness to the big malt body.</description>
   <availability>Winter</availability>

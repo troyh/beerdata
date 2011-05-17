@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Snoqualmie-Falls-Brewing-Co">
+<brewery>
+  <id>Snoqualmie-Falls-Brewing-Co</id>
   <name>Snoqualmie Falls Brewing Co‎</name>
   <address>
     <street>8032 Falls Ave SE</street>

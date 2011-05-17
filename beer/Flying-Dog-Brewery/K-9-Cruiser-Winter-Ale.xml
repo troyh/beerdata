@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Flying-Dog-Brewery/K-9-Cruiser-Winter-Ale" brewery_id="Flying-Dog-Brewery" abv="6.4" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery/K-9-Cruiser-Winter-Ale</id>
+  <brewery_id>Flying-Dog-Brewery</brewery_id>
+  <abv>6.4</abv>
+  <ibu>30</ibu>
   <name>K-9 Cruiser Winter Ale</name>
   <description>The psycho in the pack... K-9 Cruiser is a dark, sweet and malty winter warmer that will captivate any adventurous craft brew drinker. A true Flying Dog original, K-9 Cruiser is the perfect brew to warm you up in those cold winter months.</description>
   <availability>Winter</availability>

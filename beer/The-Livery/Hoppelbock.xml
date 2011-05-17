@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Hoppelbock" brewery_id="The-Livery" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Hoppelbock</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>10</abv>
   <name>Hoppelbock</name>
   <description>This copper colored lager is dry hopped in the secondary fermenter with a blend of Czech Saaz and Sterling hops. Also available barrel aged.</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boulder-Beer-Company/MOJO-IPA-6PK" brewery_id="Boulder-Beer-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulder-Beer-Company/MOJO-IPA-6PK</id>
+  <brewery_id>Boulder-Beer-Company</brewery_id>
   <name>MOJO IPA 6PK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50939-61203-4">
+    <size>
+      <upc>0-50939-61203-4</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

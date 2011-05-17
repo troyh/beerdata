@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Paulaner-Braeuerei-GmbH/SALVATOR" brewery_id="Paulaner-Braeuerei-GmbH">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Paulaner-Braeuerei-GmbH/SALVATOR</id>
+  <brewery_id>Paulaner-Braeuerei-GmbH</brewery_id>
   <name>SALVATOR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80157-11125-5">
+    <size>
+      <upc>0-80157-11125-5</upc>
       <description/>
       <distributor>
         <name>columbia</name>

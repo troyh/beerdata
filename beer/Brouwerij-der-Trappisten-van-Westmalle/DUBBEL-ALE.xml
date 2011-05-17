@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-der-Trappisten-van-Westmalle/DUBBEL-ALE" brewery_id="Brouwerij-der-Trappisten-van-Westmalle">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-der-Trappisten-van-Westmalle/DUBBEL-ALE</id>
+  <brewery_id>Brouwerij-der-Trappisten-van-Westmalle</brewery_id>
   <name>DUBBEL ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-15402-3">
+    <size>
+      <upc>0-85725-15402-3</upc>
       <description>12/11.2 BTL</description>
       <distributor>
         <name>odom</name>

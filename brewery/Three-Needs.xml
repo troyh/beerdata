@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Three-Needs">
+<brewery>
+  <id>Three-Needs</id>
   <name>Three Needs‎</name>
   <address>
     <street>207 College St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasseries-Kronenbourg/1664" brewery_id="Brasseries-Kronenbourg">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasseries-Kronenbourg/1664</id>
+  <brewery_id>Brasseries-Kronenbourg</brewery_id>
   <name>1664</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-51621-00022-7">
+    <size>
+      <upc>8-51621-00022-7</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

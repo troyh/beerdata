@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="BrewDog-Brewery/PUNK-IPA" brewery_id="BrewDog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>BrewDog-Brewery/PUNK-IPA</id>
+  <brewery_id>BrewDog-Brewery</brewery_id>
   <name>PUNK IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-60154-91021-6">
+    <size>
+      <upc>0-60154-91021-6</upc>
       <description>12/22.4 BTL</description>
       <distributor>
         <name>odom</name>

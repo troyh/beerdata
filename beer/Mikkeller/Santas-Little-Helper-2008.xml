@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Santas-Little-Helper-2008" brewery_id="Mikkeller" abv="11">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Santas-Little-Helper-2008</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>11</abv>
   <name>Santa's Little Helper 2008</name>
   <description>Mikkeller Christmas beer anno 2008. Santa's Little Helper is a dark, strong Belgian ale, lightly spiced with sweet orange peel, coriander seeds, cinnamon and cocoa. This year's version is recognized by less sweetness than the 2007 version, a fresh hop bite, balanced by the sweetnes from the coriander and orange peel and a big bold body. Enjoy now or keep it in the cellar for many years to come.</description>
   <availability>limited</availability>

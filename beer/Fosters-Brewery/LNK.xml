@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fosters-Brewery/LNK" brewery_id="Fosters-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fosters-Brewery/LNK</id>
+  <brewery_id>Fosters-Brewery</brewery_id>
   <name>LNK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-70897-01125-0">
+    <size>
+      <upc>0-70897-01125-0</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$10.79</deposit>
       </distributor>
     </size>
-    <size upc="0-70897-01123-6">
+    <size>
+      <upc>0-70897-01123-6</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

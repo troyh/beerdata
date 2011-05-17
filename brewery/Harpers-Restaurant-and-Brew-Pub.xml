@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Harpers-Restaurant-and-Brew-Pub">
+<brewery>
+  <id>Harpers-Restaurant-and-Brew-Pub</id>
   <name>Harper's Restaurant &amp; Brew Pub‎</name>
   <address>
     <street>131 Albert Ave</street>

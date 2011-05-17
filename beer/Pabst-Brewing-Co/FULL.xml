@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pabst-Brewing-Co/FULL" brewery_id="Pabst-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pabst-Brewing-Co/FULL</id>
+  <brewery_id>Pabst-Brewing-Co</brewery_id>
   <name>FULL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-22100-00171-8">
+    <size>
+      <upc>0-22100-00171-8</upc>
       <description>CAN 1-24/12</description>
       <distributor>
         <name>columbia</name>

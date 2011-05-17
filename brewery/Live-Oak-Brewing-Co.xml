@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Live-Oak-Brewing-Co">
+<brewery>
+  <id>Live-Oak-Brewing-Co</id>
   <name>Live Oak Brewing Co‎</name>
   <address>
     <street>3301 E 5th St # B</street>

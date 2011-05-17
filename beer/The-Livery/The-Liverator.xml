@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/The-Liverator" brewery_id="The-Livery" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/The-Liverator</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>9</abv>
   <name>The Liverator</name>
   <description>Traditionally brewed by German monks to sustain themselves during Lent while they were fasting, This dark, rich, and malty beer has a hint of hops and a warming alcohol finish. Also available barrel aged.</description>
   <availability/>

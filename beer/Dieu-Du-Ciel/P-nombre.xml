@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/P-nombre" brewery_id="Dieu-Du-Ciel" abv="6">
-  <name>P&#x83;NOMBRE</name>
-  <description>Again, an american invention. This style was born at the "Vermont pub and brewery" around 1997. It could be said that this beer tries to be an hybrid between a regular IPA and a porter. The P&#x8E;nombre presents a light body and well expressed tofferaction tastes. The whole is however dominated by an evident bitterness, which stays always in balance with the other tates found in the beer. In the after taste, the bitterness and hops flavours are growing slowly dut surely, sip after sip.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/P-nombre</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6</abv>
+  <name>PNOMBRE</name>
+  <description>Again, an american invention. This style was born at the "Vermont pub and brewery" around 1997. It could be said that this beer tries to be an hybrid between a regular IPA and a porter. The Pnombre presents a light body and well expressed tofferaction tastes. The whole is however dominated by an evident bitterness, which stays always in balance with the other tates found in the beer. In the after taste, the bitterness and hops flavours are growing slowly dut surely, sip after sip.</description>
   <availability/>
   <ingredients/>
   <grains/>

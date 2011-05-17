@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<brewery id="Privatbrauerei-Franz-Joseph-Sailer">
+<?xml version="1.0" encoding="UTF-8"?>
+<brewery>
+  <id>Privatbrauerei-Franz-Joseph-Sailer</id>
   <name>Privatbrauerei Franz Joseph Sailer</name>
 </brewery>

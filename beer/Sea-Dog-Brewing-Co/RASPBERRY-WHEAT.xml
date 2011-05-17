@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Sea-Dog-Brewing-Co/RASPBERRY-WHEAT" brewery_id="Sea-Dog-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sea-Dog-Brewing-Co/RASPBERRY-WHEAT</id>
+  <brewery_id>Sea-Dog-Brewing-Co</brewery_id>
   <name>RASPBERRY WHEAT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00445-06009-5">
+    <size>
+      <upc>7-00445-06009-5</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

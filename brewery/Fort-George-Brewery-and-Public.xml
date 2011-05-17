@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fort-George-Brewery-and-Public">
+<brewery>
+  <id>Fort-George-Brewery-and-Public</id>
   <name>Fort George Brewery &amp; Public‎</name>
   <address>
     <street>1483 Duane St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Paulaner-Braeuerei-GmbH/OKTFEST" brewery_id="Paulaner-Braeuerei-GmbH">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Paulaner-Braeuerei-GmbH/OKTFEST</id>
+  <brewery_id>Paulaner-Braeuerei-GmbH</brewery_id>
   <name>OKTFEST</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80157-11123-1">
+    <size>
+      <upc>0-80157-11123-1</upc>
       <description>BOTTLE 16/9</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$2.49</deposit>
       </distributor>
     </size>
-    <size upc="0-80157-11676-2">
+    <size>
+      <upc>0-80157-11676-2</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

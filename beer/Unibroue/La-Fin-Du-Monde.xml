@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Unibroue/La-Fin-Du-Monde" brewery_id="Unibroue">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Unibroue/La-Fin-Du-Monde</id>
+  <brewery_id>Unibroue</brewery_id>
   <name>La Fin du Monde</name>
   <description/>
   <availability/>

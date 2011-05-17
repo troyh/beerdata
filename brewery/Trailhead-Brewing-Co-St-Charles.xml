@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trailhead-Brewing-Co-St-Charles">
+<brewery>
+  <id>Trailhead-Brewing-Co-St-Charles</id>
   <name>Trailhead Brewing Co‎</name>
   <address>
     <street>921 S Riverside Dr</street>

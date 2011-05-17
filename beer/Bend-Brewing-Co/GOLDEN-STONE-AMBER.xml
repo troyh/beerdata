@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bend-Brewing-Co/GOLDEN-STONE-AMBER" brewery_id="Bend-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bend-Brewing-Co/GOLDEN-STONE-AMBER</id>
+  <brewery_id>Bend-Brewing-Co</brewery_id>
   <name>GOLDEN STONE AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-69596-46303-2">
+    <size>
+      <upc>0-69596-46303-2</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

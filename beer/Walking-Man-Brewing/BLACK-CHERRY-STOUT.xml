@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Walking-Man-Brewing/BLACK-CHERRY-STOUT" brewery_id="Walking-Man-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Walking-Man-Brewing/BLACK-CHERRY-STOUT</id>
+  <brewery_id>Walking-Man-Brewing</brewery_id>
   <name>BLACK CHERRY STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

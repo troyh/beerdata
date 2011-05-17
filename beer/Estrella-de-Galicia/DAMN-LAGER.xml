@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Estrella-de-Galicia/DAMN-LAGER" brewery_id="Estrella-de-Galicia">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Estrella-de-Galicia/DAMN-LAGER</id>
+  <brewery_id>Estrella-de-Galicia</brewery_id>
   <name>DAMN LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50648-23383-4">
+    <size>
+      <upc>0-50648-23383-4</upc>
       <description/>
       <distributor>
         <name>columbia</name>

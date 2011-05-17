@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Summit-Brewing-Company-Saint-Paul-2">
+<brewery>
+  <id>Summit-Brewing-Company-Saint-Paul-2</id>
   <name>Summit Brewing Company‎</name>
   <address>
     <street>910 Montreal Cir</street>

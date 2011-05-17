@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Allagash-Brewing-Company/Alagsh-Curieux" brewery_id="Allagash-Brewing-Company" abv="9.5-10.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Company/Alagsh-Curieux</id>
+  <brewery_id>Allagash-Brewing-Company</brewery_id>
+  <abv>9.5-10.5</abv>
   <name>Alagsh Curieux</name>
   <description>In October of 2004, we released the first beer in our series of Barrel Aged beers, Allagash Curieux. To make the Curieux (French for "curious"), we age our Tripel Ale in Jim Beam barrels for 8 weeks in our cellar. During the aging process in bourbon barrels, the beer is totally transformed, and many new flavors and aromas develop. Most notably, the beer picks up soft coconut and vanilla characteristics...and also a hint of bourbon flavor!</description>
   <availability/>

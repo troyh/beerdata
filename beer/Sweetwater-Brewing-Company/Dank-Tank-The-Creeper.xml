@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Sweetwater-Brewing-Company/Dank-Tank-The-Creeper" brewery_id="Sweetwater-Brewing-Company" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Sweetwater-Brewing-Company/Dank-Tank-The-Creeper</id>
+  <brewery_id>Sweetwater-Brewing-Company</brewery_id>
+  <abv>10</abv>
   <name>Dank Tank The Creeper</name>
   <description/>
   <availability>limited</availability>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Cask-Jubelale" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.608652399628993" abv="6.70" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Cask-Jubelale</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <calories_per_ml>0.608652399628993</calories_per_ml>
+  <abv>6.70</abv>
+  <ibu>60</ibu>
   <name>Cask Jubelale</name>
   <description>Did you know that Jubelale was the first beer ever bottled by Deschutes Brewery? Every year, fallâs crisp, cool air signals the imminent arrival of winter. Thoughts of snow, friends and family, the holidays, and â Jubelale. Brewed with dark crystal malt creating a luscious holiday note with bountiful hops to excite your taste budsâ itâs easy to see why Jubelale is the perfect complement to the season.â¨â¨Every year Deschutes Brewery selects a Northwest artist to create an image evocative of the seasonâs festive atmosphere. In 2008, Pam Jersey Bird, who lives in Sisters, painted a winding, abstract river running through the open spaces of Central Oregonâs desert, surrounded by fluttering snowfall.â¨â¨âBecause Jubelale is 'A Festive Winter Ale,' I wanted to portray a scene that was lively and colorful but also captured Central Oregonâs snowy climate,â says Pam Jersey Bird. âI decided to focus on the river that is the namesake of the brewery and also inspired the name of our town. Emphasizing the curve of the bank, I added snowflakes and ice crystals, which surround the blue moving waters of the Deschutes River.â More of Pam's work can be viewed at www.pamjerseybird.com.Â  </description>
   <availability>fall/winter</availability>
@@ -9,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description>KEG 1/4</description>
       <distributor>
         <name>columbia</name>

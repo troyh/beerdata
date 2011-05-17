@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Stone-Brewing-Company/Arrogant-Bastard-Ale" brewery_id="Stone-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Company/Arrogant-Bastard-Ale</id>
+  <brewery_id>Stone-Brewing-Company</brewery_id>
   <name>Arrogant Bastard Ale</name>
   <description/>
   <availability/>

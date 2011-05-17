@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ayinger-Brewery/CELEBRATOR" brewery_id="Ayinger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ayinger-Brewery/CELEBRATOR</id>
+  <brewery_id>Ayinger-Brewery</brewery_id>
   <name>CELEBRATOR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-91019-11111-1">
+    <size>
+      <upc>9-91019-11111-1</upc>
       <description>30L</description>
       <distributor>
         <name>odom</name>

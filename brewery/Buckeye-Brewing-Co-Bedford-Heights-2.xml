@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Buckeye-Brewing-Co-Bedford-Heights-2">
+<brewery>
+  <id>Buckeye-Brewing-Co-Bedford-Heights-2</id>
   <name>Buckeye Brewing Co‎</name>
   <address>
     <street>25200 Miles Rd</street>

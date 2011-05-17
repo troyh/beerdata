@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="SABMiller/PILSNER" brewery_id="SABMiller">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>SABMiller/PILSNER</id>
+  <brewery_id>SABMiller</brewery_id>
   <name>PILSNER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-00000-09999-8">
+    <size>
+      <upc>0-00000-09999-8</upc>
       <description>13.2 BBL</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$169.99</deposit>
       </distributor>
     </size>
-    <size upc="0-72311-13312-8">
+    <size>
+      <upc>0-72311-13312-8</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>
@@ -33,7 +37,8 @@
         <deposit>$16.89</deposit>
       </distributor>
     </size>
-    <size upc="0-72311-63001-6">
+    <size>
+      <upc>0-72311-63001-6</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>
@@ -45,7 +50,8 @@
         <deposit>$7.49</deposit>
       </distributor>
     </size>
-    <size upc="0-72311-13302-9">
+    <size>
+      <upc>0-72311-13302-9</upc>
       <description>CAN 6-4/14</description>
       <distributor>
         <name>columbia</name>

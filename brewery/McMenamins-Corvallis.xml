@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Corvallis">
+<brewery>
+  <id>McMenamins-Corvallis</id>
   <name>McMenamins-Corvallis‎</name>
   <address>
     <street>420 NW 3rd St</street>

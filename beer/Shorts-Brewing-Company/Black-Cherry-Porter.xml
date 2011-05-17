@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Black-Cherry-Porter" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Black-Cherry-Porter</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Black Cherry Porter</name>
   <description>One of the biggest beers offered. It's brewed as soon as the sweet black cherries are ripe. The formula consists of several different malts, lending deep opaque color with purple lace from the fresh fruit it's fermented with. Nearly 4 lbs. of fresh sweet black cherries go into each gallon of brew. A flavor of deep lustrous malt complexity and fullness, yet smooth and soft hints of toasted chocolate and a pleasurable black cherry flavors.</description>
   <availability>summer</availability>

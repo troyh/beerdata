@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-Glarus-Brewing-Co">
+<brewery>
+  <id>New-Glarus-Brewing-Co</id>
   <name>New Glarus Brewing Co‎</name>
   <address>
     <street>119 State Road 69</street>

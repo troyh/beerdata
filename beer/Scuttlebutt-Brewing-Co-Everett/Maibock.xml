@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Scuttlebutt-Brewing-Co-Everett/Maibock" brewery_id="Scuttlebutt-Brewing-Co-Everett">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Scuttlebutt-Brewing-Co-Everett/Maibock</id>
+  <brewery_id>Scuttlebutt-Brewing-Co-Everett</brewery_id>
   <name>Maibock</name>
   <description/>
   <availability/>

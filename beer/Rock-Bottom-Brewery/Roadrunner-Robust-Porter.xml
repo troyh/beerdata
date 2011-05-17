@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Roadrunner-Robust-Porter" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Roadrunner-Robust-Porter</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Roadrunner Robust Porter</name>
   <description>Mahogany-colored and medium-bodied, this robust Porter offers a smooth semi-sweet chocolate ?characteristic, enhanced with hints of caramel and ?toasted malts. Perfect with any Brewery Classic like the Brown Ale Chicken or Pub Tips with White Cheddar Mashed Potatoes.</description>
   <availability>year-round</availability>

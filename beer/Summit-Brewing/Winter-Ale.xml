@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Winter-Ale" brewery_id="Summit-Brewing" abv="6.2" ibu="36">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Winter-Ale</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>6.2</abv>
+  <ibu>36</ibu>
   <name>Winter Ale</name>
   <description/>
   <availability>winter</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cape-Ann-Brewing-Co">
+<brewery>
+  <id>Cape-Ann-Brewing-Co</id>
   <name>Cape Ann Brewing Co‎</name>
   <address>
     <street>27 Commercial St</street>

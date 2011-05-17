@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Beer-Geek-Brunch-weasel" brewery_id="Mikkeller" abv="10.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Beer-Geek-Brunch-weasel</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>10.9</abv>
   <name>Beer Geek Brunch (Weasel)</name>
   <description>This imperial Oatmeal stout is brewed with one of the world's most expensive coffees, made from droppings of weasel-like civet cats. The fussy Southeast Asian animals only eat the best and ripest coffee berries. Enzymes in their digestive system help to break down the bean. Workers collect the bean-containing droppings for Civet or Weasel Coffee. The exceedingly rare Civet Coffee has a strong taste and an even stronger aroma.</description>
   <availability/>

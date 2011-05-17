@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Atlanta-Brewing-Company/Red-Brick-Octoberfest" brewery_id="Atlanta-Brewing-Company" ibu="fall">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Atlanta-Brewing-Company/Red-Brick-Octoberfest</id>
+  <brewery_id>Atlanta-Brewing-Company</brewery_id>
+  <ibu>fall</ibu>
   <name>Red Brick Octoberfest</name>
   <description/>
   <availability/>

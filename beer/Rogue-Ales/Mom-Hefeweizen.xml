@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Mom-Hefeweizen" brewery_id="Rogue-Ales" ibu="34">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Mom-Hefeweizen</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>34</ibu>
   <name>Mom Hefeweizen</name>
   <description>This Belgian-style blonde ale is an unfiltered fusion of wheat and barley malts, spiced with coriander and ginger.</description>
   <availability/>

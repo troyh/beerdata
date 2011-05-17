@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/The-Reverend-Belgian-style-Quadrupel" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/The-Reverend-Belgian-style-Quadrupel</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>The Reverend Belgian-style Quadrupel</name>
   <description/>
   <availability/>

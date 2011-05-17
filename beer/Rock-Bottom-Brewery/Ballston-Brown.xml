@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Ballston-Brown" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Ballston-Brown</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Ballston Brown</name>
   <description>A classic Southern English-Style Brown with a medium body and subtle hints of roast and chocolate malt flavor. This beer is brewed with traditional mild English hops that balance the complex malt characteristic. Enjoy this Ale with any of our Homestyle Favorites.</description>
   <availability>year-round</availability>

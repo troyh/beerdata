@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Class-V-Amber-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Class-V-Amber-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Class V Amber Ale</name>
   <description>An English-style Amber Ale showcasing British Pale and crystal malts. This smooth, medium-bodied Ale is balanced with English-style earthy hops. Class V Amber Ale is easy drinking yet full of flavor.</description>
   <availability>year-round</availability>

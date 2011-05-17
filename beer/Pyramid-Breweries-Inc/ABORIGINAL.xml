@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pyramid-Breweries-Inc/ABORIGINAL" brewery_id="Pyramid-Breweries-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pyramid-Breweries-Inc/ABORIGINAL</id>
+  <brewery_id>Pyramid-Breweries-Inc</brewery_id>
   <name>ABORIGINAL</name>
   <description/>
   <availability/>

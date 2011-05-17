@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Redpoint-Ale" brewery_id="Avery-Brewing" abv="5.1" ibu="22">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Redpoint-Ale</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>5.1</abv>
+  <ibu>22</ibu>
   <name>Redpoint Ale</name>
   <description>Some beer lovers enjoy a rich, malty brew, while others go more for hoppy beers. Our brewmaster likes both - as evidence by this rich and caramelly amber ale with the distinct flavor and bouquet of Cascade hops. Reaching the perfect balance of crystal malt sweetness and hop bitterness took plenty of time and effort, making Redpoint the perfect beer for toasting your most recent success.</description>
   <availability/>

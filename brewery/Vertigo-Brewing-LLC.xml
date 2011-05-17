@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Vertigo-Brewing-LLC">
+<brewery>
+  <id>Vertigo-Brewing-LLC</id>
   <name>Vertigo Brewing LLC‎</name>
   <address>
     <street>21420 NW Nicholas Ct</street>

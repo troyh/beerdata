@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barley-Island-Brewing-Co-Noblesville">
+<brewery>
+  <id>Barley-Island-Brewing-Co-Noblesville</id>
   <name>Barley Island Brewing Co‎</name>
   <address>
     <street>639 Conner St</street>

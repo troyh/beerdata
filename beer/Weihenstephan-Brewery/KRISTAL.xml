@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Weihenstephan-Brewery/KRISTAL" brewery_id="Weihenstephan-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Weihenstephan-Brewery/KRISTAL</id>
+  <brewery_id>Weihenstephan-Brewery</brewery_id>
   <name>KRISTAL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-48004-11111-1">
+    <size>
+      <upc>7-48004-11111-1</upc>
       <description>20/16.9 BTL</description>
       <distributor>
         <name>odom</name>

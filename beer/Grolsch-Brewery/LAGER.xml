@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grolsch-Brewery/LAGER" brewery_id="Grolsch-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grolsch-Brewery/LAGER</id>
+  <brewery_id>Grolsch-Brewery</brewery_id>
   <name>LAGER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83741-00005-8">
+    <size>
+      <upc>0-83741-00005-8</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

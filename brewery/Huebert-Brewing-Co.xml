@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Huebert-Brewing-Co">
+<brewery>
+  <id>Huebert-Brewing-Co</id>
   <name>Huebert Brewing Co‎</name>
   <address>
     <street>421 SW 26th St</street>

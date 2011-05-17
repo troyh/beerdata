@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Boulevard-Brewing-Co/Pale-Ale" brewery_id="Boulevard-Brewing-Co" abv="5.4" ibu="31">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boulevard-Brewing-Co/Pale-Ale</id>
+  <brewery_id>Boulevard-Brewing-Co</brewery_id>
+  <abv>5.4</abv>
+  <ibu>31</ibu>
   <name>Pale Ale</name>
   <description>Boulevard Pale Ale is a smooth, fruity, well-balanced beer with year-round appeal. A variety of caramel malts impart a rich flavor and amber color, while liberal use of whole hops adds zest and aroma. Pale Ale is the first beer we brewed, and continues to be a perennial favorite.\nSENSORY DESCRIPTION: Hoppiness can cut through greasy, fatty or mouth-coating foods, it can also compliment vinegar-based dishes, or seafood dishes; can enhance heavily spiced dishes. Flavor hooks: flowery spices</description>
   <availability>year-round</availability>

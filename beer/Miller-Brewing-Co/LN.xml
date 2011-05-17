@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Miller-Brewing-Co/LN" brewery_id="Miller-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Miller-Brewing-Co/LN</id>
+  <brewery_id>Miller-Brewing-Co</brewery_id>
   <name>LN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-57256-3">
+    <size>
+      <upc>0-34100-57256-3</upc>
       <description>BOTTLE 1-18/12</description>
       <distributor>
         <name>columbia</name>

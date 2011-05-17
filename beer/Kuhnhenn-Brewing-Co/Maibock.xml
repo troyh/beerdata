@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Maibock" brewery_id="Kuhnhenn-Brewing-Co" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Maibock</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
+  <abv>7.5</abv>
   <name>Maibock</name>
   <description>This medium-bodies springtime lager is a jewel-like deep golden color. With its strong malty aroma, creamy head and rich flavor, this beer is truly May in a glass!</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Captain-Lawrence-Brewing-Company/St-Vincents-Dubbel" brewery_id="Captain-Lawrence-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Captain-Lawrence-Brewing-Company/St-Vincents-Dubbel</id>
+  <brewery_id>Captain-Lawrence-Brewing-Company</brewery_id>
   <name>St. Vincent's Dubbel</name>
   <description/>
   <availability>summer</availability>

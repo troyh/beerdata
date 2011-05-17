@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Bottom-Restaurant-and-Brewery-King-of-Prussia-2">
+<brewery>
+  <id>Rock-Bottom-Restaurant-and-Brewery-King-of-Prussia-2</id>
   <name>Rock Bottom Restaurant &amp; Brewery‎</name>
   <address>
     <street>160 N Gulph Rd # 1001</street>

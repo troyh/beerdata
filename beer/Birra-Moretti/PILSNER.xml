@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Birra-Moretti/PILSNER" brewery_id="Birra-Moretti">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Birra-Moretti/PILSNER</id>
+  <brewery_id>Birra-Moretti</brewery_id>
   <name>PILSNER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-19751-20103-0">
+    <size>
+      <upc>7-19751-20103-0</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

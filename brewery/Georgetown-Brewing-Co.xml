@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Georgetown-Brewing-Co">
+<brewery>
+  <id>Georgetown-Brewing-Co</id>
   <name>Georgetown Brewing Co‎</name>
   <address>
     <street>5840 Airport Way S # 201</street>

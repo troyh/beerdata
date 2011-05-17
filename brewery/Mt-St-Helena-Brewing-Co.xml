@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mt-St-Helena-Brewing-Co">
+<brewery>
+  <id>Mt-St-Helena-Brewing-Co</id>
   <name>Mt St Helena Brewing Co‎</name>
   <address>
     <street>21167 Calistoga Rd</street>

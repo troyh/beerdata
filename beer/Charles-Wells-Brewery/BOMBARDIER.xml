@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Charles-Wells-Brewery/BOMBARDIER" brewery_id="Charles-Wells-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Charles-Wells-Brewery/BOMBARDIER</id>
+  <brewery_id>Charles-Wells-Brewery</brewery_id>
   <name>BOMBARDIER</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Four-Peaks-Brewing-Co">
+<brewery>
+  <id>Four-Peaks-Brewing-Co</id>
   <name>Four Peaks Brewing Co‎</name>
   <address>
     <street>1340 E 8th St # 104</street>

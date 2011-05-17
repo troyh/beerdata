@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="The-Livery/Agent-99" brewery_id="The-Livery" abv="10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>The-Livery/Agent-99</id>
+  <brewery_id>The-Livery</brewery_id>
+  <abv>10</abv>
   <name>Agent 99</name>
   <description>Amber/Gold in color, this ale has a warming peppery note from the alcohol, spiciness from the hops, and a distinctive fruitiness from the Belgian yeast. Also available in a barrel aged version.</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Tailwagger" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Tailwagger</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Tailwagger</name>
   <description>Barley Wines are big beers! In fact this is the strongest beer we have ever brewed for our friends here in Wisconsin. This beer is "malt accented" so we searched the world and found the richest, most expensive barley varieties we could find. We bought the best barley available not only here in the United States but also in Belgium, Germany and Scotland. \nYou can thank Scottish farmers for growing Golden Promise barley because we used bushels of it in this beer to yield a full and rich flavor. We sourced hops from the United States and Germany but again turned to the UK for our signature hop, "East Kent Golding". This ale is fermented in this bottle and is suitable for laying down. It so strong that we guess it will continue to improve for years!</description>
   <availability>retired</availability>

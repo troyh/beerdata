@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Olde-Main-Brewing-Co-Ames">
+<brewery>
+  <id>Olde-Main-Brewing-Co-Ames</id>
   <name>Olde Main Brewing Co‎</name>
   <address>
     <street>316 Main St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Bubbas-Bad-BBQ">
+<brewery>
+  <id>Big-Bubbas-Bad-BBQ</id>
   <name>Big Bubba's Bad BBQ‎</name>
   <address>
     <street>560 W 18th St</street>

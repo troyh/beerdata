@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Otter-Creek-Brewing/Vermont-Lager" brewery_id="Otter-Creek-Brewing" ibu="26">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing/Vermont-Lager</id>
+  <brewery_id>Otter-Creek-Brewing</brewery_id>
+  <ibu>26</ibu>
   <name>Vermont Lager</name>
   <description>A classic European style lager. We take the time to brew this beer as a true lager should be brewed. And it's well worth the wait! You can enjoy the drinkability of this light-gold, refreshing beer with friends at the pub or at home after a long day.</description>
   <availability>year-round</availability>

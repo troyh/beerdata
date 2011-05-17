@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Russian-River-Brewing-Co/BLIND-PIG" brewery_id="Russian-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Russian-River-Brewing-Co/BLIND-PIG</id>
+  <brewery_id>Russian-River-Brewing-Co</brewery_id>
   <name>BLIND PIG</name>
   <description/>
   <availability/>

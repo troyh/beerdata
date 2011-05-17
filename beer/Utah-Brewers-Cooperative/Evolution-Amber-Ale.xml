@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Utah-Brewers-Cooperative/Evolution-Amber-Ale" brewery_id="Utah-Brewers-Cooperative">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Utah-Brewers-Cooperative/Evolution-Amber-Ale</id>
+  <brewery_id>Utah-Brewers-Cooperative</brewery_id>
   <name>Evolution Amber Ale</name>
   <description>This highly controverisal beer is actually a straight-forward, well-balanced, malty amber ale. Tettnanager hops provide a subtle spicy character, which balances out this well-rounded and highly drinkable amber ale.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Engine-House-Number-9-Tacoma">
+<brewery>
+  <id>Engine-House-Number-9-Tacoma</id>
   <name>Engine House Number 9‎</name>
   <address>
     <street>611 N Pine St</street>

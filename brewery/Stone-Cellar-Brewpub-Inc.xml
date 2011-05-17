@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stone-Cellar-Brewpub-Inc">
+<brewery>
+  <id>Stone-Cellar-Brewpub-Inc</id>
   <name>Stone Cellar Brewpub Inc‎</name>
   <address>
     <street>1004 S Olde Oneida St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Walking-Man-Brewing">
+<brewery>
+  <id>Walking-Man-Brewing</id>
   <name>Walking Man Brewing‎</name>
   <address>
     <street>240 SW 1st St</street>

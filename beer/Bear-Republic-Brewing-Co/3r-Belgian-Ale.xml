@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/3r-Belgian-Ale" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/3r-Belgian-Ale</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>3R Belgian Ale</name>
   <description>An "experimental ale" in the true sense of the phrase. This ale is a blend of our three top selling bottle conditioned ales, fermented with our house Belgian yeast strain. See if you can pick out the spicy notes of cinnamon and slight bready character brought forth by the yeast strain.</description>
   <availability/>

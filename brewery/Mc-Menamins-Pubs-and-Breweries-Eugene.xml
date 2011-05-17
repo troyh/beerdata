@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mc-Menamins-Pubs-and-Breweries-Eugene">
+<brewery>
+  <id>Mc-Menamins-Pubs-and-Breweries-Eugene</id>
   <name>Mc Menamins Pubs &amp; Breweries‎</name>
   <address>
     <street>1243 High St</street>

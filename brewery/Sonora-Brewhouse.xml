@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sonora-Brewhouse">
+<brewery>
+  <id>Sonora-Brewhouse</id>
   <name>Sonora Brewhouse‎</name>
   <address>
     <street>322 E Camelback Rd</street>

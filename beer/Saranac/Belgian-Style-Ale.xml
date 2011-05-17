@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Belgian-Style-Ale" brewery_id="Saranac" abv="5.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Belgian-Style-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.9</abv>
   <name>Belgian Style Ale</name>
   <description>Saranac Belgian Style Ale is deliciously fruity. It is brewed with a generous amount of Belgian aromatic malt, hand selected hops, and a traditional Belgian Ale yeast. Brewed in the "trappist" style. </description>
   <availability>winter</availability>

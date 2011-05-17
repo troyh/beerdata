@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Rogue-Brewery/MOM-HEFFE" brewery_id="Rogue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Brewery/MOM-HEFFE</id>
+  <brewery_id>Rogue-Brewery</brewery_id>
   <name>MOM HEFFE</name>
   <description/>
   <availability/>

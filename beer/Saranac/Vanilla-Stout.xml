@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Vanilla-Stout" brewery_id="Saranac" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Vanilla-Stout</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.8</abv>
   <name>Vanilla Stout</name>
   <description>Few ingredients rival vanilla's ability to add richness and roundness to food. Blended with a traditional blend of caramel and chocolate malts plus roasted barley, the result in Saranac Vanilla Stout will surpass your expectations. Enjoy the brew on it's own or with a bite of dark chocolate for a real treat.</description>
   <availability>winter</availability>

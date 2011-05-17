@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Full-Sail-Ltd-Series" brewery_id="Full-Sail-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Full-Sail-Ltd-Series</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
   <name>Full Sail LTD Series</name>
   <description>LTD means Limited Edition. But around here it means something even more: Live The Dream. And in celebration of our 21st birthday we're doing something every brewer dreams of: Concocting an ever-changing series of small batch beers, available for a limited time only. Each new LTD Series brew will showcase an original lager recipe, pimped out by our ace crew of libationary wunderkinds.</description>
   <availability>Limited</availability>

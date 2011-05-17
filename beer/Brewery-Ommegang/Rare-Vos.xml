@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brewery-Ommegang/Rare-Vos" brewery_id="Brewery-Ommegang">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brewery-Ommegang/Rare-Vos</id>
+  <brewery_id>Brewery-Ommegang</brewery_id>
   <name>Rare Vos</name>
   <description/>
   <availability/>

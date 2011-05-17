@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Restaurant-Bar-and-Brewery-Boynton-Beach">
+<brewery>
+  <id>Hops-Restaurant-Bar-and-Brewery-Boynton-Beach</id>
   <name>Hops Restaurant Bar &amp; Brewery‎</name>
   <address>
     <street>545 N Congress Ave</street>

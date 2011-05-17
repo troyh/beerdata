@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Volksweizen" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Volksweizen</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Volksweizen</name>
   <description>A delicious Northwest wheat beer with the added twist of ginger and coriander to give it a crisp, thirst quenching zing. Even zingier with our zesty buffalo wings.</description>
   <availability>year-round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brew-Pub-Montgomery-Brewing-Company">
+<brewery>
+  <id>Brew-Pub-Montgomery-Brewing-Company</id>
   <name>Brew Pub (Montgomery Brewing Company)‎</name>
   <address>
     <street>12 W Jefferson St</street>

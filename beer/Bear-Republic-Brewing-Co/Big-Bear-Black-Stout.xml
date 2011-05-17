@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bear-Republic-Brewing-Co/Big-Bear-Black-Stout" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Big-Bear-Black-Stout</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>Big Bear Black Stout</name>
   <description/>
   <availability/>

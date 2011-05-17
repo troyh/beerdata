@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brewhouse-Santa-Barbara">
+<brewery>
+  <id>Brewhouse-Santa-Barbara</id>
   <name>Brewhouse‎</name>
   <address>
     <street>229 W Montecito St</street>

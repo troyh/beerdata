@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Loonie-Kuhnie" brewery_id="Kuhnhenn-Brewing-Co" abv="5.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Loonie-Kuhnie</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
+  <abv>5.6</abv>
   <name>Loonie Kuhnie</name>
   <description>This pale ale is our most requested beer. Light amber in color, the head releases a nice citrus American hop aroma. Refreshing true session with a light malt flavor. Suprisingly, sweetness balances with its medium to low bitterness and the finish hop character stands out.</description>
   <availability/>

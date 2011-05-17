@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oak-Pond-Brewery">
+<brewery>
+  <id>Oak-Pond-Brewery</id>
   <name>Oak Pond Brewery‎</name>
   <address>
     <street>101 Oak Pond Rd</street>

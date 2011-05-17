@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alesmith-Brewing-Co/Alesmith-X" brewery_id="Alesmith-Brewing-Co" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alesmith-Brewing-Co/Alesmith-X</id>
+  <brewery_id>Alesmith-Brewing-Co</brewery_id>
+  <abv>5.5</abv>
   <name>AleSmith X</name>
   <description>AleSmith X is our refreshing Extra Pale Ale. Pale Yellow color, bright white head. Aroma of fresh hops with notes of citrus and pine.</description>
   <availability/>

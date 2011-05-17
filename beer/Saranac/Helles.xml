@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Helles" brewery_id="Saranac" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Helles</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.8</abv>
   <name>Helles</name>
   <description>Brewed in the Bavarian tradition. Our Helles is decoction mashed with select German malts to produce a malty brew. Our selecion of German Noble Hops and our authentic Bavarian Yeast combine to balance the maltiness and end in a dry refreshing beer.</description>
   <availability>Summer</availability>

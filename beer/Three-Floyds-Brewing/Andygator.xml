@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Andygator" brewery_id="Three-Floyds-Brewing" abv="8" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Andygator</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>8</abv>
+  <ibu>25</ibu>
   <name>Andygator</name>
   <description>Andygator, a creature of the swamp, is a unique high-gravity brew made with pale malt, German lager yeast, and German Perle hops. Unlike other high-gravity brews, Andygator is fermented to a dry finish with a slightly sweet flavor and subtle fruit aroma. Reaching an alcohol strength of 8% by volume, it is a Helles Dopplebock.\nYou might find it goes well with fried foods. It pairs well with just about anything made with crawfish. Some like it with a robust sandwich! Andygator also is a good aperitif and easily pairs with gorgonzola and creamy blue cheeses. Because of the high alcohol content, be cautious---sip it for the most enjoyment.</description>
   <availability/>

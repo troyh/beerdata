@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Butternuts-Beer-and-Ale">
+<brewery>
+  <id>Butternuts-Beer-and-Ale</id>
   <name>Butternuts Beer &amp; Ale‎</name>
   <address>
     <street>4021 State Highway 51</street>

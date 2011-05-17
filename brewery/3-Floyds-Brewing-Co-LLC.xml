@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="3-Floyds-Brewing-Co-LLC">
+<brewery>
+  <id>3-Floyds-Brewing-Co-LLC</id>
   <name>3 Floyds Brewing Co LLC‎</name>
   <address>
     <street>9750 Indiana Pkwy</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Simcoe-Single-Hop-Ipa" brewery_id="Mikkeller" abv="6.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Simcoe-Single-Hop-Ipa</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>6.9</abv>
   <name>Simcoe Single Hop IPA</name>
   <description>The first in a new series of single hop IPA's from Mikkeller. Brewed with Simcoe, known for many great US micro-brews. An extremely fresh-hopped IPA.</description>
   <availability/>

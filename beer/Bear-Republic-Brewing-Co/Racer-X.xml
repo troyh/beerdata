@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Racer-X" brewery_id="Bear-Republic-Brewing-Co" abv="7.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Racer-X</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>7.8</abv>
   <name>Racer X</name>
   <description>This bold winter ale follows English brewing traditions, but with our California twist. Bold hops, but balanced ... It's a double IPA!</description>
   <availability>winter</availability>

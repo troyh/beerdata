@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Walldorff-Brew-Pub-and-Bistro">
+<brewery>
+  <id>Walldorff-Brew-Pub-and-Bistro</id>
   <name>Walldorff Brew Pub &amp; Bistro‎</name>
   <address>
     <street>105 E State St</street>

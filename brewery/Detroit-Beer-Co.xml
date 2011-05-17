@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Detroit-Beer-Co">
+<brewery>
+  <id>Detroit-Beer-Co</id>
   <name>Detroit Beer Co‎</name>
   <address>
     <street>1529 Broadway St</street>

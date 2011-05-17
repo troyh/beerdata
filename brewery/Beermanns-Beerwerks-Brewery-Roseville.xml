@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Beermanns-Beerwerks-Brewery-Roseville">
+<brewery>
+  <id>Beermanns-Beerwerks-Brewery-Roseville</id>
   <name>Beermann's Beerwerks Brewery‎</name>
   <address>
     <street>8284 Industrial Ave # B</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Stone-Coast-Brewing-Co-Portland-2">
+<brewery>
+  <id>Stone-Coast-Brewing-Co-Portland-2</id>
   <name>Stone Coast Brewing Co‎</name>
   <address>
     <street>23 Rice St</street>

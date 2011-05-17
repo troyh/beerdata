@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Cherry-Stout" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Cherry-Stout</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Cherry Stout</name>
   <description>Seventh in our series, this is Dan's Gold Medal winning "Unplugged Cherry Stout." This ale is aged in Oak barrels to promote the spontaneous fermentation. Eight Wisconsin malted barleys combined with Wisconsin Montmorency Cherries make for a complex and sublime taste experience that you may never find again. Discover why Dan is repeatedly recognized as the Best Brewmaster in America.</description>
   <availability>retired</availability>

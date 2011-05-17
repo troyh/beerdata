@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Winter-Warmer" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Winter-Warmer</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Winter Warmer</name>
   <description>Indulge in our heady scotch ale. This "Winter Warmer" is a celebration of roasted toffee notes wrapped in rich tawny tones and toasty palate. Two months in the making insures an incredible silky finish. \nScottish folklore tells that the first person to step over your threshold brings with them luck for the New Year. Simple gifts of coal for warmth, salt for prosperity and ale for joy symbolize the bearer's wishes.</description>
   <availability>retired</availability>

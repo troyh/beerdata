@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alaskan-Brewing-Co/SMKD-PORTR" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/SMKD-PORTR</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>SMKD PORTR</name>
   <description/>
   <availability/>

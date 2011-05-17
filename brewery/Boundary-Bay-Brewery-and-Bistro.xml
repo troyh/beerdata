@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Boundary-Bay-Brewery-and-Bistro">
+<brewery>
+  <id>Boundary-Bay-Brewery-and-Bistro</id>
   <name>Boundary Bay Brewery &amp; Bistro‎</name>
   <address>
     <street>1107 Railroad Ave</street>

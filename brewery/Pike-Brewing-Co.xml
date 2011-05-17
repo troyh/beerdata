@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pike-Brewing-Co">
+<brewery>
+  <id>Pike-Brewing-Co</id>
   <name>Pike Brewing Co‎</name>
   <address>
     <street>1415 1st Ave</street>

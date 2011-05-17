@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brownstone-Restaurant">
+<brewery>
+  <id>Brownstone-Restaurant</id>
   <name>Brownstone Restaurant‎</name>
   <address>
     <street>455 River Pkwy</street>

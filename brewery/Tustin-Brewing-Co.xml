@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tustin-Brewing-Co">
+<brewery>
+  <id>Tustin-Brewing-Co</id>
   <name>Tustin Brewing Co‎</name>
   <address>
     <street>13011 Newport Ave # 100</street>

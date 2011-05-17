@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Skyscraper-Brewing">
+<brewery>
+  <id>Skyscraper-Brewing</id>
   <name>Skyscraper Brewing‎</name>
   <address>
     <street>3229 Durfee Ave</street>

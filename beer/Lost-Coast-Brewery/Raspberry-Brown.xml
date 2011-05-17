@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lost-Coast-Brewery/Raspberry-Brown" brewery_id="Lost-Coast-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery/Raspberry-Brown</id>
+  <brewery_id>Lost-Coast-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Raspberry Brown</name>
   <description>Award-winning Downtown Brown Ale, with its rich chocolate malt flavor, is enhanced with an infusion of real raspberry</description>
   <availability/>

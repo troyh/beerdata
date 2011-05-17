@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Fultonwood-Draft-Imperial-Ipa" brewery_id="Goose-Island-Beer-Co" abv="9" ibu="85">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Fultonwood-Draft-Imperial-Ipa</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>9</abv>
+  <ibu>85</ibu>
   <name>FultonWood Draft: Imperial IPA</name>
   <description>Our hop monster. This light straw colored ale explodes apricot and citrus rind notes balanced with a warm, toasty malt character. Bitter enough to wake the dead -- you'll smell the hops from a yard away.</description>
   <availability>limited</availability>

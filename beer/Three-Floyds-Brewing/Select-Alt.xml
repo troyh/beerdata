@@ -1,7 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Alt" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Alt</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Alt</name>
-  <description>Our Alt is very similar to the commercially produced alt beers that are made in D&#x9F;sseldorf today. It is made with all German Weyermann malts and is hopped and dry hopped with German Tettnanger hops. This is going to give the beer a very malty character and a pleasant hop aroma and flavor. The result is an aromatic light colored brown ale with a rich malty taste.</description>
+  <description>Our Alt is very similar to the commercially produced alt beers that are made in Dsseldorf today. It is made with all German Weyermann malts and is hopped and dry hopped with German Tettnanger hops. This is going to give the beer a very malty character and a pleasant hop aroma and flavor. The result is an aromatic light colored brown ale with a rich malty taste.</description>
   <availability>retired</availability>
   <ingredients/>
   <grains/>

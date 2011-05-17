@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Scuttlebutt-Brewing-Co-Everett/Amber" brewery_id="Scuttlebutt-Brewing-Co-Everett">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Scuttlebutt-Brewing-Co-Everett/Amber</id>
+  <brewery_id>Scuttlebutt-Brewing-Co-Everett</brewery_id>
   <name>Amber</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="85482200001">
+    <size>
+      <upc>85482200001</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

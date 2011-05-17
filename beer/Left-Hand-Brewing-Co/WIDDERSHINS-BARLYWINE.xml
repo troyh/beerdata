@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Left-Hand-Brewing-Co/WIDDERSHINS-BARLYWINE" brewery_id="Left-Hand-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Left-Hand-Brewing-Co/WIDDERSHINS-BARLYWINE</id>
+  <brewery_id>Left-Hand-Brewing-Co</brewery_id>
   <name>WIDDERSHINS BARLYWINE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="2-10832-11111-1">
+    <size>
+      <upc>2-10832-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

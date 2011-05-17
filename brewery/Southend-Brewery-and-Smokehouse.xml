@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southend-Brewery-and-Smokehouse">
+<brewery>
+  <id>Southend-Brewery-and-Smokehouse</id>
   <name>Southend Brewery &amp; Smokehouse‎</name>
   <address>
     <street>161 E Bay St</street>

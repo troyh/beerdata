@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Great-Norther-Porter" brewery_id="Summit-Brewing" abv="5.6" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Great-Norther-Porter</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>5.6</abv>
+  <ibu>50</ibu>
   <name>Great Norther Porter</name>
   <description/>
   <availability>year-round</availability>

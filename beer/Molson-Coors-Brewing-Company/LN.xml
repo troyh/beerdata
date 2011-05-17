@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Molson-Coors-Brewing-Company/LN" brewery_id="Molson-Coors-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Molson-Coors-Brewing-Company/LN</id>
+  <brewery_id>Molson-Coors-Brewing-Company</brewery_id>
   <name>LN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-71990-76400-5">
+    <size>
+      <upc>0-71990-76400-5</upc>
       <description>BOTTLE 2-12/12</description>
       <distributor>
         <name>columbia</name>

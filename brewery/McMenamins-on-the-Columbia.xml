@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-on-the-Columbia">
+<brewery>
+  <id>McMenamins-on-the-Columbia</id>
   <name>McMenamins on the Columbia‎</name>
   <address>
     <street>1801 SE Columbia River Dr</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="El-Toro-Brewing-Co">
+<brewery>
+  <id>El-Toro-Brewing-Co</id>
   <name>El Toro Brewing Co‎</name>
   <address>
     <street>17370 Hill Rd</street>

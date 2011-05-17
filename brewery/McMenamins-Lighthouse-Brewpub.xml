@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Lighthouse-Brewpub">
+<brewery>
+  <id>McMenamins-Lighthouse-Brewpub</id>
   <name>McMenamins Lighthouse Brewpub‎</name>
   <address>
     <street>4157 NW Highway 101</street>

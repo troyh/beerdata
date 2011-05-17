@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Elysian-Brewing-Company/Pandora-s-Bock" brewery_id="Elysian-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Elysian-Brewing-Company/Pandora-s-Bock</id>
+  <brewery_id>Elysian-Brewing-Company</brewery_id>
   <name>Pandora's Bock</name>
   <description/>
   <availability/>

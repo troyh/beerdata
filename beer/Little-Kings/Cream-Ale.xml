@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Little-Kings/Cream-Ale" brewery_id="Little-Kings">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Little-Kings/Cream-Ale</id>
+  <brewery_id>Little-Kings</brewery_id>
   <name>Cream Ale</name>
   <description/>
   <availability/>

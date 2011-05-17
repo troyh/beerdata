@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Worth-Brewing-Co">
+<brewery>
+  <id>Worth-Brewing-Co</id>
   <name>Worth Brewing Co‎</name>
   <address>
     <street>826 Central Ave</street>

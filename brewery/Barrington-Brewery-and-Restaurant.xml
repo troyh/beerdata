@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Barrington-Brewery-and-Restaurant">
+<brewery>
+  <id>Barrington-Brewery-and-Restaurant</id>
   <name>Barrington Brewery &amp; Restaurant‎</name>
   <address>
     <street>420 Stockbridge Rd</street>

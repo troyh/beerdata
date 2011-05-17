@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Alpine-Beer-Co/Munich-M-rzen" brewery_id="Alpine-Beer-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alpine-Beer-Co/Munich-M-rzen</id>
+  <brewery_id>Alpine-Beer-Co</brewery_id>
   <name>Munich MÃ¤rzen</name>
   <description/>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="St-Bernard-Brouwerij/Pater-6" brewery_id="St-Bernard-Brouwerij" abv="6.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Bernard-Brouwerij/Pater-6</id>
+  <brewery_id>St-Bernard-Brouwerij</brewery_id>
+  <abv>6.7</abv>
   <name>Pater 6</name>
   <description>This name became a reference. This beer is mostly pointed out with its product name: ""a Paterke"". This ""Paterke"" is a chestnut coloured dark beer with a high fermentation (6.7 alcohol content) and a full taste. </description>
   <availability/>

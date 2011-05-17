@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Utopias" brewery_id="Boston-Beer-Co" calories_per_ml="2.06265535429825" abv="27" og="48Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Utopias</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>2.06265535429825</calories_per_ml>
+  <abv>27</abv>
+  <og>48Plato</og>
   <name>Utopias</name>
   <description>Truly the epitome of brewing's two thousand year evolution, Samuel Adams UtopiasÂ® offers a flavor not just unlike any other beer but unlike any other beverage in the world. Its warm, sweet flavor is richly highlighted with hints of vanilla, oak and caramel.  With an alcohol content of 27% by volume, its complexity and sweet, malty flavor is reminiscent of a deep, rich vintage Port, fine Cognac or aged sherry while being surprisingly light on the palate.  And like the worldâs finest after-dinner drinks, Samuel Adams Utopias is not carbonated and should be served at room temperature.
 

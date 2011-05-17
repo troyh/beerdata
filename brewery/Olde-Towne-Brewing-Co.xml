@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Olde-Towne-Brewing-Co">
+<brewery>
+  <id>Olde-Towne-Brewing-Co</id>
   <name>Olde Towne Brewing Co‎</name>
   <address>
     <street>228 Holmes Ave NE # 500</street>

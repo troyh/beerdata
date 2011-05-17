@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bear-Republic-Brewing-Co/Ricardo-s-Red-Rocket" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Ricardo-s-Red-Rocket</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>Ricardo's Red Rocket</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="722130555150">
+    <size>
+      <upc>722130555150</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

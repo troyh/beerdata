@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Snake-River-Brewery">
+<brewery>
+  <id>Snake-River-Brewery</id>
   <name>Snake River Brewery‎</name>
   <address>
     <street>265 S Millward St</street>

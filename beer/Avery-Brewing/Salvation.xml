@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Avery-Brewing/Salvation" brewery_id="Avery-Brewing" abv="9" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing/Salvation</id>
+  <brewery_id>Avery-Brewing</brewery_id>
+  <abv>9</abv>
+  <ibu>25</ibu>
   <name>Salvation</name>
   <description>The success of Hog Heaven and The Reverend clearly demonstrates that beer drinkers are willing to embrace "BIGGER" beers. In the fall of 2001, we decided that a lighter BIG BEER would complement its darker colored predecessors. Salvation has luscious apricot and peach aromas delicately interwoven with spicy suggestions of nutmeg and cinnamon. This heavenly soft, champagne-like elixer is cellarable for 3 years.</description>
   <availability/>

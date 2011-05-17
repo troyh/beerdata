@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brass-Smith-Inc">
+<brewery>
+  <id>Brass-Smith-Inc</id>
   <name>Brass Smith Inc‎</name>
   <address>
     <street>3880 Holly St</street>

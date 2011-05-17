@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Walkers-Reserve" brewery_id="Firestone-Walker-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Walkers-Reserve</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
   <name>Walker's Reserve</name>
   <description/>
   <availability>year-round</availability>

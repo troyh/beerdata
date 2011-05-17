@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/Maharaja-Imperial-IPA" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/Maharaja-Imperial-IPA</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>Maharaja Imperial IPA</name>
   <description/>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Skull-Splitter/Ale" brewery_id="Skull-Splitter">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Skull-Splitter/Ale</id>
+  <brewery_id>Skull-Splitter</brewery_id>
   <name>Ale</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jolly-Pumpkin-Artisan-Ales">
+<brewery>
+  <id>Jolly-Pumpkin-Artisan-Ales</id>
   <name>Jolly Pumpkin Artisan Ales‎</name>
   <address>
     <street>3115 Broad St</street>

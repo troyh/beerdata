@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Smoke-On-The-Porter" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Smoke-On-The-Porter</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Smoke on the Porter</name>
   <description>Smoke on the Porter began with our neighbors at Hoesly's Meats. Their smoke house aromas waft through our door creating a special kind of decadence that must be shared. Wisconsin barleys were generously cold smoked with apple wood by the Hoesly family. Brewmaster Dan then harnessed dark malts smoked in Bamberg to create a team that steps out as a creamy smooth black brew that will forever linger in your mind as Smoke on the Porter.</description>
   <availability>retired</availability>

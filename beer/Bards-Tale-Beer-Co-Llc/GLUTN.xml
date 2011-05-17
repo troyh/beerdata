@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bards-Tale-Beer-Co-Llc/GLUTN" brewery_id="Bards-Tale-Beer-Co-Llc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bards-Tale-Beer-Co-Llc/GLUTN</id>
+  <brewery_id>Bards-Tale-Beer-Co-Llc</brewery_id>
   <name>GLUTN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="1-82608-00001-6">
+    <size>
+      <upc>1-82608-00001-6</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

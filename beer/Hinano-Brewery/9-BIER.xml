@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hinano-Brewery/9-BIER" brewery_id="Hinano-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hinano-Brewery/9-BIER</id>
+  <brewery_id>Hinano-Brewery</brewery_id>
   <name>9 BIER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88009-05335-7">
+    <size>
+      <upc>0-88009-05335-7</upc>
       <description>BOTTLE 20/16</description>
       <distributor>
         <name>columbia</name>

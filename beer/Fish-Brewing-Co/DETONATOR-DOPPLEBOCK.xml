@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/DETONATOR-DOPPLEBOCK" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/DETONATOR-DOPPLEBOCK</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>DETONATOR DOPPLEBOCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-19917-00212-2">
+    <size>
+      <upc>6-19917-00212-2</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

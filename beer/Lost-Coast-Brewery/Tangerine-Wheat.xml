@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lost-Coast-Brewery/Tangerine-Wheat" brewery_id="Lost-Coast-Brewery" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery/Tangerine-Wheat</id>
+  <brewery_id>Lost-Coast-Brewery</brewery_id>
+  <abv>5</abv>
   <name>Tangerine Wheat</name>
   <description>A refreshing citrus ale, Lost Coast Tangerine Wheat combines our Lost Coast Harvest Wheat with natural tangerine flavors. Brewed with a combination of wheat and crystal malts, finished with Perle hops.</description>
   <availability/>

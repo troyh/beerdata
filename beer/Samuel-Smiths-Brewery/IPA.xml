@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Samuel-Smiths-Brewery/IPA" brewery_id="Samuel-Smiths-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Samuel-Smiths-Brewery/IPA</id>
+  <brewery_id>Samuel-Smiths-Brewery</brewery_id>
   <name>IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-31523-3">
+    <size>
+      <upc>0-85725-31523-3</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

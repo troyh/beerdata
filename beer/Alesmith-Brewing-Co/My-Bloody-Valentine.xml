@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Alesmith-Brewing-Co/My-Bloody-Valentine" brewery_id="Alesmith-Brewing-Co" abv="6.66">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alesmith-Brewing-Co/My-Bloody-Valentine</id>
+  <brewery_id>Alesmith-Brewing-Co</brewery_id>
+  <abv>6.66</abv>
   <name>My Bloody Valentine</name>
   <description>Released shortly before Valentine's Day, My Bloody Valentine is the red-blooded cousin of our Halloween specialty ale, Evil Dead Red.</description>
   <availability>winter</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Full-Sail-Brewing-Company-Admin-Ofc/AMBER-ALE" brewery_id="Full-Sail-Brewing-Company-Admin-Ofc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Company-Admin-Ofc/AMBER-ALE</id>
+  <brewery_id>Full-Sail-Brewing-Company-Admin-Ofc</brewery_id>
   <name>AMBER ALE</name>
   <description/>
   <availability/>

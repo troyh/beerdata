@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flossmoor-Station-Restaurant-And-Brewery/Panama-Limited-Red-Ale" brewery_id="Flossmoor-Station-Restaurant-And-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flossmoor-Station-Restaurant-And-Brewery/Panama-Limited-Red-Ale</id>
+  <brewery_id>Flossmoor-Station-Restaurant-And-Brewery</brewery_id>
   <name>Panama limited red Ale</name>
   <description>Our Panama Limited Red is a hoppy, robust yet smooth amber ale brewed with nine different malts and four types of hops. With its deep amber color and rich malty body, our Panama Limited Red will smoothly transport you into the wonderful world of complex and flavorful handcrafted beers.</description>
   <availability>limited</availability>

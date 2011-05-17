@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Pangea" brewery_id="Dogfish-Head-Craft-Brewery-Milton" abv="7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Pangea</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <abv>7</abv>
   <name>Pangea</name>
   <description>Brewed with ingredients from every continet (crystallized ginger from Australia, water from Antarctica, basmati rice from Asia, etc...), this is slightlyÂ spicy ale, with a mouthful of rich flavors.</description>
   <availability>Limited</availability>
@@ -9,7 +12,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-38489-00015-2">
+    <size>
+      <upc>6-38489-00015-2</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

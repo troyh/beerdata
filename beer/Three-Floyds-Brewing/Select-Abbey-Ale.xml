@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Abbey-Ale" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Abbey-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Abbey Ale</name>
   <description>Our Abbey Ale is a brown ale made with pale malt and a variety of specialty malts, including multiple caramel and roasted malts. The caramel malts give the beer a sweet malty taste and aroma. The roasted malts add a full bodied and tangy flavor. We use a small amount of German Perle hops in the beer to offset the sweetness of the malt. The precise hopping allows the malt and yeast flavors to dominate. Special Belgian ale yeast imparts fruity flavors with subtle touches of banana, cloves, and bubble gum. The resulting beer is a flavorful brown ale.</description>
   <availability>retired</availability>

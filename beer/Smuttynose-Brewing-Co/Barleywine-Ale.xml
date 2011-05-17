@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Barleywine-Ale" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Barleywine-Ale</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>Barleywine Ale</name>
   <description>Barleywine is a term originally used by British brewers to describe very strong ales. Though individual examples of this style vary widely, barleywines are characterized by their full body, high alcoholic content, pronounced residual malt sweetness, fruity esters and, in the case of American versions especially, distinctive hop character, with a flavor profile that can lean towards the sweet or the bitter, or somewhere in between, and a color ranging from amber to deep copper. Barleywines tend to age nicely, especially bottle-conditioned versions, and have become quite collectible.Our Barleywine is rich and malty, with hints of fruity esters and a well-hopped finish. Enjoy this hearty ale with fresh fruit and ripe cheese on a cold winter's night, or lay it up and savor it with a friend for a special summer treat.</description>
   <availability/>

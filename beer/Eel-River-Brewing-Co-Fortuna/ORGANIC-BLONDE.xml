@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eel-River-Brewing-Co-Fortuna/ORGANIC-BLONDE" brewery_id="Eel-River-Brewing-Co-Fortuna">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eel-River-Brewing-Co-Fortuna/ORGANIC-BLONDE</id>
+  <brewery_id>Eel-River-Brewing-Co-Fortuna</brewery_id>
   <name>ORGANIC BLONDE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-10097-20066-7">
+    <size>
+      <upc>6-10097-20066-7</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fox-River-Brewing-Co-Appleton-2">
+<brewery>
+  <id>Fox-River-Brewing-Co-Appleton-2</id>
   <name>Fox River Brewing Co‎</name>
   <address>
     <street>4301 W Wisconsin Ave</street>

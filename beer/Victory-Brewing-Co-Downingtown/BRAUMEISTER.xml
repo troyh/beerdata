@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Victory-Brewing-Co-Downingtown/BRAUMEISTER" brewery_id="Victory-Brewing-Co-Downingtown">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co-Downingtown/BRAUMEISTER</id>
+  <brewery_id>Victory-Brewing-Co-Downingtown</brewery_id>
   <name>BRAUMEISTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

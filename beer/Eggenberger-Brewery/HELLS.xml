@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Eggenberger-Brewery/HELLS" brewery_id="Eggenberger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Eggenberger-Brewery/HELLS</id>
+  <brewery_id>Eggenberger-Brewery</brewery_id>
   <name>HELLS</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Newport-Beach-Brewing-Co">
+<brewery>
+  <id>Newport-Beach-Brewing-Co</id>
   <name>Newport Beach Brewing Co‎</name>
   <address>
     <street>2920 Newport Blvd</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Harviestoun-Brewery/Schiehallion" brewery_id="Harviestoun-Brewery" abv="4.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harviestoun-Brewery/Schiehallion</id>
+  <brewery_id>Harviestoun-Brewery</brewery_id>
+  <abv>4.8</abv>
   <name>Schiehallion</name>
   <description/>
   <availability/>

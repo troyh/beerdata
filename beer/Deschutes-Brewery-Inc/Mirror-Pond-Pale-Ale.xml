@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Mirror-Pond-Pale-Ale" brewery_id="Deschutes-Brewery-Inc" calories_per_ml="0.479031981189485" abv="5" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Mirror-Pond-Pale-Ale</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <calories_per_ml>0.479031981189485</calories_per_ml>
+  <abv>5</abv>
+  <ibu>40</ibu>
   <name>Mirror Pond Pale Ale</name>
   <description>Mirror Pond is just a short walk from the Deschutes Brewery &amp; Public House in downtown Bend and reflects the Three Sisters Mountains. This scenic spot alongside the Deschutes River is the localsâ choice for summer festivals and concerts</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10A">American Pale Ale</style>
+    <style><bjcp_style_id>10A</bjcp_style_id>American Pale Ale</style>
   </styles>
   <sizes>
     <size>

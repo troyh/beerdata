@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Wolavers/Pale-Ale" brewery_id="Wolavers" ibu="34">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Wolavers/Pale-Ale</id>
+  <brewery_id>Wolavers</brewery_id>
+  <ibu>34</ibu>
   <name>Pale Ale</name>
   <description>A classic pale ale. Perfectly balanced; creamy and full bodied, with a rich malty flavor and a distinctive, crisp hoppy finish. Delicious with all foods, a great beer for all tastes.</description>
   <availability>year-round</availability>

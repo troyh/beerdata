@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Ebenezer-Ale" brewery_id="Bridgeport-Brewing-Co" abv="6.4" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Ebenezer-Ale</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>6.4</abv>
+  <ibu>40</ibu>
   <name>Ebenezer Ale</name>
   <description>Our special Holiday brew, Ebenezer Ale is a smooth ale with a complex palate derived from four different roasted malts and a blend of local and imported hops. Deep mahogany in color, its malty first taste and full body is balanced with a light hop aroma, leading to a caramel finish. It's a festive elixir that can transform the mood of any scrooge! So forget the egg-nog and have a pint of Ebenezer.</description>
   <availability>winter</availability>

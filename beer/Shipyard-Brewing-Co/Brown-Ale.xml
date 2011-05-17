@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Shipyard-Brewing-Co/Brown-Ale" brewery_id="Shipyard-Brewing-Co" abv="4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shipyard-Brewing-Co/Brown-Ale</id>
+  <brewery_id>Shipyard-Brewing-Co</brewery_id>
+  <abv>4</abv>
   <name>Brown Ale</name>
   <description>Shipyard Brown Ale is a smooth, mellow ale with a sweet finish and a hint of chocolate and maple. It is made with chocolate and roasted barley malt.</description>
   <availability/>

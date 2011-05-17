@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Black-Sheep-Brewery/MONTY-PYTHON" brewery_id="Black-Sheep-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Black-Sheep-Brewery/MONTY-PYTHON</id>
+  <brewery_id>Black-Sheep-Brewery</brewery_id>
   <name>MONTY PYTHON</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-50245-83004-0">
+    <size>
+      <upc>0-50245-83004-0</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="0-99999-99999-0">
+    <size>
+      <upc>0-99999-99999-0</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

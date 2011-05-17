@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lagunitas-Brewing-Co">
+<brewery>
+  <id>Lagunitas-Brewing-Co</id>
   <name>Lagunitas Brewing Co‎</name>
   <address>
     <street>1280 N Mcdowell Blvd</street>

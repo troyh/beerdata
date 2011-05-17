@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Grand-Lake-Brewing-Co-Grand-Lake">
+<brewery>
+  <id>Grand-Lake-Brewing-Co-Grand-Lake</id>
   <name>Grand Lake Brewing Co‎</name>
   <address>
     <street>915 Grand Ave</street>

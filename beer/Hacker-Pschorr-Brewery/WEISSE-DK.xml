@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hacker-Pschorr-Brewery/WEISSE-DK" brewery_id="Hacker-Pschorr-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hacker-Pschorr-Brewery/WEISSE-DK</id>
+  <brewery_id>Hacker-Pschorr-Brewery</brewery_id>
   <name>WEISSE DK</name>
   <description/>
   <availability/>

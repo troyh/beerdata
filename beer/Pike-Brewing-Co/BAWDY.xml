@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pike-Brewing-Co/BAWDY" brewery_id="Pike-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pike-Brewing-Co/BAWDY</id>
+  <brewery_id>Pike-Brewing-Co</brewery_id>
   <name>BAWDY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-27916-20023-1">
+    <size>
+      <upc>7-27916-20023-1</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>

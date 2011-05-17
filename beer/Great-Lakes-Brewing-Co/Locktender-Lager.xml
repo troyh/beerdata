@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Locktender-Lager" brewery_id="Great-Lakes-Brewing-Co" abv="4.8" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Locktender-Lager</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
+  <ibu>20</ibu>
   <name>Locktender Lager</name>
   <description>A bright golden Munich Helles lager with a mild hop profile and slightly malty flavor.</description>
   <availability>limited</availability>

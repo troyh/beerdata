@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Anderson-Valley-Brewing-Co">
+<brewery>
+  <id>Anderson-Valley-Brewing-Co</id>
   <name>Anderson Valley Brewing Co‎</name>
   <address>
     <street>17700 Hwy 253</street>

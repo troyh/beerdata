@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Utah-Brewers-Cooperative-LC">
+<brewery>
+  <id>Utah-Brewers-Cooperative-LC</id>
   <name>Utah Brewers Cooperative, LC‎</name>
   <address>
     <street>1763 S 300 W</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Pontius-Road-Pilsner" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Pontius-Road-Pilsner</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Pontius Road Pilsner</name>
   <description>A true American Pilsner style beer. Light blond in color, and balanced with heavy handfuls of American hops. This medium bodied lager is effervescent making is crispy and refreshing. A creamy white head captures the escaping carbonation, which releases pleasant hoppy aromatics resulting in extreme satisfaction.</description>
   <availability/>

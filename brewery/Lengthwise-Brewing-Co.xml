@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lengthwise-Brewing-Co">
+<brewery>
+  <id>Lengthwise-Brewing-Co</id>
   <name>Lengthwise Brewing Co‎</name>
   <address>
     <street>6720 Schirra Ct</street>

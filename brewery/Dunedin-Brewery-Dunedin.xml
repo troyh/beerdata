@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dunedin-Brewery-Dunedin">
+<brewery>
+  <id>Dunedin-Brewery-Dunedin</id>
   <name>Dunedin Brewery‎</name>
   <address>
     <street>937 Douglas Ave</street>

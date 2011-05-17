@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cambridge-House-Brew-Pub">
+<brewery>
+  <id>Cambridge-House-Brew-Pub</id>
   <name>Cambridge House Brew Pub‎</name>
   <address>
     <street>84 Main St</street>

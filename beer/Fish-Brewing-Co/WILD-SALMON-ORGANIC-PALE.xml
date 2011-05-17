@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/WILD-SALMON-ORGANIC-PALE" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/WILD-SALMON-ORGANIC-PALE</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>WILD SALMON ORGANIC PALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-19917-00220-7">
+    <size>
+      <upc>6-19917-00220-7</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

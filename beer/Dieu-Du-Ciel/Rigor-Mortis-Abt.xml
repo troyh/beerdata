@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Rigor-Mortis-Abt" brewery_id="Dieu-Du-Ciel" abv="10.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Rigor-Mortis-Abt</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>10.5</abv>
   <name>Rigor Mortis ABT</name>
   <description>Strong brown ale inspired by the beer brewed by Belgian Trappist monks. Very little bitterness, this beer has intense malty and sweet flavours, mixed with the taste of chocolate and caramel. It presents complex red fruit and spice flavours due to the type of yeast that is used during the brewing process. This beer is at its best only after it has aged for six months. The Rigor Mortis are complex beers designed and brewed with patience and care in the tradition of the great Belgian Abbey beers.</description>
   <availability/>

@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Bi-re-Du-Mai" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>BI&#xE9;RE DU MAI </name>
-  <description>Bi&#x8F;re du mai &#xC8; is a revisited and complex version of the traditional spruce beer. It is brewed with branches of spruce, pine, cedar, and fir which bestow upon the beer their dominating aromas and flavours. This beer was given its name in reference to a Quebec tradition according to which a young man would plant, on May first, a tree in front of the house of the girl he wanted to marry to show her his love.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Bi-re-Du-Mai</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>BIéRE DU MAI </name>
+  <description>Bire du mai È is a revisited and complex version of the traditional spruce beer. It is brewed with branches of spruce, pine, cedar, and fir which bestow upon the beer their dominating aromas and flavours. This beer was given its name in reference to a Quebec tradition according to which a young man would plant, on May first, a tree in front of the house of the girl he wanted to marry to show her his love.</description>
   <availability/>
   <ingredients/>
   <grains/>

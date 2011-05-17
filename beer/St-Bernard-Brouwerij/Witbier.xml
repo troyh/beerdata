@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="St-Bernard-Brouwerij/Witbier" brewery_id="St-Bernard-Brouwerij" abv="5.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Bernard-Brouwerij/Witbier</id>
+  <brewery_id>St-Bernard-Brouwerij</brewery_id>
+  <abv>5.5</abv>
   <name>Witbier</name>
   <description>This traditional Witbier (Wheat beer) has been developed in cooperation with Master Brewer Pierre Celis, the Godfather of Hoegaarden and Celis White. This beer as well has a second fermentation in the bottle, giving this beer its specific taste (5.5% alcohol content).</description>
   <availability/>

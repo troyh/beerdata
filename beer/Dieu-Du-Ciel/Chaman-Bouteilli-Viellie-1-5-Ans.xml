@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Chaman-Bouteilli-Viellie-1-5-Ans" brewery_id="Dieu-Du-Ciel" abv="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Chaman-Bouteilli-Viellie-1-5-Ans</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>8</abv>
   <name>Chaman Bouteilli Viellie 1.5 Ans</name>
   <description>This beer style was created in the late 1990's by some breweries on the west coast of the United States, and most notably by Rogue. It's an extreme version of the American IPA. It's a beer with strong amber hues and dominating hop flavours and tastes. It is however well balanced through the presence of a combination of malts. This beer is usually dry hopped, a tradition that is adhered to by Dieu du Ciel!. The bouquet of the beer consists of floral hops. In the mouth, the bitterness is quite strong, without being extreme, and the alcohol makes its presence known, without being domineering. The aftertaste is dry and less syrupy than a barley wine. Thus, it is a very complex and bitter beer, but always well balanced.</description>
   <availability/>

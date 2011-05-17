@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brooklyn-Brewery-Brooklyn-3">
+<brewery>
+  <id>Brooklyn-Brewery-Brooklyn-3</id>
   <name>Brooklyn Brewery‎</name>
   <address>
     <street>79 N 11th St</street>

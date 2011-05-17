@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Casco-Bay-Brewing-Co">
+<brewery>
+  <id>Casco-Bay-Brewing-Co</id>
   <name>Casco Bay Brewing Co‎</name>
   <address>
     <street>386 Fore St # 302</street>

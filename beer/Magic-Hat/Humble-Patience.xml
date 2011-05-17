@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Humble-Patience" brewery_id="Magic-Hat" abv="4.5" ibu="29">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Humble-Patience</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>4.5</abv>
+  <ibu>29</ibu>
   <name>Humble Patience</name>
   <description/>
   <availability>retired</availability>

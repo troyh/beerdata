@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Leifmans-Brewery/PECHE" brewery_id="Leifmans-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Leifmans-Brewery/PECHE</id>
+  <brewery_id>Leifmans-Brewery</brewery_id>
   <name>PECHE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-10060-9">
+    <size>
+      <upc>7-69596-10060-9</upc>
       <description>12/12.7 BTL</description>
       <distributor>
         <name>odom</name>

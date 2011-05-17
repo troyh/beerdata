@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dundee-Brewing-Company/HN-BRN-LAG" brewery_id="Dundee-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dundee-Brewing-Company/HN-BRN-LAG</id>
+  <brewery_id>Dundee-Brewing-Company</brewery_id>
   <name>HN BRN LAG</name>
   <description/>
   <availability/>

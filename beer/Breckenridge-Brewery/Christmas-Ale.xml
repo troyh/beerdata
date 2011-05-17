@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Breckenridge-Brewery/Christmas-Ale" brewery_id="Breckenridge-Brewery" abv="7.4" ibu="22">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Breckenridge-Brewery/Christmas-Ale</id>
+  <brewery_id>Breckenridge-Brewery</brewery_id>
+  <abv>7.4</abv>
+  <ibu>22</ibu>
   <name>Christmas Ale</name>
   <description>The chill of a Colorado high-country winter calls for a beer with extra flavor and warming characteristics. Here it is. Breck Brew's Christmas Ale. At over 7% alcohol, with a sturdy texture and rich flavors of caramel and chocolate, our holiday seasonal is the fermented equivalent of a good fire.</description>
   <availability>fall</availability>

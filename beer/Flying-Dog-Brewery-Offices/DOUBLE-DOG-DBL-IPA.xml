@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Flying-Dog-Brewery-Offices/DOUBLE-DOG-DBL-IPA" brewery_id="Flying-Dog-Brewery-Offices">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery-Offices/DOUBLE-DOG-DBL-IPA</id>
+  <brewery_id>Flying-Dog-Brewery-Offices</brewery_id>
   <name>DOUBLE DOG DBL IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>
@@ -21,7 +24,8 @@
         <deposit/>
       </distributor>
     </size>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

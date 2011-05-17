@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Imperial-Stout" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Imperial-Stout</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>Imperial Stout</name>
   <description>Originally brewed in the early 19th century for export from Britain to the imperial court of Russia's Catherine the Great, imperial stouts are characterized by their dark color, full body and high alcoholic content. This style features a rich, malty sweetness coupled with aggressive hopping (especially in American interpretations). Notes of dried fuit as well as roasted malt flavors are typically present.</description>
   <availability/>

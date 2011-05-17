@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jobbers-Canyon-Restaurant-and-Brewery">
+<brewery>
+  <id>Jobbers-Canyon-Restaurant-and-Brewery</id>
   <name>Jobber's Canyon Restaurant and Brewery‎</name>
   <address>
     <street>416 S 12th St</street>

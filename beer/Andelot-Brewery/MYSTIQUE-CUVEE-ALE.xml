@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Andelot-Brewery/MYSTIQUE-CUVEE-ALE" brewery_id="Andelot-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Andelot-Brewery/MYSTIQUE-CUVEE-ALE</id>
+  <brewery_id>Andelot-Brewery</brewery_id>
   <name>MYSTIQUE CUVEE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-10052-4">
+    <size>
+      <upc>7-69596-10052-4</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

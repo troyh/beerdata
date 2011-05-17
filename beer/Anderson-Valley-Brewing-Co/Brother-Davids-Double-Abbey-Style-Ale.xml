@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Brother-Davids-Double-Abbey-Style-Ale" brewery_id="Anderson-Valley-Brewing-Co" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Brother-Davids-Double-Abbey-Style-Ale</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>9</abv>
   <name>Brother David's Double Abbey Style Ale</name>
   <description>Rich mahogany appearance. Firm and substantial head that slowly fades to dry fruit aromas including apricot, figs, raisins, as well as malt and spice notes. The full body of this Belgian style ale supports initial fruit flavors that give way to malt notes and chocolate covered cherries, while suffused throughout with the distinctive flavor of the Belgian Abbey yeast. It finishes rather spicy and quite dry, with the warmth of its 9% alcohol. The flavors become more pronounced, blending and complementing each other as the beer warms. If you like Belgian beer, you owe it to yourself to try this American brewed Belgian-style beer.</description>
   <availability/>

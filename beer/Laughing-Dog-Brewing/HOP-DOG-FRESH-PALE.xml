@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Laughing-Dog-Brewing/HOP-DOG-FRESH-PALE" brewery_id="Laughing-Dog-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Laughing-Dog-Brewing/HOP-DOG-FRESH-PALE</id>
+  <brewery_id>Laughing-Dog-Brewing</brewery_id>
   <name>HOP DOG FRESH PALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="4-35027-11111-1">
+    <size>
+      <upc>4-35027-11111-1</upc>
       <description>1/6 BBL</description>
       <distributor>
         <name>odom</name>

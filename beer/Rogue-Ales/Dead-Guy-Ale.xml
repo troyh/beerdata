@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Dead-Guy-Ale" brewery_id="Rogue-Ales" ibu="40">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Dead-Guy-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>40</ibu>
   <name>Dead Guy Ale</name>
   <description>In the style of a German Maibock, using our proprietary Pacman ale yeast. Deep honey in color with a malty aroma and a rich hearty flavor.</description>
   <availability/>

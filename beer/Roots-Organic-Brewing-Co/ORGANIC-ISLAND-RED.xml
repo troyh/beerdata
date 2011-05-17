@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Roots-Organic-Brewing-Co/ORGANIC-ISLAND-RED" brewery_id="Roots-Organic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Roots-Organic-Brewing-Co/ORGANIC-ISLAND-RED</id>
+  <brewery_id>Roots-Organic-Brewing-Co</brewery_id>
   <name>ORGANIC ISLAND RED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-98141-00102-0">
+    <size>
+      <upc>8-98141-00102-0</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

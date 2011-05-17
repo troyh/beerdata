@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Full-Sail-Brewing-Co-Riverpl">
+<brewery>
+  <id>Full-Sail-Brewing-Co-Riverpl</id>
   <name>Full Sail Brewing Co Riverpl‎</name>
   <address>
     <street>307 SW Montgomery St</street>

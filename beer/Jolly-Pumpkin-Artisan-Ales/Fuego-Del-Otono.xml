@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Jolly-Pumpkin-Artisan-Ales/Fuego-Del-Otono" brewery_id="Jolly-Pumpkin-Artisan-Ales" abv="6.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Jolly-Pumpkin-Artisan-Ales/Fuego-Del-Otono</id>
+  <brewery_id>Jolly-Pumpkin-Artisan-Ales</brewery_id>
+  <abv>6.1</abv>
   <name>Fuego del Otono</name>
   <description>To catch a bit of soft radiance in each bottle, we wait for fall colors to begin their bright and fleeting glow before brewing this wonderful ale under their autumn fire. Gentle amber malt blend smooth caramel notes, gently lapping against a shore of distant forgotten spice. A beer to sip, contemplate and enjoy.</description>
   <availability>fall</availability>

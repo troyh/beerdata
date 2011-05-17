@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/RASC" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/RASC</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>RASC</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-96363-00216-3">
+    <size>
+      <upc>7-96363-00216-3</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

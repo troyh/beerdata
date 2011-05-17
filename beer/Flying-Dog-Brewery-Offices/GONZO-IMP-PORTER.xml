@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Flying-Dog-Brewery-Offices/GONZO-IMP-PORTER" brewery_id="Flying-Dog-Brewery-Offices">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Dog-Brewery-Offices/GONZO-IMP-PORTER</id>
+  <brewery_id>Flying-Dog-Brewery-Offices</brewery_id>
   <name>GONZO IMP PORTER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="---">
+    <size>
+      <upc>---</upc>
       <description>6/4/12 BTL</description>
       <distributor>
         <name>odom</name>

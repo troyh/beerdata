@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Silverado-Brewing-Co">
+<brewery>
+  <id>Silverado-Brewing-Co</id>
   <name>Silverado Brewing Co‎</name>
   <address>
     <street>3020 Saint Helena Hwy N</street>

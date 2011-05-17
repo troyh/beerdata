@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-Lindemans/FRAMBOISE-LAMBIC-RASPBERRY" brewery_id="Brouwerij-Lindemans">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-Lindemans/FRAMBOISE-LAMBIC-RASPBERRY</id>
+  <brewery_id>Brouwerij-Lindemans</brewery_id>
   <name>FRAMBOISE LAMBIC (RASPBERRY)</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-91032-11111-1">
+    <size>
+      <upc>9-91032-11111-1</upc>
       <description>25L BBL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Sesquicentennial-Ale" brewery_id="Rogue-Ales" ibu="48">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Sesquicentennial-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>48</ibu>
   <name>Sesquicentennial Ale</name>
   <description>Amber orange in color, with a sweet malt background from the generous use of Munich malts, a crisp citrus hop nose and finish from our Oregon grown Willamette hops.</description>
   <availability>limited</availability>

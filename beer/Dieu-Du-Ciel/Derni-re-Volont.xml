@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Derni-re-Volont" brewery_id="Dieu-Du-Ciel" abv="6.5">
-  <name>Derni&#x8F;re Volont&#x8E;</name>
-  <description>Derni&#x8F;re volont&#x8E; (French for "Last Will") is a mix of Belgian and English brewing traditions. Complex flavours of hop flowers and spicy, fruity esters from our belgian yeast are perfectly balanced with the robust flavours and aromas of malt. The finish is commandeered by an assertive aroma from dry-hopping.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Derni-re-Volont</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>6.5</abv>
+  <name>Dernire Volont</name>
+  <description>Dernire volont (French for "Last Will") is a mix of Belgian and English brewing traditions. Complex flavours of hop flowers and spicy, fruity esters from our belgian yeast are perfectly balanced with the robust flavours and aromas of malt. The finish is commandeered by an assertive aroma from dry-hopping.</description>
   <availability/>
   <ingredients/>
   <grains/>

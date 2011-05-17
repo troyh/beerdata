@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Raison-D-Etre" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.619923740362863" abv="8" ibu="36">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Raison-D-Etre</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.619923740362863</calories_per_ml>
+  <abv>8</abv>
+  <ibu>36</ibu>
   <name>Raison DâEtre</name>
   <description>A deep, mahogany ale brewed with beet sugar, green raisins, and Belgian-style yeast. As complex as a fine, red wine. Voted "American Beer of the Year"" in January 2000 by Malt Advocate Magazine</description>
   <availability>year round</availability>
@@ -9,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-38489-00027-5">
+    <size>
+      <upc>6-38489-00027-5</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +27,8 @@
         <deposit>$6.99</deposit>
       </distributor>
     </size>
-    <size upc="638489000275">
+    <size>
+      <upc>638489000275</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

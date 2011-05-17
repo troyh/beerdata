@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Franconia-Notch-Brewing-Company-Inc">
+<brewery>
+  <id>Franconia-Notch-Brewing-Company-Inc</id>
   <name>Franconia Notch Brewing Company, Inc‎</name>
   <address>
     <street>260 Dells Rd</street>

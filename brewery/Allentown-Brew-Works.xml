@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Allentown-Brew-Works">
+<brewery>
+  <id>Allentown-Brew-Works</id>
   <name>Allentown Brew Works‎</name>
   <address>
     <street>812 W. Hamilton Street</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-and-Restaurant-Pasadena-2">
+<brewery>
+  <id>Gordon-Biersch-Brewery-and-Restaurant-Pasadena-2</id>
   <name>Gordon Biersch Brewery &amp; Restaurant‎</name>
   <address>
     <street>41 Hugus Aly</street>

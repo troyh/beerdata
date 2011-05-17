@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Altbier" brewery_id="Great-Lakes-Brewing-Co" abv="4.6" ibu="30">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Altbier</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>4.6</abv>
+  <ibu>30</ibu>
   <name>Altbier</name>
   <description>A German Ale with mild hoppy flavor and clean dry finish.</description>
   <availability>limited</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Pumphouse-Brewery">
+<brewery>
+  <id>Pumphouse-Brewery</id>
   <name>Pumphouse Brewery‎</name>
   <address>
     <street>540 Main St</street>

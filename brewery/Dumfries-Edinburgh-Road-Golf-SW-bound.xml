@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Dumfries-Edinburgh-Road-Golf-SW-bound">
+<brewery>
+  <id>Dumfries-Edinburgh-Road-Golf-SW-bound</id>
   <name>Dumfries, Edinburgh Road Golf (SW-bound)‎</name>
   <address>
     <street>Edinburgh Rd</street>

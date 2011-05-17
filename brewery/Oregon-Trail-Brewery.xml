@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oregon-Trail-Brewery">
+<brewery>
+  <id>Oregon-Trail-Brewery</id>
   <name>Oregon Trail Brewery‎</name>
   <address>
     <street>341 SW 2nd St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Mad-River-Brewing-Company-Tasting-Room/BARLEYCOR" brewery_id="Mad-River-Brewing-Company-Tasting-Room">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mad-River-Brewing-Company-Tasting-Room/BARLEYCOR</id>
+  <brewery_id>Mad-River-Brewing-Company-Tasting-Room</brewery_id>
   <name>BARLEYCOR</name>
   <description/>
   <availability/>

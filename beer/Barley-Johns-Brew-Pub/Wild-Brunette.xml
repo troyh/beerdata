@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Barley-Johns-Brew-Pub/Wild-Brunette" brewery_id="Barley-Johns-Brew-Pub" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Barley-Johns-Brew-Pub/Wild-Brunette</id>
+  <brewery_id>Barley-Johns-Brew-Pub</brewery_id>
+  <abv>7.5</abv>
   <name>Wild Brunette</name>
   <description>A twist on a classic style. Minnesota wild rice gives this ale a Belgium earthiness with explosive notes of vanilla and almond plus much, much more.</description>
   <availability/>

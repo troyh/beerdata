@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Boont-Extra-Special-Beer" brewery_id="Anderson-Valley-Brewing-Co" abv="6.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Boont-Extra-Special-Beer</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>6.8</abv>
   <name>Boont Extra Special Beer</name>
   <description>The abundant hopping in this four-time gold medal winner, creates arousing aromatics, accompanied by a pleasantly bitter bite. Boont Extra Special Beer is deep gold in color, with a spicy hop aroma. Starts with a big, malty backbone and finishes with a refreshingly bitter bite. Boont Extra Special Beer is excellent alone or as an accompaniment to your favorite well-seasoned meals (such as Mexican, Korean, Chinese, Indian, or Thai, cuisine).</description>
   <availability/>

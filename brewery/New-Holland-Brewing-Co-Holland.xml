@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="New-Holland-Brewing-Co-Holland">
+<brewery>
+  <id>New-Holland-Brewing-Co-Holland</id>
   <name>New Holland Brewing Co‎</name>
   <address>
     <street>66 E 8th St</street>

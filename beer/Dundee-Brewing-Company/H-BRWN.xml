@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dundee-Brewing-Company/H-BRWN" brewery_id="Dundee-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dundee-Brewing-Company/H-BRWN</id>
+  <brewery_id>Dundee-Brewing-Company</brewery_id>
   <name>H BRWN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-70310-00024-3">
+    <size>
+      <upc>0-70310-00024-3</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

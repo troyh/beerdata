@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Dancing-Man-Wheat" brewery_id="New-Glarus-Brewing-Company" abv="7.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Dancing-Man-Wheat</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
+  <abv>7.2</abv>
   <name>Dancing Man Wheat</name>
   <description>If you dream of wheat this brew will get your toes tapping. Since 1995 we have brewed Bavarian style wheat beers exclusively for the same great state that grows and malts our own Wisconsin wheat. In a world full of posers this is a true hefe-weizen naturally 100% bottle fermented and hazy. \nExpect this beer to cascade effervescent into your glass. The rich spicy clove and cinnamon notes will greet your nose while sweet fruit and wheat kisses your lips. \nLick the foam from your mouth and admit sometimes you just gotta get up and dance.</description>
   <availability>spring</availability>

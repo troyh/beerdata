@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/Old-Jubilation" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/Old-Jubilation</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>Old Jubilation</name>
   <description/>
   <availability>fall</availability>

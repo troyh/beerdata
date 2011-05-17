@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Roosters-Brewing-Co-Layton">
+<brewery>
+  <id>Roosters-Brewing-Co-Layton</id>
   <name>Roosters Brewing Co‎</name>
   <address>
     <street>748 w Heritage Park Blvd</street>

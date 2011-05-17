@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dark-Horse-Brewing-Company/Reserve-Special-Black-Ale" brewery_id="Dark-Horse-Brewing-Company" abv="7.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dark-Horse-Brewing-Company/Reserve-Special-Black-Ale</id>
+  <brewery_id>Dark-Horse-Brewing-Company</brewery_id>
+  <abv>7.5</abv>
   <name>Reserve Special Black Ale</name>
   <description>Conceived in a dimly lit room on a blistery cold night in the Upper Peninsula of Michigan, but born and raised here in Marshall Michigan. The Reserve Special is the oldest of all beers in the Dark Horse family. It has an incredibly "thick" presence and when poured into a glass its color is so dark it's eerie. The flavors explode onto your taste buds with heavy malt, roast, and chocolate, but stay very balanced. The Reserve Special Black Ale has a hard time being called a stout or porter but it fits nicely into the category of a delicious strong black ale.</description>
   <availability/>

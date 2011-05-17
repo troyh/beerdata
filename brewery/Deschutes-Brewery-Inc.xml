@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Deschutes-Brewery-Inc">
+<brewery>
+  <id>Deschutes-Brewery-Inc</id>
   <name>Deschutes Brewery Inc‎</name>
   <address>
     <street>Lake Oswego</street>

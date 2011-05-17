@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Wolf-Mt-Witbier" brewery_id="Deschutes-Brewery-Inc" abv="4.20" ibu="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Wolf-Mt-Witbier</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>4.20</abv>
+  <ibu>18</ibu>
   <name>Wolf Mt. Witbier</name>
   <description>A distinct Belgian-style wheat beer known for its subtle white haze that comes from unmalted wheat in the grist.Â  Malted and unmalted wheat and pilsner malt in the mash with Czech Saaz hops added to the kettle.Â  Then, Ruby grapefruit and blood oranges were juiced and zested and added to the beer to provide a very special aromatic experience.</description>
   <availability/>
@@ -9,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="16A">Witbier</style>
+    <style><bjcp_style_id>16A</bjcp_style_id>Witbier</style>
   </styles>
   <sizes>
     <size>

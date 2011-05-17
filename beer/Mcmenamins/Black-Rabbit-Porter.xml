@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mcmenamins/Black-Rabbit-Porter" brewery_id="Mcmenamins" abv="5.55">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mcmenamins/Black-Rabbit-Porter</id>
+  <brewery_id>Mcmenamins</brewery_id>
+  <abv>5.55</abv>
   <name>Black Rabbit Porter</name>
   <description>Black Rabbit Porter is a semi-sweet ale with a roasty chocolate malt tone. This ale is defined by it's toasted nut flavor and a sweeter, softer finish than McMenamins' Terminator Stout. Named after the elusive Black Rabbit who roamed freely on the grounds at the Edgefield Manor, this ale has been an Edgefield staple for years.</description>
   <availability>year-round</availability>

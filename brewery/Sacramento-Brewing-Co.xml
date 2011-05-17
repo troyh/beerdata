@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sacramento-Brewing-Co">
+<brewery>
+  <id>Sacramento-Brewing-Co</id>
   <name>Sacramento Brewing Co‎</name>
   <address>
     <street>2713 El Paseo Ln</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Reserve-Juliet" brewery_id="Goose-Island-Beer-Co" abv="6.7" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Reserve-Juliet</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>6.7</abv>
+  <ibu>15</ibu>
   <name>Reserve: Juliet</name>
   <description>Fermented with wild yeasts and aged in cabernet barrels with blackberries, Juliet is a tart, fruity, complex ale. Notes of wood, tannin, dark fruit and spice make Juliet an ideal beer to suggest to Pinot Noir enthusiasts and beer drinkers who are fond of Belgian sour ales.</description>
   <availability>limited</availability>

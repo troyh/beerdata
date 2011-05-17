@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Storm-King-Stout" brewery_id="Victory-Brewing-Co" abv="9.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Storm-King-Stout</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>9.1</abv>
   <name>Storm King Stout</name>
   <description>With a huge, Pacific Northwest hop aroma &amp; character upfront, Storm King subsides into massive, roast malt complexity. More flavor than mere words can adequately describe. Rich and substantial, it will warm your heart.</description>
   <availability/>

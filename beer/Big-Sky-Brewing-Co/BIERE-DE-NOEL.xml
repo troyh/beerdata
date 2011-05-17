@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Big-Sky-Brewing-Co/Biere-De-Noel" brewery_id="Big-Sky-Brewing-Co" abv="8.75" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/Biere-De-Noel</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
+  <abv>8.75</abv>
+  <ibu>35</ibu>
   <name>Biere De Noel</name>
   <description/>
   <availability>limited</availability>
@@ -10,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-11005-1">
+    <size>
+      <upc>7-00283-11005-1</upc>
       <description>12/25.4 BTL</description>
       <distributor>
         <name>odom</name>

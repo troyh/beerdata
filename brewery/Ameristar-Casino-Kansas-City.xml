@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ameristar-Casino-Kansas-City">
+<brewery>
+  <id>Ameristar-Casino-Kansas-City</id>
   <name>Ameristar Casino Kansas City‎</name>
   <address>
     <street>3200 Ameristar Dr</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bowling-Green-Brewing-Co">
+<brewery>
+  <id>Bowling-Green-Brewing-Co</id>
   <name>Bowling Green Brewing Co‎</name>
   <address>
     <street>1405 Veterans Memorial Ln</street>

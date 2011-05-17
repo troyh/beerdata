@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Belgian-Quadruple" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Belgian-Quadruple</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Belgian Quadruple</name>
   <description>Inspired by the Trappist brewers of Belgium, our heavyweight Quadruple tips the O.G. scales at 25 degrees P. Master Brewer, Daniel Carey, sourced the Brett yeast that boldly frames this refined and complex strong ale. First coddled in our Oak lager tanks and then slowly matured in bourbon barrels. This is a bold beer that sips like a refined cordial of nutmeg, dried cherries and vanilla. Perfect for lying down or sipping by the fire tonight.</description>
   <availability>retired</availability>

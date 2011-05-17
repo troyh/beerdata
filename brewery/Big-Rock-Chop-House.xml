@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Rock-Chop-House">
+<brewery>
+  <id>Big-Rock-Chop-House</id>
   <name>Big Rock Chop House‎</name>
   <address>
     <street>245 S Eton St</street>

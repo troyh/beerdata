@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/English-Style-Old-Ale" brewery_id="Harpoon" abv="7.9" ibu="62">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/English-Style-Old-Ale</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>7.9</abv>
+  <ibu>62</ibu>
   <name>English Style Old Ale</name>
   <description>Harpoon Old Ale is inspired by the sustaining winter offerings of many English breweries. This complex &amp; malty brew is marked by significant alcohol warmth, balanced bitterness, biscuit/roasted undertones, and sublime mouthfeel. Proper English yeast, traditional hop varietals, and generous malt bill create a wonderful companion for the fireside. Enjoyable for consumption now or for extended cellaring.</description>
   <availability>limited</availability>

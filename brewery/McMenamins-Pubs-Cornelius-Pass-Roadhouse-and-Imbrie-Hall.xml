@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Pubs-Cornelius-Pass-Roadhouse-and-Imbrie-Hall">
+<brewery>
+  <id>McMenamins-Pubs-Cornelius-Pass-Roadhouse-and-Imbrie-Hall</id>
   <name>McMenamins Pubs: Cornelius Pass Roadhouse &amp; Imbrie Hall‎</name>
   <address>
     <street>4045 NW Cornelius Pass Rd</street>

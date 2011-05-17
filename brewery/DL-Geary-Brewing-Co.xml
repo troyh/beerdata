@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="DL-Geary-Brewing-Co">
+<brewery>
+  <id>DL-Geary-Brewing-Co</id>
   <name>DL Geary Brewing Co‎</name>
   <address>
     <street>38 Evergreen Dr</street>

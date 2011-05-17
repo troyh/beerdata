@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="BrewDog-Brewery/PARADOX-AGED-IMP-STOUT" brewery_id="BrewDog-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>BrewDog-Brewery/PARADOX-AGED-IMP-STOUT</id>
+  <brewery_id>BrewDog-Brewery</brewery_id>
   <name>PARADOX AGED IMP STOUT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-60154-91018-6">
+    <size>
+      <upc>0-60154-91018-6</upc>
       <description>12/11.2 BTL</description>
       <distributor>
         <name>odom</name>

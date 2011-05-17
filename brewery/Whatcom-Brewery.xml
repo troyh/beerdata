@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Whatcom-Brewery">
+<brewery>
+  <id>Whatcom-Brewery</id>
   <name>Whatcom Brewery‎</name>
   <address>
     <street>2234 Main St</street>

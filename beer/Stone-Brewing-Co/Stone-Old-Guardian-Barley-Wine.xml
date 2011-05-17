@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Stone-Old-Guardian-Barley-Wine" brewery_id="Stone-Brewing-Co" abv="11.3" ibu="95">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Stone-Old-Guardian-Barley-Wine</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>11.3</abv>
+  <ibu>95</ibu>
   <name>Stone Old Guardian Barley Wine</name>
   <description>Stone Old Guardian Barley Wine is a stunning representation of all that is big and bold in beer. This beautiful, bold barley wine has a massive malt character and a near-critical level of hop notes. Stone Old Guardian Barley wine can be enjoyed upon its release or cellared to enjoy in the future. </description>
   <availability>Spring 2009</availability>

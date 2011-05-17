@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Krušovice-Brewery/IMPERIAL" brewery_id="Krušovice-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Krušovice-Brewery/IMPERIAL</id>
+  <brewery_id>Krušovice-Brewery</brewery_id>
   <name>IMPERIAL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-3">
+    <size>
+      <upc>9-99999-99999-3</upc>
       <description>50L BBL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Bjs-Annual-Grand-Cru" brewery_id="Bjs-Restaurant-And-Brewhouse">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Bjs-Annual-Grand-Cru</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
   <name>BJ's Annual Grand Cru</name>
   <description/>
   <availability>winter</availability>

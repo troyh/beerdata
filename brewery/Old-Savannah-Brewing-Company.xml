@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Old-Savannah-Brewing-Company">
+<brewery>
+  <id>Old-Savannah-Brewing-Company</id>
   <name>Old Savannah Brewing Company‎</name>
   <address>
     <street>1108 Lexington Ave</street>

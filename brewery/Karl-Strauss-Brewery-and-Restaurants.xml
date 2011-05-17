@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Karl-Strauss-Brewery-and-Restaurants">
+<brewery>
+  <id>Karl-Strauss-Brewery-and-Restaurants</id>
   <name>Karl Strauss Brewery &amp; Restaurants‎</name>
   <address>
     <street>901 S Coast Dr # A</street>

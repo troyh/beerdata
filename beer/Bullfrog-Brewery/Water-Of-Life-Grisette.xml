@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Water-Of-Life-Grisette" brewery_id="Bullfrog-Brewery" abv="3.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Water-Of-Life-Grisette</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>3.8</abv>
   <name>Water of Life Grisette</name>
   <description>This hazy golden, low alcohol saison, meant to slake your thirst during the hot summer months, has a definitive fruitiness from our house saison yeast, a bit of earthy farmhouse funk and a dry, spicy finish.</description>
   <availability/>

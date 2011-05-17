@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bend-Brewing-Co/DOLLY-VARDEN-IPA" brewery_id="Bend-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bend-Brewing-Co/DOLLY-VARDEN-IPA</id>
+  <brewery_id>Bend-Brewing-Co</brewery_id>
   <name>DOLLY VARDEN IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-69596-46304-9">
+    <size>
+      <upc>7-69596-46304-9</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

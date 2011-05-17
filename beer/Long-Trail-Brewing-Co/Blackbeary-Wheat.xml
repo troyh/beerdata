@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Long-Trail-Brewing-Co/Blackbeary-Wheat" brewery_id="Long-Trail-Brewing-Co" abv="4" ibu="8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Long-Trail-Brewing-Co/Blackbeary-Wheat</id>
+  <brewery_id>Long-Trail-Brewing-Co</brewery_id>
+  <abv>4</abv>
+  <ibu>8</ibu>
   <name>Blackbeary Wheat</name>
   <description/>
   <availability>year-round</availability>

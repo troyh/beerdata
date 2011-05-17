@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fischer-Brewery/AMBER" brewery_id="Fischer-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fischer-Brewery/AMBER</id>
+  <brewery_id>Fischer-Brewery</brewery_id>
   <name>AMBER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80069-93334-1">
+    <size>
+      <upc>0-80069-93334-1</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

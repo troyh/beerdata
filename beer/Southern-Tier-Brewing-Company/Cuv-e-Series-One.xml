@@ -1,6 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Cuv-e-Series-One" brewery_id="Southern-Tier-Brewing-Company" abv="11">
-  <name>Cuv&#x8E;e Series One</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Cuv-e-Series-One</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>11</abv>
+  <name>Cuve Series One</name>
   <description>ALE IMPRESSIONS: Light copper color, slight malt flavor with mild bitterness, dry finish with subtle hop aroma.\nFRENCH OAK IMPRESSIONS: Qualities of toasted coconut, almond biscotti and toasted almonds with a taste of honeysuckle.</description>
   <availability>fall </availability>
   <ingredients/>

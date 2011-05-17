@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grupo-Modelo/LOOSE" brewery_id="Grupo-Modelo">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grupo-Modelo/LOOSE</id>
+  <brewery_id>Grupo-Modelo</brewery_id>
   <name>LOOSE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95628-2">
+    <size>
+      <upc>0-80660-95628-2</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>

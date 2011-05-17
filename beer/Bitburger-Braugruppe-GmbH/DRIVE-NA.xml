@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bitburger-Braugruppe-GmbH/DRIVE-NA" brewery_id="Bitburger-Braugruppe-GmbH">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bitburger-Braugruppe-GmbH/DRIVE-NA</id>
+  <brewery_id>Bitburger-Braugruppe-GmbH</brewery_id>
   <name>DRIVE NA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-20507-31070-9">
+    <size>
+      <upc>0-20507-31070-9</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

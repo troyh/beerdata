@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wolverine-Gardens">
+<brewery>
+  <id>Wolverine-Gardens</id>
   <name>Wolverine Gardens‎</name>
   <address>
     <street>12891 Cleveland Ave</street>

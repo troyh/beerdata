@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Double-Dead-Guy-Ale" brewery_id="Rogue-Ales" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Double-Dead-Guy-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>60</ibu>
   <name>Double Dead Guy Ale</name>
   <description>Deep amber copper color. Buttery peanut brittle, orange blossom tea aromas follow through to a rich chewy and fruity full body with nice notes of caramel drizzled dried apricot and roasted grains and spice. Finishes with a long, tangy grilled grapefruit and chocolate fade.</description>
   <availability/>

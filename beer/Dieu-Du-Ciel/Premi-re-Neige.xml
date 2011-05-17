@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Premi-re-Neige" brewery_id="Dieu-Du-Ciel" abv="5">
-  <name>PREMI&#xE9;RE NEIGE</name>
-  <description>The Premi&#x8F;re Communion is the little sister of and an introduction to the Scotch Ale. With less alcohol and somewhat thinner than a Scotch Ale, it nevertheless has the same flavours, but in lesser intensity.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Premi-re-Neige</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
+  <name>PREMIéRE NEIGE</name>
+  <description>The Premire Communion is the little sister of and an introduction to the Scotch Ale. With less alcohol and somewhat thinner than a Scotch Ale, it nevertheless has the same flavours, but in lesser intensity.</description>
   <availability/>
   <ingredients/>
   <grains/>

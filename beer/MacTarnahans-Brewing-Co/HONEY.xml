@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="MacTarnahans-Brewing-Co/HONEY" brewery_id="MacTarnahans-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>MacTarnahans-Brewing-Co/HONEY</id>
+  <brewery_id>MacTarnahans-Brewing-Co</brewery_id>
   <name>HONEY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-95374-80020-2">
+    <size>
+      <upc>0-95374-80020-2</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lefthand/Juju-Ginger" brewery_id="Lefthand" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lefthand/Juju-Ginger</id>
+  <brewery_id>Lefthand</brewery_id>
+  <ibu>year-round</ibu>
   <name>JuJu Ginger</name>
   <description/>
   <availability/>

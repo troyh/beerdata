@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jazz-Standard">
+<brewery>
+  <id>Jazz-Standard</id>
   <name>Jazz Standard‎</name>
   <address>
     <street>116 E 27th St</street>

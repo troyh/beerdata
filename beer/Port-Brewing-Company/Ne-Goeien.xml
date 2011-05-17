@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Ne-Goeien" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Ne-Goeien</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Ne Goeien</name>
   <description/>
   <availability>fall</availability>

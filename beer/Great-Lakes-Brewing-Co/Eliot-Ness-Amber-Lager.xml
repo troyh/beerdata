@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Eliot-Ness-Amber-Lager" brewery_id="Great-Lakes-Brewing-Co" abv="6.2" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Eliot-Ness-Amber-Lager</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>35</ibu>
   <name>Eliot Ness Amber Lager</name>
   <description>An amber lager with rich, fragrant malt flavors balanced by crisp, noble hops. Named after one of Cleveland's most respected safety directors who frequented the Brewpub's bar during his tenure from 1935-1941 and, according to popular legend, was responsible for the bullet holes in the bar still evident today. Margaret Conway, the mother of owners Patrick and Daniel Conway, worked with Ness as his stenographer. </description>
   <availability>year-round</availability>

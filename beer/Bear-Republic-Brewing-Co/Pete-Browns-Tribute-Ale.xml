@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/Pete-Browns-Tribute-Ale" brewery_id="Bear-Republic-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/Pete-Browns-Tribute-Ale</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
   <name>Pete Brown's Tribute Ale</name>
   <description>is a rendition of our American brown ale with the addition of molasses and brown sugar for more body and a slightly higher alchohol content. Just the way Pete would have wanted it... Here's to you, Peter Brown!</description>
   <availability/>

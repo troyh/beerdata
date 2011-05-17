@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Ninkasi-Brewing-Co-Eugene/TRICERAHOPS-DOUBLE-IPA" brewery_id="Ninkasi-Brewing-Co-Eugene">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Ninkasi-Brewing-Co-Eugene/TRICERAHOPS-DOUBLE-IPA</id>
+  <brewery_id>Ninkasi-Brewing-Co-Eugene</brewery_id>
   <name>TRICERAHOPS DOUBLE IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="4-43001-11111-1">
+    <size>
+      <upc>4-43001-11111-1</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

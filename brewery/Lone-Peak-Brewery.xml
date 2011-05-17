@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lone-Peak-Brewery">
+<brewery>
+  <id>Lone-Peak-Brewery</id>
   <name>Lone Peak Brewery‎</name>
   <address>
     <street>48 Market Pl</street>

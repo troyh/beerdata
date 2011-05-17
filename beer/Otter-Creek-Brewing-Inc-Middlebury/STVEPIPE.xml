@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Otter-Creek-Brewing-Inc-Middlebury/STVEPIPE" brewery_id="Otter-Creek-Brewing-Inc-Middlebury">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Otter-Creek-Brewing-Inc-Middlebury/STVEPIPE</id>
+  <brewery_id>Otter-Creek-Brewing-Inc-Middlebury</brewery_id>
   <name>STVEPIPE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-56435-00604-8">
+    <size>
+      <upc>7-56435-00604-8</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

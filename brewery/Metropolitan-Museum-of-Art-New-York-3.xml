@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Metropolitan-Museum-of-Art-New-York-3">
+<brewery>
+  <id>Metropolitan-Museum-of-Art-New-York-3</id>
   <name>Metropolitan Museum of Art‎</name>
   <address>
     <street>1000 5th Avenue</street>

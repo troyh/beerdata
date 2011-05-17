@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Rye-Beer" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Rye-Beer</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Rye Beer</name>
   <description>Our Rye beer is made with rye, pale and victory malts. To create a bold flavor, we use more rye than in most rye beers. The ratio is 40% rye, 40% pale and 20% victory malts. The victory malt gives the beer the pleasing aroma of freshly baked bread and is a perfect compliment to the rye malt. The beer is hopped with American hop varieties without a trace of bitterness, allowing the full rye flavor to come through. The result is a light brown, full flavored, malty beer.</description>
   <availability>retired</availability>

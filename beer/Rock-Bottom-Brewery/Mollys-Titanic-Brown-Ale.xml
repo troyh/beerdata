@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Mollys-Titanic-Brown-Ale" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Mollys-Titanic-Brown-Ale</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Molly's Titanic Brown Ale</name>
   <description>Unsinkably malty, Molly's Titanic Brown Ale draws its inspiration from the classic brown ales of England. A multi-dimensional beer finely balanced between the malt flavor and hops. Imbibe, whole-heartedly with one of our big, juicy steaks.</description>
   <availability>year-round</availability>

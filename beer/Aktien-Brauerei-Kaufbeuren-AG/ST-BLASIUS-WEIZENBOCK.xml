@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Aktien-Brauerei-Kaufbeuren-AG/ST-BLASIUS-WEIZENBOCK" brewery_id="Aktien-Brauerei-Kaufbeuren-AG">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Aktien-Brauerei-Kaufbeuren-AG/ST-BLASIUS-WEIZENBOCK</id>
+  <brewery_id>Aktien-Brauerei-Kaufbeuren-AG</brewery_id>
   <name>ST BLASIUS WEIZENBOCK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-34006-11111-1">
+    <size>
+      <upc>7-34006-11111-1</upc>
       <description>20/.5L BTL</description>
       <distributor>
         <name>odom</name>

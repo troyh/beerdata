@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Himalayan/Blue" brewery_id="Himalayan">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Himalayan/Blue</id>
+  <brewery_id>Himalayan</brewery_id>
   <name>Blue</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brewbakers-Visalia-2">
+<brewery>
+  <id>Brewbakers-Visalia-2</id>
   <name>Brewbakers‎</name>
   <address>
     <street>219 E Main St</street>

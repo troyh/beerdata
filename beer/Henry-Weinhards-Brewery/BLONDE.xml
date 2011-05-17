@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Henry-Weinhards-Brewery/BLONDE" brewery_id="Henry-Weinhards-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Henry-Weinhards-Brewery/BLONDE</id>
+  <brewery_id>Henry-Weinhards-Brewery</brewery_id>
   <name>BLONDE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-94805-4">
+    <size>
+      <upc>0-34100-94805-4</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Palma-Louca/Lager" brewery_id="Palma-Louca">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Palma-Louca/Lager</id>
+  <brewery_id>Palma-Louca</brewery_id>
   <name>Lager</name>
   <description/>
   <availability/>

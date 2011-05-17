@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="North-Coast-Brewing-Co/Old-Rasputin" brewery_id="North-Coast-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Old-Rasputin</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
   <name>Old Rasputin</name>
   <description/>
   <availability/>

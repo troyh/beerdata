@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Unibroue/Edition-2004" brewery_id="Unibroue">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Unibroue/Edition-2004</id>
+  <brewery_id>Unibroue</brewery_id>
   <name>Edition 2004</name>
   <description/>
   <availability/>

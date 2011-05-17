@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Barley-Johns-Brew-Pub/Little-Barley-Bitter" brewery_id="Barley-Johns-Brew-Pub" abv="3.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Barley-Johns-Brew-Pub/Little-Barley-Bitter</id>
+  <brewery_id>Barley-Johns-Brew-Pub</brewery_id>
+  <abv>3.2</abv>
   <name>Little Barley Bitter</name>
   <description>Initial rich maltiness with a soft transition into a light caramel flavor and a smooth hop bitterness at the finish.</description>
   <availability/>

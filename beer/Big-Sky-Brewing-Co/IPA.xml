@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Big-Sky-Brewing-Co/IPA" brewery_id="Big-Sky-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Big-Sky-Brewing-Co/IPA</id>
+  <brewery_id>Big-Sky-Brewing-Co</brewery_id>
   <name>IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-00283-04003-7">
+    <size>
+      <upc>7-00283-04003-7</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

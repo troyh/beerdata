@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Trader-Joes-Co-Inc">
+<brewery>
+  <id>Trader-Joes-Co-Inc</id>
   <name>Trader Joe's Co Inc‎</name>
   <address>
     <street>800 S Shamrock Ave</street>

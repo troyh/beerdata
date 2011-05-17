@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Harpoon/Munich-Dark" brewery_id="Harpoon" abv="5.5" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harpoon/Munich-Dark</id>
+  <brewery_id>Harpoon</brewery_id>
+  <abv>5.5</abv>
+  <ibu>35</ibu>
   <name>Munich Dark</name>
   <description>Harpoon Munich Dark is a blend of dark malts that creates a deeper hue than some other beers brewed in this style. The grains which create a malty chocolate-like flavor also add a warm malty nose that mingles with the subtle hop aroma. This medium bodied beer is balanced quite well with a moderately bitter hop finish.\nThe overall character is rich malt and chocolate balanced with a crisp hop bitterness.</description>
   <availability>year-round</availability>

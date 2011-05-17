@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tahquamenon-Falls-Brewery-and-Pub">
+<brewery>
+  <id>Tahquamenon-Falls-Brewery-and-Pub</id>
   <name>Tahquamenon Falls Brewery &amp; Pub‎</name>
   <address>
     <street>Upper Falls Dr</street>

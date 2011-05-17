@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Molson-Coors-Brewing-Company/CANADN" brewery_id="Molson-Coors-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Molson-Coors-Brewing-Company/CANADN</id>
+  <brewery_id>Molson-Coors-Brewing-Company</brewery_id>
   <name>CANADN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-68213-03112-9">
+    <size>
+      <upc>0-68213-03112-9</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

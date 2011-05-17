@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Alcatraz-Brewing-Co-Indianapolis">
+<brewery>
+  <id>Alcatraz-Brewing-Co-Indianapolis</id>
   <name>Alcatraz Brewing Co‎</name>
   <address>
     <street>49 W Maryland St # 104</street>

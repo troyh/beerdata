@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spaten-Brewery/PREM" brewery_id="Spaten-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten-Brewery/PREM</id>
+  <brewery_id>Spaten-Brewery</brewery_id>
   <name>PREM</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88394-00002-8">
+    <size>
+      <upc>0-88394-00002-8</upc>
       <description>BOTTLE 4-6/12</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hops-Restaurant-Bar-Brewery-West-Palm-Beach">
+<brewery>
+  <id>Hops-Restaurant-Bar-Brewery-West-Palm-Beach</id>
   <name>Hops Restaurant Bar Brewery‎</name>
   <address>
     <street>4576 Okeechobee Blvd</street>

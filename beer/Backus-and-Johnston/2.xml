@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Backus-and-Johnston/2" brewery_id="Backus-and-Johnston">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Backus-and-Johnston/2</id>
+  <brewery_id>Backus-and-Johnston</brewery_id>
   <name>2</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-08896-00127-9">
+    <size>
+      <upc>0-08896-00127-9</upc>
       <description>BOTTLE 4-6/11</description>
       <distributor>
         <name>columbia</name>

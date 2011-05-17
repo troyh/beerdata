@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Minneapolis-Town-Hall-Brewery">
+<brewery>
+  <id>Minneapolis-Town-Hall-Brewery</id>
   <name>Minneapolis Town Hall Brewery‎</name>
   <address>
     <street>1430 Washington Ave S</street>

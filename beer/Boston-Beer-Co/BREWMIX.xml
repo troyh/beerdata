@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/BREWMIX" brewery_id="Boston-Beer-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/BREWMIX</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
   <name>BREWMIX</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87692-29103-9">
+    <size>
+      <upc>0-87692-29103-9</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

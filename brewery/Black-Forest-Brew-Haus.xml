@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Black-Forest-Brew-Haus">
+<brewery>
+  <id>Black-Forest-Brew-Haus</id>
   <name>Black Forest Brew Haus‎</name>
   <address>
     <street>2015 New Hwy</street>

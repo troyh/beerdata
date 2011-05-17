@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Great-Northern-Brewing">
+<brewery>
+  <id>Great-Northern-Brewing</id>
   <name>Great Northern Brewing‎</name>
   <address>
     <street>2 Central Ave</street>

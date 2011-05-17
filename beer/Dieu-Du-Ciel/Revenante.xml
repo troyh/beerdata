@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Revenante" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Revenante</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>REVENANTE</name>
   <description>Dark to the point of being almost black, this beer has a certain dryness which is reminiscent of dark chocolate. Beyond the smoky taste, which is quite dominant, there are also flavours of malt, caramel and fruits. The hops make their presence known and unite all of the flavours to give the beer a mildly bitter taste.</description>
   <availability/>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/The-Golden-Rule" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/The-Golden-Rule</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>The Golden Rule</name>
   <description>An organic tribute to an English style India Pale Ale. We use 100% organic 2-row malted barley, enormous doses of hops, pure English ale yeast and water straight from the earth. This beer is light tasting with the malt and hops melding beautifully, for a clean easily drinkable session brew. Hops are light, but ever present and loaded with an earthy perfume with hop oils and resins that intrigue the palette. Its designed to provide ultimate satisfaction to someone who really appreciates it.</description>
   <availability>Limited</availability>

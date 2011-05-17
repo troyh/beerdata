@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Cave-Creek/Chili-Beer" brewery_id="Cave-Creek">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cave-Creek/Chili-Beer</id>
+  <brewery_id>Cave-Creek</brewery_id>
   <name>Chili Beer</name>
   <description/>
   <availability/>

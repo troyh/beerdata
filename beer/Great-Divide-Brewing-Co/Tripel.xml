@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Tripel" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Tripel</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
   <name>Tripel</name>
   <description>Tripel's medium body and straw hue belie a beer of wondrous complexity. Fruity yeast character dominates throughout, while sweet malt and noble hops give way to a bit of warmth in the finish. Ever hugged a monk? This dangerously drinkable abbey-inspired ale just might have you chasing down the next one you see.</description>
   <availability>fall</availability>

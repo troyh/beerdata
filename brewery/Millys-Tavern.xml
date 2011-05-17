@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Millys-Tavern">
+<brewery>
+  <id>Millys-Tavern</id>
   <name>Milly's Tavern‎</name>
   <address>
     <street>500 N Commercial St</street>

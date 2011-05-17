@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Vermont-Pub-and-Brewery-Burlington">
+<brewery>
+  <id>Vermont-Pub-and-Brewery-Burlington</id>
   <name>Vermont Pub &amp; Brewery‎</name>
   <address>
     <street>144 College St</street>

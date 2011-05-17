@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/El-Oso" brewery_id="Bear-Republic-Brewing-Co" abv="4.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/El-Oso</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>4.5</abv>
   <name>El Oso</name>
   <description>"El Oso" is Spanish for "The Bear". This Mexican style Vienna lager beer is very dry, very smooth, and is made with a strain of yeast from the famous Modelo Brewery in Mexico. May we suggest a lime?</description>
   <availability/>

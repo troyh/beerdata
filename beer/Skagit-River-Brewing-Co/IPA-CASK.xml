@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Skagit-River-Brewing-Co/IPA-CASK" brewery_id="Skagit-River-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Skagit-River-Brewing-Co/IPA-CASK</id>
+  <brewery_id>Skagit-River-Brewing-Co</brewery_id>
   <name>IPA CASK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-41015-11111-1">
+    <size>
+      <upc>7-41015-11111-1</upc>
       <description>1/4 BBL</description>
       <distributor>
         <name>odom</name>

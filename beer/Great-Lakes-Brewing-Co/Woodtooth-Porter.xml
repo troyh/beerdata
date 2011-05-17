@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Woodtooth-Porter" brewery_id="Great-Lakes-Brewing-Co" abv="6.2" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Woodtooth-Porter</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6.2</abv>
+  <ibu>25</ibu>
   <name>Woodtooth Porter</name>
   <description>George Washington's true American molasses porter.</description>
   <availability>limited</availability>

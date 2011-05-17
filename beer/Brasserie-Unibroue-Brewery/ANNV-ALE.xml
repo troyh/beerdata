@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Unibroue-Brewery/ANNV-ALE" brewery_id="Brasserie-Unibroue-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Unibroue-Brewery/ANNV-ALE</id>
+  <brewery_id>Brasserie-Unibroue-Brewery</brewery_id>
   <name>ANNV ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-56910-79616-8">
+    <size>
+      <upc>0-56910-79616-8</upc>
       <description>BOTTLE 25.4</description>
       <distributor>
         <name>columbia</name>

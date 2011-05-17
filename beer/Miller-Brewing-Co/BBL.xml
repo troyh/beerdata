@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Miller-Brewing-Co/BBL" brewery_id="Miller-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Miller-Brewing-Co/BBL</id>
+  <brewery_id>Miller-Brewing-Co</brewery_id>
   <name>BBL</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="12735">
+    <size>
+      <upc>12735</upc>
       <description>1/2</description>
       <distributor>
         <name/>

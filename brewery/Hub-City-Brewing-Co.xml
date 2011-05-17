@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hub-City-Brewing-Co">
+<brewery>
+  <id>Hub-City-Brewing-Co</id>
   <name>Hub City Brewing Co‎</name>
   <address>
     <street>11352 40th St</street>

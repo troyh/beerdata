@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Pale-Ale" brewery_id="Bells-Brewery" abv="5.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Pale-Ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>5.2</abv>
   <name>Pale Ale</name>
   <description>A refreshing, blond colored pale ale. Bell's pale ale is made almost exclusively from pale malt. It expresses a spicy floral hop aroma and taste.</description>
   <availability>year-round</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lost-Coast-Brewery-and-Cafe/RASPBR" brewery_id="Lost-Coast-Brewery-and-Cafe">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery-and-Cafe/RASPBR</id>
+  <brewery_id>Lost-Coast-Brewery-and-Cafe</brewery_id>
   <name>RASPBR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-51249-11126-1">
+    <size>
+      <upc>7-51249-11126-1</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bells-Brewery/Sparkling-Ale" brewery_id="Bells-Brewery" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bells-Brewery/Sparkling-Ale</id>
+  <brewery_id>Bells-Brewery</brewery_id>
+  <abv>9</abv>
   <name>Sparkling Ale</name>
   <description>Fill your glass and toast your friends with this special brew. Our take on a "glass of the bubbly," Sparkling Ale is an American Triple - light in color with a subtle fruit body.</description>
   <availability>fall</availability>

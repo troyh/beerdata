@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Keweenaw-Brewing-Co">
+<brewery>
+  <id>Keweenaw-Brewing-Co</id>
   <name>Keweenaw Brewing Co‎</name>
   <address>
     <street>408 Shelden Ave</street>

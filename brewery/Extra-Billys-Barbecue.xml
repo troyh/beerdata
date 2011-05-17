@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Extra-Billys-Barbecue">
+<brewery>
+  <id>Extra-Billys-Barbecue</id>
   <name>Extra Billy's Barbecue‎</name>
   <address>
     <street>5205 W Broad St</street>

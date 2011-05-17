@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Hair-Of-The-Dog-Brewing-Co/Fred" brewery_id="Hair-Of-The-Dog-Brewing-Co" abv="10" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hair-Of-The-Dog-Brewing-Co/Fred</id>
+  <brewery_id>Hair-Of-The-Dog-Brewing-Co</brewery_id>
+  <abv>10</abv>
+  <ibu>60</ibu>
   <name>Fred</name>
   <description>Fred was created to honor beer writer and historian Fred Eckhardt. Fred is a big inspiration for me and many other brewers. Fred's work in all-grain brewing and beer styles helped me become a better brewer. Fred the beer is a deep golden color. It is made with aromatic and rye malts and includes 10 different hop varieties in an effort to incorporate the whole world into this beer. It has 10% alcohol by volume and 65 IBUs. We hope that Fred will inspire you to share your knowledge with others as Fred has with us.</description>
   <availability/>
@@ -10,7 +14,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="799282010042">
+    <size>
+      <upc>799282010042</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

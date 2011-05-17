@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Full-Sail-Ipa" brewery_id="Full-Sail-Brewing-Co" ibu="60">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Full-Sail-Ipa</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <ibu>60</ibu>
   <name>Full Sail IPA</name>
   <description>The British colonists who oncevisited India invented India Pale Ale. But we seriously doubt they ever enjoyed one after a day of fullblown kiteboarding. What a shame. Generously hopped to 60 IBU's in the classic style, our IPA is a real thirst quencher. t has a full, malty body and there's even a hint of fresh citrus to it. Perfect after your favorite water sport. Even if that happens to be the grueling drag-the-poolside-lounge-chair-into-the-sun event.</description>
   <availability/>

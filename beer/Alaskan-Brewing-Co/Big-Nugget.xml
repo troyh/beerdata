@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Alaskan-Brewing-Co/Big-Nugget" brewery_id="Alaskan-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Alaskan-Brewing-Co/Big-Nugget</id>
+  <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>Big Nugget</name>
   <description/>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sand-Creek-Brewing-Company">
+<brewery>
+  <id>Sand-Creek-Brewing-Company</id>
   <name>Sand Creek Brewing Company‎</name>
   <address>
     <street>320 Pierce Street</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Hop-Ottin-Ipa" brewery_id="Anderson-Valley-Brewing-Co" abv="7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Hop-Ottin-Ipa</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>7</abv>
   <name>Hop Ottin' IPA</name>
   <description>Hop Ottin' IPA is as hoppy as they come. The name means "hard working hops," in Boontling, and that tells it all. Generous additions of high-alpha Pacific Northwest hops added during a vigorous boil, plus traditional dry hopping, with whole hop cones, give this ale a delicious citrus aroma, and an intense hoppy bite. This IPA is a hop lover's dream.</description>
   <availability/>
@@ -10,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="00912500146">
+    <size>
+      <upc>00912500146</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

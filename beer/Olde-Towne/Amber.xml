@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Olde-Towne/Amber" brewery_id="Olde-Towne" ibu="year-round">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Olde-Towne/Amber</id>
+  <brewery_id>Olde-Towne</brewery_id>
+  <ibu>year-round</ibu>
   <name>Amber</name>
   <description/>
   <availability/>

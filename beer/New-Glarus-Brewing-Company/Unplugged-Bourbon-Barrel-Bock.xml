@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="New-Glarus-Brewing-Company/Unplugged-Bourbon-Barrel-Bock" brewery_id="New-Glarus-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>New-Glarus-Brewing-Company/Unplugged-Bourbon-Barrel-Bock</id>
+  <brewery_id>New-Glarus-Brewing-Company</brewery_id>
   <name>Unplugged Bourbon Barrel Bock</name>
   <description>Sublimely elegant this toffee toned Bock is rich with a blend of Wisconsin and German barley malts. Over four months of resting in oak Bourbon Barrels gives this beer a wonderfully smooth body that will improve and mellow with age. Should you choose to enjoy this classic today you can expect a treasure of vanilla, oak and caramel notes to be bolstered by hops from France, Slovenia and Germany. Wild Brett yeast sings in harmony to the tune of Bock. 20?P OG makes this Bourbon Barrel a masterwork to remember.</description>
   <availability>retired</availability>

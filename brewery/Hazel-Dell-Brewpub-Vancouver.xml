@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Hazel-Dell-Brewpub-Vancouver">
+<brewery>
+  <id>Hazel-Dell-Brewpub-Vancouver</id>
   <name>Hazel Dell Brewpub‎</name>
   <address>
     <street>8513 NE Highway 99</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Skye-Book-and-Brew">
+<brewery>
+  <id>Skye-Book-and-Brew</id>
   <name>Skye Book &amp; Brew‎</name>
   <address>
     <street>148 E Main St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Swashbuckler-Brewing-Co">
+<brewery>
+  <id>Swashbuckler-Brewing-Co</id>
   <name>Swashbuckler Brewing Co‎</name>
   <address>
     <street>83 Mansion House Rd</street>

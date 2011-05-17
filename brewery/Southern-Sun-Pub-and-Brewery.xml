@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Southern-Sun-Pub-and-Brewery">
+<brewery>
+  <id>Southern-Sun-Pub-and-Brewery</id>
   <name>Southern Sun Pub &amp; Brewery‎</name>
   <address>
     <street>627 S Broadway St</street>

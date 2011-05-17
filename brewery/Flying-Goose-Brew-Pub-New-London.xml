@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flying-Goose-Brew-Pub-New-London">
+<brewery>
+  <id>Flying-Goose-Brew-Pub-New-London</id>
   <name>Flying Goose Brew Pub‎</name>
   <address>
     <street>40 Andover Rd</street>

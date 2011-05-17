@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bitburger-Braugruppe-GmbH/PILSNER" brewery_id="Bitburger-Braugruppe-GmbH">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bitburger-Braugruppe-GmbH/PILSNER</id>
+  <brewery_id>Bitburger-Braugruppe-GmbH</brewery_id>
   <name>PILSNER</name>
   <description/>
   <availability/>

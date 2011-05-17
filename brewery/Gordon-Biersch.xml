@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch">
+<brewery>
+  <id>Gordon-Biersch</id>
   <name>Gordon Biersch‎</name>
   <address>
     <street>401 N Front St # 120</street>

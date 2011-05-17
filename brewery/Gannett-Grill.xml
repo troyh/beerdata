@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gannett-Grill">
+<brewery>
+  <id>Gannett-Grill</id>
   <name>Gannett Grill‎</name>
   <address>
     <street>126 W Main St</street>

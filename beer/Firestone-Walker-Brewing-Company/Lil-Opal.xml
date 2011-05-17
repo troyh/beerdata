@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Firestone-Walker-Brewing-Company/Lil-Opal" brewery_id="Firestone-Walker-Brewing-Company" abv="3.8" ibu="15">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Firestone-Walker-Brewing-Company/Lil-Opal</id>
+  <brewery_id>Firestone-Walker-Brewing-Company</brewery_id>
+  <abv>3.8</abv>
+  <ibu>15</ibu>
   <name>Lil Opal</name>
   <description>his year we decided to have a lil fun and brewed a "lil beer'" with the second runnings from a wheat wine we brewed. Belgian Saison yeast contributes fruity soft character to this summer seasonal release. Lil Opal has already received much praise, but don't expect to see much of it as it as we only made a lil. </description>
   <availability>limited</availability>

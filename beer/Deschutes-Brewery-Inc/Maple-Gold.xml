@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Maple-Gold" brewery_id="Deschutes-Brewery-Inc" abv="4.70" ibu="33">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Maple-Gold</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>4.70</abv>
+  <ibu>33</ibu>
   <name>Maple Gold</name>
   <description>You've heard of back-seat drivers, this is an example of back-seat hopping.Â  The bulk of experimental hop additions came at the end of the boil, creating substantial aroma and flavor for such a smooth and drinkable beer.</description>
   <availability/>

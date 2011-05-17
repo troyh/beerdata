@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Magnolia-Village-Pub">
+<brewery>
+  <id>Magnolia-Village-Pub</id>
   <name>Magnolia Village Pub‎</name>
   <address>
     <street>3221 W Mcgraw St</street>

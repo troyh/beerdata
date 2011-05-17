@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Black-Forest" brewery_id="Saranac" abv="5.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Black-Forest</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>5.3</abv>
   <name>Black Forest</name>
   <description>A Bavarian black beer with distinctive carmel malt sweetness and rich creamy trademark head. Flavorful, yet smooth; it is very drinkable!</description>
   <availability>year-round</availability>

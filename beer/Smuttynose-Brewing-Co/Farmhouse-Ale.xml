@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Smuttynose-Brewing-Co/Farmhouse-Ale" brewery_id="Smuttynose-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Smuttynose-Brewing-Co/Farmhouse-Ale</id>
+  <brewery_id>Smuttynose-Brewing-Co</brewery_id>
   <name>Farmhouse Ale</name>
   <description>Broadly speaking, a farmhouse ale - or saison - is an esoteric style native to the French/Belgian border region. Characterized by a golden to light amber color, light to medium body, and noticeable fruity/spicy esters, this beer, known also as a "country ale" was traditionally brewed in primitive conditions in farmhouse breweries for consumption throughout the warm weather by seasonal farm workers.Our Farmhouse Ale is an homage to traditional European beers brewed for quenching the thirst of farm workers, or "Saisonaires." A unique Belgian Saison yeast is used to impart a mixture of spicy, fruity, &amp; earthy notes along with lip-smacking palatability.</description>
   <availability/>

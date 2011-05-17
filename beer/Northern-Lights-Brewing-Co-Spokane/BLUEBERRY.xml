@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Northern-Lights-Brewing-Co-Spokane/BLUEBERRY" brewery_id="Northern-Lights-Brewing-Co-Spokane">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Northern-Lights-Brewing-Co-Spokane/BLUEBERRY</id>
+  <brewery_id>Northern-Lights-Brewing-Co-Spokane</brewery_id>
   <name>BLUEBERRY</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="9-99999-99999-9">
+    <size>
+      <upc>9-99999-99999-9</upc>
       <description>1/2 BBL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rocky-Run-Tap-and-Grill">
+<brewery>
+  <id>Rocky-Run-Tap-and-Grill</id>
   <name>Rocky Run Tap &amp; Grill‎</name>
   <address>
     <street>7900 Ritchie Hwy</street>

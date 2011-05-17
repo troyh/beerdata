@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Harviestoun-Brewery/Bitter-Twisted" brewery_id="Harviestoun-Brewery" abv="3.8">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Harviestoun-Brewery/Bitter-Twisted</id>
+  <brewery_id>Harviestoun-Brewery</brewery_id>
+  <abv>3.8</abv>
   <name>Bitter &amp; Twisted </name>
   <description/>
   <availability/>

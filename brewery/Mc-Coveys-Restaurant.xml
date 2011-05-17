@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mc-Coveys-Restaurant">
+<brewery>
+  <id>Mc-Coveys-Restaurant</id>
   <name>Mc Covey's Restaurant‎</name>
   <address>
     <street>1444 N California Blvd</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Del-Norte-Brewing-Co">
+<brewery>
+  <id>Del-Norte-Brewing-Co</id>
   <name>Del Norte Brewing Co‎</name>
   <address>
     <street>1390 W Evans Ave</street>

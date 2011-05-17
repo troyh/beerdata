@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Left-Hand-Brewing-Co">
+<brewery>
+  <id>Left-Hand-Brewing-Co</id>
   <name>Left Hand Brewing Co‎</name>
   <address>
     <street>1265 Boston Ave</street>

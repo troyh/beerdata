@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ottos-Pub-and-Brewery">
+<brewery>
+  <id>Ottos-Pub-and-Brewery</id>
   <name>Otto's Pub &amp; Brewery‎</name>
   <address>
     <street>2105 N Atherton St</street>

@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Chocolate-Bock" brewery_id="Boston-Beer-Co" calories_per_ml="0.648102092197538" abv="5.50" og="16Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Chocolate-Bock</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.648102092197538</calories_per_ml>
+  <abv>5.50</abv>
+  <og>16Plato</og>
   <name>Chocolate Bock</name>
   <description>Samuel AdamsÂ® partnered Felchlin, a renowned Swiss chocolatier, to develop a unique innovation, Samuel AdamsÂ® Chocolate Bock. We started with a complex selection of carefully roasted malts combined with hand-selected Noble hops from Bavaria, the worldâs oldest growing area. After using a centuries old brewing process, called Krausening, we slowly aged the beer on a bed of rare dark cocoa nibs from FelchlinÂ®, a renowned Swiss chocolatier. Known for their quality these wild cocoa nibs, harvested from the rainforest of Northern Bolivia, impart complex aromas and flavors of chocolate, honey and vanilla in the beer. The resulting beer, Samuel AdamsÂ® Chocolate Bock, has a big, malty character that is combined with the subtle sweetness of chocolate, giving this brew a complex full-body taste with a velvety finish.
 
@@ -11,7 +16,8 @@ Tettnang-Tettnanger and Spalt hops were hand-selected from the worldâs olde
   <yeast>Bottom-fermented lager yeast</yeast>
   <otherings/>
   <sizes>
-    <size upc="0-87692-77400-6">
+    <size>
+      <upc>0-87692-77400-6</upc>
       <description>BOTTLE 12-750</description>
       <distributor>
         <name>columbia</name>

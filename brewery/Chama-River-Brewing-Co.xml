@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Chama-River-Brewing-Co">
+<brewery>
+  <id>Chama-River-Brewing-Co</id>
   <name>Chama River Brewing Co‎</name>
   <address>
     <street>4931 Pan American Fwy NE</street>

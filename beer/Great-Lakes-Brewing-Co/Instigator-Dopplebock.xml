@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Instigator-Dopplebock" brewery_id="Great-Lakes-Brewing-Co" abv="8" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Instigator-Dopplebock</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>8</abv>
+  <ibu>35</ibu>
   <name>Instigator Dopplebock</name>
   <description>Double bock with huge malt flavors.</description>
   <availability>limited</availability>

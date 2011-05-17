@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Left-Coast-Brewing">
+<brewery>
+  <id>Left-Coast-Brewing</id>
   <name>Left Coast Brewing‎</name>
   <address>
     <street>1245 Puerta del Sol</street>

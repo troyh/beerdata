@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bricktown-Brewery-Restaurant">
+<brewery>
+  <id>Bricktown-Brewery-Restaurant</id>
   <name>Bricktown Brewery Restaurant‎</name>
   <address>
     <street>1 N Oklahoma Ave</street>

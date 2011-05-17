@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Newcastle-Breweries/MCEWANS" brewery_id="Newcastle-Breweries">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Newcastle-Breweries/MCEWANS</id>
+  <brewery_id>Newcastle-Breweries</brewery_id>
   <name>MCEWANS</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88345-10002-9">
+    <size>
+      <upc>0-88345-10002-9</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

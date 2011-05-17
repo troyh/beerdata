@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Bieres-de-Chimay/2-SMPLR" brewery_id="Bieres-de-Chimay">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bieres-de-Chimay/2-SMPLR</id>
+  <brewery_id>Bieres-de-Chimay</brewery_id>
   <name>2 SMPLR</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="82678">
+    <size>
+      <upc>82678</upc>
       <description>B-3/11</description>
       <distributor>
         <name/>

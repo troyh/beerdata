@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="St-Peters-Brewery/GOLDEN-ALE" brewery_id="St-Peters-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>St-Peters-Brewery/GOLDEN-ALE</id>
+  <brewery_id>St-Peters-Brewery</brewery_id>
   <name>GOLDEN ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-88444-50001-2">
+    <size>
+      <upc>6-88444-50001-2</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

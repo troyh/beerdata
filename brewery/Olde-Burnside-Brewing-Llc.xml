@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Olde-Burnside-Brewing-Llc">
+<brewery>
+  <id>Olde-Burnside-Brewing-Llc</id>
   <name>Olde Burnside Brewing Llc‎</name>
   <address>
     <street>776 Tolland St</street>

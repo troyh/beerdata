@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Lazy-Boy-Brewing-Co">
+<brewery>
+  <id>Lazy-Boy-Brewing-Co</id>
   <name>Lazy Boy Brewing Co‎</name>
   <address>
     <street>715 100th St SE # A1</street>

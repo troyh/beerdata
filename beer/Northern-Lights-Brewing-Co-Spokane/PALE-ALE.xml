@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Northern-Lights-Brewing-Co-Spokane/PALE-ALE" brewery_id="Northern-Lights-Brewing-Co-Spokane">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Northern-Lights-Brewing-Co-Spokane/PALE-ALE</id>
+  <brewery_id>Northern-Lights-Brewing-Co-Spokane</brewery_id>
   <name>PALE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-58403-32911-4">
+    <size>
+      <upc>6-58403-32911-4</upc>
       <description>12/22 BTL</description>
       <distributor>
         <name>odom</name>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Henry-Weinhards-Brewery/HEFEWEIZEN" brewery_id="Henry-Weinhards-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Henry-Weinhards-Brewery/HEFEWEIZEN</id>
+  <brewery_id>Henry-Weinhards-Brewery</brewery_id>
   <name>HEFEWEIZEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-34100-69874-4">
+    <size>
+      <upc>0-34100-69874-4</upc>
       <description/>
       <distributor>
         <name>columbia</name>
@@ -21,7 +24,8 @@
         <deposit>$10.79</deposit>
       </distributor>
     </size>
-    <size upc="0-34100-69805-8">
+    <size>
+      <upc>0-34100-69805-8</upc>
       <description/>
       <distributor>
         <name>columbia</name>

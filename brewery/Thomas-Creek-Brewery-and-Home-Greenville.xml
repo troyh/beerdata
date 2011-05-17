@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Thomas-Creek-Brewery-and-Home-Greenville">
+<brewery>
+  <id>Thomas-Creek-Brewery-and-Home-Greenville</id>
   <name>Thomas Creek Brewery &amp; Home‎</name>
   <address>
     <street>2054 Piedmont Hwy</street>

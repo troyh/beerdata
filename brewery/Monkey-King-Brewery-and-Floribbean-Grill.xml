@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Monkey-King-Brewery-and-Floribbean-Grill">
+<brewery>
+  <id>Monkey-King-Brewery-and-Floribbean-Grill</id>
   <name>Monkey King Brewery and Floribbean Grill‎</name>
   <address>
     <street>1725 SE Federal Hwy</street>

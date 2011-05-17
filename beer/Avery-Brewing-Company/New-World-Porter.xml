@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/New-World-Porter" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/New-World-Porter</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>New World Porter</name>
   <description/>
   <availability>winter</availability>

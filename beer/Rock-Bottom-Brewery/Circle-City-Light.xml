@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Circle-City-Light" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Circle-City-Light</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Circle City Light</name>
   <description>The perfect introduction to handcrafted beer. This refreshing lager is delicatley balanced with choice malted barley and soft, floral hops for a clean flavor and crisp dry finish.</description>
   <availability>year-round</availability>

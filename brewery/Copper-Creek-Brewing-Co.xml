@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Copper-Creek-Brewing-Co">
+<brewery>
+  <id>Copper-Creek-Brewing-Co</id>
   <name>Copper Creek Brewing Co‎</name>
   <address>
     <street>140 E Washington St</street>

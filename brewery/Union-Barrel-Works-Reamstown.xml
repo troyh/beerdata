@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Union-Barrel-Works-Reamstown">
+<brewery>
+  <id>Union-Barrel-Works-Reamstown</id>
   <name>Union Barrel Works‎</name>
   <address>
     <street>6 N Reamstown Rd</street>

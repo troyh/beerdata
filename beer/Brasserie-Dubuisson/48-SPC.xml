@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brasserie-Dubuisson/48-SPC" brewery_id="Brasserie-Dubuisson">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brasserie-Dubuisson/48-SPC</id>
+  <brewery_id>Brasserie-Dubuisson</brewery_id>
   <name>48 SPC</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-92098-06234-2">
+    <size>
+      <upc>7-92098-06234-2</upc>
       <description>BOTTLE 6-4/8</description>
       <distributor>
         <name>columbia</name>

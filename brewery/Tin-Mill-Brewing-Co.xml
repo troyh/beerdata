@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Tin-Mill-Brewing-Co">
+<brewery>
+  <id>Tin-Mill-Brewing-Co</id>
   <name>Tin Mill Brewing Co‎</name>
   <address>
     <street>114 Gutenberg St</street>

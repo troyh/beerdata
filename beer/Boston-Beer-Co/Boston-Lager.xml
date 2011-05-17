@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Boston-Lager" brewery_id="Boston-Beer-Co" calories_per_ml="0.479031981189485" abv="4.90" og="13Plate">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Boston-Lager</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.479031981189485</calories_per_ml>
+  <abv>4.90</abv>
+  <og>13Plate</og>
   <name>Boston Lager</name>
   <description>Samuel Adams Boston LagerÂ® is the best example of the fundamental characteristics of a great beer, offering a full, rich flavor that is both balanced and complex. It is brewed using a decoction mash, a time consuming, traditional four vessel brewing process discarded by many contemporary brewers. This process brings forth a rich sweetness from the malt that makes it well worth the effort. Samuel Adams Boston LagerÂ® also uses only the finest of ingredients including two row barley, as well as German Noble aroma hops. The exclusive use of two row barley not only imparts a full, smooth body but also gives the beer a wide spectrum of malt flavor ranging from slightly sweet to caramel to slightly roasted. The Noble hops varieties, Hallertau Mittelfruh and Tettnang Tettnanger, add a wide range of floral, piney and citrus notes, which are present from the aroma, through the flavor, to the lingering smooth finish.  We take great pride in the Noble hops used in our beers.  They are hand selected by Jim Koch and our other brewers from the world's oldest hops growing area.  Among the world's most expensive, they cost twenty times as much as other hops.</description>
   <availability>year round</availability>
@@ -9,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="1C">Premium American Lager</style>
+    <style><bjcp_style_id>1C</bjcp_style_id>Premium American Lager</style>
   </styles>
   <sizes>
     <size>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Saranac/Summer-Ale" brewery_id="Saranac" abv="4.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Saranac/Summer-Ale</id>
+  <brewery_id>Saranac</brewery_id>
+  <abv>4.7</abv>
   <name>Summer Ale</name>
   <description>With more than 2,800 bodies of water in the Adirondacks, it's not too hard to find a sunny place to relax, rest your feet and look out over the water. To celebrate summer in the Adirondacks, we've brewed a beer with generous amounts of wheat malt for a light, refreshing taste. Look for subtle hints of lemon.</description>
   <availability>Summer</availability>

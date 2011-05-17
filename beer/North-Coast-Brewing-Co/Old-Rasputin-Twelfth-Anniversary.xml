@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="North-Coast-Brewing-Co/Old-Rasputin-Twelfth-Anniversary" brewery_id="North-Coast-Brewing-Co" abv="11.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>North-Coast-Brewing-Co/Old-Rasputin-Twelfth-Anniversary</id>
+  <brewery_id>North-Coast-Brewing-Co</brewery_id>
+  <abv>11.2</abv>
   <name>Old Rasputin twelfth anniversary</name>
   <description>For the past few years, barrel-aged Old Rasputin has been released in such limited quantities that it has been available only at the brewery retail shop. However, we have received so many requests for this beer that for the 12th anniversary, NCBC produced enough Old Rasputin XII to put into broader distribution. There's certainly not a flood of it, but it is available in select areas. Check the distributor in your area to find where to get it.We guarantee that the Old Rasputin XII will be worth the search. It is amazing stuff. Aging in oak whiskey barrels adds a level of complexity that amplifies the espresso/chocolate notes in the flavor profile and takes this unique beer to new heights.</description>
   <availability/>

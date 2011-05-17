@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Queen-City-Brewing-Ltd">
+<brewery>
+  <id>Queen-City-Brewing-Ltd</id>
   <name>Queen City Brewing Ltd‎</name>
   <address>
     <street>834 Spring Hill Rd</street>

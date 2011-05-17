@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ocean-Brewing-Co">
+<brewery>
+  <id>Ocean-Brewing-Co</id>
   <name>Ocean Brewing Co‎</name>
   <address>
     <street>237 Ocean Ave</street>

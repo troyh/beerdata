@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/High-Rollers-Wheat-Beer" brewery_id="Anderson-Valley-Brewing-Co" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/High-Rollers-Wheat-Beer</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>5</abv>
   <name>High Rollers Wheat Beer</name>
   <description>High Rollers Wheat Beer is made with 40% wheat malt, 60% pale malt and special low alpha acid hops, which allow the natural tartness of the wheat to shine through. Its effervescent head, delicate tangy taste, and crisp clear finish make it a refreshing, thirst quenching delight. High Rollers Wheat Beer can be enjoyed alone or with a slice of lemon. Excellent as an aperitif or with lighter fare, such as gazpacho, salads, or sushi. Unlike most cloudy wheat beers, this unique brew is sparklingly clear and has been known to win over even the most ardent domestic beer and wine fans. Best when served in a tall pilsner-style glass.</description>
   <availability/>

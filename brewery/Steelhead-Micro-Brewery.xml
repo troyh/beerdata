@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Steelhead-Micro-Brewery">
+<brewery>
+  <id>Steelhead-Micro-Brewery</id>
   <name>Steelhead Micro Brewery‎</name>
   <address>
     <street>4175 Campus Dr</street>

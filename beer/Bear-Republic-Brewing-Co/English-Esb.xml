@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bear-Republic-Brewing-Co/English-Esb" brewery_id="Bear-Republic-Brewing-Co" abv="4.8" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bear-Republic-Brewing-Co/English-Esb</id>
+  <brewery_id>Bear-Republic-Brewing-Co</brewery_id>
+  <abv>4.8</abv>
+  <ibu>32</ibu>
   <name>English ESB</name>
   <description>This beer was modeled after Fullers and Bass which are both classical examples of this English style, hence the name English. This beer is not bitter. It is very mild in hop bitterness compared to our I.P.A. or Red Rocket. It is medium in body and has a very noticeable malt character. The English grains are very modified which leaves you with a full mouth feel but low in alchohol. UK East Kent Golding Hops are used for both aroma an bittering</description>
   <availability/>

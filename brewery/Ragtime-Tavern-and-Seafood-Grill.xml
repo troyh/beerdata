@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ragtime-Tavern-and-Seafood-Grill">
+<brewery>
+  <id>Ragtime-Tavern-and-Seafood-Grill</id>
   <name>Ragtime Tavern &amp; Seafood Grill‎</name>
   <address>
     <street>207 Atlantic Blvd</street>

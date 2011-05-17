@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Full-Sail-Brewing-Co/Brewmasters-Reserve-Wreck-The-Halls" brewery_id="Full-Sail-Brewing-Co" abv="6.5" ibu="68">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Full-Sail-Brewing-Co/Brewmasters-Reserve-Wreck-The-Halls</id>
+  <brewery_id>Full-Sail-Brewing-Co</brewery_id>
+  <abv>6.5</abv>
+  <ibu>68</ibu>
   <name>Brewmaster's Reserve: Wreck The Halls</name>
   <description>An annual favorite, this hoppy holiday ale is aggressive yet sublime, assertive yet mellow, complex yet drinkable, and has a lot of hops in it! </description>
   <availability>Winter</availability>

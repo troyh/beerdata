@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Deschutes-Brewery-Inc/Knight-Rider-Black-IPA" brewery_id="Deschutes-Brewery-Inc" abv="6.60" ibu="70">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Deschutes-Brewery-Inc/Knight-Rider-Black-IPA</id>
+  <brewery_id>Deschutes-Brewery-Inc</brewery_id>
+  <abv>6.60</abv>
+  <ibu>70</ibu>
   <name>Knight Rider Black IPA</name>
   <description>A glimpse into the future?Â  Perhaps.Â  A tasty beer nonetheless that combines the best attributes of a dark beer (roast and chocolate notes) with your favorite NW ingredient: hops (at 2.5# per barrel)!Â  Hop bitterness combines with the complexities of dark malts, yet finishes incredibly clean...unlike the KITT car, this beer is not programmed to accept voice commands.</description>
   <availability/>

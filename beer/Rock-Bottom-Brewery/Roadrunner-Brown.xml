@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Roadrunner-Brown" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Roadrunner-Brown</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Roadrunner Brown</name>
   <description>Deep, rich and colorful, this beer has a medley of smooth, semi-sweet chocolate and toasty notes, with just the right amount of body and dry finish. A brewer favorite, it is perfect with any steak.</description>
   <availability>year-round</availability>

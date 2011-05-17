@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Diamond-Knot-Brewery-Inc">
+<brewery>
+  <id>Diamond-Knot-Brewery-Inc</id>
   <name>Diamond Knot Brewery Inc‎</name>
   <address>
     <street>621A Front St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wellingtons-Backwater-Brewing">
+<brewery>
+  <id>Wellingtons-Backwater-Brewing</id>
   <name>Wellington's Backwater Brewing‎</name>
   <address>
     <street>1429 W Service Dr</street>

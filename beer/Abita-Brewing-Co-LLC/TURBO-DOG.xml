@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Abita-Brewing-Co-LLC/TURBO-DOG" brewery_id="Abita-Brewing-Co-LLC">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Abita-Brewing-Co-LLC/TURBO-DOG</id>
+  <brewery_id>Abita-Brewing-Co-LLC</brewery_id>
   <name>TURBO DOG</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="81631">
+    <size>
+      <upc>81631</upc>
       <description>1/2</description>
       <distributor>
         <name/>

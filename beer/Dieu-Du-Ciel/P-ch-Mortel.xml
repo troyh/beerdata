@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/P-ch-Mortel" brewery_id="Dieu-Du-Ciel" abv="9.5">
-  <name>P&#x8E;ch&#x8E; Mortel</name>
-  <description>P&#x8E;ch&#x8E; Mortel (French for "Mortal Sin") is an intensely black and dense beer with very pronounced roasted flavours. Fair trade coffee is infused during the brewing process, intensifying the bitterness of the beer and giving it a powerful coffee taste. P&#x8E;ch&#x8E; mortel is brewed to be savored; we invite you to drink it in moderation.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/P-ch-Mortel</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>9.5</abv>
+  <name>Pch Mortel</name>
+  <description>Pch Mortel (French for "Mortal Sin") is an intensely black and dense beer with very pronounced roasted flavours. Fair trade coffee is infused during the brewing process, intensifying the bitterness of the beer and giving it a powerful coffee taste. Pch mortel is brewed to be savored; we invite you to drink it in moderation.</description>
   <availability/>
   <ingredients/>
   <grains/>

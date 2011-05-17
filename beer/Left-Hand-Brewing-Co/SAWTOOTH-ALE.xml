@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Left-Hand-Brewing-Co/SAWTOOTH-ALE" brewery_id="Left-Hand-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Left-Hand-Brewing-Co/SAWTOOTH-ALE</id>
+  <brewery_id>Left-Hand-Brewing-Co</brewery_id>
   <name>SAWTOOTH ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-93866-30002-4">
+    <size>
+      <upc>7-93866-30002-4</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

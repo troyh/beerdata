@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brays-Brew-Pub-and-Eatery">
+<brewery>
+  <id>Brays-Brew-Pub-and-Eatery</id>
   <name>Bray's Brew Pub &amp; Eatery‎</name>
   <address>
     <street>678 Roosevelt Trl</street>

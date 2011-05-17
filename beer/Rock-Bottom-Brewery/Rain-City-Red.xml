@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Rain-City-Red" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Rain-City-Red</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Rain City Red</name>
   <description>This deep ruby red color comes from both German and British malts. It is ?generously spiced with local hops to have ?lingering bitterness and a romantic hop bouquet in the Northwest tradition.</description>
   <availability>year-round</availability>

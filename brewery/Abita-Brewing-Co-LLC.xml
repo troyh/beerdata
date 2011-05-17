@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Abita-Brewing-Co-LLC">
+<brewery>
+  <id>Abita-Brewing-Co-LLC</id>
   <name>Abita Brewing Co LLC‎</name>
   <address>
     <street>21084 Highway 36</street>

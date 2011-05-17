@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Park-Tavern-Brewery">
+<brewery>
+  <id>Park-Tavern-Brewery</id>
   <name>Park Tavern Brewery‎</name>
   <address>
     <street>500 10th St. N.</street>

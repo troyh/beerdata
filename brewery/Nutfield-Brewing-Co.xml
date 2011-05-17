@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Nutfield-Brewing-Co">
+<brewery>
+  <id>Nutfield-Brewing-Co</id>
   <name>Nutfield Brewing Co‎</name>
   <address>
     <street>22 Manchester Rd</street>

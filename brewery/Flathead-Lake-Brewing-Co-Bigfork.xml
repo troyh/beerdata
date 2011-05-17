@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Flathead-Lake-Brewing-Co-Bigfork">
+<brewery>
+  <id>Flathead-Lake-Brewing-Co-Bigfork</id>
   <name>Flathead Lake Brewing Co‎</name>
   <address>
     <street>26014 E Shore Rte</street>

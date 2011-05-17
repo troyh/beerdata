@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sebago-Brewing-Co-Gorham">
+<brewery>
+  <id>Sebago-Brewing-Co-Gorham</id>
   <name>Sebago Brewing Co‎</name>
   <address>
     <street>29 Elm St</street>

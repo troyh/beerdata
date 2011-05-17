@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Santa-Fe/Pale-Ale" brewery_id="Santa-Fe">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Santa-Fe/Pale-Ale</id>
+  <brewery_id>Santa-Fe</brewery_id>
   <name>Pale Ale</name>
   <description/>
   <availability/>

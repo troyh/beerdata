@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Victory-Brewing-Co/Old-Horizontal" brewery_id="Victory-Brewing-Co" abv="10.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Victory-Brewing-Co/Old-Horizontal</id>
+  <brewery_id>Victory-Brewing-Co</brewery_id>
+  <abv>10.5</abv>
   <name>Old Horizontal</name>
   <description>A luxurious, warming barleywine rich with aromatic hops and dark, candied fruit character that hides its epic strength masterfully.</description>
   <availability>winter</availability>

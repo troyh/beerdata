@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Beach-Wheat" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Beach-Wheat</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Beach Wheat</name>
   <description>Classic wheat beer brewed by Americans in America using a German wheat yeast. 50% of the grain used is malted wheat designating it as a true "wheat" beer. This ale is also known as Hefeweizen. It's golden in color and light and clean with esters of banana and clove compliments of its Bavarian DNA. A beer so popular and easy drinking, it made it on this list.</description>
   <availability>summer</availability>

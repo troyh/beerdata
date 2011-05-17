@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Midnight-Sun-Brewing-Company/Arctic-Rhino-Coffee-Porter" brewery_id="Midnight-Sun-Brewing-Company" abv="5" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Midnight-Sun-Brewing-Company/Arctic-Rhino-Coffee-Porter</id>
+  <brewery_id>Midnight-Sun-Brewing-Company</brewery_id>
+  <abv>5</abv>
+  <ibu>20</ibu>
   <name>Arctic Rhino Coffee Porter</name>
   <description>Inspired by local artist &amp; roaster Michael Allen's eccentricly-named blend of coffee beans, Midnight Sun's brewers designed a beer recipe and infusion process that perfectly captures the alluring aroma, satisfying flavor and curious legend of Allen's Arctic Rhino Coffee.Arctic Rhino Coffee Porter combines two quintessential Pacific Northwest favorites: coffee and ale. The result is wonderfully romantic and robust--a duel-fueled porter that melds charismatic dark malt with freshly roasted coffee beans. The (un)rest is up to you.</description>
   <availability/>

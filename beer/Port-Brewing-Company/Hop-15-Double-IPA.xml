@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Port-Brewing-Company/Hop-15-Double-IPA" brewery_id="Port-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Port-Brewing-Company/Hop-15-Double-IPA</id>
+  <brewery_id>Port-Brewing-Company</brewery_id>
   <name>Hop 15 Double IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="68992600015">
+    <size>
+      <upc>68992600015</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

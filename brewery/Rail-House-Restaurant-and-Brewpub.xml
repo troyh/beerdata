@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rail-House-Restaurant-and-Brewpub">
+<brewery>
+  <id>Rail-House-Restaurant-and-Brewpub</id>
   <name>Rail House Restaurant &amp; Brewpub‎</name>
   <address>
     <street>2029 Old Peshtigo Rd</street>

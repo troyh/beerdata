@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Moylans-Brewery-and-Restaurant">
+<brewery>
+  <id>Moylans-Brewery-and-Restaurant</id>
   <name>Moylan's Brewery &amp; Restaurant‎</name>
   <address>
     <street>15 Rowland Way</street>

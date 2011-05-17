@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Becks-Sports-Grill">
+<brewery>
+  <id>Becks-Sports-Grill</id>
   <name>Beck's Sports Grill‎</name>
   <address>
     <street>2210 College St</street>

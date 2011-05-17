@@ -1,7 +1,11 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Abbey-Ale" brewery_id="Three-Floyds-Brewing" abv="8" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Abbey-Ale</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
+  <abv>8</abv>
+  <ibu>25</ibu>
   <name>Abbey Ale</name>
-  <description>Abbey Ale honors the ancient tradition of monks who perfected the art of brewing beer to support the monastery and their "liquid bread". We offer up our support and thank them with a 25&#xA2; donation to St. Joseph's Abbey with every bottle sold of this heavenly brew. Dark amber in color, the aroma of caramel, fruits and cloves invites you to contemplate the creamy head of this "Dubbel" or double ale. Abita Abbey Ale is a malty brew, top-fermented and bottle aged to rapturous perfection. This ale pairs well with barbecue, meat stews or a nice thick steak. For dessert, try Abita Abbey Ale with milk chocolate or chocolate bread pudding. We suggest serving this brew at 46 degrees.</description>
+  <description>Abbey Ale honors the ancient tradition of monks who perfected the art of brewing beer to support the monastery and their "liquid bread". We offer up our support and thank them with a 25¢ donation to St. Joseph's Abbey with every bottle sold of this heavenly brew. Dark amber in color, the aroma of caramel, fruits and cloves invites you to contemplate the creamy head of this "Dubbel" or double ale. Abita Abbey Ale is a malty brew, top-fermented and bottle aged to rapturous perfection. This ale pairs well with barbecue, meat stews or a nice thick steak. For dessert, try Abita Abbey Ale with milk chocolate or chocolate bread pudding. We suggest serving this brew at 46 degrees.</description>
   <availability/>
   <ingredients/>
   <grains/>

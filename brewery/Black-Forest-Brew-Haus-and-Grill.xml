@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Black-Forest-Brew-Haus-and-Grill">
+<brewery>
+  <id>Black-Forest-Brew-Haus-and-Grill</id>
   <name>Black Forest Brew Haus &amp; Grill‎</name>
   <address>
     <street>281 Heinlein Strasse</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Fiftyfifty-Brewing-Co">
+<brewery>
+  <id>Fiftyfifty-Brewing-Co</id>
   <name>Fiftyfifty Brewing Co‎</name>
   <address>
     <street>11197 Brockway Rd # 1</street>

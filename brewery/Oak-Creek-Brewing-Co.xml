@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oak-Creek-Brewing-Co">
+<brewery>
+  <id>Oak-Creek-Brewing-Co</id>
   <name>Oak Creek Brewing Co‎</name>
   <address>
     <street>2050 Yavapai Dr</street>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Blanche-De-Septembre" brewery_id="Dieu-Du-Ciel" abv="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Blanche-De-Septembre</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>5</abv>
   <name>BLANCHE DE SEPTEMBRE</name>
   <description>This traditional looking beer is actually at the intersection of a German and Belgian wheat beer. The coriander is very present at the start, followed with a tinge of citrus aromas and the smell of fresh baked bread. To the taste, the beer is mild and fruity with a delicate citrus acidity. The coriander and the ginger fill the mouth and a subtle yeast flavour is present in the aftertaste.</description>
   <availability/>

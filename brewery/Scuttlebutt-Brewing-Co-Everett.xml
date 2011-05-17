@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Scuttlebutt-Brewing-Co-Everett">
+<brewery>
+  <id>Scuttlebutt-Brewing-Co-Everett</id>
   <name>Scuttlebutt Brewing Co‎</name>
   <address>
     <street>1524 W Marine View Dr</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Brouwerij-De-Landtsheer-NV/10" brewery_id="Brouwerij-De-Landtsheer-NV">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Brouwerij-De-Landtsheer-NV/10</id>
+  <brewery_id>Brouwerij-De-Landtsheer-NV</brewery_id>
   <name>10</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-99017-00104-5">
+    <size>
+      <upc>8-99017-00104-5</upc>
       <description>BOTTLE 6/25</description>
       <distributor>
         <name>columbia</name>

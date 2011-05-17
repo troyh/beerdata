@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Methow-Valley-Brewery-Co-Twisp">
+<brewery>
+  <id>Methow-Valley-Brewery-Co-Twisp</id>
   <name>Methow Valley Brewery Co‎</name>
   <address>
     <street>201 N Methow Valley Hwy</street>

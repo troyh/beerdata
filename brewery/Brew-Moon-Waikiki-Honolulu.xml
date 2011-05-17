@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Brew-Moon-Waikiki-Honolulu">
+<brewery>
+  <id>Brew-Moon-Waikiki-Honolulu</id>
   <name>Brew Moon Waikiki‎</name>
   <address>
     <street>1958 Kalakaua Ave # 2</street>

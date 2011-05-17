@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Marin-Brewing-Co">
+<brewery>
+  <id>Marin-Brewing-Co</id>
   <name>Marin Brewing Co‎</name>
   <address>
     <street>1809 Larkspur Landing Cir</street>

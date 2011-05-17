@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Santa-Maria-Brewing-Co-Nipomo">
+<brewery>
+  <id>Santa-Maria-Brewing-Co-Nipomo</id>
   <name>Santa Maria Brewing Co‎</name>
   <address>
     <street>112 Cuyama Ln</street>

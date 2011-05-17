@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="SanTan-Brewing-Company-Chandler">
+<brewery>
+  <id>SanTan-Brewing-Company-Chandler</id>
   <name>SanTan Brewing Company‎</name>
   <address>
     <street>8 South San Marcos Plaza</street>

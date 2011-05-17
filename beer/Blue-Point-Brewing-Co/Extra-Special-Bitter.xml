@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Blue-Point-Brewing-Co/Extra-Special-Bitter" brewery_id="Blue-Point-Brewing-Co" abv="5" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Blue-Point-Brewing-Co/Extra-Special-Bitter</id>
+  <brewery_id>Blue-Point-Brewing-Co</brewery_id>
+  <abv>5</abv>
+  <ibu>35</ibu>
   <name>Extra Special Bitter</name>
   <description>Winner of a Bronze Medal in the World Beer Cup, Blue Point's ESB is a traditional English style ale made with 2-row pale and English crystal malt. The malt of this full-bodied ale is balanced by copious amounts of English hops. Both Kent Goldings and Fuggles are used to impart a rich hop taste. Crack open a fresh jug of ESB, slice off a piece of tasty Gouda, sit back, and enjoy this unapologetic, mouth-puckering bitter handcrafted ale</description>
   <availability/>

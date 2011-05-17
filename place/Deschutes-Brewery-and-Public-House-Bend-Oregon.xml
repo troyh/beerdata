@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<place id="Deschutes-Brewery-and-Public-House-Bend-Oregon" in_operation="yes" specializes_in_beer="yes" tied="no" bottled_beer_to_go="no" growlers_to_go="no" kegs_to_go="no" brew_on_premises="yes" taps="" casks="" bottles="" wheelchair_accessible="" music="" wifi="">
+<?xml version="1.0" encoding="UTF-8"?>
+<place>
+  <id>Deschutes-Brewery-and-Public-House-Bend-Oregon</id>
+  <in_operation>yes</in_operation>
+  <specializes_in_beer>yes</specializes_in_beer>
+  <tied>no</tied>
+  <bottled_beer_to_go>no</bottled_beer_to_go>
+  <growlers_to_go>no</growlers_to_go>
+  <kegs_to_go>no</kegs_to_go>
+  <brew_on_premises>yes</brew_on_premises>
+  <taps/>
+  <casks/>
+  <bottles/>
+  <wheelchair_accessible/>
+  <music/>
+  <wifi/>
   <type>Brewpub</type>
   <name>Deschutes Brewery &amp; Public House</name>
   <description>The Deschutes Brewery and Public House, located in downtown Bend on Bond Street (the namesake for the breweryÕs popular Bond Street Series beers), was the original home of Deschutes Brewery when it opening it's doors back on June 27th, 1988.
@@ -24,7 +38,13 @@ The Bend pubÕs Executive Chef, Matt Neltner, uses only the finest ingredients i
     <tasting/>
   </hours>
   <tour_info/>
-  <restaurant reservations="for 8 or more" alcohol="" accepts_credit_cards="" good_for_groups="" outdoor_seating="" smoking="">
+  <restaurant>
+    <reservations>for 8 or more</reservations>
+    <alcohol/>
+    <accepts_credit_cards/>
+    <good_for_groups/>
+    <outdoor_seating/>
+    <smoking/>
     <food_description/>
     <menu_uri/>
     <price_range/>

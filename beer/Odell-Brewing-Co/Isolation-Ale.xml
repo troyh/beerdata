@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Odell-Brewing-Co/Isolation-Ale" brewery_id="Odell-Brewing-Co" abv="6" ibu="29">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Odell-Brewing-Co/Isolation-Ale</id>
+  <brewery_id>Odell-Brewing-Co</brewery_id>
+  <abv>6</abv>
+  <ibu>29</ibu>
   <name>Isolation Ale</name>
   <description>Ever been in a warm, cozy cabin and had a secret desire to get snowed in? To celebrate the winter season, we offer our Isolation Ale - a traditional winter brew made with premium malts imported from England. It's just one of the reasons Isolation Ale stands alone.</description>
   <availability>winter</availability>

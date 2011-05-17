@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Big-Buck-Brewery-and-Steakhouse-Gaylord">
+<brewery>
+  <id>Big-Buck-Brewery-and-Steakhouse-Gaylord</id>
   <name>Big Buck Brewery &amp; Steakhouse‎</name>
   <address>
     <street>550 S Wisconsin Ave</street>

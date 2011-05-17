@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Stone-Levitation-Ale" brewery_id="Stone-Brewing-Co" abv="4.4" ibu="45-46">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Stone-Levitation-Ale</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>4.4</abv>
+  <ibu>45-46</ibu>
   <name>Stone Levitation Ale</name>
   <description>It's been said that "Gravity Sucks." Simple enough. Well, we at Stone have identified gravitational forces in the beer world. And we have come to the conclusion that they, well, see above. So we avoid these less-than-desirable gravitational forces. We avoid dumbed-down flavor profiles and the vigorous pursuit of the lowest common denominator. We avoid big dollar marketing mentalities. We avoid additives, cheap adjuncts, stabilizers and chemical preservatives. So in the defiance of gravity we bring you Sone Levitation Ale. This deep amber ale has rich malt flavors, a big hoppy character, citrus overtones (courtesy of the hops and our special brewers yeast) and modest alcohol. </description>
   <availability/>

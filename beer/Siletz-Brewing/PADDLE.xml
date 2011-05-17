@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Siletz-Brewing/PADDLE" brewery_id="Siletz-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Siletz-Brewing/PADDLE</id>
+  <brewery_id>Siletz-Brewing</brewery_id>
   <name>PADDLE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="8-35426-00008-8">
+    <size>
+      <upc>8-35426-00008-8</upc>
       <description>BOTTLE 12/22</description>
       <distributor>
         <name>columbia</name>

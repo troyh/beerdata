@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Amherst-Brewing-Co">
+<brewery>
+  <id>Amherst-Brewing-Co</id>
   <name>Amherst Brewing Co‎</name>
   <address>
     <street>24 N Pleasant St</street>

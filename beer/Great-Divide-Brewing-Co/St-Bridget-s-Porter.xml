@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Great-Divide-Brewing-Co/St-Bridget-s-Porter" brewery_id="Great-Divide-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/St-Bridget-s-Porter</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
   <name>St. Bridget's Porter</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="790586061280">
+    <size>
+      <upc>790586061280</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

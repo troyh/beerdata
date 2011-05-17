@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Three-Floyds-Brewing/Select-Hefeweizen" brewery_id="Three-Floyds-Brewing">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Three-Floyds-Brewing/Select-Hefeweizen</id>
+  <brewery_id>Three-Floyds-Brewing</brewery_id>
   <name>Select Hefeweizen</name>
   <description>Our Hefeweizen is a traditional Bavarian style wheat beer. It is made from 50% malted wheat and 50% malted barley. The wheat is used to give a distinctive flavor and, because of its high protein content, a light hazy color. The beer is fermented with a German yeast strain that imparts a banana and clove-like aroma and flavor. We used Hallertau hops, but only in very small amounts so the flavors from the wheat and yeast will be predominant. This beer is not filtered so it will be cloudy in appearance, but will still be very refreshing.</description>
   <availability>retired</availability>

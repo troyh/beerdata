@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Lost-Coast-Brewery-and-Cafe/GR-WHT" brewery_id="Lost-Coast-Brewery-and-Cafe">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lost-Coast-Brewery-and-Cafe/GR-WHT</id>
+  <brewery_id>Lost-Coast-Brewery-and-Cafe</brewery_id>
   <name>GR WHT</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-51249-12704-0">
+    <size>
+      <upc>7-51249-12704-0</upc>
       <description>BOTTLE 2/12</description>
       <distributor>
         <name>columbia</name>

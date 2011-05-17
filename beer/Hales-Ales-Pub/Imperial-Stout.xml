@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Hales-Ales-Pub/Imperial-Stout" brewery_id="Hales-Ales-Pub">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Hales-Ales-Pub/Imperial-Stout</id>
+  <brewery_id>Hales-Ales-Pub</brewery_id>
   <name>Imperial Stout</name>
   <description/>
   <availability>limited</availability>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="798644070700">
+    <size>
+      <upc>798644070700</upc>
       <description>12/22 oz</description>
       <distributor>
         <name>click</name>

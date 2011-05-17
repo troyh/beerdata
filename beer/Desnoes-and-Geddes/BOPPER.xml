@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Desnoes-and-Geddes/BOPPER" brewery_id="Desnoes-and-Geddes">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Desnoes-and-Geddes/BOPPER</id>
+  <brewery_id>Desnoes-and-Geddes</brewery_id>
   <name>BOPPER</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-83820-56796-0">
+    <size>
+      <upc>0-83820-56796-0</upc>
       <description>BOTTLE 12/24</description>
       <distributor>
         <name>columbia</name>

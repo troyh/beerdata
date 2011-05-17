@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Coopers-Brewery/PALE-ALE" brewery_id="Coopers-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Coopers-Brewery/PALE-ALE</id>
+  <brewery_id>Coopers-Brewery</brewery_id>
   <name>PALE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88119-18129-2">
+    <size>
+      <upc>0-88119-18129-2</upc>
       <description>4/6/12.7 BTL</description>
       <distributor>
         <name>odom</name>

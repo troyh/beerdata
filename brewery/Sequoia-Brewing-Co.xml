@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sequoia-Brewing-Co">
+<brewery>
+  <id>Sequoia-Brewing-Co</id>
   <name>Sequoia Brewing Co‎</name>
   <address>
     <street>1188 E Champlain Dr</street>

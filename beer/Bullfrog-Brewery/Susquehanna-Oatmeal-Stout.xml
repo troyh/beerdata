@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Susquehanna-Oatmeal-Stout" brewery_id="Bullfrog-Brewery" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Susquehanna-Oatmeal-Stout</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>6.2</abv>
   <name>Susquehanna Oatmeal Stout</name>
   <description>A big, burly Oatmeal Stout full of chocolate, caramelized malt and coffee flavors. This stout has a rich mouthfeel and a smooth, roasty finish</description>
   <availability/>

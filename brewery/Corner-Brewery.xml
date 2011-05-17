@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Corner-Brewery">
+<brewery>
+  <id>Corner-Brewery</id>
   <name>Corner Brewery‎</name>
   <address>
     <street>720 Norris St</street>

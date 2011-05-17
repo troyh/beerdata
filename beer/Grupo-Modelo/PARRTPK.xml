@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grupo-Modelo/PARRTPK" brewery_id="Grupo-Modelo">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grupo-Modelo/PARRTPK</id>
+  <brewery_id>Grupo-Modelo</brewery_id>
   <name>PARRTPK</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-80660-95411-0">
+    <size>
+      <upc>0-80660-95411-0</upc>
       <description>BOTTLE 24/7</description>
       <distributor>
         <name>columbia</name>

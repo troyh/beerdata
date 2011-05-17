@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/312-Urban-Wheat" brewery_id="Goose-Island-Beer-Co" abv="4.2" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/312-Urban-Wheat</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>4.2</abv>
+  <ibu>20</ibu>
   <name>312 Urban Wheat</name>
   <description>Densely populated with flavor, 312's spicy aroma of Cascade hops is followed by a crisp, fruity ale flavor delivered in a smooth, creamy body. This gives 312 a balance of flavor and refreshment that never fills you up and won't let you down.</description>
   <availability/>

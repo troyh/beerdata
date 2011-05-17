@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Allagash-Brewing-Co-Inc/4-QUAD" brewery_id="Allagash-Brewing-Co-Inc">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Allagash-Brewing-Co-Inc/4-QUAD</id>
+  <brewery_id>Allagash-Brewing-Co-Inc</brewery_id>
   <name>4 QUAD</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-03675-10795-3">
+    <size>
+      <upc>6-03675-10795-3</upc>
       <description>BOTTLE 6/25</description>
       <distributor>
         <name>columbia</name>

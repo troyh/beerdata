@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spanish-Peaks-Brewing-Micro/HNY-RASP" brewery_id="Spanish-Peaks-Brewing-Micro">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spanish-Peaks-Brewing-Micro/HNY-RASP</id>
+  <brewery_id>Spanish-Peaks-Brewing-Micro</brewery_id>
   <name>HNY RASP</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-87396-99938-5">
+    <size>
+      <upc>0-87396-99938-5</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

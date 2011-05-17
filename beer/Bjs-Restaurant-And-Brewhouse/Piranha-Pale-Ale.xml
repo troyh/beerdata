@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bjs-Restaurant-And-Brewhouse/Piranha-Pale-Ale" brewery_id="Bjs-Restaurant-And-Brewhouse" abv="5.7" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bjs-Restaurant-And-Brewhouse/Piranha-Pale-Ale</id>
+  <brewery_id>Bjs-Restaurant-And-Brewhouse</brewery_id>
+  <abv>5.7</abv>
+  <ibu>45</ibu>
   <name>Piranha Pale Ale</name>
   <description>A hoppy, American-style pale ale made with Yakima Valley's best hops. Bittered with Chinook, while dry-hopped with the snappy flavor and bit of Cascade hops. For hopheads only!</description>
   <availability>year-round</availability>

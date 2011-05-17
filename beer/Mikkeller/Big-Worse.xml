@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Big-Worse" brewery_id="Mikkeller" abv="12">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Big-Worse</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>12</abv>
   <name>Big Worse</name>
   <description>Big Worse is the long awaited big brother of the small test brew Big Bad Barley Wine. The idea behind Big Worse is still to make a simple yet heavy barley wine - just like it's smaller brother. But this time both the alcohol and bitterness has been pumped up! Big Worse is both thick and sweet and is the perfect beer for desserts. Enjoy it now or keep it for many years. Best stored dark and at cellar temperature.</description>
   <availability/>

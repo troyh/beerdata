@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="RJ-Rockers-Inc">
+<brewery>
+  <id>RJ-Rockers-Inc</id>
   <name>RJ Rockers Inc‎</name>
   <address>
     <street>113 Belton Dr # D</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Rock-Bottom-Brewery/Flat-Bed-Wheat" brewery_id="Rock-Bottom-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rock-Bottom-Brewery/Flat-Bed-Wheat</id>
+  <brewery_id>Rock-Bottom-Brewery</brewery_id>
   <name>Flat Bed Wheat</name>
   <description>We'll brew a variety of wheat beers including the Bavarian Hefeweizen with hints of banana and clove; the Belgian Wit spiced with orange peel and coriander; and teh American Wheat flavored with ginger. Any of our fine selections of sandwiches will get along wonderfully with wheat beer.</description>
   <availability>year-round</availability>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="3rd-Street-Ale-Works-Santa-Rosa">
+<brewery>
+  <id>3rd-Street-Ale-Works-Santa-Rosa</id>
   <name>3rd Street Ale Works‎</name>
   <address>
     <street>610 3rd St</street>

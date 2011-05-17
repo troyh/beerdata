@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="St-George-Brewing-Co">
+<brewery>
+  <id>St-George-Brewing-Co</id>
   <name>St George Brewing Co‎</name>
   <address>
     <street>204 Challenger Way</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Kona-Brewing-Co/Longboard-Island-Lager" brewery_id="Kona-Brewing-Co" abv="5" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kona-Brewing-Co/Longboard-Island-Lager</id>
+  <brewery_id>Kona-Brewing-Co</brewery_id>
+  <abv>5</abv>
+  <ibu>25</ibu>
   <name>Longboard Island Lager</name>
   <description>Longboard Island Lager is a smooth refreshing lager fermented and aged for five weeks at cold temperatures to yield its exceptionally smooth flavor. A delicate, slightly spicy hop aroma complements the malty body of this beer.</description>
   <availability>year-round</availability>

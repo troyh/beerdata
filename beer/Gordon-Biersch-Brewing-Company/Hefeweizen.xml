@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Gordon-Biersch-Brewing-Company/Hefeweizen" brewery_id="Gordon-Biersch-Brewing-Company" abv="5.4">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gordon-Biersch-Brewing-Company/Hefeweizen</id>
+  <brewery_id>Gordon-Biersch-Brewing-Company</brewery_id>
+  <abv>5.4</abv>
   <name>Hefeweizen</name>
   <description>Gordon Biersch brews a true Bavarian Hefeweizen. The flavor has hints of clove, bubble gum and banana. True to the name and style, our Hefeweizen is unfiltered with the yeast still present. The body is crisp and effervescent. This beer is brewed with 55% malted wheat and 45% malted barley. Gordon Biersch Hefeweizen is naturally carbonated as are all Gordon Biersch Beers</description>
   <availability>year-round</availability>

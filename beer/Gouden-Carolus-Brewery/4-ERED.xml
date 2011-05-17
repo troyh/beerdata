@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Gouden-Carolus-Brewery/4-ERED" brewery_id="Gouden-Carolus-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Gouden-Carolus-Brewery/4-ERED</id>
+  <brewery_id>Gouden-Carolus-Brewery</brewery_id>
   <name>4 ERED</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-08782-50197-7">
+    <size>
+      <upc>6-08782-50197-7</upc>
       <description>BOTTLE 12/25</description>
       <distributor>
         <name>columbia</name>

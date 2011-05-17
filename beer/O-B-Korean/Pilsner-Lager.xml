@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="O-B-Korean/Pilsner-Lager" brewery_id="O-B-Korean">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>O-B-Korean/Pilsner-Lager</id>
+  <brewery_id>O-B-Korean</brewery_id>
   <name>Pilsner Lager</name>
   <description/>
   <availability/>

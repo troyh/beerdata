@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Bethlehem-Brew-Works-Bethlehem">
+<brewery>
+  <id>Bethlehem-Brew-Works-Bethlehem</id>
   <name>Bethlehem Brew Works‎</name>
   <address>
     <street>569 Main Street</street>

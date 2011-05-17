@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Erdinger-Brewery/HEFEWEISSEN" brewery_id="Erdinger-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Erdinger-Brewery/HEFEWEISSEN</id>
+  <brewery_id>Erdinger-Brewery</brewery_id>
   <name>HEFEWEISSEN</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="7-11556-01062-6">
+    <size>
+      <upc>7-11556-01062-6</upc>
       <description>12/16.9 BTL</description>
       <distributor>
         <name>odom</name>

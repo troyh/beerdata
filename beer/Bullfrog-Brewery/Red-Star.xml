@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Red-Star" brewery_id="Bullfrog-Brewery" abv="6.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Red-Star</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>6.2</abv>
   <name>Red Star</name>
   <description>A hearty amber ale loaded with fruity, caramelized malt flavors and balanced with the distinctive spice of our Belgian ale yeast.</description>
   <availability/>

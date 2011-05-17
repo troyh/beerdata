@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Avery-Brewing-Company/14-er-ESB" brewery_id="Avery-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Avery-Brewing-Company/14-er-ESB</id>
+  <brewery_id>Avery-Brewing-Company</brewery_id>
   <name>14'er ESB</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="796363002057">
+    <size>
+      <upc>796363002057</upc>
       <description>4/6/12 oz</description>
       <distributor>
         <name>click</name>

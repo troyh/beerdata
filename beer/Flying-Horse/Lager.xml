@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Flying-Horse/Lager" brewery_id="Flying-Horse">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Flying-Horse/Lager</id>
+  <brewery_id>Flying-Horse</brewery_id>
   <name>Lager</name>
   <description/>
   <availability/>

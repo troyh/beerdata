@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anderson-Valley-Brewing-Co/Winter-Solstice-Seasonal-Ale" brewery_id="Anderson-Valley-Brewing-Co" abv="6.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anderson-Valley-Brewing-Co/Winter-Solstice-Seasonal-Ale</id>
+  <brewery_id>Anderson-Valley-Brewing-Co</brewery_id>
+  <abv>6.9</abv>
   <name>Winter Solstice Seasonal Ale</name>
   <description>From the first sip of Winter Solstice Seasonal Ale, your senses will be aroused with the vision of a glowing fire, warming the hearth and home, as gently drifting snow flakes silently blanket the trees outside. Each lingering sip will gently warm your soul with thoughts of family and friends, gathering around the table for the feast. Luscious, creamy, smooth, and warming, this medium bodied ale is brewed with Caramel and crystal malts to give it just a hint of sweetness, then paired with our private blend of holiday spice. Winter Solstice Ale is great alone or as an accompaniment to any meal, and it has been known to liven and spice up nearly any social event. This coveted and much sought-after brew is released in November, just in time for the holidays, and by the first of the New Year will be only a fond memory.</description>
   <availability>winter</availability>

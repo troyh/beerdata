@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mishawaka-Brewing-Co">
+<brewery>
+  <id>Mishawaka-Brewing-Co</id>
   <name>Mishawaka Brewing Co‎</name>
   <address>
     <street>3703 N Main St</street>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="City-Brewery/PALE-ALE" brewery_id="City-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>City-Brewery/PALE-ALE</id>
+  <brewery_id>City-Brewery</brewery_id>
   <name>PALE ALE</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-41163-43651-0">
+    <size>
+      <upc>0-41163-43651-0</upc>
       <description>BOTTLE 4/6</description>
       <distributor>
         <name>columbia</name>

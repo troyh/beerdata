@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Mikkeller/Stateside" brewery_id="Mikkeller" abv="7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Mikkeller/Stateside</id>
+  <brewery_id>Mikkeller</brewery_id>
+  <abv>7</abv>
   <name>Stateside</name>
   <description>A love of American microbrews is the inspiration behind this IPA, brewed with generous amounts of aromatic, American hops, which provide the significant freshness and bitterness with lots of citrus notes. The taste sensations are nicely balanced by the sweetness from the caramel malt.</description>
   <availability/>

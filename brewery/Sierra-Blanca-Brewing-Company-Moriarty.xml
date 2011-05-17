@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Sierra-Blanca-Brewing-Company-Moriarty">
+<brewery>
+  <id>Sierra-Blanca-Brewing-Company-Moriarty</id>
   <name>Sierra Blanca Brewing Company‎</name>
   <address>
     <street>Industrial Loop</street>

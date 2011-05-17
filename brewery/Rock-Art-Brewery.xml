@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rock-Art-Brewery">
+<brewery>
+  <id>Rock-Art-Brewery</id>
   <name>Rock Art Brewery‎</name>
   <address>
     <street>254 Wilkins St</street>

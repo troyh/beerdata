@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Summit-Brewing/Oktoberfest" brewery_id="Summit-Brewing" abv="7.4" ibu="25">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Summit-Brewing/Oktoberfest</id>
+  <brewery_id>Summit-Brewing</brewery_id>
+  <abv>7.4</abv>
+  <ibu>25</ibu>
   <name>Oktoberfest</name>
   <description/>
   <availability>fall</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Shorts-Brewing-Company/Stellar-Ale" brewery_id="Shorts-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Shorts-Brewing-Company/Stellar-Ale</id>
+  <brewery_id>Shorts-Brewing-Company</brewery_id>
   <name>Stellar Ale</name>
   <description>A strong pale ale, light orange to copper in color somewhere between IPA and Pale Ale. It has a medium body and is well known for its hop profile. Exclusive hop variety is thorough and is the highlight of this ale. Quite pungent to the nose with a creamy spicy grapefruit, and light esters of toasted caramel. When fused onto the tongue, hop oil resin and medium maltiness extrude maximum delight and fulfillment. A compliment to the fine establishment -- Trattoria Stella in the Village Commons, Traverse City</description>
   <availability/>

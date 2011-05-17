@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/Raison-D-Extra" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="1.19757995297371" abv="18">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/Raison-D-Extra</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>1.19757995297371</calories_per_ml>
+  <abv>18</abv>
   <name>Raison DâExtra</name>
   <description>A bigger, bolder version of our Raison D'Etre.</description>
   <availability>limited</availability>
@@ -9,7 +13,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-38489-00049-7">
+    <size>
+      <upc>6-38489-00049-7</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>
@@ -21,7 +26,8 @@
         <deposit>$7.89</deposit>
       </distributor>
     </size>
-    <size upc="6384890049">
+    <size>
+      <upc>6384890049</upc>
       <description>24/12 oz</description>
       <distributor>
         <name>click</name>

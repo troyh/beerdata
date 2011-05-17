@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Rogue-Ales/Smoke-Ale" brewery_id="Rogue-Ales" ibu="48">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Rogue-Ales/Smoke-Ale</id>
+  <brewery_id>Rogue-Ales</brewery_id>
+  <ibu>48</ibu>
   <name>Smoke Ale</name>
   <description>A German style Rauchbier with an orange-amber hue, a delicate smoke aroma and flavor, with an intense hop finish.</description>
   <availability/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Salmon-Creek-Brewery-and-Pub">
+<brewery>
+  <id>Salmon-Creek-Brewery-and-Pub</id>
   <name>Salmon Creek Brewery &amp; Pub‎</name>
   <address>
     <street>108 W Evergreen Blvd</street>

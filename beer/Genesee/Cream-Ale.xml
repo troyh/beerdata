@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Genesee/Cream-Ale" brewery_id="Genesee">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Genesee/Cream-Ale</id>
+  <brewery_id>Genesee</brewery_id>
   <name>Cream Ale</name>
   <description/>
   <availability/>

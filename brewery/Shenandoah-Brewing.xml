@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Shenandoah-Brewing">
+<brewery>
+  <id>Shenandoah-Brewing</id>
   <name>Shenandoah Brewing‎</name>
   <address>
     <street>652 S Pickett St</street>

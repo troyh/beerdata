@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Boston-Beer-Co/Honey-Porter" brewery_id="Boston-Beer-Co" calories_per_ml="0.541024355225771" abv="5.45" og="14Plato">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Boston-Beer-Co/Honey-Porter</id>
+  <brewery_id>Boston-Beer-Co</brewery_id>
+  <calories_per_ml>0.541024355225771</calories_per_ml>
+  <abv>5.45</abv>
+  <og>14Plato</og>
   <name>Honey Porter</name>
   <description>Samuel AdamsÂ® Honey Porter is a full-flavored, full-bodied English porter with a substantial roasted malt character, offering a smooth, rounded finish. This beer is brewed with traditional English Ale hops and is dry-hopped with East Kent Goldings, known for their spicy aroma and distinctive, earthy flavor. We brew Honey Porter with Scottish heather honey which balances the spiciness of the hops. 
 This brew is the perfect complement to glazed ham, spicy chili, and roasted vegetables like beets and carrots, which bring out the herbal notes found in the hops and the sweetness of the honey.  Samuel AdamsÂ® Honey Porter also pairs well with rich desserts such as baklava and molasses cookies.</description>
@@ -10,7 +15,7 @@ This brew is the perfect complement to glazed ham, spicy chili, and roasted vege
   <yeast>top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style bjcp_style_id="12">Porter</style>
+    <style><bjcp_style_id>12</bjcp_style_id>Porter</style>
   </styles>
   <sizes>
     <size>

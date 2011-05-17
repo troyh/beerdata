@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Huntington-Beach-Beer-Co">
+<brewery>
+  <id>Huntington-Beach-Beer-Co</id>
   <name>Huntington Beach Beer Co‎</name>
   <address>
     <street>201 Main St</street>

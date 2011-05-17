@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Mohegan-Sun-Casino-Uncasville">
+<brewery>
+  <id>Mohegan-Sun-Casino-Uncasville</id>
   <name>Mohegan Sun Casino‎</name>
   <address>
     <street>1 Mohegan Sun Blvd</street>

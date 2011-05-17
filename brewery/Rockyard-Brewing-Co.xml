@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Rockyard-Brewing-Co">
+<brewery>
+  <id>Rockyard-Brewing-Co</id>
   <name>Rockyard Brewing Co‎</name>
   <address>
     <street>880 Castleton Rd</street>

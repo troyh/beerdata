@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Cascade-Lakes-Brewing-Co/20-Brown" brewery_id="Cascade-Lakes-Brewing-Co" abv="5.30" og="1.053" fg="1.013" ibu="35">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Cascade-Lakes-Brewing-Co/20-Brown</id>
+  <brewery_id>Cascade-Lakes-Brewing-Co</brewery_id>
+  <abv>5.30</abv>
+  <og>1.053</og>
+  <fg>1.013</fg>
+  <ibu>35</ibu>
   <name>20â Brown</name>
   <description>Named after the enormous Brown Trout found in Northwest streams, this beer lives up to the legend.Â  20" Brown is medium bodied and has an extremely complex malty character.Â  Using 6 varieties of Northwest grown malt, we created a masterpiece of color, aroma and flavor.Â  Set your hook in one of these and you won't be disappointed!</description>
   <availability>year round</availability>
@@ -9,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="10C">American Brown Ale</style>
+    <style><bjcp_style_id>10C</bjcp_style_id>American Brown Ale</style>
   </styles>
   <sizes>
     <size>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Devils-Canyon-Brewing-Co-Belmont">
+<brewery>
+  <id>Devils-Canyon-Brewing-Co-Belmont</id>
   <name>Devils Canyon Brewing Co‎</name>
   <address>
     <street>111 Industrial Way # 7</street>

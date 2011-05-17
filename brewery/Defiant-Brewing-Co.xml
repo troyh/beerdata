@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Defiant-Brewing-Co">
+<brewery>
+  <id>Defiant-Brewing-Co</id>
   <name>Defiant Brewing Co‎</name>
   <address>
     <street>6 Dexter Plz</street>

@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Magic-Hat/Ravell" brewery_id="Magic-Hat" abv="5.6" ibu="22">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Magic-Hat/Ravell</id>
+  <brewery_id>Magic-Hat</brewery_id>
+  <abv>5.6</abv>
+  <ibu>22</ibu>
   <name>Ravell</name>
   <description>A porter brewed with whole vanilla beans. Available whenever young William and father John deem it so. Also known as Mardi Gras Ale sometimes.</description>
   <availability>retired</availability>

@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Kuhnhenn-Brewing-Co/Diablo" brewery_id="Kuhnhenn-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Kuhnhenn-Brewing-Co/Diablo</id>
+  <brewery_id>Kuhnhenn-Brewing-Co</brewery_id>
   <name>Diablo</name>
   <description/>
   <availability/>

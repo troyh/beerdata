@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Nimbus-Brewing-Co-Tucson">
+<brewery>
+  <id>Nimbus-Brewing-Co-Tucson</id>
   <name>Nimbus Brewing Co‎</name>
   <address>
     <street>3850 E 44th St # 138</street>

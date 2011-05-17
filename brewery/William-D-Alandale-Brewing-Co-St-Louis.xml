@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="William-D-Alandale-Brewing-Co-St-Louis">
+<brewery>
+  <id>William-D-Alandale-Brewing-Co-St-Louis</id>
   <name>William D Alandale Brewing Co‎</name>
   <address>
     <street>105 E Jefferson Ave</street>

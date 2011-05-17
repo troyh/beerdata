@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Nimbus/Old-Monkeyshine" brewery_id="Nimbus">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Nimbus/Old-Monkeyshine</id>
+  <brewery_id>Nimbus</brewery_id>
   <name>Old Monkeyshine</name>
   <description/>
   <availability/>

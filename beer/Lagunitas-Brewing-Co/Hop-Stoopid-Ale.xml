@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/Hop-Stoopid-Ale" brewery_id="Lagunitas-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/Hop-Stoopid-Ale</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
   <name>Hop Stoopid Ale</name>
   <description>So Hoppy that it threatens to remove the enamel from one's teeth.</description>
   <availability/>

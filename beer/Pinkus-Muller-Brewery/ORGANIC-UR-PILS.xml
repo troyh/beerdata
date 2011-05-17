@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Pinkus-Muller-Brewery/ORGANIC-UR-PILS" brewery_id="Pinkus-Muller-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Pinkus-Muller-Brewery/ORGANIC-UR-PILS</id>
+  <brewery_id>Pinkus-Muller-Brewery</brewery_id>
   <name>ORGANIC UR PILS</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-85725-34002-0">
+    <size>
+      <upc>0-85725-34002-0</upc>
       <description>20/17 BTL</description>
       <distributor>
         <name>odom</name>

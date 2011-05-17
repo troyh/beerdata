@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Spaten-Brewery/OKTFST" brewery_id="Spaten-Brewery">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Spaten-Brewery/OKTFST</id>
+  <brewery_id>Spaten-Brewery</brewery_id>
   <name>OKTFST</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="0-88394-00035-6">
+    <size>
+      <upc>0-88394-00035-6</upc>
       <description>BOTTLE 24/12</description>
       <distributor>
         <name>columbia</name>

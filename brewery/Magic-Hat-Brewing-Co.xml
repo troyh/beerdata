@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Magic-Hat-Brewing-Co">
+<brewery>
+  <id>Magic-Hat-Brewing-Co</id>
   <name>Magic Hat Brewing Co‎</name>
   <address>
     <street>5 Bartlett Bay Rd</street>

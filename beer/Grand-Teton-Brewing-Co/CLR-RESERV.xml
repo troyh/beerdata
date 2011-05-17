@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Grand-Teton-Brewing-Co/CLR-RESERV" brewery_id="Grand-Teton-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Grand-Teton-Brewing-Co/CLR-RESERV</id>
+  <brewery_id>Grand-Teton-Brewing-Co</brewery_id>
   <name>CLR RESERV</name>
   <description/>
   <availability/>

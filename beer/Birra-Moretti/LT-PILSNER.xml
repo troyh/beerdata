@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Birra-Moretti/LT-PILSNER" brewery_id="Birra-Moretti">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Birra-Moretti/LT-PILSNER</id>
+  <brewery_id>Birra-Moretti</brewery_id>
   <name>LT PILSNER</name>
   <description/>
   <availability/>

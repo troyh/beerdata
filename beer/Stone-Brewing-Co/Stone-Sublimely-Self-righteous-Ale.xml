@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Stone-Brewing-Co/Stone-Sublimely-Self-righteous-Ale" brewery_id="Stone-Brewing-Co" abv="8.7" ibu="90">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Stone-Brewing-Co/Stone-Sublimely-Self-righteous-Ale</id>
+  <brewery_id>Stone-Brewing-Co</brewery_id>
+  <abv>8.7</abv>
+  <ibu>90</ibu>
   <name>Stone Sublimely Self-Righteous Ale</name>
   <description/>
   <availability>Limited</availability>

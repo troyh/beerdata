@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Gordon-Biersch-Brewery-Restaurant">
+<brewery>
+  <id>Gordon-Biersch-Brewery-Restaurant</id>
   <name>Gordon Biersch Brewery Restaurant‎</name>
   <address>
     <street>2 Harrison St</street>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Three-Barrel-Brewing-Co">
+<brewery>
+  <id>Three-Barrel-Brewing-Co</id>
   <name>Three Barrel Brewing Co‎</name>
   <address>
     <street>586 Columbia Ave</street>

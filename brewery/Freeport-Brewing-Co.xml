@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Freeport-Brewing-Co">
+<brewery>
+  <id>Freeport-Brewing-Co</id>
   <name>Freeport Brewing Co‎</name>
   <address>
     <street>46 Durham Rd</street>

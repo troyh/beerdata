@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="McMenamins-Olympic-Club-Hotel">
+<brewery>
+  <id>McMenamins-Olympic-Club-Hotel</id>
   <name>McMenamins Olympic Club Hotel‎</name>
   <address>
     <street>112 N Tower Ave</street>

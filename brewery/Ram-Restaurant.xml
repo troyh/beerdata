@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Ram-Restaurant">
+<brewery>
+  <id>Ram-Restaurant</id>
   <name>Ram Restaurant‎</name>
   <address>
     <street>9520 W Higgins Rd</street>

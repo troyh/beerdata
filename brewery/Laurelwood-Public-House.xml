@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Laurelwood-Public-House">
+<brewery>
+  <id>Laurelwood-Public-House</id>
   <name>Laurelwood Public House‎</name>
   <address>
     <street>5115 NE Sandy Blvd</street>

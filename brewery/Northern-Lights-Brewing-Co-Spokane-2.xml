@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Northern-Lights-Brewing-Co-Spokane-2">
+<brewery>
+  <id>Northern-Lights-Brewing-Co-Spokane-2</id>
   <name>Northern Lights Brewing Co‎</name>
   <address>
     <street>1003 E Trent Ave # 170</street>

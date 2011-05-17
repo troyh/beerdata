@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Cambridge-Brewing-Co-Inc-Cambridge">
+<brewery>
+  <id>Cambridge-Brewing-Co-Inc-Cambridge</id>
   <name>Cambridge Brewing Co Inc‎</name>
   <address>
     <street>1 Kendall Sq # 100</street>

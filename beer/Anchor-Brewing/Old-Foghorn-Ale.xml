@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Anchor-Brewing/Old-Foghorn-Ale" brewery_id="Anchor-Brewing" abv="8 to 10">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Anchor-Brewing/Old-Foghorn-Ale</id>
+  <brewery_id>Anchor-Brewing</brewery_id>
+  <abv>8 to 10</abv>
   <name>Old Foghorn Ale</name>
   <description>Old Foghorn Barleywine Style Ale is brewed strictly according to traditional brewing methods, using only natural ingredients -- water, malted barley, fresh whole hops, and yeast. Old Foghorn is based on traditional English barley wines.\nOld Foghorn is highly hopped, using only Cascade hops. It is fermented with a true top-fermenting ale yeast. Carbonation is produced by an entirely natural process called "bunging," which produces champagne-like bubbles. Our "barleywine ale" is dry-hopped with additional Cascade hops while it ages in our cellars.\nWe have been producing small batches of Old Foghorn since 1975. Today, it is available both on draught and in twelve-ounce bottles. The high original gravity and full flavor of this ale make it a unique product, perfect for sipping after dinner.\nA lot of time and tradition goes into our Old Foghorn, and we hope you will enjoy it as much as we do. Because of the high original gravity, the yeast is unable to ferment all of the sugars. As a result, barley wine is high in alcohol, and is slightly sweet, due to the residual sugars. Old Foghorn also has a pleasant hop bitterness, due to the large quantity of hops used during brewing, and a unique hop aroma due to the dry-hopping and aging.\nThe original gravity of our barley wine is so high because only the very first running of the mash is used. Therefore, three mashes are required to produce one barley wine brew, making it very costly to produce.</description>
   <availability/>

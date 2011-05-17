@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Southern-Tier-Brewing-Company/Cr-me-Br-l-e-Imperial-Milk-Stout" brewery_id="Southern-Tier-Brewing-Company" abv="10">
-  <name>cr&#x8F;me br&#x9E;l&#x8E;e Imperial Milk Stout</name>
-  <description>We are not the harbingers of truth as some may suggest but it may indeed be argued that our brewing philosophy is tantamount to a dessert with a bellicose past. How, you may ask, would a brewery determine a likeness to hard-coated custard? Our response is simple; it&#xD5;s all in the power of history, and of course, the extra finesse needed to top off a contentious treat with definition. By comprehending the labyrinthine movement of time, one would not think it strange to trace the errant path of an ordinary object such as a cream dessert only to discover that it has been the cause of cultural disputes since the middle ages. The British founders of burnt cream and from Spain, crema catalana, both stand by their creative originality and we respect that, but it was the French Cr&#x8F;me Br&#x9E;l&#x8E;e, amid the strife of contention, that survived to represent our deliciously creamy brew.</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Southern-Tier-Brewing-Company/Cr-me-Br-l-e-Imperial-Milk-Stout</id>
+  <brewery_id>Southern-Tier-Brewing-Company</brewery_id>
+  <abv>10</abv>
+  <name>crme brle Imperial Milk Stout</name>
+  <description>We are not the harbingers of truth as some may suggest but it may indeed be argued that our brewing philosophy is tantamount to a dessert with a bellicose past. How, you may ask, would a brewery determine a likeness to hard-coated custard? Our response is simple; itÕs all in the power of history, and of course, the extra finesse needed to top off a contentious treat with definition. By comprehending the labyrinthine movement of time, one would not think it strange to trace the errant path of an ordinary object such as a cream dessert only to discover that it has been the cause of cultural disputes since the middle ages. The British founders of burnt cream and from Spain, crema catalana, both stand by their creative originality and we respect that, but it was the French Crme Brle, amid the strife of contention, that survived to represent our deliciously creamy brew.</description>
   <availability>summer</availability>
   <ingredients/>
   <grains>2 ros pale, dark caramet</grains>

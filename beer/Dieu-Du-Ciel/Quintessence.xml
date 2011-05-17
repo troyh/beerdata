@@ -1,7 +1,10 @@
-<?xml version="1.0"?>
-<beer id="Dieu-Du-Ciel/Quintessence" brewery_id="Dieu-Du-Ciel" abv="10.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dieu-Du-Ciel/Quintessence</id>
+  <brewery_id>Dieu-Du-Ciel</brewery_id>
+  <abv>10.5</abv>
   <name>QUINTESSENCE</name>
-  <description>A very strong beer brewed only once in honour of Dieu du Ciel&#xD5;s 5th anniversary. It's a scotcha le and barley wine hybrid. Brewed in part with English smoked malt (smoked with peat moss), this beer was aged for several months in oak barrels previously used for the maturation of maple sap liquor produced by Domaine Acer. To the taste, it has a strong alcohol flavour rounded out with subtle fragrances of red fruit, caramel, smoke, maple, vanilla and oak. Since its production, this beer never ceases to amaze with its infallible capacity to age gracefully.</description>
+  <description>A very strong beer brewed only once in honour of Dieu du CielÕs 5th anniversary. It's a scotcha le and barley wine hybrid. Brewed in part with English smoked malt (smoked with peat moss), this beer was aged for several months in oak barrels previously used for the maturation of maple sap liquor produced by Domaine Acer. To the taste, it has a strong alcohol flavour rounded out with subtle fragrances of red fruit, caramel, smoke, maple, vanilla and oak. Since its production, this beer never ceases to amaze with its infallible capacity to age gracefully.</description>
   <availability>limited</availability>
   <ingredients/>
   <grains/>

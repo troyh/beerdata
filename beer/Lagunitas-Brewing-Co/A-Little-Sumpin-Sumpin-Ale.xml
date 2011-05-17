@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Lagunitas-Brewing-Co/A-Little-Sumpin-Sumpin-Ale" brewery_id="Lagunitas-Brewing-Co" abv="7.7">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Lagunitas-Brewing-Co/A-Little-Sumpin-Sumpin-Ale</id>
+  <brewery_id>Lagunitas-Brewing-Co</brewery_id>
+  <abv>7.7</abv>
   <name>A Little Sumpin' Sumpin' Ale</name>
   <description>Way smooth and silky with a nice wheaty-esque-ish-ness. Just the little sumpin' sumpin' we all need to kick Summer into full swing!</description>
   <availability>Summer</availability>

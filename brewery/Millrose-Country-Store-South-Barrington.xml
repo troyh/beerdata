@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Millrose-Country-Store-South-Barrington">
+<brewery>
+  <id>Millrose-Country-Store-South-Barrington</id>
   <name>Millrose Country Store‎</name>
   <address>
     <street>55 S Barrington Rd</street>

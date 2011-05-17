@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Heartland-Brewery-and-Restaurant">
+<brewery>
+  <id>Heartland-Brewery-and-Restaurant</id>
   <name>Heartland Brewery &amp; Restaurant‎</name>
   <address>
     <street>1285 Avenue of the Americas</street>

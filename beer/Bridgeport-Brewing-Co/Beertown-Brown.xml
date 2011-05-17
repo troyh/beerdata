@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Bridgeport-Brewing-Co/Beertown-Brown" brewery_id="Bridgeport-Brewing-Co" abv="5.2" ibu="20">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bridgeport-Brewing-Co/Beertown-Brown</id>
+  <brewery_id>Bridgeport-Brewing-Co</brewery_id>
+  <abv>5.2</abv>
+  <ibu>20</ibu>
   <name>Beertown Brown</name>
   <description>BridgePort welcomes you to Beertown, and the smooth flavor of our Northern English style brown ale. Beertown Brown brings together roasted chocolate and caramel malts in a flavorful handshake. Hops add a little crisp spice to the mix for the perfectly balanced pint. Once the last crayon pulled out of the box, it's now your new reason to love beer.</description>
   <availability/>

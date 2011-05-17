@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Fish-Brewing-Co/ORGANIC-IPA" brewery_id="Fish-Brewing-Co">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Fish-Brewing-Co/ORGANIC-IPA</id>
+  <brewery_id>Fish-Brewing-Co</brewery_id>
   <name>ORGANIC IPA</name>
   <description/>
   <availability/>
@@ -9,7 +11,8 @@
   <yeast/>
   <otherings/>
   <sizes>
-    <size upc="6-19917-00190-3">
+    <size>
+      <upc>6-19917-00190-3</upc>
       <description>4/6/12 BTL</description>
       <distributor>
         <name>odom</name>

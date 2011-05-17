@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Long-Valley-Pub-and-Brewery-Long-Valley">
+<brewery>
+  <id>Long-Valley-Pub-and-Brewery-Long-Valley</id>
   <name>Long Valley Pub &amp; Brewery‎</name>
   <address>
     <street>1 Fairmount Rd</street>

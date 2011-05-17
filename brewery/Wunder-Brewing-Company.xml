@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Wunder-Brewing-Company">
+<brewery>
+  <id>Wunder-Brewing-Company</id>
   <name>Wunder Brewing Company‎</name>
   <address>
     <street>1326 Ninth Ave</street>

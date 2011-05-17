@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Kellys-Caribbean-Bar-Grill-and-Brewery">
+<brewery>
+  <id>Kellys-Caribbean-Bar-Grill-and-Brewery</id>
   <name>Kelly's Caribbean Bar-Grill &amp; Brewery‎</name>
   <address>
     <street>301 Whitehead St</street>

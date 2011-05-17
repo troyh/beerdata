@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Dogfish-Head-Craft-Brewery-Milton/India-Brown-Ale" brewery_id="Dogfish-Head-Craft-Brewery-Milton" calories_per_ml="0.670644773665279" abv="7.20" ibu="50">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Dogfish-Head-Craft-Brewery-Milton/India-Brown-Ale</id>
+  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+  <calories_per_ml>0.670644773665279</calories_per_ml>
+  <abv>7.20</abv>
+  <ibu>50</ibu>
   <name>India Brown Ale</name>
   <description>A cross between a Scotch Ale, an I.P.A., and an American Brown, this beer is well-hopped and malty at the same time. It is brewed with Aromatic barley and caramelized brown sugar.</description>
   <availability>year round</availability>
@@ -9,9 +14,9 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style bjcp_style_id="9E">Strong Scotch Ale</style>
-    <style bjcp_style_id="14">India Pale Ale(IPA)</style>
-    <style bjcp_style_id="10C">American Brown Ale</style>
+    <style><bjcp_style_id>9E</bjcp_style_id>Strong Scotch Ale</style>
+    <style><bjcp_style_id>14</bjcp_style_id>India Pale Ale(IPA)</style>
+    <style><bjcp_style_id>10C</bjcp_style_id>American Brown Ale</style>
   </styles>
   <sizes>
     <size>

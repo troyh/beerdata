@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<beer id="Schmaltz-Brewing-Company/Messiah-Bold" brewery_id="Schmaltz-Brewing-Company">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Schmaltz-Brewing-Company/Messiah-Bold</id>
+  <brewery_id>Schmaltz-Brewing-Company</brewery_id>
   <name>Messiah Bold</name>
   <description/>
   <availability/>

@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Bullfrog-Brewery/Old-Toad" brewery_id="Bullfrog-Brewery" abv="9">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Bullfrog-Brewery/Old-Toad</id>
+  <brewery_id>Bullfrog-Brewery</brewery_id>
+  <abv>9</abv>
   <name>Old Toad</name>
   <description/>
   <availability/>

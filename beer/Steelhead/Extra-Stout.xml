@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<beer id="Steelhead/Extra-Stout" brewery_id="Steelhead">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Steelhead/Extra-Stout</id>
+  <brewery_id>Steelhead</brewery_id>
   <name>Extra Stout</name>
   <description/>
   <availability/>

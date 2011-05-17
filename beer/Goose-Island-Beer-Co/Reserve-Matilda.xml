@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Goose-Island-Beer-Co/Reserve-Matilda" brewery_id="Goose-Island-Beer-Co" abv="7" ibu="32">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Goose-Island-Beer-Co/Reserve-Matilda</id>
+  <brewery_id>Goose-Island-Beer-Co</brewery_id>
+  <abv>7</abv>
+  <ibu>32</ibu>
   <name>Reserve: Matilda</name>
   <description>Wild in character, with a slightly fruity aroma and a spicy yeast flavor that is as unique as it is satisfying -- Matilda is an intriguing choice for beer and wine lovers alike. Dry and quenching, it's the perfect accompaniment at the dining table or for casually socializing at the bar.</description>
   <availability/>

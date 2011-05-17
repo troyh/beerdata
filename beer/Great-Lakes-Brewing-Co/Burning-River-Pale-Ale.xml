@@ -1,5 +1,9 @@
-<?xml version="1.0"?>
-<beer id="Great-Lakes-Brewing-Co/Burning-River-Pale-Ale" brewery_id="Great-Lakes-Brewing-Co" abv="6" ibu="45">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Lakes-Brewing-Co/Burning-River-Pale-Ale</id>
+  <brewery_id>Great-Lakes-Brewing-Co</brewery_id>
+  <abv>6</abv>
+  <ibu>45</ibu>
   <name>Burning River Pale Ale</name>
   <description>An assertively hopped American Pale Ale with citrusy and piney Cascade hops. Named after the infamous 1969 burning of the Cuyahoga River. </description>
   <availability>year-round</availability>

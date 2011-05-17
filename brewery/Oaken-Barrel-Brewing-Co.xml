@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Oaken-Barrel-Brewing-Co">
+<brewery>
+  <id>Oaken-Barrel-Brewing-Co</id>
   <name>Oaken Barrel Brewing Co‎</name>
   <address>
     <street>50 Airport Pkwy # L</street>

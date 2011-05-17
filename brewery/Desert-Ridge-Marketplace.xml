@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Desert-Ridge-Marketplace">
+<brewery>
+  <id>Desert-Ridge-Marketplace</id>
   <name>Desert Ridge Marketplace‎</name>
   <address>
     <street>21001 N Tatum Blvd # 1515</street>

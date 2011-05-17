@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Smugglers-Brew-Pub-and-Grill">
+<brewery>
+  <id>Smugglers-Brew-Pub-and-Grill</id>
   <name>Smuggler's Brew Pub &amp; Grill‎</name>
   <address>
     <street>1571 Ogden Rd</street>

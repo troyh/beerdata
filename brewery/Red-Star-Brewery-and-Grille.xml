@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Red-Star-Brewery-and-Grille">
+<brewery>
+  <id>Red-Star-Brewery-and-Grille</id>
   <name>Red Star Brewery &amp; Grille‎</name>
   <address>
     <street>101 Ehalt St</street>

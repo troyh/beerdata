@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<brewery id="Jaxons-Restaurant-and-Brewing-Co-El-Paso">
+<brewery>
+  <id>Jaxons-Restaurant-and-Brewing-Co-El-Paso</id>
   <name>Jaxons Restaurant &amp; Brewing Co‎</name>
   <address>
     <street>7410 Remcon Cir</street>

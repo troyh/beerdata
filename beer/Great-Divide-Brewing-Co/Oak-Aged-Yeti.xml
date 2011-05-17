@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<beer id="Great-Divide-Brewing-Co/Oak-Aged-Yeti" brewery_id="Great-Divide-Brewing-Co" abv="9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<beer>
+  <id>Great-Divide-Brewing-Co/Oak-Aged-Yeti</id>
+  <brewery_id>Great-Divide-Brewing-Co</brewery_id>
+  <abv>9.5</abv>
   <name>Oak Aged Yeti</name>
   <description>is Yeti Imperial Stout's sophisticated sibling. They may be from the same clan, but they have entirely different personalities. Oak aging gives a subtle vanilla character, rounding out Yeti's intense roastiness and huge hoppy nature. Who says you can't tame a Yeti?</description>
   <availability>winter</availability>
