@@ -125,8 +125,8 @@
     </xsl:choose>
   </xsl:template>
 
-  <!-- number (no support for javascript mantise) -->
-  <xsl:template match="text()[not(string(number())='NaN')]">
+  <!-- number (but not numbers that start with 0) (no support for javascript mantise) -->
+  <xsl:template match="text()[not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.')]">
     <xsl:value-of select="."/>
   </xsl:template>
 
@@ -141,23 +141,26 @@
     </xsl:call-template>
     <xsl:text>:null</xsl:text>
     <xsl:if test="following-sibling::*">,</xsl:if>
+    <xsl:if test="not(following-sibling::*)">}</xsl:if>
   </xsl:template>
 
   <!-- object -->
   <xsl:template match="*" name="base">
-    <!-- <xsl:if test="not(preceding-sibling::*)">{</xsl:if> -->
     <xsl:if test="parent::*">
+    <xsl:if test="not(preceding-sibling::*)">{</xsl:if>
 	    <xsl:call-template name="escape-string">
 	      <xsl:with-param name="s" select="name()"/>
 	    </xsl:call-template>
 	    <xsl:text>:</xsl:text>
 	</xsl:if>
-	<xsl:if test="count(child::*)">{</xsl:if>
-    <xsl:apply-templates select="@*"/>
+	<!-- <xsl:if test="count(child::*)">{</xsl:if> -->
+    <!-- <xsl:apply-templates select="@*"/> -->
     <xsl:apply-templates select="child::node()"/>
-	<xsl:if test="count(child::*)">}</xsl:if>
+	<!-- <xsl:if test="count(child::*)">}</xsl:if> -->
+    <xsl:if test="parent::*">
     <xsl:if test="following-sibling::*">,</xsl:if>
-    <!-- <xsl:if test="not(following-sibling::*)">}</xsl:if> -->
+    <xsl:if test="count(following-sibling::*)=0">}</xsl:if>
+</xsl:if>
   </xsl:template>
 
   <!-- array -->
@@ -171,6 +174,7 @@
         <xsl:apply-templates select="child::node()"/>
       </xsl:otherwise>
     </xsl:choose>
+    <!-- <xsl:apply-templates select="@*"/> -->
     <xsl:if test="following-sibling::*">,</xsl:if>
     <xsl:if test="not(following-sibling::*)">]</xsl:if>
   </xsl:template>
@@ -188,8 +192,8 @@
 	<xsl:value-of select="name()"/>
 	<xsl:text>":</xsl:text>
 	<xsl:choose>
-		<!-- number -->
-		<xsl:when test="not(string(number(.))='NaN')">
+		<!-- number (but not numbers that start with 0) -->
+		<xsl:when test="not(string(number())='NaN') and (not(substring(.,1,1)='0') or substring(.,1,2)='0.')">
 			<xsl:value-of select="."/>
 		</xsl:when>
 
@@ -208,7 +212,8 @@
 		    </xsl:call-template>
 		</xsl:otherwise>
 	</xsl:choose>
-    <xsl:if test="../*">,</xsl:if>
+    <xsl:if test="following-sibling::*">,</xsl:if>
+    <xsl:if test="not(following-sibling::*)">}</xsl:if>
   </xsl:template>
     
 </xsl:stylesheet>
