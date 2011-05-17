@@ -1,0 +1,13 @@
+#!/bin/bash
+while read type; do
+
+	while read file; do
+		
+		if ! xml tr xml2json.xslt $file | jsontidy > /dev/null; then
+			echo "Broken: $file";
+			exit;
+		fi
+	
+	done < <(find $type -name "*.xml");
+	
+done < <(find . -type d -maxdepth 1 ! -name ".*" | sed -e 's/^.\///');
