@@ -136,6 +136,7 @@
 
   <!-- item:null -->
   <xsl:template match="*[count(child::node())=0]">
+    <xsl:if test="not(preceding-sibling::*)">{</xsl:if>
     <xsl:call-template name="escape-string">
       <xsl:with-param name="s" select="local-name()"/>
     </xsl:call-template>
@@ -146,21 +147,21 @@
 
   <!-- object -->
   <xsl:template match="*" name="base">
-    <xsl:if test="parent::*">
-    <xsl:if test="not(preceding-sibling::*)">{</xsl:if>
+    <xsl:if test="count(ancestor::*)"> <!-- Only output the node name if it's not the root node -->
+	    <xsl:if test="not(preceding-sibling::*)">{</xsl:if>
 	    <xsl:call-template name="escape-string">
 	      <xsl:with-param name="s" select="name()"/>
 	    </xsl:call-template>
 	    <xsl:text>:</xsl:text>
 	</xsl:if>
-	<!-- <xsl:if test="count(child::*)">{</xsl:if> -->
+	<!-- <xsl:if test="count(child::*) and count(ancestor::*)">{</xsl:if> -->
     <!-- <xsl:apply-templates select="@*"/> -->
-    <xsl:apply-templates select="child::node()"/>
+	    <xsl:apply-templates select="child::node()"/>
 	<!-- <xsl:if test="count(child::*)">}</xsl:if> -->
-    <xsl:if test="parent::*">
-    <xsl:if test="following-sibling::*">,</xsl:if>
-    <xsl:if test="count(following-sibling::*)=0">}</xsl:if>
-</xsl:if>
+    <xsl:if test="count(ancestor::*)">
+	    <xsl:if test="following-sibling::*">,</xsl:if>
+	    <xsl:if test="not(following-sibling::*)">}</xsl:if>
+	</xsl:if>
   </xsl:template>
 
   <!-- array -->
