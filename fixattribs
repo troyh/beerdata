@@ -1,0 +1,12 @@
+#!/bin/bash
+while read type; do
+
+	while read file; do
+		
+		xml tr fixattribs.xslt $file | xml fo > xxx.xml
+		# diff -u $file xxx.xml|colordiff;
+		mv xxx.xml $file;
+	
+	done < <(find $type -name "*.xml");
+	
+done < <(find . -type d -maxdepth 1 ! -name ".*" | sed -e 's/^.\///');
