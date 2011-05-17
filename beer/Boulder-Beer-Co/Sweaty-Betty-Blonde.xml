@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>bavarian wheat</style>
+    <style><name>bavarian wheat</name></style>
   </styles>
 </beer>

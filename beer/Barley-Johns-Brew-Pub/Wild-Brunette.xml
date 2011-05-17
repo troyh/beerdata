@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Wild Rice Brown Ale</style>
+    <style><name>Wild Rice Brown Ale</name></style>
   </styles>
 </beer>

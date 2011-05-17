@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Witbier</style>
+    <style><name>Witbier</name></style>
   </styles>
 </beer>

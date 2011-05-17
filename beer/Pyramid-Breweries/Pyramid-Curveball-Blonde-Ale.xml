@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Blonde Ale</style>
+    <style><name>Blonde Ale</name></style>
   </styles>
 </beer>

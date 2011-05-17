@@ -13,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>18</bjcp_style_id>Belgian Strong Ale</style>
+    <style><bjcp_style_id>18</bjcp_style_id><name>Belgian Strong Ale</name></style>
   </styles>
   <sizes>
     <size>

@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>wet hop ale</style>
+    <style><name>wet hop ale</name></style>
   </styles>
 </beer>

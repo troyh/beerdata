@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast and Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Amber Ale</style>
+    <style><name>Amber Ale</name></style>
   </styles>
 </beer>

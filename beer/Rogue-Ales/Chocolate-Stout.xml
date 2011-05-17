@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>American Stout</style>
+    <style><name>American Stout</name></style>
   </styles>
 </beer>

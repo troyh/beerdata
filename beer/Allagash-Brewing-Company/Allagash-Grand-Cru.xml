@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>winter ale</style>
+    <style><name>winter ale</name></style>
   </styles>
 </beer>

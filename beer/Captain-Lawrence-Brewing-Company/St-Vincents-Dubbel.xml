@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Belgian Abbey Ale</style>
+    <style><name>Belgian Abbey Ale</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Belgian sour ale</style>
+    <style><name>Belgian sour ale</name></style>
   </styles>
 </beer>

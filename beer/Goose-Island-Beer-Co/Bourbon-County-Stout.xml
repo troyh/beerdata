@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>bourbon barrel-aged imperial stout</style>
+    <style><name>bourbon barrel-aged imperial stout</name></style>
   </styles>
 </beer>

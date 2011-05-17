@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Cream Ale</style>
+    <style><name>Cream Ale</name></style>
   </styles>
 </beer>

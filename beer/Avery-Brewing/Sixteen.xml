@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Saison</style>
+    <style><name>Saison</name></style>
   </styles>
 </beer>

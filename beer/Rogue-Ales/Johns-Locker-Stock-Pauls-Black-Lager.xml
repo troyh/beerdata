@@ -13,6 +13,6 @@
   <yeast>Oktoberfest #2633 Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Lager</style>
+    <style><name>Lager</name></style>
   </styles>
 </beer>

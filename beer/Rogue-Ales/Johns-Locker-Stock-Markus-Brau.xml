@@ -13,6 +13,6 @@
   <yeast>Oktoberfest #2633 Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Munich Helles</style>
+    <style><name>Munich Helles</name></style>
   </styles>
 </beer>

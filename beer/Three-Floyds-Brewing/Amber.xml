@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Munich Lager</style>
+    <style><name>Munich Lager</name></style>
   </styles>
 </beer>

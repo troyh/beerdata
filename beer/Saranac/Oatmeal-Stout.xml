@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>ale brewed with oats</style>
+    <style><name>ale brewed with oats</name></style>
   </styles>
 </beer>

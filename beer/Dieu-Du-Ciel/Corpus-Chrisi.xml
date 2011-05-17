@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>rye pale ale</style>
+    <style><name>rye pale ale</name></style>
   </styles>
 </beer>

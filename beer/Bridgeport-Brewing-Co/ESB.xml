@@ -29,6 +29,6 @@
     </size>
   </sizes>
   <styles>
-    <style>ESB</style>
+    <style><name>ESB</name></style>
   </styles>
 </beer>

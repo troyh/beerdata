@@ -14,6 +14,6 @@
   <yeast>Top-fermenting Ale Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Hop Ale</style>
+    <style><name>Hop Ale</name></style>
   </styles>
 </beer>

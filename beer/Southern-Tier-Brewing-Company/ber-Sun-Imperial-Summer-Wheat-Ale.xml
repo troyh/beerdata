@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Imperial Summer wheat Ale</style>
+    <style><name>Imperial Summer wheat Ale</name></style>
   </styles>
 </beer>

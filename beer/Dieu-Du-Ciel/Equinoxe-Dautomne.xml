@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>smoked lager</style>
+    <style><name>smoked lager</name></style>
   </styles>
 </beer>

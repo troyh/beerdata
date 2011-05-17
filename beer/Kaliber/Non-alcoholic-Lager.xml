@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Non-Alcoholic</style>
+    <style><name>Non-Alcoholic</name></style>
   </styles>
 </beer>

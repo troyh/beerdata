@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Sour Brown Ale</style>
+    <style><name>Sour Brown Ale</name></style>
   </styles>
 </beer>

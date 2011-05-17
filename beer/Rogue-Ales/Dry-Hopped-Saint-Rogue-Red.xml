@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Red Ale</style>
+    <style><name>Red Ale</name></style>
   </styles>
 </beer>

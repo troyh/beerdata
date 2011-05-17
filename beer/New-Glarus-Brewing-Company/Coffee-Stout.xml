@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Coffee Stout</style>
+    <style><name>Coffee Stout</name></style>
   </styles>
 </beer>

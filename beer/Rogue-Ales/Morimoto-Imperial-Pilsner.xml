@@ -13,6 +13,6 @@
   <yeast>Czech Pils Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Pilsner</style>
+    <style><name>Pilsner</name></style>
   </styles>
 </beer>

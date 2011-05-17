@@ -14,7 +14,7 @@ This has been one of our most popular Limited Edition beers at both our Rehoboth
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>16A</bjcp_style_id>Witbier</style>
+    <style><bjcp_style_id>16A</bjcp_style_id><name>Witbier</name></style>
   </styles>
   <sizes>
     <size>

@@ -13,6 +13,6 @@
   <yeast>Top-fermenting</yeast>
   <otherings/>
   <styles>
-    <style>Ale</style>
+    <style><name>Ale</name></style>
   </styles>
 </beer>

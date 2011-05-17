@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>ale</style>
+    <style><name>ale</name></style>
   </styles>
 </beer>

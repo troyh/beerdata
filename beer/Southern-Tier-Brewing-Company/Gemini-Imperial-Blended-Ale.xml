@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Imperial Blended Ale</style>
+    <style><name>Imperial Blended Ale</name></style>
   </styles>
 </beer>

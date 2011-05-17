@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Wate</yeast>
   <otherings/>
   <styles>
-    <style>Specialty Grain</style>
+    <style><name>Specialty Grain</name></style>
   </styles>
 </beer>

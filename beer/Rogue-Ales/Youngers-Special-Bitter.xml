@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast</yeast>
   <otherings/>
   <styles>
-    <style>ESB</style>
+    <style><name>ESB</name></style>
   </styles>
 </beer>

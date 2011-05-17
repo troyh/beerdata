@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>quadrupel</style>
+    <style><name>quadrupel</name></style>
   </styles>
 </beer>

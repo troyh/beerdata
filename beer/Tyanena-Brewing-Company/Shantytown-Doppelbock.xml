@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>doppelbock</style>
+    <style><name>doppelbock</name></style>
   </styles>
 </beer>

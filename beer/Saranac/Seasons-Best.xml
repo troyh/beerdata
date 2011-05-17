@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Vienna-Style Lager</style>
+    <style><name>Vienna-Style Lager</name></style>
   </styles>
 </beer>

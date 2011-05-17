@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>rye munich ale</style>
+    <style><name>rye munich ale</name></style>
   </styles>
 </beer>

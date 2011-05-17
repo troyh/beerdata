@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Belgian Lambic</style>
+    <style><name>Belgian Lambic</name></style>
   </styles>
 </beer>

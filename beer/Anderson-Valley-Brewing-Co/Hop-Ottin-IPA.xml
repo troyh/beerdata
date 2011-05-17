@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>IPA</style>
+    <style><name>IPA</name></style>
   </styles>
 </beer>

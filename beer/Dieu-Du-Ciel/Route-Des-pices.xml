@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>rye</style>
+    <style><name>rye</name></style>
   </styles>
 </beer>

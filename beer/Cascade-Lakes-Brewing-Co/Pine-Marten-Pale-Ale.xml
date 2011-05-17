@@ -15,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>10A</bjcp_style_id>American Pale Ale</style>
+    <style><bjcp_style_id>10A</bjcp_style_id><name>American Pale Ale</name></style>
   </styles>
   <sizes>
     <size>

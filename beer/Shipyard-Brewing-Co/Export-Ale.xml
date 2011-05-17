@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Canadian golden ale</style>
+    <style><name>Canadian golden ale</name></style>
   </styles>
 </beer>

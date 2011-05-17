@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Amber Lager</style>
+    <style><name>Amber Lager</name></style>
   </styles>
 </beer>

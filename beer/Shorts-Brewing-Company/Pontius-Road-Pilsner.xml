@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>American pilsner</style>
+    <style><name>American pilsner</name></style>
   </styles>
 </beer>

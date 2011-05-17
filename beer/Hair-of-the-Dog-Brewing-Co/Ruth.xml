@@ -27,6 +27,6 @@
     </size>
   </sizes>
   <styles>
-    <style>American Ale</style>
+    <style><name>American Ale</name></style>
   </styles>
 </beer>

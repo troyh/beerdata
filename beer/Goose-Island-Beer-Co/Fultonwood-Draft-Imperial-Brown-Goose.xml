@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>bourbon barrel aged ale</style>
+    <style><name>bourbon barrel aged ale</name></style>
   </styles>
 </beer>

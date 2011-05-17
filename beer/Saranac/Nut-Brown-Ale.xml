@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Ale brewed with honey</style>
+    <style><name>Ale brewed with honey</name></style>
   </styles>
 </beer>

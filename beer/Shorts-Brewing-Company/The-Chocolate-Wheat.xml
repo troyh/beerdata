@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>wheat porter ale</style>
+    <style><name>wheat porter ale</name></style>
   </styles>
 </beer>

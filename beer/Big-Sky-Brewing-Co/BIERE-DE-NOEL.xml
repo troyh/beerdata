@@ -29,6 +29,6 @@
     </size>
   </sizes>
   <styles>
-    <style>Belgian Strong Dark Ale</style>
+    <style><name>Belgian Strong Dark Ale</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Bend</style>
+    <style><name>Bend</name></style>
   </styles>
 </beer>

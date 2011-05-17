@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>kellerbiers</style>
+    <style><name>kellerbiers</name></style>
   </styles>
 </beer>

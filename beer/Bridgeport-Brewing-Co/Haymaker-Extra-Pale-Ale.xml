@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Extra Pale Ale</style>
+    <style><name>Extra Pale Ale</name></style>
   </styles>
 </beer>

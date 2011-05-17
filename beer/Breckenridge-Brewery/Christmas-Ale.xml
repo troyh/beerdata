@@ -14,6 +14,6 @@
   <yeast>Top Fermenting Ale Yeast</yeast>
   <otherings/>
   <styles>
-    <style>American Strong Ale</style>
+    <style><name>American Strong Ale</name></style>
   </styles>
 </beer>

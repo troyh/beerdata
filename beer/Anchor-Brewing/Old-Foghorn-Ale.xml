@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Barleywine Ale</style>
+    <style><name>Barleywine Ale</name></style>
   </styles>
 </beer>

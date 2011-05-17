@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>English Brown Ale</style>
+    <style><name>English Brown Ale</name></style>
   </styles>
 </beer>

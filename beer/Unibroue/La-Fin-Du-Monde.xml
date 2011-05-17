@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Ale - Belgium Style</style>
+    <style><name>Ale - Belgium Style</name></style>
   </styles>
 </beer>

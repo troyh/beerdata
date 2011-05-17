@@ -13,7 +13,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>16</bjcp_style_id>Belgian and French Ale</style>
+    <style><bjcp_style_id>16</bjcp_style_id><name>Belgian and French Ale</name></style>
   </styles>
   <sizes>
     <size>

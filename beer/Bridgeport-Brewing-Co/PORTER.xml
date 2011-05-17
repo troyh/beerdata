@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>Porter</style>
+    <style><name>Porter</name></style>
   </styles>
 </beer>

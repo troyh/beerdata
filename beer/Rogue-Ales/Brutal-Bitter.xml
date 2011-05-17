@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Bitter</style>
+    <style><name>Bitter</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast>Czech Pils Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Malt liquor</style>
+    <style><name>Malt liquor</name></style>
   </styles>
 </beer>

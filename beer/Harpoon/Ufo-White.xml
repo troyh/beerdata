@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>American White Ale</style>
+    <style><name>American White Ale</name></style>
   </styles>
 </beer>

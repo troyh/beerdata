@@ -13,6 +13,6 @@
   <yeast>Belgian Candi Sugar, Water and Abbey Yeast.</yeast>
   <otherings/>
   <styles>
-    <style>Belgian Style Tripel Ale</style>
+    <style><name>Belgian Style Tripel Ale</name></style>
   </styles>
 </beer>

@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>American Lager</style>
+    <style><name>American Lager</name></style>
   </styles>
 </beer>

@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>English Old Ale</style>
+    <style><name>English Old Ale</name></style>
   </styles>
 </beer>

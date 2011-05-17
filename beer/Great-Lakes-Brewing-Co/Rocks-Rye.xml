@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Light malty rye ale.</style>
+    <style><name>Light malty rye ale.</name></style>
   </styles>
 </beer>

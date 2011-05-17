@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Fresh Hop Pale Ale</style>
+    <style><name>Fresh Hop Pale Ale</name></style>
   </styles>
 </beer>

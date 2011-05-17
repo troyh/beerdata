@@ -27,6 +27,6 @@
     </size>
   </sizes>
   <styles>
-    <style>imperial Stout</style>
+    <style><name>imperial Stout</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Strong Brown Ale</style>
+    <style><name>Strong Brown Ale</name></style>
   </styles>
 </beer>

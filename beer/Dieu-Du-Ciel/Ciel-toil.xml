@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>red Ale</style>
+    <style><name>red Ale</name></style>
   </styles>
 </beer>

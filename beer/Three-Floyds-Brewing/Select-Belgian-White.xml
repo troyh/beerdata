@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Belgian White Ale</style>
+    <style><name>Belgian White Ale</name></style>
   </styles>
 </beer>

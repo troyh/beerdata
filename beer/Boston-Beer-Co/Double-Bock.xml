@@ -18,7 +18,7 @@ The intense flavors of Double Bock go well with rich meats like duck, quail or p
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>5C</bjcp_style_id>Doppelbock</style>
+    <style><bjcp_style_id>5C</bjcp_style_id><name>Doppelbock</name></style>
   </styles>
   <sizes>
     <size>

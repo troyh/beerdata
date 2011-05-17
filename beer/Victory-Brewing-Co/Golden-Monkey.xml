@@ -13,6 +13,6 @@
   <yeast>imported, of Belgian origin</yeast>
   <otherings/>
   <styles>
-    <style>Belgian Ale</style>
+    <style><name>Belgian Ale</name></style>
   </styles>
 </beer>

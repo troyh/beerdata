@@ -22,7 +22,7 @@ Due to legal restrictions, the Samuel Adams Imperial Series beers are not offere
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>13F</bjcp_style_id>Russian Imperial Stout</style>
+    <style><bjcp_style_id>13F</bjcp_style_id><name>Russian Imperial Stout</name></style>
   </styles>
   <sizes>
     <size>

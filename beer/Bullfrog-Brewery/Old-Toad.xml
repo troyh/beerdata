@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Oak aged barleywine</style>
+    <style><name>Oak aged barleywine</name></style>
   </styles>
 </beer>

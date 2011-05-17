@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Sparkling Ale</style>
+    <style><name>Sparkling Ale</name></style>
   </styles>
 </beer>

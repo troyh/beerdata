@@ -13,6 +13,6 @@
   <yeast>Flaked Oats, Flaked Rye, Coriander, Sweet Orange Peel, Nutmeg, Chamomile, Cinnamon, Ginger, Water and Belgian Witbier Yeast.</yeast>
   <otherings/>
   <styles>
-    <style>Belgian Ale</style>
+    <style><name>Belgian Ale</name></style>
   </styles>
 </beer>

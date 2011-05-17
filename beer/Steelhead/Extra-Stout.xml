@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Ale - Stout</style>
+    <style><name>Ale - Stout</name></style>
   </styles>
 </beer>

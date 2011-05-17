@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>belgian golden ale</style>
+    <style><name>belgian golden ale</name></style>
   </styles>
 </beer>

@@ -14,7 +14,7 @@
   <yeast>top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>10C</bjcp_style_id>American Brown Ale</style>
+    <style><bjcp_style_id>10C</bjcp_style_id><name>American Brown Ale</name></style>
   </styles>
   <sizes>
     <size>

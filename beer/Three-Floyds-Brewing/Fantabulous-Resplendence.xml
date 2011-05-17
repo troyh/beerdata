@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Anniversary Ale</style>
+    <style><name>Anniversary Ale</name></style>
   </styles>
 </beer>

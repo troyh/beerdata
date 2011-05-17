@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Rye lager</style>
+    <style><name>Rye lager</name></style>
   </styles>
 </beer>

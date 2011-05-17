@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>imperial cream ale</style>
+    <style><name>imperial cream ale</name></style>
   </styles>
 </beer>

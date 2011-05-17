@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>wheat</style>
+    <style><name>wheat</name></style>
   </styles>
 </beer>

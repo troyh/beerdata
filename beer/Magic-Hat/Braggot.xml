@@ -14,6 +14,6 @@
   <yeast>English Ale</yeast>
   <otherings/>
   <styles>
-    <style>Honey Ale</style>
+    <style><name>Honey Ale</name></style>
   </styles>
 </beer>

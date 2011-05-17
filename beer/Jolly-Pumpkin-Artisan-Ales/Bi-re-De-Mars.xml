@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>french stock ale</style>
+    <style><name>french stock ale</name></style>
   </styles>
 </beer>

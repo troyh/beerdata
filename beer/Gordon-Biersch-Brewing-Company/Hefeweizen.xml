@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>hefeweizen</style>
+    <style><name>hefeweizen</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Imperial Red Ale</style>
+    <style><name>Imperial Red Ale</name></style>
   </styles>
 </beer>

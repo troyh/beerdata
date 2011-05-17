@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Dunkelweizen</style>
+    <style><name>Dunkelweizen</name></style>
   </styles>
 </beer>

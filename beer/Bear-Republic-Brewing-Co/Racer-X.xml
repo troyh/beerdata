@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>double IPA</style>
+    <style><name>double IPA</name></style>
   </styles>
 </beer>

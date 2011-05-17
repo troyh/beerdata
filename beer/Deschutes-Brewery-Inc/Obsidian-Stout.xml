@@ -14,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>13</bjcp_style_id>Stout</style>
+    <style><bjcp_style_id>13</bjcp_style_id><name>Stout</name></style>
   </styles>
   <sizes>
     <size>

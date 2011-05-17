@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>Golden Ale</style>
+    <style><name>Golden Ale</name></style>
   </styles>
 </beer>

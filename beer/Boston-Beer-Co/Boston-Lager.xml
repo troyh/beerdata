@@ -14,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>1C</bjcp_style_id>Premium American Lager</style>
+    <style><bjcp_style_id>1C</bjcp_style_id><name>Premium American Lager</name></style>
   </styles>
   <sizes>
     <size>

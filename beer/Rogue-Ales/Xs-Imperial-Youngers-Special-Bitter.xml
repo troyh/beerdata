@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Imperial English Bitter</style>
+    <style><name>Imperial English Bitter</name></style>
   </styles>
 </beer>

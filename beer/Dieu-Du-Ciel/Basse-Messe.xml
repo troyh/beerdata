@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>kolsch</style>
+    <style><name>kolsch</name></style>
   </styles>
 </beer>

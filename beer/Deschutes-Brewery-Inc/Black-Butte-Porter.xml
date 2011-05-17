@@ -14,7 +14,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>12</bjcp_style_id>Porter</style>
+    <style><bjcp_style_id>12</bjcp_style_id><name>Porter</name></style>
   </styles>
   <sizes>
     <size>

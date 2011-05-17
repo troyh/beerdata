@@ -15,7 +15,7 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>6B</bjcp_style_id>Blonde Ale</style>
+    <style><bjcp_style_id>6B</bjcp_style_id><name>Blonde Ale</name></style>
   </styles>
   <sizes>
     <size>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>British Pale Ale</style>
+    <style><name>British Pale Ale</name></style>
   </styles>
 </beer>

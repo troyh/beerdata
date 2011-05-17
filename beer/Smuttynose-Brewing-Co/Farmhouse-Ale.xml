@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>saison</style>
+    <style><name>saison</name></style>
   </styles>
 </beer>

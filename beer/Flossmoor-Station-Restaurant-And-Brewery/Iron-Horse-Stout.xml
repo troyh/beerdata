@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Stout</style>
+    <style><name>Stout</name></style>
   </styles>
 </beer>

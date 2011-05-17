@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Northwest Pale Ale</style>
+    <style><name>Northwest Pale Ale</name></style>
   </styles>
 </beer>

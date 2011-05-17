@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Whisky barrel aged barleywin</style>
+    <style><name>Whisky barrel aged barleywin</name></style>
   </styles>
 </beer>

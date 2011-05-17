@@ -14,7 +14,7 @@
   <yeast>Top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>6A</bjcp_style_id>Cream Ale</style>
+    <style><bjcp_style_id>6A</bjcp_style_id><name>Cream Ale</name></style>
   </styles>
   <sizes>
     <size>

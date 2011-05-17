@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Belgian Wild Ale</style>
+    <style><name>Belgian Wild Ale</name></style>
   </styles>
 </beer>

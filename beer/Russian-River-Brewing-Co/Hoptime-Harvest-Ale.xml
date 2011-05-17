@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Harvest Ale</style>
+    <style><name>Harvest Ale</name></style>
   </styles>
 </beer>

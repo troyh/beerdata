@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Golden Lager</style>
+    <style><name>Golden Lager</name></style>
   </styles>
 </beer>

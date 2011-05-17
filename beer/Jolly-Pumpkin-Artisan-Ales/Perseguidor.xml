@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>oak aged ale</style>
+    <style><name>oak aged ale</name></style>
   </styles>
 </beer>

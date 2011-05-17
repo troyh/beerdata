@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>spiced wheat ale</style>
+    <style><name>spiced wheat ale</name></style>
   </styles>
 </beer>

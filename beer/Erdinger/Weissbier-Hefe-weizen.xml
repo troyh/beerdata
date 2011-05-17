@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Ale - Wheat</style>
+    <style><name>Ale - Wheat</name></style>
   </styles>
 </beer>

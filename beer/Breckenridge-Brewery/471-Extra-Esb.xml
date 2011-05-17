@@ -14,6 +14,6 @@
   <yeast>Scottish Ale</yeast>
   <otherings/>
   <styles>
-    <style>Scottish Ale</style>
+    <style><name>Scottish Ale</name></style>
   </styles>
 </beer>

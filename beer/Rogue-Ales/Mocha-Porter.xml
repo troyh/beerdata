@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast &amp; Free Range Coastal Water.</yeast>
   <otherings/>
   <styles>
-    <style>Porter</style>
+    <style><name>Porter</name></style>
   </styles>
 </beer>

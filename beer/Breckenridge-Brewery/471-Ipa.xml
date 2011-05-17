@@ -14,6 +14,6 @@
   <yeast>British Ale Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Double IPA</style>
+    <style><name>Double IPA</name></style>
   </styles>
 </beer>

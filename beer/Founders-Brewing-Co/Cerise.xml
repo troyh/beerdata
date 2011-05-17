@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>cherry fermented ale</style>
+    <style><name>cherry fermented ale</name></style>
   </styles>
 </beer>

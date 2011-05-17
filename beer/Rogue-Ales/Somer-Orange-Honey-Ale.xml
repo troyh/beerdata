@@ -13,6 +13,6 @@
   <yeast>Rogue' s Top Fermenting Pacman Yeast from Hood River</yeast>
   <otherings/>
   <styles>
-    <style>Wheat</style>
+    <style><name>Wheat</name></style>
   </styles>
 </beer>

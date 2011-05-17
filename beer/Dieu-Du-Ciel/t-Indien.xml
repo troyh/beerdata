@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>berliner weiss</style>
+    <style><name>berliner weiss</name></style>
   </styles>
 </beer>

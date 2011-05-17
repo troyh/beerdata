@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>barrel aged ale</style>
+    <style><name>barrel aged ale</name></style>
   </styles>
 </beer>

@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>Saison</style>
+    <style><name>Saison</name></style>
   </styles>
 </beer>

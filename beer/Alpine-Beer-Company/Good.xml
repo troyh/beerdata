@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>American Barleywine</style>
+    <style><name>American Barleywine</name></style>
   </styles>
 </beer>

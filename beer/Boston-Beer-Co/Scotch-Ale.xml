@@ -14,7 +14,7 @@
   <yeast>top-fermenting ale yeast</yeast>
   <otherings/>
   <styles>
-    <style><bjcp_style_id>9E</bjcp_style_id>Strong Scotch Ale</style>
+    <style><bjcp_style_id>9E</bjcp_style_id><name>Strong Scotch Ale</name></style>
   </styles>
   <sizes>
     <size>

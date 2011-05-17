@@ -14,6 +14,6 @@
   <yeast>Top Fermenting Ale Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Old Ale</style>
+    <style><name>Old Ale</name></style>
   </styles>
 </beer>

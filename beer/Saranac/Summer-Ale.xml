@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Herb and Spice Ale</style>
+    <style><name>Herb and Spice Ale</name></style>
   </styles>
 </beer>

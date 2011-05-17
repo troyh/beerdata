@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Pilsner-Lager</style>
+    <style><name>Pilsner-Lager</name></style>
   </styles>
 </beer>

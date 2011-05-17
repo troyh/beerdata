@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>India Pale Ale</style>
+    <style><name>India Pale Ale</name></style>
   </styles>
 </beer>

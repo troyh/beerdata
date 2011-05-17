@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Ale - Barley Wine Style</style>
+    <style><name>Ale - Barley Wine Style</name></style>
   </styles>
 </beer>

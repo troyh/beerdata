@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>tripel</style>
+    <style><name>tripel</name></style>
   </styles>
 </beer>

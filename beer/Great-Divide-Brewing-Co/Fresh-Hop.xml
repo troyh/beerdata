@@ -28,6 +28,6 @@
     </size>
   </sizes>
   <styles>
-    <style>Pale Ale</style>
+    <style><name>Pale Ale</name></style>
   </styles>
 </beer>

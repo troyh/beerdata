@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Biere de Garde</style>
+    <style><name>Biere de Garde</name></style>
   </styles>
 </beer>

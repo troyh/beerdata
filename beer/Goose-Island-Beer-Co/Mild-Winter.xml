@@ -14,6 +14,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>american mild ale</style>
+    <style><name>american mild ale</name></style>
   </styles>
 </beer>

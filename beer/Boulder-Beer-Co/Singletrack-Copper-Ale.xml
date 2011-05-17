@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Copper Ale</style>
+    <style><name>Copper Ale</name></style>
   </styles>
 </beer>

@@ -13,6 +13,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>weizen</style>
+    <style><name>weizen</name></style>
   </styles>
 </beer>

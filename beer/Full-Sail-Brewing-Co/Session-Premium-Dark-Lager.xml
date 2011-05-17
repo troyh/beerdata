@@ -12,6 +12,6 @@
   <yeast/>
   <otherings/>
   <styles>
-    <style>Dark Lager</style>
+    <style><name>Dark Lager</name></style>
   </styles>
 </beer>

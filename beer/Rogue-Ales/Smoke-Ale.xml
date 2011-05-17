@@ -13,6 +13,6 @@
   <yeast>Rogue's Pacman Yeast</yeast>
   <otherings/>
   <styles>
-    <style>Rauchbier</style>
+    <style><name>Rauchbier</name></style>
   </styles>
 </beer>
