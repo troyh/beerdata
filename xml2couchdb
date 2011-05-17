@@ -12,7 +12,7 @@ function normalize_json_doc() {
 }
 
 function getdocid() {
-	read doctype id < <(xml sel -t -m "/*" -v 'name()' -o ' ' -v '@id' -);
+	read doctype id < <(xml sel -t -m "/*" -v 'name()' -o ' ' -v '/*/id' -);
 	echo $doctype:${id//\//:};
 }
 
@@ -21,19 +21,19 @@ function xml2json() {
 	doctype=$(xml sel -t -m '/*' -v 'name()' /tmp/xmldoc);
 
 	if [ $doctype == "beer" ]; then
-		beer_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		beer_id=$(xml sel -t -m '/*' -v '/beer/id' /tmp/xmldoc);
 		beer_id=$doctype:${beer_id//\//:}
-		brewery_id=$(xml sel -t -m '/*' -v '@brewery_id' /tmp/xmldoc);
+		brewery_id=$(xml sel -t -m '/*' -v '/beer/brewery_id' /tmp/xmldoc);
 		brewery_id=brewery:$brewery_id
-		xml ed --update "@id" --value "$beer_id" --update "@brewery_id" --value "$brewery_id" < /tmp/xmldoc;
+		xml ed --update "/beer/id" --value "$beer_id" --update "/beer/brewery_id" --value "$brewery_id" < /tmp/xmldoc;
 	elif [ $doctype == "brewery" ]; then
-		brewery_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		brewery_id=$(xml sel -t -m '/*' -v '/brewery/id' /tmp/xmldoc);
 		brewery_id=$doctype:${brewery_id//\//:}
-		xml ed --update "@id" --value "$brewery_id" < /tmp/xmldoc
+		xml ed --update "/brewery/id" --value "$brewery_id" < /tmp/xmldoc
 	elif [ $doctype == "place" ]; then
-		place_id=$(xml sel -t -m '/*' -v '@id' /tmp/xmldoc);
+		place_id=$(xml sel -t -m '/*' -v '/place/id' /tmp/xmldoc);
 		place_id=$doctype:${place_id//\//:}
-		xml ed --update "@id" --value "$place_id" < /tmp/xmldoc
+		xml ed --update "/place/id" --value "$place_id" < /tmp/xmldoc
 	fi | xml tr xml2json.xslt | jsontidy;
 	
 	rm -f /tmp/xmldoc;
