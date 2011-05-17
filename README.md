@@ -33,3 +33,20 @@ To run it:
 
 	separatebeers file.xml
 
+checkjson
+=========
+Runs the `xml2json.xslt` transform on every XML doc to verify that valid JSON is generated for each document.
+
+fixattribs
+==========
+Converting XML docs to JSON doesn't work well with XML attributes. So this script runs `fixattribs.xslt` on all the XML docs to move attributes 
+into proper elements. 
+
+fixstyles
+=========
+The styles in the XML docs had an attribute and text and `fixattribs` put the attribute into the element so the text was not in its own element. 
+This script (and accompanying `fixstyles.xslt`) put the text into its own `name` element.
+
+xml2couchdb
+===========
+Puts all the XML docs, after transforming to JSON, into CouchDB, updating existing docs as necessary.
