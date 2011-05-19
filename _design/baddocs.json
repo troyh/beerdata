@@ -1,0 +1,10 @@
+{
+  "_rev": "2-3751789670",
+  "language": "javascript",
+  "_id": "_design/baddocs",
+  "views": {
+    "typeless": {
+      "map": "function(doc) {\n  if (doc.type=='') emit(null, null);\n}"
+    }
+  }
+}

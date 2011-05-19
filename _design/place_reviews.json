@@ -1,0 +1,24 @@
+{
+  "_rev": "2-77ccebc1c28bbd13429dbd06af725241",
+  "@attributes": {
+    "rev": "1241871088",
+    "id": "_design/place_reviews"
+  },
+  "_id": "_design/place_reviews",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substring(0,13)=='review:place:') emit(doc.place_id,null); }"
+    },
+    "by_place_id": {
+      "map": "function(doc) { if (doc._id.substring(0,13)=='review:place:') emit(doc.place_id,doc); }"
+    },
+    "by_user_id": {
+      "map": "function(doc) { if (doc._id.substring(0,13)=='review:place:') emit(doc.user_id,doc); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": "javascript"
+}

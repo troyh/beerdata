@@ -1,0 +1,24 @@
+{
+  "_rev": "1-3366345144",
+  "@attributes": {
+    "rev": "3832246287",
+    "id": "_design/beer_reviews"
+  },
+  "_id": "_design/beer_reviews",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc.type=='review' && doc._id.substring(0,12)=='review:beer:') emit(doc.beer_id,null); }"
+    },
+    "by_user": {
+      "map": "function(doc) { if (doc.type=='review' && doc._id.substring(0,12)=='review:beer:') emit(doc.user_id,doc); }"
+    },
+    "for_beer": {
+      "map": "function(doc) { if (doc.type=='review' && doc._id.substring(0,12)=='review:beer:') emit(doc.beer_id,doc); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": ""
+}

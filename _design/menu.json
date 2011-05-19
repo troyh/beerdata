@@ -1,0 +1,9 @@
+{
+  "_rev": "3-877e584c33b5d957b3e3a328dfb695bb",
+  "_id": "_design/menu",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,5)=='menu:') emit(doc._id,null); }"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_rev": "4-07f034a3a8e1ec684dc80065a3acb3a3",
+  "@attributes": {
+    "rev": "1982030625",
+    "id": "_design/beer"
+  },
+  "_id": "_design/beer",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,5)=='beer:') emit(doc.name,null); }"
+    },
+    "timestamp": {
+      "map": "function (doc) { if (doc._id.substr(0,5)=='beer:') emit(doc.meta.timestamp,doc.name); }"
+    },
+    "made_by": {
+      "map": "function (doc) { if (doc._id.substr(0,5)=='beer:') emit(doc.brewery_id,doc.name); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": ""
+}

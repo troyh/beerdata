@@ -1,0 +1,21 @@
+{
+  "_rev": "5-9492be963fc29ee42a4b2a9ba2ea4c35",
+  "@attributes": {
+    "rev": "2123134915",
+    "id": "_design/user"
+  },
+  "_id": "_design/user",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,5)=='user:') emit(doc.userid,null); }"
+    },
+    "email": {
+      "map": "function(doc) { if (doc.type=='user' && doc.email) emit(doc.email,doc.password);    }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": "javascript"
+}

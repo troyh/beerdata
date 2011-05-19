@@ -1,0 +1,21 @@
+{
+  "_rev": "2-4192284b6b709fc1f9a9417eb63f0c3a",
+  "@attributes": {
+    "rev": "2943694247",
+    "id": "_design/review"
+  },
+  "_id": "_design/review",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,7)=='review:') emit(null,null); }"
+    },
+    "by_user": {
+      "map": "function(doc) { if (doc._id.substr(0,7)=='review:') emit(doc.user_id,doc); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": "javascript"
+}

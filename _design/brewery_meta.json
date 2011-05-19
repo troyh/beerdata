@@ -1,0 +1,18 @@
+{
+  "_rev": "2-e17d1c8d9d80a929e7f00bf430818c9e",
+  "@attributes": {
+    "rev": "3698428305",
+    "id": "_design/brewery_meta"
+  },
+  "_id": "_design/brewery_meta",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,13)=='brewery_meta:') emit(doc._id,null); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": "javascript"
+}

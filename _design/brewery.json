@@ -1,0 +1,21 @@
+{
+  "_rev": "3-af568a543f3f902d4995da36760cc102",
+  "@attributes": {
+    "rev": "2017243027",
+    "id": "_design/brewery"
+  },
+  "_id": "_design/brewery",
+  "views": {
+    "gps_coords": {
+      "map": "function (doc) { if (doc.type=='brewery' && doc.address.latitude && doc.address.longitude) emit (doc.name,{\"lat\":doc.address.latitude,\"lon\":doc.address.longitude}); }"
+    },
+    "all": {
+      "map": "function(doc) { if (doc._id.substr(0,8)=='brewery:') emit(doc.name,null); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": "javascript"
+}

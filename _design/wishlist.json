@@ -1,0 +1,18 @@
+{
+  "_rev": "1-570739915",
+  "@attributes": {
+    "rev": "1810921560",
+    "id": "_design/wishlist"
+  },
+  "_id": "_design/wishlist",
+  "views": {
+    "all": {
+      "map": "function(doc) { if (doc.type=='wishlist') emit(doc._id,null); }"
+    }
+  },
+  "meta": {
+    "timestamp": 1253124128,
+    "mtime": 1253127879
+  },
+  "type": ""
+}
