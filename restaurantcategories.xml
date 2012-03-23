@@ -1,0 +1,93 @@
+<json _id="restaurantcategories" _rev="1-1076425988">
+  <categories name="Africa">
+    <categories name="African" id="african" />
+    <categories name="Ethiopian" id="ethiopian" />
+    <categories name="Moroccan" id="moroccan" />
+  </categories>
+  <categories name="Asia">
+    <categories name="Afghan" id="afghan" />
+    <categories name="Asian Fusion" id="asian" />
+    <categories name="Chinese" id="chinese" />
+    <categories name="Filipino" id="filipino" />
+    <categories name="Indian" id="indian" />
+    <categories name="Indonesian" id="indonesian" />
+    <categories name="Japanese" id="japanese" />
+    <categories name="Korean" id="korean" />
+    <categories name="Malaysian" id="malaysian" />
+    <categories name="Middle Eastern" id="middleeastern" />
+    <categories name="Pakistani" id="pakistani" />
+    <categories name="Persian/Iranian" id="persian" />
+    <categories name="Singaporean" id="singaporean" />
+    <categories name="Taiwanese" id="taiwanese" />
+    <categories name="Thai" id="thai" />
+    <categories name="Turkish" id="turkish" />
+    <categories name="Vietnamese" id="vietnamese" />
+  </categories>
+  <categories name="European">
+    <categories name="Basque" id="basque" />
+    <categories name="Belgian" id="belgian" />
+    <categories name="British" id="british" />
+    <categories name="French" id="french" />
+    <categories name="German" id="german" />
+    <categories name="Greek" id="greek" />
+    <categories name="Hungarian" id="hungarian" />
+    <categories name="Irish" id="irish" />
+    <categories name="Italian" id="italian" />
+    <categories name="Mediterranean" id="mediterranean" />
+    <categories name="Modern European" id="modern" />
+    <categories name="Polish" id="polish" />
+    <categories name="Portuguese" id="portuguese" />
+    <categories name="Russian" id="russian" />
+    <categories name="Scandinavian" id="scandinavian" />
+    <categories name="Spanish" id="spanish" />
+    <categories name="Ukrainian" id="ukrainian" />
+  </categories>
+  <categories name="North America">
+    <categories name="American (New)" id="americannew" />
+    <categories name="American (Traditional)" id="americantrad" />
+    <categories name="Cajun/Creole" id="cajun" />
+    <categories name="Caribbean" id="caribbean" />
+    <categories name="Cuban" id="cuban" />
+    <categories name="Hawaiian" id="hawaiian" />
+    <categories name="Latin American" id="latinamerican" />
+    <categories name="Mexican" id="mexican" />
+    <categories name="Pacific Northwest" id="pacificnw" />
+    <categories name="Southern/Soul Food" id="southernsoul" />
+    <categories name="Tex-Mex" id="texmex" />
+  </categories>
+  <categories name="South America">
+    <categories name="Argentine" id="argentine" />
+    <categories name="Brazilian" id="brazilian" />
+  </categories>
+  <categories name="Diet">
+    <categories name="Gluten-Free" id="glutenfree" />
+    <categories name="Halal" id="halal" />
+    <categories name="Kosher" id="kosher" />
+    <categories name="Vegan" id="vegan" />
+    <categories name="Vegetarian" id="vegetarian" />
+  </categories>
+  <categories name="Food Specialty">
+    <categories name="Barbeque" id="barbeque" />
+    <categories name="Breakfast &amp; Brunch" id="breakfastbrunch" />
+    <categories name="Burgers" id="burgers" />
+    <categories name="Chicken Wings" id="chickenwings" />
+    <categories name="Dessert" id="dessert" />
+    <categories name="Fish &amp; Chips" id="fishchips" />
+    <categories name="Hot Dogs" id="hotdogs" />
+    <categories name="Pizza" id="pizza" />
+    <categories name="Sandwiches" id="sandwiches" />
+    <categories name="Seafood" id="seafood" />
+    <categories name="Steakhouse" id="steakhouse" />
+    <categories name="Sushi" id="sushi" />
+  </categories>
+  <categories name="Style">
+    <categories name="Biker Bar" id="bikerbar" />
+    <categories name="Deli" id="deli" />
+    <categories name="Diner" id="diner" />
+    <categories name="Food Stand" id="foodstand" />
+    <categories name="Gastropub" id="gastropub" />
+    <categories name="Gay Bar" id="gaybar" />
+    <categories name="Sports Bar" id="sportsbar" />
+    <categories name="Tapas Bar" id="tapasbar" />
+  </categories>
+</json>

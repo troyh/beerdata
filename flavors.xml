@@ -1,0 +1,137 @@
+<json _id="flavors" _rev="1-4263785995">
+  <flavors title="Berry">
+    <flavors id="cassis" title="Black Currant/Cassis" />
+    <flavors id="blackberry" title="Blackberry" />
+    <flavors id="blueberry" title="Blueberry" />
+    <flavors id="raspberry" title="Raspberry" />
+    <flavors id="strawberry" title="Strawberry" />
+  </flavors>
+  <flavors title="Chemical">
+    <flavors id="alcohol" title="Alcohol" />
+    <flavors id="burntmatch" title="Burnt Match" />
+    <flavors id="medicinal" title="Medicinal" />
+    <flavors id="menthol" title="Menthol" />
+    <flavors id="metallic" title="Metallic" />
+    <flavors id="mineral" title="Mineral" />
+    <flavors id="paintthinner" title="Paint Thinner" />
+    <flavors id="petroleum" title="Petroleum" />
+    <flavors id="plastic" title="Plastic" />
+    <flavors id="rubber" title="Rubber" />
+    <flavors id="stale" title="Stale" />
+    <flavors id="sulfur" title="Sulfur/Rotten Eggs" />
+    <flavors id="tar" title="Tar" />
+    <flavors id="vinegar" title="Vinegar" />
+    <flavors id="citrus" title="Citrus, Grapefruit" />
+  </flavors>
+  <flavors title="Citrus">
+    <flavors id="lemon" title="Lemon" />
+    <flavors id="lime" title="Lime" />
+    <flavors id="orange" title="Orange" />
+  </flavors>
+  <flavors title="Earthy">
+    <flavors id="bakedbread" title="Baked Bread" />
+    <flavors id="cereal" title="Cereal" />
+    <flavors id="chalk" title="Chalk" />
+    <flavors id="game" title="Game" />
+    <flavors id="grainy" title="Grainy" />
+    <flavors id="leather" title="Leather" />
+    <flavors id="soil" title="Soil" />
+    <flavors id="stinkyfeet" title="Stinky Feet" />
+    <flavors id="stinkycheese" title="Stinky Cheese" />
+    <flavors id="wetwool" title="Wet Wool" />
+    <flavors id="yeast" title="Yeast" />
+    <flavors id="yogurt" title="Yogurt" />
+  </flavors>
+  <flavors title="Floral">
+    <flavors id="fresh" title="Fresh Flowers" />
+    <flavors id="geranium" title="Geranium" />
+    <flavors id="honeysuckle" title="Honeysuckle" />
+    <flavors id="lavender" title="Lavender" />
+    <flavors id="rose" title="Rose" />
+    <flavors id="violet" title="Violet" />
+  </flavors>
+  <flavors title="Fruit">
+    <flavors id="apricot" title="Apricot" />
+    <flavors id="cherry" title="Cherry" />
+    <flavors id="fig" title="Fig" />
+    <flavors id="green" title="Green Apple" />
+    <flavors id="peach" title="Peach" />
+    <flavors id="pear" title="Pear" />
+    <flavors id="plum" title="Plum" />
+  </flavors>
+  <flavors title="Herbal">
+    <flavors id="cutgreengrass" title="Cut Green Grass" />
+    <flavors id="dill" title="Dill" />
+    <flavors id="eucalyptus" title="Eucalyptus" />
+    <flavors id="mint" title="Mint" />
+    <flavors id="resinous" title="Resinous" />
+    <flavors id="sage" title="Sage" />
+    <flavors id="tea" title="Tea" />
+    <flavors id="tobacco" title="Tobacco" />
+    <flavors id="hoppy" title="Hoppy" />
+  </flavors>
+  <flavors title="Nuts">
+    <flavors id="almond" title="Almond" />
+    <flavors id="hazelnut" title="Hazelnut" />
+    <flavors id="peanuts" title="Peanuts" />
+    <flavors id="pecan" title="Pecan" />
+    <flavors id="walnut" title="Walnut" />
+  </flavors>
+  <flavors title="Smokey/Woody">
+    <flavors id="bacon" title="Bacon" />
+    <flavors id="burnt" title="Burnt Wood" />
+    <flavors id="cedar" title="Cedar" />
+    <flavors id="oak" title="Oak" />
+    <flavors id="pine" title="Pine" />
+    <flavors id="roasty" title="Roasty" />
+    <flavors id="smoke" title="Smoke" />
+    <flavors id="toast" title="Toast" />
+  </flavors>
+  <flavors title="Spice">
+    <flavors id="blackpepper" title="Black Pepper" />
+    <flavors id="cinnamon" title="Cinnamon" />
+    <flavors id="clove" title="Clove" />
+    <flavors id="coffee" title="Coffee" />
+    <flavors id="ginger" title="Ginger" />
+    <flavors id="licorice" title="Licorice/Anise" />
+    <flavors id="nutmeg" title="Nutmeg" />
+    <flavors id="rum" title="Rum" />
+    <flavors id="salt" title="Salt" />
+    <flavors id="vanilla" title="Vanilla" />
+  </flavors>
+  <flavors title="Sweets">
+    <flavors id="bourbon" title="Bourbon" />
+    <flavors id="butter" title="Butter" />
+    <flavors id="butterscotch" title="Butterscotch" />
+    <flavors id="caramel" title="Caramel" />
+    <flavors id="chocolate" title="Chocolate" />
+    <flavors id="cream" title="Cream" />
+    <flavors id="driedplum" title="Dried Plum/Prune" />
+    <flavors id="honey" title="Honey" />
+    <flavors id="molasses" title="Molasses" />
+    <flavors id="raisins" title="Raisins" />
+    <flavors id="toffee" title="Toffee" />
+  </flavors>
+  <flavors title="Tropical">
+    <flavors id="banana" title="Banana" />
+    <flavors id="coconut" title="Coconut" />
+    <flavors id="guava" title="Guava" />
+    <flavors id="mango" title="Mango" />
+    <flavors id="melon" title="Melon" />
+    <flavors id="papaya" title="Papaya" />
+    <flavors id="passionfruit" title="Passionfruit" />
+    <flavors id="pineapple" title="Pineapple" />
+  </flavors>
+  <flavors title="Vegetables">
+    <flavors id="artichoke" title="Artichoke" />
+    <flavors id="asparagus" title="Asparagus" />
+    <flavors id="creamedcorn" title="Creamed Corn" />
+    <flavors id="garlic" title="Garlic" />
+    <flavors id="greenbeans" title="Green Beans" />
+    <flavors id="mushrooms" title="Mushrooms" />
+    <flavors id="olives" title="Olives" />
+    <flavors id="rhubarb" title="Rhubarb" />
+    <flavors id="sauerkraut" title="Sauerkraut" />
+    <flavors id="tomatojuice" title="Tomato Juice" />
+  </flavors>
+</json>

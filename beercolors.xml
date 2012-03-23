@@ -1,0 +1,62 @@
+<json _id="beercolors" _rev="1-819540899">
+  <colors name="Pale Straw" srm="2" srmmax="2.4" srmmin="0">
+    <rgb>255</rgb>
+    <rgb>249</rgb>
+    <rgb>180</rgb>
+  </colors>
+  <colors name="Straw" srm="3" srmmax="3.4" srmmin="2.5">
+    <rgb>255</rgb>
+    <rgb>216</rgb>
+    <rgb>120</rgb>
+  </colors>
+  <colors name="Pale Gold" srm="4" srmmax="4.9" srmmin="3.4">
+    <rgb>255</rgb>
+    <rgb>191</rgb>
+    <rgb>66</rgb>
+  </colors>
+  <colors name="Deep Gold" srm="6" srmmax="7.4" srmmin="5">
+    <rgb>248</rgb>
+    <rgb>166</rgb>
+    <rgb>0</rgb>
+  </colors>
+  <colors name="Pale Amber" srm="9" srmmax="10.4" srmmin="7.5">
+    <rgb>229</rgb>
+    <rgb>133</rgb>
+    <rgb>0</rgb>
+  </colors>
+  <colors name="Medium Amber" srm="12" srmmax="13.4" srmmin="10.5">
+    <rgb>207</rgb>
+    <rgb>105</rgb>
+    <rgb>0</rgb>
+  </colors>
+  <colors name="Deep Amber" srm="15" srmmax="16.4" srmmin="13.5">
+    <rgb>187</rgb>
+    <rgb>81</rgb>
+    <rgb>0</rgb>
+  </colors>
+  <colors name="Amber Brown" srm="18" srmmax="19.4" srmmin="16.5">
+    <rgb>166</rgb>
+    <rgb>62</rgb>
+    <rgb>10</rgb>
+  </colors>
+  <colors name="Brown" srm="21" srmmax="22.9" srmmin="19.5">
+    <rgb>100</rgb>
+    <rgb>52</rgb>
+    <rgb>10</rgb>
+  </colors>
+  <colors name="Ruby Brown" srm="24" srmmax="26.9" srmmin="23">
+    <rgb>78</rgb>
+    <rgb>11</rgb>
+    <rgb>10</rgb>
+  </colors>
+  <colors name="Deep Brown" srm="30" srmmax="34.9" srmmin="27">
+    <rgb>54</rgb>
+    <rgb>8</rgb>
+    <rgb>10</rgb>
+  </colors>
+  <colors name="Black" srm="40" srmmin="35">
+    <rgb>15</rgb>
+    <rgb>11</rgb>
+    <rgb>10</rgb>
+  </colors>
+</json>

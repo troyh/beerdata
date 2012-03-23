@@ -1,0 +1,156 @@
+<json _id="styles" _rev="1-4207784756">
+  <styles name="Light Lager" id="1">
+    <styles name="Light American Lager" id="1A" />
+    <styles name="Standard American Lager" id="1B" />
+    <styles name="Premium American Lager" id="1C" />
+    <styles name="Munich Helles" id="1D" />
+    <styles name="Dortmunder Export" id="1E" />
+  </styles>
+  <styles name="Pilsner" id="2">
+    <styles name="German Pilsner" id="2A" />
+    <styles name="Bohemian Pilsner" id="2B" />
+    <styles name="Classic American Pilsner" id="2C" />
+  </styles>
+  <styles name="European Amber Lager" id="3">
+    <styles name="Vienna Lager" id="3A" />
+    <styles name="Oktoberfest/Maerzen" id="3B" />
+  </styles>
+  <styles name="Dark Lager" id="4">
+    <styles name="Dark American Lager" id="4A" />
+    <styles name="Munich Dunkel" id="4B" />
+    <styles name="Schwarzbier (Black Beer)" id="4C" />
+  </styles>
+  <styles name="Bock" id="5">
+    <styles name="Maibock/Helles Bock" id="5A" />
+    <styles name="Traditional Bock" id="5B" />
+    <styles name="Doppelbock" id="5C" />
+    <styles name="Eisbock" id="5D" />
+  </styles>
+  <styles name="Light Hybrid Beer" id="6">
+    <styles name="Cream Ale" id="6A" />
+    <styles name="Blonde Ale" id="6B" />
+    <styles name="Kolsch" id="6C" />
+    <styles name="American Wheat or Rye" id="6D" />
+  </styles>
+  <styles name="Amber Hybrid Beer" id="7">
+    <styles name="Northern German Altbier" id="7A" />
+    <styles name="California Common Beer" id="7B" />
+    <styles name="Dusseldorf Altbier" id="7C" />
+  </styles>
+  <styles name="English Pale Ale" id="8">
+    <styles name="Standard/Ordinary Bitter" id="8A" />
+    <styles name="Special/Best/Premium Bitter" id="8B" />
+    <styles name="Extra Special/Strong Bitter" id="8C" />
+  </styles>
+  <styles name="Scottish and Irish Ales" id="9">
+    <styles name="Scottish Light 60/-" id="9A" />
+    <styles name="Scottish Heavy 70/-" id="9B" />
+    <styles name="Scottish Export 80/-" id="9C" />
+    <styles name="Irish Red Ale" id="9D" />
+    <styles name="Strong Scotch Ale" id="9E" />
+  </styles>
+  <styles name="American Ale" id="10">
+    <styles name="American Pale Ale" id="10A" />
+    <styles name="American Amber Ale" id="10B" />
+    <styles name="American Brown Ale" id="10C" />
+  </styles>
+  <styles name="English Brown Ale" id="11">
+    <styles name="Mild" id="11A" />
+    <styles name="Southern English Brown" id="11B" />
+    <styles name="Northern English Brown Ale" id="11C" />
+  </styles>
+  <styles name="Porter" id="12">
+    <styles name="Brown Porter" id="12A" />
+    <styles name="Robust Porter" id="12B" />
+    <styles name="Baltic Porter" id="12C" />
+  </styles>
+  <styles name="Stout" id="13">
+    <styles name="Dry Stout" id="13A" />
+    <styles name="Sweet Stout" id="13B" />
+    <styles name="Oatmeal Stout" id="13C" />
+    <styles name="Foreign Extra Stout" id="13D" />
+    <styles name="American Stout" id="13E" />
+    <styles name="Russian Imperial Stout" id="13F" />
+  </styles>
+  <styles name="India Pale Ale" id="14">
+    <styles name="English IPA" id="14A" />
+    <styles name="American IPA" id="14B" />
+    <styles name="Imperial IPA" id="14C" />
+  </styles>
+  <styles name="German Wheat and Rye Beer" id="15">
+    <styles name="Weizen/Weissbier" id="15A" />
+    <styles name="Dunkelweizen" id="15B" />
+    <styles name="Weizenbock" id="15C" />
+    <styles name="Roggenbier" id="15D" />
+  </styles>
+  <styles name="Belgian and French Ale" id="16">
+    <styles name="Witbier" id="16A" />
+    <styles name="Belgian Pale Ale" id="16B" />
+    <styles name="Saison" id="16C" />
+    <styles name="Biere de Garde" id="16D" />
+    <styles name="Belgian Specialty Ale" id="16E" />
+  </styles>
+  <styles name="Sour Ale" id="17">
+    <styles name="Berliner Weisse" id="17A" />
+    <styles name="Flanders Red Ale" id="17B" />
+    <styles name="Flanders Brown Ale/Oud Bruin" id="17C" />
+    <styles name="Straight (Unblended) Lambic" id="17D" />
+    <styles name="Gueuze" id="17E" />
+    <styles name="Fruit Lambic" id="17F" />
+  </styles>
+  <styles name="Begian Strong Ale" id="18">
+    <styles name="Belgian Blond Ale" id="18A" />
+    <styles name="Belgian Dubbel" id="18B" />
+    <styles name="Belgian Tripel" id="18C" />
+    <styles name="Belgian Golden Strong Ale" id="18D" />
+    <styles name="Belgian Dark Strong Ale" id="18E" />
+  </styles>
+  <styles name="Strong Ale" id="19">
+    <styles name="Old Ale" id="19A" />
+    <styles name="English Barleywine" id="19B" />
+    <styles name="American Barleywine" id="19C" />
+  </styles>
+  <styles name="Fruit Beer" id="20">
+    <styles name="Fruit Beer" id="20A" />
+  </styles>
+  <styles name="Spice/Herb/Vegetable Beer" id="21">
+    <styles name="Spice/Herb/Vegetable Beer" id="21A" />
+    <styles name="Christmas/Winter Specialty Spiced" id="21B" />
+  </styles>
+  <styles name="Smoke Flavored and Wood Aged Beer" id="22">
+    <styles name="Classic Rauchbier" id="22A" />
+    <styles name="Other Smoked Beer" id="22B" />
+    <styles name="Wood-Aged Beer" id="22C" />
+  </styles>
+  <styles name="Specialty Beer" id="23">
+    <styles name="Specialty Beer" id="23A" />
+  </styles>
+  <styles name="Traditional Mead" id="24">
+    <styles name="Dry Mead" id="24A" />
+    <styles name="Semi-Sweet Mead" id="24B" />
+    <styles name="Sweet Mead" id="24C" />
+  </styles>
+  <styles name="Melomel (Fruit Mead)" id="25">
+    <styles name="Cyser (Apple Melomel)" id="25A" />
+    <styles name="Pyment (Grape Melomel)" id="25B" />
+    <styles name="Other Fruit Melomel" id="25C" />
+  </styles>
+  <styles name="Other Mead" id="26">
+    <styles name="Metheglin" id="26A" />
+    <styles name="Braggot" id="26B" />
+    <styles name="Open Category Mead" id="26C" />
+  </styles>
+  <styles name="Standard Cider and Perry" id="27">
+    <styles name="Common Cider" id="27A" />
+    <styles name="English Cider" id="27B" />
+    <styles name="French Cider" id="27C" />
+    <styles name="Common Perry" id="27D" />
+    <styles name="Traditional Perry" id="27E" />
+  </styles>
+  <styles name="Specialty Cider and Perry" id="28">
+    <styles name="New England Cider" id="28A" />
+    <styles name="Fruit Cider" id="28B" />
+    <styles name="Applewine" id="28C" />
+    <styles name="Other Specialty Cider/Perry" id="28D" />
+  </styles>
+</json>
