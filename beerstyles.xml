@@ -19,9 +19,9 @@
   </styles>
   <styles name="Amber Lager" id="amber-lager">
     <styles name="Vienna Lager" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.01" IBUhi="30" IBUlo="18" OGhi="1.052" OGlo="1.046" SRMhi="16" SRMlo="10" from="BJCP" id="vienna-lager" origin="German" type="Lager" />
-    <styles name="German Oktoberfest/Märzen" ABVhi="5.7" ABVlo="4.8" FGhi="1.016" FGlo="1.012" IBUhi="28" IBUlo="20" OGhi="1.057" OGlo="1.05" SRMhi="14" SRMlo="7" from="BJCP" id="german-oktoberfest-m-rzen" origin="German" type="Lager" />
+    <styles name="German Oktoberfest/MÃ¤rzen" ABVhi="5.7" ABVlo="4.8" FGhi="1.016" FGlo="1.012" IBUhi="28" IBUlo="20" OGhi="1.057" OGlo="1.05" SRMhi="14" SRMlo="7" from="BJCP" id="german-oktoberfest-marzen" origin="German" type="Lager" />
     <styles name="American Amber Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-amber-lager" origin="American" type="Lager" />
-    <styles name="American Oktoberfest/Märzen" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-oktoberfest-m-rzen" origin="American" type="Lager" />
+    <styles name="American Oktoberfest/MÃ¤rzen" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-oktoberfest-marzen" origin="American" type="Lager" />
   </styles>
   <styles name="Dark Lager" id="dark-lager">
     <styles name="American Dark Lager" ABVhi="6" ABVlo="4.2" FGhi="1.012" FGlo="1.008" IBUhi="20" IBUlo="8" OGhi="1.056" OGlo="1.044" SRMhi="22" SRMlo="14" from="BJCP" id="american-dark-lager" origin="American" type="Lager" />
@@ -39,7 +39,7 @@
     <styles name="Cream Ale" ABVhi="5.6" ABVlo="4.2" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="15" OGhi="1.055" OGlo="1.042" SRMhi="5" SRMlo="2" from="BJCP" id="cream-ale" origin="American" type="Hybrid" />
     <styles name="American Golden/Blonde Ale" ABVhi="5.5" ABVlo="3.8" FGhi="1.016" FGlo="1.008" IBUhi="28" IBUlo="15" OGhi="1.056" OGlo="1.038" SRMhi="7" SRMlo="3" from="Both" id="american-golden-blonde-ale" origin="American" type="Ale" />
     <styles name="Japanese Sake-Yeast Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="japanese-sake-yeast-beer" origin="Other" type="Hybrid" />
-    <styles name="Kölsch" ABVhi="5.3" ABVlo="4.4" FGhi="1.011" FGlo="1.006" IBUhi="30" IBUlo="18" OGhi="1.05" OGlo="1.042" SRMhi="6" SRMlo="3" from="Both" id="k-lsch" origin="German" type="Ale" />
+    <styles name="KÃ¶lsch" ABVhi="5.3" ABVlo="4.4" FGhi="1.011" FGlo="1.006" IBUhi="30" IBUlo="18" OGhi="1.05" OGlo="1.042" SRMhi="6" SRMlo="3" from="Both" id="k-lsch" origin="German" type="Ale" />
     <styles name="American Light Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-light-wheat-beer" origin="American" type="Ale" />
     <styles name="American Dark Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-dark-wheat-beer" origin="American" type="Ale" />
     <styles name="American Wheat Beer" ABVhi="5.5" ABVlo="4" FGhi="1.013" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.055" OGlo="1.04" SRMhi="6" SRMlo="3" from="BJCP" id="american-wheat-beer" origin="American" type="Ale" />
@@ -110,7 +110,7 @@
     <styles name="Belgian Wheat/White/Wit" ABVhi="5.5" ABVlo="4.5" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="10" OGhi="1.052" OGlo="1.044" SRMhi="4" SRMlo="2" from="Both" id="belgian-wheat-white-wit" origin="Belgian" type="Ale" />
     <styles name="Belgian Pale Ale" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.008" IBUhi="30" IBUlo="20" OGhi="1.054" OGlo="1.044" SRMhi="14" SRMlo="4" from="Both" id="belgian-pale-ale" origin="Belgian" type="Ale" />
     <styles name="Saison" ABVhi="8.5" ABVlo="4.5" FGhi="1.016" FGlo="1.002" IBUhi="40" IBUlo="20" OGhi="1.08" OGlo="1.048" SRMhi="14" SRMlo="4" from="Both" id="saison" origin="Belgian" type="Ale" />
-    <styles name="Bière de Garde" ABVhi="8.5" ABVlo="4.5" FGhi="1.024" FGlo="1.008" IBUhi="30" IBUlo="18" OGhi="1.08" OGlo="1.06" SRMhi="19" SRMlo="6" from="Both" id="bi-re-de-garde" origin="Belgian" type="Ale" />
+    <styles name="BiÃ¨re de Garde" ABVhi="8.5" ABVlo="4.5" FGhi="1.024" FGlo="1.008" IBUhi="30" IBUlo="18" OGhi="1.08" OGlo="1.06" SRMhi="19" SRMlo="6" from="Both" id="bi-re-de-garde" origin="Belgian" type="Ale" />
     <styles name="Belgian Specialty Ale" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Both" id="belgian-specialty-ale" origin="Belgian" type="Ale" />
     <styles name="Belgian Table Beer" ABVhi="3.5" ABVlo="0.5" FGhi="1.034" FGlo="1.007" IBUhi="15" IBUlo="5" OGhi="1.038" OGlo="1.008" SRMhi="50" SRMlo="5" from="Brewers Assoc" id="belgian-table-beer" origin="Belgian" type="Ale" />
   </styles>
