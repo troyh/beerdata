@@ -1,4 +1,4 @@
-<json _id="beerstyles" _rev="3-4052663408">
+<beerstyles>
   <styles name="Light Lager" id="light-lager">
     <styles name="American Light Lager" ABVhi="4.2" ABVlo="2.8" FGhi="1.008" FGlo="0.998" IBUhi="12" IBUlo="8" OGhi="1.04" OGlo="1.028" SRMhi="3" SRMlo="2" from="BJCP" id="american-light-lager" origin="American" type="Lager" />
     <styles name="American Standard Lager" ABVhi="5.3" ABVlo="4.2" FGhi="1.01" FGlo="1.004" IBUhi="15" IBUlo="8" OGhi="1.05" OGlo="1.04" SRMhi="4" SRMlo="2" from="BJCP" id="american-standard-lager" origin="American" type="Lager" />
@@ -188,4 +188,4 @@
     <styles name="Other Specialty Cider/Perry" ABVhi="12" ABVlo="5" FGhi="1.02" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.1" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="other-specialty-cider-perry" origin="" type="" />
     <styles name="Traditional Perry" ABVhi="9" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.07" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="traditional-perry" origin="" type="" />
   </styles>
-</json>
+</beerstyles>
