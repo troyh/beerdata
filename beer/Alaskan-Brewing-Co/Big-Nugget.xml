@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beer>
-  <id>Alaskan-Brewing-Co/Big-Nugget</id>
-  <brewery_id>Alaskan-Brewing-Co</brewery_id>
+<beer id="Alaskan-Brewing-Co/Big-Nugget" breweryid="Alaskan-Brewing-Co">
   <name>Big Nugget</name>
-  <description/>
-  <availability/>
-  <ingredients/>
-  <grains/>
-  <grains/>
-  <hops/>
-  <yeast/>
-  <otherings/>
   <styles>
-    <style><name>Barleywine</name></style>
+    <style>
+      <name>Barleywine</name>
+    </style>
   </styles>
+  <abv value="10.0"></abv>
+  <ibu value="110"></ibu>
+  <description>Description text</description>
+  <ingredients>
+    <text>ingredients text</text>
+  </ingredients>
+  <grains>
+    <text>grains text</text>
+  </grains>
+  <hops>
+    <text>hops text</text>
+  </hops>
+  <yeast>
+    <text>yeast text</text>
+  </yeast>
+  <otherings>
+    <text>other ingredients text</text>
+  </otherings>
 </beer>

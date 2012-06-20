@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beer>
-  <id>Dogfish-Head-Craft-Brewery-Milton/90-Minute-IPA</id>
-  <brewery_id>Dogfish-Head-Craft-Brewery-Milton</brewery_id>
+<beer id="Dogfish-Head-Craft-Brewery-Milton/90-Minute-IPA" breweryid="">
   <calories_per_ml>0.828443543939462</calories_per_ml>
-  <abv>9</abv>
-  <ibu>90</ibu>
+  <abv value="9.0">9</abv>
+  <ibu value="90">90</ibu>
   <name>90 Minute IPA</name>
-  <description>Esquire Magazine calls our 90 Minute .I..PA., "perhaps the best I.P.A. in America."" An Imperial I.P.A. brewed to be savored from a snifter. A big beer with a great malt backbone that stands up to the extreme hopping rate. This beer is an excellent candidate for use with Randall The Enamel Animal!</description>
+  <description>
+    Esquire Magazine calls our 90 Minute .I..PA., &quot;perhaps the best I.P.A. in America.&quot;&quot; An Imperial I.P.A. brewed to be savored from a snifter. A big beer with a great malt backbone that stands up to the extreme hopping rate. This beer is an excellent candidate for use with Randall The Enamel Animal!
+  </description>
   <availability>Year round</availability>
-  <ingredients/>
-  <grains/>
-  <hops/>
-  <yeast/>
-  <otherings/>
+  <ingredients>
+    <text>Hops, hops, hops</text>
+  </ingredients>
+  <grains>
+    <text>Two-row</text>
+  </grains>
+  <hops>
+    <text>Centennial</text>
+  </hops>
+  <yeast>
+    <text>Unknown</text>
+  </yeast>
   <styles>
-    <style><bjcp_style_id>14</bjcp_style_id><name>India Pale Ale(IPA)</name></style>
+    <style>
+      <bjcp_style_id>14</bjcp_style_id>
+      <name>India Pale Ale(IPA)</name>
+    </style>
   </styles>
   <sizes>
     <size>
@@ -37,9 +47,7 @@
         <item>10636</item>
         <reg_price>50.34</reg_price>
         <post_off>$46.14</post_off>
-        <net_case_price/>
         <unit_price>$8.39</unit_price>
-        <deposit/>
       </distributor>
     </size>
   </sizes>

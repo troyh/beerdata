@@ -1,191 +1,196 @@
-<beerstyles>
-  <styles name="Light Lager" id="light-lager">
-    <styles name="American Light Lager" ABVhi="4.2" ABVlo="2.8" FGhi="1.008" FGlo="0.998" IBUhi="12" IBUlo="8" OGhi="1.04" OGlo="1.028" SRMhi="3" SRMlo="2" from="BJCP" id="american-light-lager" origin="American" type="Lager" />
-    <styles name="American Standard Lager" ABVhi="5.3" ABVlo="4.2" FGhi="1.01" FGlo="1.004" IBUhi="15" IBUlo="8" OGhi="1.05" OGlo="1.04" SRMhi="4" SRMlo="2" from="BJCP" id="american-standard-lager" origin="American" type="Lager" />
-    <styles name="American Premium Lager" ABVhi="6" ABVlo="4.6" FGhi="1.012" FGlo="1.008" IBUhi="25" IBUlo="15" OGhi="1.056" OGlo="1.046" SRMhi="6" SRMlo="2" from="BJCP" id="american-premium-lager" origin="American" type="Lager" />
-    <styles name="American Ice Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-ice-lager" origin="American" type="Lager" />
-    <styles name="American Malt Liquor" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-malt-liquor" origin="American" type="Lager" />
-    <styles name="American Light Amber Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-light-amber-lager" origin="American" type="Lager" />
-    <styles name="Munich Helles" ABVhi="5.4" ABVlo="4.7" FGhi="1.012" FGlo="1.008" IBUhi="22" IBUlo="16" OGhi="1.051" OGlo="1.045" SRMhi="5" SRMlo="3" from="BJCP" id="munich-helles" origin="German" type="Lager" />
-    <styles name="Dortmunder Export" ABVhi="6" ABVlo="4.8" FGhi="1.015" FGlo="1.01" IBUhi="30" IBUlo="23" OGhi="1.056" OGlo="1.048" SRMhi="6" SRMlo="4" from="BJCP" id="dortmunder-export" origin="German" type="Lager" />
-    <styles name="European Light Lager/German Leicht" ABVhi="3.6" ABVlo="2.5" FGhi="1.01" FGlo="1.006" IBUhi="24" IBUlo="16" OGhi="1.034" OGlo="1.026" SRMhi="4" SRMlo="2" from="Brewers Assoc" id="european-light-lager-german-leicht" origin="German" type="Lager" />
-    <styles name="Australasian, Latin American or Tropical Light Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="australasian-latin-american-or-tropical-light-lager" origin="Other" type="Lager" />
-  </styles>
-  <styles name="Pilsner" id="pilsner">
-    <styles name="German Pilsner" ABVhi="5.2" ABVlo="4" FGhi="1.013" FGlo="1.006" IBUhi="45" IBUlo="25" OGhi="1.05" OGlo="1.044" SRMhi="5" SRMlo="2" from="Both" id="german-pilsner" origin="German" type="Lager" />
-    <styles name="Bohemian Pilsner" ABVhi="5.4" ABVlo="4" FGhi="1.02" FGlo="1.013" IBUhi="45" IBUlo="30" OGhi="1.056" OGlo="1.044" SRMhi="7" SRMlo="3" from="Both" id="bohemian-pilsner" origin="German" type="Lager" />
-    <styles name="American Pilsner" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.01" IBUhi="40" IBUlo="25" OGhi="1.06" OGlo="1.044" SRMhi="6" SRMlo="3" from="BJCP" id="american-pilsner" origin="American" type="Lager" />
-    <styles name="International Pilsner" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="international-pilsner" origin="Other" type="Lager" />
-  </styles>
-  <styles name="Amber Lager" id="amber-lager">
-    <styles name="Vienna Lager" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.01" IBUhi="30" IBUlo="18" OGhi="1.052" OGlo="1.046" SRMhi="16" SRMlo="10" from="BJCP" id="vienna-lager" origin="German" type="Lager" />
-    <styles name="German Oktoberfest/Märzen" ABVhi="5.7" ABVlo="4.8" FGhi="1.016" FGlo="1.012" IBUhi="28" IBUlo="20" OGhi="1.057" OGlo="1.05" SRMhi="14" SRMlo="7" from="BJCP" id="german-oktoberfest-marzen" origin="German" type="Lager" />
-    <styles name="American Amber Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-amber-lager" origin="American" type="Lager" />
-    <styles name="American Oktoberfest/Märzen" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-oktoberfest-marzen" origin="American" type="Lager" />
-  </styles>
-  <styles name="Dark Lager" id="dark-lager">
-    <styles name="American Dark Lager" ABVhi="6" ABVlo="4.2" FGhi="1.012" FGlo="1.008" IBUhi="20" IBUlo="8" OGhi="1.056" OGlo="1.044" SRMhi="22" SRMlo="14" from="BJCP" id="american-dark-lager" origin="American" type="Lager" />
-    <styles name="European Dark Lager/Munich Dunkel" ABVhi="5.6" ABVlo="4.5" FGhi="1.016" FGlo="1.01" IBUhi="28" IBUlo="18" OGhi="1.056" OGlo="1.048" SRMhi="28" SRMlo="14" from="BJCP" id="european-dark-lager-munich-dunkel" origin="German" type="Lager" />
-    <styles name="German Black Lager/Schwarzbier" ABVhi="5.4" ABVlo="4.4" FGhi="1.016" FGlo="1.01" IBUhi="32" IBUlo="22" OGhi="1.052" OGlo="1.046" SRMhi="30" SRMlo="17" from="BJCP" id="german-black-lager-schwarzbier" origin="German" type="Lager" />
-  </styles>
-  <styles name="Bock" id="bock">
-    <styles name="Maibock/Helles Bock" ABVhi="7.4" ABVlo="6.3" FGhi="1.018" FGlo="1.011" IBUhi="35" IBUlo="23" OGhi="1.072" OGlo="1.064" SRMhi="11" SRMlo="6" from="BJCP" id="maibock-helles-bock" origin="German" type="Lager" />
-    <styles name="Traditional Bock" ABVhi="7.2" ABVlo="6.3" FGhi="1.019" FGlo="1.013" IBUhi="27" IBUlo="20" OGhi="1.072" OGlo="1.064" SRMhi="22" SRMlo="14" from="BJCP" id="traditional-bock" origin="German" type="Lager" />
-    <styles name="Doppelbock" ABVhi="10" ABVlo="7" FGhi="1.024" FGlo="1.016" IBUhi="26" IBUlo="16" OGhi="1.112" OGlo="1.072" SRMhi="25" SRMlo="6" from="BJCP" id="doppelbock" origin="German" type="Lager" />
-    <styles name="Eisbock" ABVhi="14" ABVlo="9" FGhi="1.035" FGlo="1.02" IBUhi="35" IBUlo="25" OGhi="1.12" OGlo="1.078" SRMhi="30" SRMlo="18" from="BJCP" id="eisbock" origin="German" type="Lager" />
-  </styles>
-  <styles name="Lager/Ale Hybrid" id="lager-ale-hybrid">
-    <styles name="Session Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="session-beer" origin="Other" type="Hybrid" />
-    <styles name="Cream Ale" ABVhi="5.6" ABVlo="4.2" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="15" OGhi="1.055" OGlo="1.042" SRMhi="5" SRMlo="2" from="BJCP" id="cream-ale" origin="American" type="Hybrid" />
-    <styles name="American Golden/Blonde Ale" ABVhi="5.5" ABVlo="3.8" FGhi="1.016" FGlo="1.008" IBUhi="28" IBUlo="15" OGhi="1.056" OGlo="1.038" SRMhi="7" SRMlo="3" from="Both" id="american-golden-blonde-ale" origin="American" type="Ale" />
-    <styles name="Japanese Sake-Yeast Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="japanese-sake-yeast-beer" origin="Other" type="Hybrid" />
-    <styles name="Kölsch" ABVhi="5.3" ABVlo="4.4" FGhi="1.011" FGlo="1.006" IBUhi="30" IBUlo="18" OGhi="1.05" OGlo="1.042" SRMhi="6" SRMlo="3" from="Both" id="k-lsch" origin="German" type="Ale" />
-    <styles name="American Light Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-light-wheat-beer" origin="American" type="Ale" />
-    <styles name="American Dark Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-dark-wheat-beer" origin="American" type="Ale" />
-    <styles name="American Wheat Beer" ABVhi="5.5" ABVlo="4" FGhi="1.013" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.055" OGlo="1.04" SRMhi="6" SRMlo="3" from="BJCP" id="american-wheat-beer" origin="American" type="Ale" />
-    <styles name="American Rye Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-rye-beer" origin="American" type="Ale" />
-    <styles name="California Common/Steam Beer" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.011" IBUhi="45" IBUlo="30" OGhi="1.054" OGlo="1.048" SRMhi="14" SRMlo="10" from="BJCP" id="california-common-steam-beer" origin="American" type="Hybrid" />
-    <styles name="German Brown Ale/Altbier" ABVhi="5.5" ABVlo="4.3" FGhi="1.015" FGlo="1.008" IBUhi="52" IBUlo="25" OGhi="1.054" OGlo="1.044" SRMhi="19" SRMlo="11" from="Both" id="german-brown-ale-altbier" origin="German" type="Hybrid" />
-    <styles name="Kellerbier or Zwickelbier" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="kellerbier-or-zwickelbier" origin="German" type="Ale" />
-  </styles>
-  <styles name="English Ale" id="english-ale">
-    <styles name="English Pale Ale" ABVhi="5.5" ABVlo="4.5" FGhi="1.016" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.056" OGlo="1.04" SRMhi="14" SRMlo="5" from="Brewers Assoc" id="english-pale-ale" origin="British" type="Ale" />
-    <styles name="Standard/Ordinary Bitter" ABVhi="4.1" ABVlo="3" FGhi="1.012" FGlo="1.007" IBUhi="35" IBUlo="20" OGhi="1.04" OGlo="1.032" SRMhi="14" SRMlo="4" from="Both" id="standard-ordinary-bitter" origin="British" type="Ale" />
-    <styles name="Special/Best/Premium Bitter" ABVhi="4.8" ABVlo="3.8" FGhi="1.012" FGlo="1.008" IBUhi="40" IBUlo="25" OGhi="1.048" OGlo="1.038" SRMhi="16" SRMlo="5" from="Both" id="special-best-premium-bitter" origin="British" type="Ale" />
-    <styles name="Extra Special/Strong Bitter (ESB)" ABVhi="6.2" ABVlo="4.1" FGhi="1.016" FGlo="1.006" IBUhi="50" IBUlo="28" OGhi="1.06" OGlo="1.038" SRMhi="18" SRMlo="6" from="beer colors" id="extra-special-strong-bitter-esb" origin="British" type="Ale" />
-    <styles name="English Summer Ale" ABVhi="5" ABVlo="3.6" FGhi="1.012" FGlo="1.006" IBUhi="35" IBUlo="20" OGhi="1.05" OGlo="1.036" SRMhi="6" SRMlo="4" from="Brewers Assoc" id="english-summer-ale" origin="British" type="Ale" />
-    <styles name="English Brown Ale" ABVhi="5.5" ABVlo="2.8" FGhi="1.014" FGlo="1.008" IBUhi="30" IBUlo="12" OGhi="1.052" OGlo="1.033" SRMhi="35" SRMlo="12" from="Both" id="english-brown-ale" origin="British" type="Ale" />
-    <styles name="Pale Mild" ABVhi="4.5" ABVlo="2.8" FGhi="1.013" FGlo="1.004" IBUhi="25" IBUlo="10" OGhi="1.038" OGlo="1.03" SRMhi="25" SRMlo="8" from="Both" id="pale-mild" origin="British" type="Ale" />
-    <styles name="Dark Mild" ABVhi="4" ABVlo="3.2" FGhi="1.008" FGlo="1.004" IBUhi="24" IBUlo="10" OGhi="1.036" OGlo="1.03" SRMhi="34" SRMlo="17" from="Brewers Assoc" id="dark-mild" origin="British" type="Ale" />
-  </styles>
-  <styles name="Scottish and Irish Ale" id="scottish-and-irish-ale">
-    <styles name="Scottish Light Ale 60/-" ABVhi="3.5" ABVlo="2.5" FGhi="1.013" FGlo="1.006" IBUhi="20" IBUlo="9" OGhi="1.035" OGlo="1.03" SRMhi="17" SRMlo="8" from="Both" id="scottish-light-ale-60" origin="British" type="Ale" />
-    <styles name="Scottish Heavy Ale 70/-" ABVhi="4" ABVlo="3.2" FGhi="1.015" FGlo="1.01" IBUhi="25" IBUlo="10" OGhi="1.04" OGlo="1.035" SRMhi="19" SRMlo="9" from="Both" id="scottish-heavy-ale-70" origin="British" type="Ale" />
-    <styles name="Scottish Export Ale 80/-" ABVhi="5.3" ABVlo="3.9" FGhi="1.018" FGlo="1.01" IBUhi="30" IBUlo="15" OGhi="1.054" OGlo="1.04" SRMhi="19" SRMlo="9" from="Both" id="scottish-export-ale-80" origin="British" type="Ale" />
-    <styles name="Irish Red Ale" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.01" IBUhi="28" IBUlo="17" OGhi="1.06" OGlo="1.04" SRMhi="18" SRMlo="9" from="Both" id="irish-red-ale" origin="Irish" type="Ale" />
-    <styles name="Strong Scotch Ale/Wee Heavy" ABVhi="8" ABVlo="6.2" FGhi="1.056" FGlo="1.016" IBUhi="35" IBUlo="17" OGhi="1.13" OGlo="1.07" SRMhi="30" SRMlo="14" from="BJCP" id="strong-scotch-ale-wee-heavy" origin="British" type="Ale" />
-  </styles>
-  <styles name="American Ale" id="american-ale">
-    <styles name="American Pale Ale" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.008" IBUhi="45" IBUlo="30" OGhi="1.06" OGlo="1.044" SRMhi="14" SRMlo="5" from="Both" id="american-pale-ale" origin="American" type="Ale" />
-    <styles name="American Amber Ale" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.01" IBUhi="40" IBUlo="25" OGhi="1.06" OGlo="1.045" SRMhi="17" SRMlo="10" from="BJCP" id="american-amber-ale" origin="American" type="Ale" />
-    <styles name="American Brown Ale" ABVhi="604" ABVlo="4" FGhi="1.018" FGlo="1.01" IBUhi="45" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="35" SRMlo="15" from="Both" id="american-brown-ale" origin="American" type="Ale" />
-    <styles name="Fresh Hop Ale" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="fresh-hop-ale" origin="American" type="Ale" />
-    <styles name="American-Belgian Pale Ale" ABVhi="12.4" ABVlo="4.4" FGhi="1.014" FGlo="1.008" IBUhi="100" IBUlo="30" OGhi="1.099" OGlo="1.05" SRMhi="15" SRMlo="5" from="Brewers Assoc" id="american-belgian-pale-ale" origin="American" type="Ale" />
-    <styles name="American-Belgian Dark Ale" ABVhi="12.4" ABVlo="4.4" FGhi="1.014" FGlo="1.008" IBUhi="100" IBUlo="30" OGhi="1.099" OGlo="1.05" SRMhi="40" SRMlo="16" from="Brewers Assoc" id="american-belgian-dark-ale" origin="American" type="Ale" />
-    <styles name="American Red Ale" ABVhi="6" ABVlo="4.5" FGhi="1.018" FGlo="1.012" IBUhi="40" IBUlo="30" OGhi="1.058" OGlo="1.048" SRMhi="18" SRMlo="11" from="Brewers Assoc" id="american-red-ale" origin="American" type="Ale" />
-    <styles name="Imperial Red Ale" ABVhi="10.5" ABVlo="7.9" FGhi="1.028" FGlo="1.02" IBUhi="85" IBUlo="55" OGhi="1.1" OGlo="1.08" SRMhi="15" SRMlo="10" from="Brewers Assoc" id="imperial-red-ale" origin="American" type="Ale" />
-  </styles>
-  <styles name="Porter" id="porter">
-    <styles name="Brown Porter" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.006" IBUhi="35" IBUlo="18" OGhi="1.052" OGlo="1.04" SRMhi="35" SRMlo="20" from="Both" id="brown-porter" origin="British" type="Ale" />
-    <styles name="Robust Porter" ABVhi="6.5" ABVlo="4" FGhi="1.016" FGlo="1.008" IBUhi="50" IBUlo="25" OGhi="1.065" OGlo="1.045" SRMhi="40" SRMlo="22" from="Both" id="robust-porter" origin="British" type="Ale" />
-    <styles name="Baltic Porter" ABVhi="9.5" ABVlo="5.5" FGhi="1.024" FGlo="1.016" IBUhi="40" IBUlo="20" OGhi="1.09" OGlo="1.06" SRMhi="30" SRMlo="17" from="BJCP" id="baltic-porter" origin="British" type="Ale" />
-  </styles>
-  <styles name="Stout" id="stout">
-    <styles name="Dry Stout" ABVhi="5" ABVlo="4" FGhi="1.011" FGlo="1.007" IBUhi="45" IBUlo="30" OGhi="1.05" OGlo="1.036" SRMhi="40" SRMlo="25" from="BJCP" id="dry-stout" origin="British" type="Ale" />
-    <styles name="Sweet Stout" ABVhi="6" ABVlo="3" FGhi="1.024" FGlo="1.012" IBUhi="40" IBUlo="15" OGhi="1.06" OGlo="1.044" SRMhi="40" SRMlo="30" from="Both" id="sweet-stout" origin="British" type="Ale" />
-    <styles name="Oatmeal Stout" ABVhi="6" ABVlo="3.8" FGhi="1.02" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.065" OGlo="1.038" SRMhi="40" SRMlo="20" from="Both" id="oatmeal-stout" origin="British" type="Ale" />
-    <styles name="Foreign Extra Stout" ABVhi="9.3" ABVlo="5.5" FGhi="1.02" FGlo="1.008" IBUhi="70" IBUlo="30" OGhi="1.075" OGlo="1.052" SRMhi="40" SRMlo="30" from="Both" id="foreign-extra-stout" origin="British" type="Ale" />
-    <styles name="American Stout" ABVhi="8.8" ABVlo="5" FGhi="1.022" FGlo="1.01" IBUhi="75" IBUlo="35" OGhi="1.075" OGlo="1.05" SRMhi="40" SRMlo="30" from="Both" id="american-stout" origin="American" type="Ale" />
-    <styles name="Russian Imperial Stout" ABVhi="12" ABVlo="8" FGhi="1.03" FGlo="1.018" IBUhi="90" IBUlo="50" OGhi="1.0115" OGlo="1.075" SRMhi="40" SRMlo="30" from="BJCP" id="russian-imperial-stout" origin="British" type="Ale" />
-    <styles name="English Imperial Stout" ABVhi="12" ABVlo="7" FGhi="1.03" FGlo="1.02" IBUhi="65" IBUlo="45" OGhi="1.1" OGlo="1.08" SRMhi="40" SRMlo="20" from="Brewers Assoc" id="english-imperial-stout" origin="British" type="Ale" />
-    <styles name="American Imperial Stout" ABVhi="12" ABVlo="7" FGhi="1.03" FGlo="1.02" IBUhi="80" IBUlo="50" OGhi="1.1" OGlo="1.08" SRMhi="40" SRMlo="40" from="Brewers Assoc" id="american-imperial-stout" origin="American" type="Ale" />
-    <styles name="Irish Dry Stout" ABVhi="5" ABVlo="2.8" FGhi="1.012" FGlo="1.008" IBUhi="40" IBUlo="30" OGhi="1.048" OGlo="1.038" SRMhi="40" SRMlo="40" from="Brewers Assoc" id="irish-dry-stout" origin="Irish" type="Ale" />
-  </styles>
-  <styles name="India Pale Ale" id="india-pale-ale">
-    <styles name="English IPA" ABVhi="7.5" ABVlo="5" FGhi="1.018" FGlo="1.01" IBUhi="63" IBUlo="35" OGhi="1.075" OGlo="1.05" SRMhi="14" SRMlo="6" from="Both" id="english-ipa" origin="British" type="Ale" />
-    <styles name="American IPA" ABVhi="7.5" ABVlo="5.5" FGhi="1.018" FGlo="1.01" IBUhi="70" IBUlo="40" OGhi="1.075" OGlo="1.056" SRMhi="15" SRMlo="6" from="Both" id="american-ipa" origin="American" type="Ale" />
-    <styles name="Imperial IPA" ABVhi="10.5" ABVlo="7.5" FGhi="1.028" FGlo="1.01" IBUhi="120" IBUlo="60" OGhi="1.1" OGlo="1.075" SRMhi="15" SRMlo="5" from="Both" id="imperial-ipa" origin="American" type="Ale" />
-  </styles>
-  <styles name="German Wheat and Rye" id="german-wheat-and-rye">
-    <styles name="German Wheat Ale/Weisse" ABVhi="5.6" ABVlo="4.3" FGhi="1.014" FGlo="1.01" IBUhi="15" IBUlo="8" OGhi="1.052" OGlo="1.044" SRMhi="8" SRMlo="2" from="BJCP" id="german-wheat-ale-weisse" origin="German" type="Ale" />
-    <styles name="German Dark Wheat/Dunkel Weizen" ABVhi="5.6" ABVlo="4.3" FGhi="1.016" FGlo="1.008" IBUhi="18" IBUlo="10" OGhi="1.056" OGlo="1.044" SRMhi="23" SRMlo="10" from="Both" id="german-dark-wheat-dunkel-weizen" origin="German" type="Ale" />
-    <styles name="German Weizenbock" ABVhi="9.3" ABVlo="6.5" FGhi="1.028" FGlo="1.015" IBUhi="30" IBUlo="15" OGhi="1.09" OGlo="1.064" SRMhi="30" SRMlo="5" from="Both" id="german-weizenbock" origin="German" type="Ale" />
-    <styles name="German Rye Ale/Roggenbier" ABVhi="6" ABVlo="4.5" FGhi="1.014" FGlo="1.01" IBUhi="20" IBUlo="10" OGhi="1.056" OGlo="1.046" SRMhi="19" SRMlo="14" from="BJCP" id="german-rye-ale-roggenbier" origin="German" type="Ale" />
-    <styles name="German Hefeweizen" ABVhi="5.5" ABVlo="4.9" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.047" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="german-hefeweizen" origin="German" type="Ale" />
-    <styles name="Kristal Weizen" ABVhi="5.5" ABVlo="4.9" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.047" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="kristal-weizen" origin="German" type="Ale" />
-    <styles name="Leichtes Weizen" ABVhi="3.5" ABVlo="2.5" FGhi="1.008" FGlo="1.004" IBUhi="20" IBUlo="10" OGhi="1.044" OGlo="1.028" SRMhi="15" SRMlo="3" from="Brewers Assoc" id="leichtes-weizen" origin="German" type="Ale" />
-    <styles name="Amber Wheat/Bernsteinfarbenes Weizen" ABVhi="504" ABVlo="4.8" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.048" SRMhi="13" SRMlo="9" from="Brewers Assoc" id="amber-wheat-bernsteinfarbenes-weizen" origin="German" type="Ale" />
-  </styles>
-  <styles name="Belgian and French Ale" id="belgian-and-french-ale">
-    <styles name="Belgian Wheat/White/Wit" ABVhi="5.5" ABVlo="4.5" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="10" OGhi="1.052" OGlo="1.044" SRMhi="4" SRMlo="2" from="Both" id="belgian-wheat-white-wit" origin="Belgian" type="Ale" />
-    <styles name="Belgian Pale Ale" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.008" IBUhi="30" IBUlo="20" OGhi="1.054" OGlo="1.044" SRMhi="14" SRMlo="4" from="Both" id="belgian-pale-ale" origin="Belgian" type="Ale" />
-    <styles name="Saison" ABVhi="8.5" ABVlo="4.5" FGhi="1.016" FGlo="1.002" IBUhi="40" IBUlo="20" OGhi="1.08" OGlo="1.048" SRMhi="14" SRMlo="4" from="Both" id="saison" origin="Belgian" type="Ale" />
-    <styles name="Bière de Garde" ABVhi="8.5" ABVlo="4.5" FGhi="1.024" FGlo="1.008" IBUhi="30" IBUlo="18" OGhi="1.08" OGlo="1.06" SRMhi="19" SRMlo="6" from="Both" id="bi-re-de-garde" origin="Belgian" type="Ale" />
-    <styles name="Belgian Specialty Ale" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Both" id="belgian-specialty-ale" origin="Belgian" type="Ale" />
-    <styles name="Belgian Table Beer" ABVhi="3.5" ABVlo="0.5" FGhi="1.034" FGlo="1.007" IBUhi="15" IBUlo="5" OGhi="1.038" OGlo="1.008" SRMhi="50" SRMlo="5" from="Brewers Assoc" id="belgian-table-beer" origin="Belgian" type="Ale" />
-  </styles>
-  <styles name="Sour Ale" id="sour-ale">
-    <styles name="Berliner Weisse" ABVhi="3.8" ABVlo="2.8" FGhi="1.006" FGlo="1.003" IBUhi="8" IBUlo="3" OGhi="1.032" OGlo="1.028" SRMhi="4" SRMlo="2" from="Both" id="berliner-weisse" origin="German" type="Ale" />
-    <styles name="Flanders Red Ale/Oud Red" ABVhi="6.5" ABVlo="4.6" FGhi="1.012" FGlo="1.002" IBUhi="25" IBUlo="10" OGhi="1.057" OGlo="1.048" SRMhi="16" SRMlo="10" from="BJCP" id="flanders-red-ale-oud-red" origin="Belgian" type="Ale" />
-    <styles name="Flanders Brown Ale/Oud Bruin" ABVhi="8" ABVlo="4" FGhi="1.012" FGlo="1.008" IBUhi="25" IBUlo="20" OGhi="1.074" OGlo="1.04" SRMhi="22" SRMlo="15" from="BJCP" id="flanders-brown-ale-oud-bruin" origin="Belgian" type="Ale" />
-    <styles name="Belgian Straight (Unblended) Lambic" ABVhi="8.1" ABVlo="5" FGhi="1.01" FGlo="1" IBUhi="23" IBUlo="0" OGhi="1.056" OGlo="1.04" SRMhi="13" SRMlo="3" from="Both" id="belgian-straight-unblended-lambic" origin="Belgian" type="Ale" />
-    <styles name="Gueuze" ABVhi="8.6" ABVlo="5" FGhi="1.01" FGlo="1" IBUhi="23" IBUlo="0" OGhi="1.06" OGlo="1.04" SRMhi="13" SRMlo="3" from="Both" id="gueuze" origin="Belgian" type="Ale" />
-    <styles name="Fruit Lambic" ABVhi="8.6" ABVlo="5" FGhi="1.016" FGlo="1" IBUhi="21" IBUlo="0" OGhi="1.072" OGlo="1.04" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="fruit-lambic" origin="Belgian" type="Ale" />
-    <styles name="American Sour Ale (Fruit &amp; Unfruited)" ABVhi="8.7" ABVlo="4" FGhi="1.012" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="26" SRMlo="6" from="Brewers Assoc" id="american-sour-ale-fruit-unfruited" origin="American" type="Ale" />
-    <styles name="Leipzig Gose" ABVhi="5.4" ABVlo="4.4" FGhi="1.012" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.036" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="leipzig-gose" origin="German" type="Ale" />
-  </styles>
-  <styles name="Strong Ale" id="strong-ale">
-    <styles name="Belgian Blonde Ale" ABVhi="7.8" ABVlo="6" FGhi="1.018" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.075" OGlo="1.054" SRMhi="10" SRMlo="4" from="Both" id="belgian-blonde-ale" origin="Belgian" type="Ale" />
-    <styles name="Belgian Dubbel" ABVhi="7.6" ABVlo="6" FGhi="1.018" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.075" OGlo="1.06" SRMhi="36" SRMlo="10" from="Both" id="belgian-dubbel" origin="Belgian" type="Ale" />
-    <styles name="Belgian Tripel" ABVhi="10" ABVlo="7" FGhi="1.018" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.092" OGlo="1.07" SRMhi="9" SRMlo="4" from="Both" id="belgian-tripel" origin="Belgian" type="Ale" />
-    <styles name="Belgian Pale/Golden Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.024" FGlo="1.005" IBUhi="50" IBUlo="20" OGhi="1.096" OGlo="1.064" SRMhi="10" SRMlo="3" from="Both" id="belgian-pale-golden-strong-ale" origin="Belgian" type="Ale" />
-    <styles name="Belgian Dark Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.024" FGlo="1.01" IBUhi="50" IBUlo="20" OGhi="1.096" OGlo="1.064" SRMhi="35" SRMlo="7" from="Both" id="belgian-dark-strong-ale" origin="Belgian" type="Ale" />
-    <styles name="English Old Ale" ABVhi="9" ABVlo="6" FGhi="1.03" FGlo="1.014" IBUhi="65" IBUlo="30" OGhi="1.09" OGlo="1.058" SRMhi="30" SRMlo="10" from="Both" id="english-old-ale" origin="British" type="Ale" />
-    <styles name="English Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.04" FGlo="1.014" IBUhi="65" IBUlo="30" OGhi="1.125" OGlo="1.06" SRMhi="21" SRMlo="8" from="Brewers Assoc" id="english-strong-ale" origin="British" type="Ale" />
-    <styles name="English Barleywine" ABVhi="12" ABVlo="8" FGhi="1.032" FGlo="1.018" IBUhi="70" IBUlo="35" OGhi="1.12" OGlo="1.08" SRMhi="22" SRMlo="8" from="Both" id="english-barleywine" origin="British" type="Ale" />
-    <styles name="American Barleywine" ABVhi="12" ABVlo="8" FGhi="1.032" FGlo="1.016" IBUhi="120" IBUlo="50" OGhi="1.12" OGlo="1.08" SRMhi="22" SRMlo="10" from="Both" id="american-barleywine" origin="American" type="Ale" />
-    <styles name="American Wheat Wine" ABVhi="12" ABVlo="8.4" FGhi="1.032" FGlo="1.024" IBUhi="85" IBUlo="45" OGhi="1.12" OGlo="1.088" SRMhi="15" SRMlo="8" from="Brewers Assoc" id="american-wheat-wine" origin="American" type="Ale" />
-    <styles name="American Strong Pale Ale" ABVhi="6.3" ABVlo="5.5" FGhi="1.16" FGlo="1.008" IBUhi="50" IBUlo="40" OGhi="1.06" OGlo="1.05" SRMhi="14" SRMlo="6" from="Brewers Assoc" id="american-strong-pale-ale" origin="American" type="Ale" />
-  </styles>
-  <styles name="Spice, Fruit, and Vegetable Beer" id="spice-fruit-and-vegetable-beer">
-    <styles name="Fruit Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="fruit-beer" origin="Other" type="Ale" />
-    <styles name="Herb and Spice Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="herb-and-spice-beer" origin="Other" type="Ale" />
-    <styles name="Winter Specialty Spiced" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="winter-specialty-spiced" origin="Other" type="Ale" />
-    <styles name="Chocolate/Cocoa Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="chocolate-cocoa-beer" origin="Other" type="Ale" />
-    <styles name="Coffee-Flavored Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="coffee-flavored-beer" origin="Other" type="Ale" />
-    <styles name="Honey Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="honey-beer" origin="Other" type="Ale" />
-    <styles name="Field/Vegetable Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="field-vegetable-beer" origin="Other" type="Ale" />
-    <styles name="Gluten-Free Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="gluten-free-beer" origin="Other" type="Ale" />
-    <styles name="Pumpkin Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="pumpkin-beer" origin="Other" type="Ale" />
-  </styles>
-  <styles name="Smoke and Wood-Aged Beer" id="smoke-and-wood-aged-beer">
-    <styles name="German Smoke Beer/Rauchbier" ABVhi="6" ABVlo="4.8" FGhi="1.016" FGlo="1.008" IBUhi="30" IBUlo="10" OGhi="1.057" OGlo="1.047" SRMhi="22" SRMlo="4" from="Both" id="german-smoke-beer-rauchbier" origin="German" type="Ale" />
-    <styles name="Other Smoked Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-smoked-beer" origin="Other" type="Ale" />
-    <styles name="Other Wood-Aged Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-wood-aged-beer" origin="Other" type="Ale" />
-    <styles name="Wood-Aged Pale to Amber Beer" ABVhi="8.7" ABVlo="5" FGhi="1.014" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.05" OGlo="1.04" SRMhi="40" SRMlo="20" from="Brewers Assoc" id="wood-aged-pale-to-amber-beer" origin="Other" type="Ale" />
-    <styles name="Smoke Porter" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="smoke-porter" origin="American" type="Ale" />
-    <styles name="Wood-Aged Dark Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-dark-beer" origin="Other" type="Ale" />
-    <styles name="Wood-Aged Strong Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-strong-beer" origin="Other" type="Ale" />
-    <styles name="Wood-Aged Sour Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-sour-beer" origin="Other" type="Ale" />
-  </styles>
-  <styles name="Miscellaneous" id="miscellaneous">
-    <styles name="Other Specialty Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-specialty-beer" origin="Other" type="Hybrid" />
-    <styles name="Experimental Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="experimental-beer" origin="Other" type="Hybrid" />
-    <styles name="Aged Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="aged-beer" origin="Other" type="Hybrid" />
-    <styles name="Non-Alcoholic Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="non-alcoholic-beer" origin="Other" type="Hybrid" />
-    <styles name="International Pale Ale" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.008" IBUhi="42" IBUlo="30" OGhi="1.05" OGlo="1.044" SRMhi="14" SRMlo="6" from="Brewers Assoc" id="international-pale-ale" origin="Other" type="Hybrid" />
-    <styles name="Australian Pale Ale" ABVhi="6.2" ABVlo="4.2" FGhi="1.012" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="14" SRMlo="5" from="Brewers Assoc" id="australian-pale-ale" origin="Other" type="Hybrid" />
-  </styles>
-  <styles name="Mead" id="mead">
-    <styles name="Cyser (Apple Melomel)" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="cyser-apple-melomel" origin="" type="" />
-    <styles name="Dry Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="dry-mead" origin="" type="" />
-    <styles name="Metheglin" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="metheglin" origin="" type="" />
-    <styles name="Braggot" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="braggot" origin="" type="" />
-    <styles name="Pyment (Grape Melomel)" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="pyment-grape-melomel" origin="" type="" />
-    <styles name="Semi-Sweet Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="semi-sweet-mead" origin="" type="" />
-    <styles name="Other Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-mead" origin="" type="" />
-    <styles name="Other Fruit Melomel" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-fruit-melomel" origin="" type="" />
-    <styles name="Sweet Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="sweet-mead" origin="" type="" />
-  </styles>
-  <styles name="Cider and Perry" id="cider-and-perry">
-    <styles name="Common Cider" ABVhi="8" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.065" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="common-cider" origin="" type="" />
-    <styles name="New England Cider" ABVhi="13" ABVlo="7" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.01" OGlo="1.06" SRMhi="0" SRMlo="0" from="BJCP" id="new-england-cider" origin="" type="" />
-    <styles name="English Cider" ABVhi="9" ABVlo="6" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.075" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="english-cider" origin="" type="" />
-    <styles name="Fruit Cider" ABVhi="9" ABVlo="5" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.07" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="fruit-cider" origin="" type="" />
-    <styles name="Applewine" ABVhi="12" ABVlo="9" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.1" OGlo="1.07" SRMhi="0" SRMlo="0" from="BJCP" id="applewine" origin="" type="" />
-    <styles name="French Cider" ABVhi="6" ABVlo="3" FGhi="1.02" FGlo="1.01" IBUhi="0" IBUlo="0" OGhi="1.065" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="french-cider" origin="" type="" />
-    <styles name="Common Perry" ABVhi="7" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.06" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="common-perry" origin="" type="" />
-    <styles name="Other Specialty Cider/Perry" ABVhi="12" ABVlo="5" FGhi="1.02" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.1" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="other-specialty-cider-perry" origin="" type="" />
-    <styles name="Traditional Perry" ABVhi="9" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.07" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="traditional-perry" origin="" type="" />
-  </styles>
-</beerstyles>
+<?xml version="1.0" encoding="UTF-8"?>
+<styles>
+  <style name="Lager" id="lager">
+	  <style name="Light Lager" id="light-lager">
+	    <style name="American Light Lager" ABVhi="4.2" ABVlo="2.8" FGhi="1.008" FGlo="0.998" IBUhi="12" IBUlo="8" OGhi="1.04" OGlo="1.028" SRMhi="3" SRMlo="2" from="BJCP" id="american-light-lager" origin="American" type="Lager"/>
+	    <style name="American Standard Lager" ABVhi="5.3" ABVlo="4.2" FGhi="1.01" FGlo="1.004" IBUhi="15" IBUlo="8" OGhi="1.05" OGlo="1.04" SRMhi="4" SRMlo="2" from="BJCP" id="american-standard-lager" origin="American" type="Lager"/>
+	    <style name="American Premium Lager" ABVhi="6" ABVlo="4.6" FGhi="1.012" FGlo="1.008" IBUhi="25" IBUlo="15" OGhi="1.056" OGlo="1.046" SRMhi="6" SRMlo="2" from="BJCP" id="american-premium-lager" origin="American" type="Lager"/>
+	    <style name="American Ice Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-ice-lager" origin="American" type="Lager"/>
+	    <style name="American Malt Liquor" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-malt-liquor" origin="American" type="Lager"/>
+	    <style name="American Light Amber Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-light-amber-lager" origin="American" type="Lager"/>
+	    <style name="Munich Helles" ABVhi="5.4" ABVlo="4.7" FGhi="1.012" FGlo="1.008" IBUhi="22" IBUlo="16" OGhi="1.051" OGlo="1.045" SRMhi="5" SRMlo="3" from="BJCP" id="munich-helles" origin="German" type="Lager"/>
+	    <style name="Dortmunder Export" ABVhi="6" ABVlo="4.8" FGhi="1.015" FGlo="1.01" IBUhi="30" IBUlo="23" OGhi="1.056" OGlo="1.048" SRMhi="6" SRMlo="4" from="BJCP" id="dortmunder-export" origin="German" type="Lager"/>
+	    <style name="European Light Lager/German Leicht" ABVhi="3.6" ABVlo="2.5" FGhi="1.01" FGlo="1.006" IBUhi="24" IBUlo="16" OGhi="1.034" OGlo="1.026" SRMhi="4" SRMlo="2" from="Brewers Assoc" id="european-light-lager-german-leicht" origin="German" type="Lager"/>
+	    <style name="Australasian, Latin American or Tropical Light Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="australasian-latin-american-or-tropical-light-lager" origin="Other" type="Lager"/>
+	  </style>
+	  <style name="Pilsner" id="pilsner">
+	    <style name="German Pilsner" ABVhi="5.2" ABVlo="4" FGhi="1.013" FGlo="1.006" IBUhi="45" IBUlo="25" OGhi="1.05" OGlo="1.044" SRMhi="5" SRMlo="2" from="Both" id="german-pilsner" origin="German" type="Lager"/>
+	    <style name="Bohemian Pilsner" ABVhi="5.4" ABVlo="4" FGhi="1.02" FGlo="1.013" IBUhi="45" IBUlo="30" OGhi="1.056" OGlo="1.044" SRMhi="7" SRMlo="3" from="Both" id="bohemian-pilsner" origin="German" type="Lager"/>
+	    <style name="American Pilsner" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.01" IBUhi="40" IBUlo="25" OGhi="1.06" OGlo="1.044" SRMhi="6" SRMlo="3" from="BJCP" id="american-pilsner" origin="American" type="Lager"/>
+	    <style name="International Pilsner" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="international-pilsner" origin="Other" type="Lager"/>
+	  </style>
+	  <style name="Amber Lager" id="amber-lager">
+	    <style name="Vienna Lager" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.01" IBUhi="30" IBUlo="18" OGhi="1.052" OGlo="1.046" SRMhi="16" SRMlo="10" from="BJCP" id="vienna-lager" origin="German" type="Lager"/>
+	    <style name="German Oktoberfest/Märzen" ABVhi="5.7" ABVlo="4.8" FGhi="1.016" FGlo="1.012" IBUhi="28" IBUlo="20" OGhi="1.057" OGlo="1.05" SRMhi="14" SRMlo="7" from="BJCP" id="german-oktoberfest-marzen" origin="German" type="Lager"/>
+	    <style name="American Amber Lager" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-amber-lager" origin="American" type="Lager"/>
+	    <style name="American Oktoberfest/Märzen" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-oktoberfest-marzen" origin="American" type="Lager"/>
+	  </style>
+	  <style name="Dark Lager" id="dark-lager">
+	    <style name="American Dark Lager" ABVhi="6" ABVlo="4.2" FGhi="1.012" FGlo="1.008" IBUhi="20" IBUlo="8" OGhi="1.056" OGlo="1.044" SRMhi="22" SRMlo="14" from="BJCP" id="american-dark-lager" origin="American" type="Lager"/>
+	    <style name="European Dark Lager/Munich Dunkel" ABVhi="5.6" ABVlo="4.5" FGhi="1.016" FGlo="1.01" IBUhi="28" IBUlo="18" OGhi="1.056" OGlo="1.048" SRMhi="28" SRMlo="14" from="BJCP" id="european-dark-lager-munich-dunkel" origin="German" type="Lager"/>
+	    <style name="German Black Lager/Schwarzbier" ABVhi="5.4" ABVlo="4.4" FGhi="1.016" FGlo="1.01" IBUhi="32" IBUlo="22" OGhi="1.052" OGlo="1.046" SRMhi="30" SRMlo="17" from="BJCP" id="german-black-lager-schwarzbier" origin="German" type="Lager"/>
+	  </style>
+	  <style name="Bock" id="bock">
+	    <style name="Maibock/Helles Bock" ABVhi="7.4" ABVlo="6.3" FGhi="1.018" FGlo="1.011" IBUhi="35" IBUlo="23" OGhi="1.072" OGlo="1.064" SRMhi="11" SRMlo="6" from="BJCP" id="maibock-helles-bock" origin="German" type="Lager"/>
+	    <style name="Traditional Bock" ABVhi="7.2" ABVlo="6.3" FGhi="1.019" FGlo="1.013" IBUhi="27" IBUlo="20" OGhi="1.072" OGlo="1.064" SRMhi="22" SRMlo="14" from="BJCP" id="traditional-bock" origin="German" type="Lager"/>
+	    <style name="Doppelbock" ABVhi="10" ABVlo="7" FGhi="1.024" FGlo="1.016" IBUhi="26" IBUlo="16" OGhi="1.112" OGlo="1.072" SRMhi="25" SRMlo="6" from="BJCP" id="doppelbock" origin="German" type="Lager"/>
+	    <style name="Eisbock" ABVhi="14" ABVlo="9" FGhi="1.035" FGlo="1.02" IBUhi="35" IBUlo="25" OGhi="1.12" OGlo="1.078" SRMhi="30" SRMlo="18" from="BJCP" id="eisbock" origin="German" type="Lager"/>
+	  </style>
+  </style>
+  <style name="Lager/Ale Hybrid" id="hybrid">
+    <style name="Session Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="session-beer" origin="Other" type="Hybrid"/>
+    <style name="Cream Ale" ABVhi="5.6" ABVlo="4.2" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="15" OGhi="1.055" OGlo="1.042" SRMhi="5" SRMlo="2" from="BJCP" id="cream-ale" origin="American" type="Hybrid"/>
+    <style name="American Golden/Blonde Ale" ABVhi="5.5" ABVlo="3.8" FGhi="1.016" FGlo="1.008" IBUhi="28" IBUlo="15" OGhi="1.056" OGlo="1.038" SRMhi="7" SRMlo="3" from="Both" id="american-golden-blonde-ale" origin="American" type="Ale"/>
+    <style name="Japanese Sake-Yeast Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="japanese-sake-yeast-beer" origin="Other" type="Hybrid"/>
+    <style name="Kölsch" ABVhi="5.3" ABVlo="4.4" FGhi="1.011" FGlo="1.006" IBUhi="30" IBUlo="18" OGhi="1.05" OGlo="1.042" SRMhi="6" SRMlo="3" from="Both" id="k-lsch" origin="German" type="Ale"/>
+    <style name="American Light Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-light-wheat-beer" origin="American" type="Ale"/>
+    <style name="American Dark Wheat Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-dark-wheat-beer" origin="American" type="Ale"/>
+    <style name="American Wheat Beer" ABVhi="5.5" ABVlo="4" FGhi="1.013" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.055" OGlo="1.04" SRMhi="6" SRMlo="3" from="BJCP" id="american-wheat-beer" origin="American" type="Ale"/>
+    <style name="American Rye Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="american-rye-beer" origin="American" type="Ale"/>
+    <style name="California Common/Steam Beer" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.011" IBUhi="45" IBUlo="30" OGhi="1.054" OGlo="1.048" SRMhi="14" SRMlo="10" from="BJCP" id="california-common-steam-beer" origin="American" type="Hybrid"/>
+    <style name="German Brown Ale/Altbier" ABVhi="5.5" ABVlo="4.3" FGhi="1.015" FGlo="1.008" IBUhi="52" IBUlo="25" OGhi="1.054" OGlo="1.044" SRMhi="19" SRMlo="11" from="Both" id="german-brown-ale-altbier" origin="German" type="Hybrid"/>
+    <style name="Kellerbier or Zwickelbier" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="kellerbier-or-zwickelbier" origin="German" type="Ale"/>
+    <style name="Miscellaneous" id="miscellaneous">
+      <style name="Other Specialty Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-specialty-beer" origin="Other" type="Hybrid"/>
+      <style name="Experimental Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="experimental-beer" origin="Other" type="Hybrid"/>
+      <style name="Aged Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="aged-beer" origin="Other" type="Hybrid"/>
+      <style name="Non-Alcoholic Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="non-alcoholic-beer" origin="Other" type="Hybrid"/>
+      <style name="International Pale Ale" ABVhi="5.5" ABVlo="4.5" FGhi="1.014" FGlo="1.008" IBUhi="42" IBUlo="30" OGhi="1.05" OGlo="1.044" SRMhi="14" SRMlo="6" from="Brewers Assoc" id="international-pale-ale" origin="Other" type="Hybrid"/>
+    <style name="Australian Pale Ale" ABVhi="6.2" ABVlo="4.2" FGhi="1.012" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="14" SRMlo="5" from="Brewers Assoc" id="australian-pale-ale" origin="Other" type="Hybrid"/>
+    </style>
+  </style>
+  <style name="Ale" id="ale">
+	  <style name="English Ale" id="english-ale">
+	    <style name="English Pale Ale" ABVhi="5.5" ABVlo="4.5" FGhi="1.016" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.056" OGlo="1.04" SRMhi="14" SRMlo="5" from="Brewers Assoc" id="english-pale-ale" origin="British" type="Ale"/>
+	    <style name="Standard/Ordinary Bitter" ABVhi="4.1" ABVlo="3" FGhi="1.012" FGlo="1.007" IBUhi="35" IBUlo="20" OGhi="1.04" OGlo="1.032" SRMhi="14" SRMlo="4" from="Both" id="standard-ordinary-bitter" origin="British" type="Ale"/>
+	    <style name="Special/Best/Premium Bitter" ABVhi="4.8" ABVlo="3.8" FGhi="1.012" FGlo="1.008" IBUhi="40" IBUlo="25" OGhi="1.048" OGlo="1.038" SRMhi="16" SRMlo="5" from="Both" id="special-best-premium-bitter" origin="British" type="Ale"/>
+	    <style name="Extra Special/Strong Bitter (ESB)" ABVhi="6.2" ABVlo="4.1" FGhi="1.016" FGlo="1.006" IBUhi="50" IBUlo="28" OGhi="1.06" OGlo="1.038" SRMhi="18" SRMlo="6" from="beer colors" id="extra-special-strong-bitter-esb" origin="British" type="Ale"/>
+	    <style name="English Summer Ale" ABVhi="5" ABVlo="3.6" FGhi="1.012" FGlo="1.006" IBUhi="35" IBUlo="20" OGhi="1.05" OGlo="1.036" SRMhi="6" SRMlo="4" from="Brewers Assoc" id="english-summer-ale" origin="British" type="Ale"/>
+	    <style name="English Brown Ale" ABVhi="5.5" ABVlo="2.8" FGhi="1.014" FGlo="1.008" IBUhi="30" IBUlo="12" OGhi="1.052" OGlo="1.033" SRMhi="35" SRMlo="12" from="Both" id="english-brown-ale" origin="British" type="Ale"/>
+	    <style name="Pale Mild" ABVhi="4.5" ABVlo="2.8" FGhi="1.013" FGlo="1.004" IBUhi="25" IBUlo="10" OGhi="1.038" OGlo="1.03" SRMhi="25" SRMlo="8" from="Both" id="pale-mild" origin="British" type="Ale"/>
+	    <style name="Dark Mild" ABVhi="4" ABVlo="3.2" FGhi="1.008" FGlo="1.004" IBUhi="24" IBUlo="10" OGhi="1.036" OGlo="1.03" SRMhi="34" SRMlo="17" from="Brewers Assoc" id="dark-mild" origin="British" type="Ale"/>
+	  </style>
+	  <style name="Scottish and Irish Ale" id="scottish-and-irish-ale">
+	    <style name="Scottish Light Ale 60/-" ABVhi="3.5" ABVlo="2.5" FGhi="1.013" FGlo="1.006" IBUhi="20" IBUlo="9" OGhi="1.035" OGlo="1.03" SRMhi="17" SRMlo="8" from="Both" id="scottish-light-ale-60" origin="British" type="Ale"/>
+	    <style name="Scottish Heavy Ale 70/-" ABVhi="4" ABVlo="3.2" FGhi="1.015" FGlo="1.01" IBUhi="25" IBUlo="10" OGhi="1.04" OGlo="1.035" SRMhi="19" SRMlo="9" from="Both" id="scottish-heavy-ale-70" origin="British" type="Ale"/>
+	    <style name="Scottish Export Ale 80/-" ABVhi="5.3" ABVlo="3.9" FGhi="1.018" FGlo="1.01" IBUhi="30" IBUlo="15" OGhi="1.054" OGlo="1.04" SRMhi="19" SRMlo="9" from="Both" id="scottish-export-ale-80" origin="British" type="Ale"/>
+	    <style name="Irish Red Ale" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.01" IBUhi="28" IBUlo="17" OGhi="1.06" OGlo="1.04" SRMhi="18" SRMlo="9" from="Both" id="irish-red-ale" origin="Irish" type="Ale"/>
+	    <style name="Strong Scotch Ale/Wee Heavy" ABVhi="8" ABVlo="6.2" FGhi="1.056" FGlo="1.016" IBUhi="35" IBUlo="17" OGhi="1.13" OGlo="1.07" SRMhi="30" SRMlo="14" from="BJCP" id="strong-scotch-ale-wee-heavy" origin="British" type="Ale"/>
+		</style>
+	  <style name="American Ale" id="american-ale">
+	    <style name="American Pale Ale" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.008" IBUhi="45" IBUlo="30" OGhi="1.06" OGlo="1.044" SRMhi="14" SRMlo="5" from="Both" id="american-pale-ale" origin="American" type="Ale"/>
+	    <style name="American Amber Ale" ABVhi="6" ABVlo="4.5" FGhi="1.015" FGlo="1.01" IBUhi="40" IBUlo="25" OGhi="1.06" OGlo="1.045" SRMhi="17" SRMlo="10" from="BJCP" id="american-amber-ale" origin="American" type="Ale"/>
+	    <style name="American Brown Ale" ABVhi="604" ABVlo="4" FGhi="1.018" FGlo="1.01" IBUhi="45" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="35" SRMlo="15" from="Both" id="american-brown-ale" origin="American" type="Ale"/>
+	    <style name="Fresh Hop Ale" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="fresh-hop-ale" origin="American" type="Ale"/>
+	    <style name="American-Belgian Pale Ale" ABVhi="12.4" ABVlo="4.4" FGhi="1.014" FGlo="1.008" IBUhi="100" IBUlo="30" OGhi="1.099" OGlo="1.05" SRMhi="15" SRMlo="5" from="Brewers Assoc" id="american-belgian-pale-ale" origin="American" type="Ale"/>
+	    <style name="American-Belgian Dark Ale" ABVhi="12.4" ABVlo="4.4" FGhi="1.014" FGlo="1.008" IBUhi="100" IBUlo="30" OGhi="1.099" OGlo="1.05" SRMhi="40" SRMlo="16" from="Brewers Assoc" id="american-belgian-dark-ale" origin="American" type="Ale"/>
+	    <style name="American Red Ale" ABVhi="6" ABVlo="4.5" FGhi="1.018" FGlo="1.012" IBUhi="40" IBUlo="30" OGhi="1.058" OGlo="1.048" SRMhi="18" SRMlo="11" from="Brewers Assoc" id="american-red-ale" origin="American" type="Ale"/>
+	    <style name="Imperial Red Ale" ABVhi="10.5" ABVlo="7.9" FGhi="1.028" FGlo="1.02" IBUhi="85" IBUlo="55" OGhi="1.1" OGlo="1.08" SRMhi="15" SRMlo="10" from="Brewers Assoc" id="imperial-red-ale" origin="American" type="Ale"/>
+	  </style>
+	  <style name="Porter" id="porter">
+	    <style name="Brown Porter" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.006" IBUhi="35" IBUlo="18" OGhi="1.052" OGlo="1.04" SRMhi="35" SRMlo="20" from="Both" id="brown-porter" origin="British" type="Ale"/>
+	    <style name="Robust Porter" ABVhi="6.5" ABVlo="4" FGhi="1.016" FGlo="1.008" IBUhi="50" IBUlo="25" OGhi="1.065" OGlo="1.045" SRMhi="40" SRMlo="22" from="Both" id="robust-porter" origin="British" type="Ale"/>
+	    <style name="Baltic Porter" ABVhi="9.5" ABVlo="5.5" FGhi="1.024" FGlo="1.016" IBUhi="40" IBUlo="20" OGhi="1.09" OGlo="1.06" SRMhi="30" SRMlo="17" from="BJCP" id="baltic-porter" origin="British" type="Ale"/>
+	  </style>
+	  <style name="Stout" id="stout">
+	    <style name="Dry Stout" ABVhi="5" ABVlo="4" FGhi="1.011" FGlo="1.007" IBUhi="45" IBUlo="30" OGhi="1.05" OGlo="1.036" SRMhi="40" SRMlo="25" from="BJCP" id="dry-stout" origin="British" type="Ale"/>
+	    <style name="Sweet Stout" ABVhi="6" ABVlo="3" FGhi="1.024" FGlo="1.012" IBUhi="40" IBUlo="15" OGhi="1.06" OGlo="1.044" SRMhi="40" SRMlo="30" from="Both" id="sweet-stout" origin="British" type="Ale"/>
+	    <style name="Oatmeal Stout" ABVhi="6" ABVlo="3.8" FGhi="1.02" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.065" OGlo="1.038" SRMhi="40" SRMlo="20" from="Both" id="oatmeal-stout" origin="British" type="Ale"/>
+	    <style name="Foreign Extra Stout" ABVhi="9.3" ABVlo="5.5" FGhi="1.02" FGlo="1.008" IBUhi="70" IBUlo="30" OGhi="1.075" OGlo="1.052" SRMhi="40" SRMlo="30" from="Both" id="foreign-extra-stout" origin="British" type="Ale"/>
+	    <style name="American Stout" ABVhi="8.8" ABVlo="5" FGhi="1.022" FGlo="1.01" IBUhi="75" IBUlo="35" OGhi="1.075" OGlo="1.05" SRMhi="40" SRMlo="30" from="Both" id="american-stout" origin="American" type="Ale"/>
+	    <style name="Russian Imperial Stout" ABVhi="12" ABVlo="8" FGhi="1.03" FGlo="1.018" IBUhi="90" IBUlo="50" OGhi="1.0115" OGlo="1.075" SRMhi="40" SRMlo="30" from="BJCP" id="russian-imperial-stout" origin="British" type="Ale"/>
+	    <style name="English Imperial Stout" ABVhi="12" ABVlo="7" FGhi="1.03" FGlo="1.02" IBUhi="65" IBUlo="45" OGhi="1.1" OGlo="1.08" SRMhi="40" SRMlo="20" from="Brewers Assoc" id="english-imperial-stout" origin="British" type="Ale"/>
+	    <style name="American Imperial Stout" ABVhi="12" ABVlo="7" FGhi="1.03" FGlo="1.02" IBUhi="80" IBUlo="50" OGhi="1.1" OGlo="1.08" SRMhi="40" SRMlo="40" from="Brewers Assoc" id="american-imperial-stout" origin="American" type="Ale"/>
+	    <style name="Irish Dry Stout" ABVhi="5" ABVlo="2.8" FGhi="1.012" FGlo="1.008" IBUhi="40" IBUlo="30" OGhi="1.048" OGlo="1.038" SRMhi="40" SRMlo="40" from="Brewers Assoc" id="irish-dry-stout" origin="Irish" type="Ale"/>
+	  </style>
+	  <style name="India Pale Ale" id="india-pale-ale">
+	    <style name="English IPA" ABVhi="7.5" ABVlo="5" FGhi="1.018" FGlo="1.01" IBUhi="63" IBUlo="35" OGhi="1.075" OGlo="1.05" SRMhi="14" SRMlo="6" from="Both" id="english-ipa" origin="British" type="Ale"/>
+	    <style name="American IPA" ABVhi="7.5" ABVlo="5.5" FGhi="1.018" FGlo="1.01" IBUhi="70" IBUlo="40" OGhi="1.075" OGlo="1.056" SRMhi="15" SRMlo="6" from="Both" id="american-ipa" origin="American" type="Ale"/>
+	    <style name="Imperial IPA" ABVhi="10.5" ABVlo="7.5" FGhi="1.028" FGlo="1.01" IBUhi="120" IBUlo="60" OGhi="1.1" OGlo="1.075" SRMhi="15" SRMlo="5" from="Both" id="imperial-ipa" origin="American" type="Ale"/>
+	  </style>
+	  <style name="German Wheat and Rye" id="german-wheat-and-rye">
+	    <style name="German Wheat Ale/Weisse" ABVhi="5.6" ABVlo="4.3" FGhi="1.014" FGlo="1.01" IBUhi="15" IBUlo="8" OGhi="1.052" OGlo="1.044" SRMhi="8" SRMlo="2" from="BJCP" id="german-wheat-ale-weisse" origin="German" type="Ale"/>
+	    <style name="German Dark Wheat/Dunkel Weizen" ABVhi="5.6" ABVlo="4.3" FGhi="1.016" FGlo="1.008" IBUhi="18" IBUlo="10" OGhi="1.056" OGlo="1.044" SRMhi="23" SRMlo="10" from="Both" id="german-dark-wheat-dunkel-weizen" origin="German" type="Ale"/>
+	    <style name="German Weizenbock" ABVhi="9.3" ABVlo="6.5" FGhi="1.028" FGlo="1.015" IBUhi="30" IBUlo="15" OGhi="1.09" OGlo="1.064" SRMhi="30" SRMlo="5" from="Both" id="german-weizenbock" origin="German" type="Ale"/>
+	    <style name="German Rye Ale/Roggenbier" ABVhi="6" ABVlo="4.5" FGhi="1.014" FGlo="1.01" IBUhi="20" IBUlo="10" OGhi="1.056" OGlo="1.046" SRMhi="19" SRMlo="14" from="BJCP" id="german-rye-ale-roggenbier" origin="German" type="Ale"/>
+	    <style name="German Hefeweizen" ABVhi="5.5" ABVlo="4.9" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.047" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="german-hefeweizen" origin="German" type="Ale"/>
+	    <style name="Kristal Weizen" ABVhi="5.5" ABVlo="4.9" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.047" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="kristal-weizen" origin="German" type="Ale"/>
+	    <style name="Leichtes Weizen" ABVhi="3.5" ABVlo="2.5" FGhi="1.008" FGlo="1.004" IBUhi="20" IBUlo="10" OGhi="1.044" OGlo="1.028" SRMhi="15" SRMlo="3" from="Brewers Assoc" id="leichtes-weizen" origin="German" type="Ale"/>
+	    <style name="Amber Wheat/Bernsteinfarbenes Weizen" ABVhi="504" ABVlo="4.8" FGhi="1.016" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.048" SRMhi="13" SRMlo="9" from="Brewers Assoc" id="amber-wheat-bernsteinfarbenes-weizen" origin="German" type="Ale"/>
+	  </style>
+	  <style name="Belgian and French Ale" id="belgian-and-french-ale">
+	    <style name="Belgian Wheat/White/Wit" ABVhi="5.5" ABVlo="4.5" FGhi="1.012" FGlo="1.006" IBUhi="20" IBUlo="10" OGhi="1.052" OGlo="1.044" SRMhi="4" SRMlo="2" from="Both" id="belgian-wheat-white-wit" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Pale Ale" ABVhi="6" ABVlo="4" FGhi="1.014" FGlo="1.008" IBUhi="30" IBUlo="20" OGhi="1.054" OGlo="1.044" SRMhi="14" SRMlo="4" from="Both" id="belgian-pale-ale" origin="Belgian" type="Ale"/>
+	    <style name="Saison" ABVhi="8.5" ABVlo="4.5" FGhi="1.016" FGlo="1.002" IBUhi="40" IBUlo="20" OGhi="1.08" OGlo="1.048" SRMhi="14" SRMlo="4" from="Both" id="saison" origin="Belgian" type="Ale"/>
+	    <style name="Bière de Garde" ABVhi="8.5" ABVlo="4.5" FGhi="1.024" FGlo="1.008" IBUhi="30" IBUlo="18" OGhi="1.08" OGlo="1.06" SRMhi="19" SRMlo="6" from="Both" id="bi-re-de-garde" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Specialty Ale" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="Both" id="belgian-specialty-ale" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Table Beer" ABVhi="3.5" ABVlo="0.5" FGhi="1.034" FGlo="1.007" IBUhi="15" IBUlo="5" OGhi="1.038" OGlo="1.008" SRMhi="50" SRMlo="5" from="Brewers Assoc" id="belgian-table-beer" origin="Belgian" type="Ale"/>
+	  </style>
+	  <style name="Sour Ale" id="sour-ale">
+	    <style name="Berliner Weisse" ABVhi="3.8" ABVlo="2.8" FGhi="1.006" FGlo="1.003" IBUhi="8" IBUlo="3" OGhi="1.032" OGlo="1.028" SRMhi="4" SRMlo="2" from="Both" id="berliner-weisse" origin="German" type="Ale"/>
+	    <style name="Flanders Red Ale/Oud Red" ABVhi="6.5" ABVlo="4.6" FGhi="1.012" FGlo="1.002" IBUhi="25" IBUlo="10" OGhi="1.057" OGlo="1.048" SRMhi="16" SRMlo="10" from="BJCP" id="flanders-red-ale-oud-red" origin="Belgian" type="Ale"/>
+	    <style name="Flanders Brown Ale/Oud Bruin" ABVhi="8" ABVlo="4" FGhi="1.012" FGlo="1.008" IBUhi="25" IBUlo="20" OGhi="1.074" OGlo="1.04" SRMhi="22" SRMlo="15" from="BJCP" id="flanders-brown-ale-oud-bruin" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Straight (Unblended) Lambic" ABVhi="8.1" ABVlo="5" FGhi="1.01" FGlo="1" IBUhi="23" IBUlo="0" OGhi="1.056" OGlo="1.04" SRMhi="13" SRMlo="3" from="Both" id="belgian-straight-unblended-lambic" origin="Belgian" type="Ale"/>
+	    <style name="Gueuze" ABVhi="8.6" ABVlo="5" FGhi="1.01" FGlo="1" IBUhi="23" IBUlo="0" OGhi="1.06" OGlo="1.04" SRMhi="13" SRMlo="3" from="Both" id="gueuze" origin="Belgian" type="Ale"/>
+	    <style name="Fruit Lambic" ABVhi="8.6" ABVlo="5" FGhi="1.016" FGlo="1" IBUhi="21" IBUlo="0" OGhi="1.072" OGlo="1.04" SRMhi="0" SRMlo="0" from="Brewers Assoc" id="fruit-lambic" origin="Belgian" type="Ale"/>
+	    <style name="American Sour Ale (Fruit &amp; Unfruited)" ABVhi="8.7" ABVlo="4" FGhi="1.012" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.06" OGlo="1.04" SRMhi="26" SRMlo="6" from="Brewers Assoc" id="american-sour-ale-fruit-unfruited" origin="American" type="Ale"/>
+	    <style name="Leipzig Gose" ABVhi="5.4" ABVlo="4.4" FGhi="1.012" FGlo="1.008" IBUhi="15" IBUlo="10" OGhi="1.056" OGlo="1.036" SRMhi="9" SRMlo="3" from="Brewers Assoc" id="leipzig-gose" origin="German" type="Ale"/>
+	  </style>
+	  <style name="Strong Ale" id="strong-ale">
+	    <style name="Belgian Blonde Ale" ABVhi="7.8" ABVlo="6" FGhi="1.018" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.075" OGlo="1.054" SRMhi="10" SRMlo="4" from="Both" id="belgian-blonde-ale" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Dubbel" ABVhi="7.6" ABVlo="6" FGhi="1.018" FGlo="1.008" IBUhi="30" IBUlo="15" OGhi="1.075" OGlo="1.06" SRMhi="36" SRMlo="10" from="Both" id="belgian-dubbel" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Tripel" ABVhi="10" ABVlo="7" FGhi="1.018" FGlo="1.008" IBUhi="40" IBUlo="20" OGhi="1.092" OGlo="1.07" SRMhi="9" SRMlo="4" from="Both" id="belgian-tripel" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Pale/Golden Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.024" FGlo="1.005" IBUhi="50" IBUlo="20" OGhi="1.096" OGlo="1.064" SRMhi="10" SRMlo="3" from="Both" id="belgian-pale-golden-strong-ale" origin="Belgian" type="Ale"/>
+	    <style name="Belgian Dark Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.024" FGlo="1.01" IBUhi="50" IBUlo="20" OGhi="1.096" OGlo="1.064" SRMhi="35" SRMlo="7" from="Both" id="belgian-dark-strong-ale" origin="Belgian" type="Ale"/>
+	    <style name="English Old Ale" ABVhi="9" ABVlo="6" FGhi="1.03" FGlo="1.014" IBUhi="65" IBUlo="30" OGhi="1.09" OGlo="1.058" SRMhi="30" SRMlo="10" from="Both" id="english-old-ale" origin="British" type="Ale"/>
+	    <style name="English Strong Ale" ABVhi="11" ABVlo="7" FGhi="1.04" FGlo="1.014" IBUhi="65" IBUlo="30" OGhi="1.125" OGlo="1.06" SRMhi="21" SRMlo="8" from="Brewers Assoc" id="english-strong-ale" origin="British" type="Ale"/>
+	    <style name="English Barleywine" ABVhi="12" ABVlo="8" FGhi="1.032" FGlo="1.018" IBUhi="70" IBUlo="35" OGhi="1.12" OGlo="1.08" SRMhi="22" SRMlo="8" from="Both" id="english-barleywine" origin="British" type="Ale"/>
+	    <style name="American Barleywine" ABVhi="12" ABVlo="8" FGhi="1.032" FGlo="1.016" IBUhi="120" IBUlo="50" OGhi="1.12" OGlo="1.08" SRMhi="22" SRMlo="10" from="Both" id="american-barleywine" origin="American" type="Ale"/>
+	    <style name="American Wheat Wine" ABVhi="12" ABVlo="8.4" FGhi="1.032" FGlo="1.024" IBUhi="85" IBUlo="45" OGhi="1.12" OGlo="1.088" SRMhi="15" SRMlo="8" from="Brewers Assoc" id="american-wheat-wine" origin="American" type="Ale"/>
+	    <style name="American Strong Pale Ale" ABVhi="6.3" ABVlo="5.5" FGhi="1.16" FGlo="1.008" IBUhi="50" IBUlo="40" OGhi="1.06" OGlo="1.05" SRMhi="14" SRMlo="6" from="Brewers Assoc" id="american-strong-pale-ale" origin="American" type="Ale"/>
+	  </style>
+	  <style name="Spice, Fruit, and Vegetable Beer" id="spice-fruit-and-vegetable-beer">
+	    <style name="Fruit Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="fruit-beer" origin="Other" type="Ale"/>
+	    <style name="Herb and Spice Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="herb-and-spice-beer" origin="Other" type="Ale"/>
+	    <style name="Winter Specialty Spiced" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="winter-specialty-spiced" origin="Other" type="Ale"/>
+	    <style name="Chocolate/Cocoa Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="chocolate-cocoa-beer" origin="Other" type="Ale"/>
+	    <style name="Coffee-Flavored Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="coffee-flavored-beer" origin="Other" type="Ale"/>
+	    <style name="Honey Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="honey-beer" origin="Other" type="Ale"/>
+	    <style name="Field/Vegetable Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="field-vegetable-beer" origin="Other" type="Ale"/>
+	    <style name="Gluten-Free Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="gluten-free-beer" origin="Other" type="Ale"/>
+	    <style name="Pumpkin Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="pumpkin-beer" origin="Other" type="Ale"/>
+	  </style>
+	  <style name="Smoke and Wood-Aged Beer" id="smoke-and-wood-aged-beer">
+	    <style name="German Smoke Beer/Rauchbier" ABVhi="6" ABVlo="4.8" FGhi="1.016" FGlo="1.008" IBUhi="30" IBUlo="10" OGhi="1.057" OGlo="1.047" SRMhi="22" SRMlo="4" from="Both" id="german-smoke-beer-rauchbier" origin="German" type="Ale"/>
+	    <style name="Other Smoked Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-smoked-beer" origin="Other" type="Ale"/>
+	    <style name="Other Wood-Aged Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-wood-aged-beer" origin="Other" type="Ale"/>
+	    <style name="Wood-Aged Pale to Amber Beer" ABVhi="8.7" ABVlo="5" FGhi="1.014" FGlo="1.006" IBUhi="40" IBUlo="20" OGhi="1.05" OGlo="1.04" SRMhi="40" SRMlo="20" from="Brewers Assoc" id="wood-aged-pale-to-amber-beer" origin="Other" type="Ale"/>
+	    <style name="Smoke Porter" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="smoke-porter" origin="American" type="Ale"/>
+	    <style name="Wood-Aged Dark Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-dark-beer" origin="Other" type="Ale"/>
+	    <style name="Wood-Aged Strong Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-strong-beer" origin="Other" type="Ale"/>
+	    <style name="Wood-Aged Sour Beer" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="" id="wood-aged-sour-beer" origin="Other" type="Ale"/>
+	  </style>
+  </style>
+  <style name="Mead" id="mead">
+    <style name="Cyser (Apple Melomel)" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="cyser-apple-melomel" origin="" type=""/>
+    <style name="Dry Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="dry-mead" origin="" type=""/>
+    <style name="Metheglin" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="metheglin" origin="" type=""/>
+    <style name="Braggot" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="braggot" origin="" type=""/>
+    <style name="Pyment (Grape Melomel)" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="pyment-grape-melomel" origin="" type=""/>
+    <style name="Semi-Sweet Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="semi-sweet-mead" origin="" type=""/>
+    <style name="Other Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-mead" origin="" type=""/>
+    <style name="Other Fruit Melomel" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="other-fruit-melomel" origin="" type=""/>
+    <style name="Sweet Mead" ABVhi="0" ABVlo="0" FGhi="0" FGlo="0" IBUhi="0" IBUlo="0" OGhi="0" OGlo="0" SRMhi="0" SRMlo="0" from="BJCP" id="sweet-mead" origin="" type=""/>
+  </style>
+  <style name="Cider and Perry" id="cider-and-perry">
+    <style name="Common Cider" ABVhi="8" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.065" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="common-cider" origin="" type=""/>
+    <style name="New England Cider" ABVhi="13" ABVlo="7" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.01" OGlo="1.06" SRMhi="0" SRMlo="0" from="BJCP" id="new-england-cider" origin="" type=""/>
+    <style name="English Cider" ABVhi="9" ABVlo="6" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.075" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="english-cider" origin="" type=""/>
+    <style name="Fruit Cider" ABVhi="9" ABVlo="5" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.07" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="fruit-cider" origin="" type=""/>
+    <style name="Applewine" ABVhi="12" ABVlo="9" FGhi="1.01" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.1" OGlo="1.07" SRMhi="0" SRMlo="0" from="BJCP" id="applewine" origin="" type=""/>
+    <style name="French Cider" ABVhi="6" ABVlo="3" FGhi="1.02" FGlo="1.01" IBUhi="0" IBUlo="0" OGhi="1.065" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="french-cider" origin="" type=""/>
+    <style name="Common Perry" ABVhi="7" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.06" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="common-perry" origin="" type=""/>
+    <style name="Other Specialty Cider/Perry" ABVhi="12" ABVlo="5" FGhi="1.02" FGlo="0.995" IBUhi="0" IBUlo="0" OGhi="1.1" OGlo="1.045" SRMhi="0" SRMlo="0" from="BJCP" id="other-specialty-cider-perry" origin="" type=""/>
+    <style name="Traditional Perry" ABVhi="9" ABVlo="5" FGhi="1.02" FGlo="1" IBUhi="0" IBUlo="0" OGhi="1.07" OGlo="1.05" SRMhi="0" SRMlo="0" from="BJCP" id="traditional-perry" origin="" type=""/>
+  </style>
+</styles>

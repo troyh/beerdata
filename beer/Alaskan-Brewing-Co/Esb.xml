@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beer>
-  <id>Alaskan-Brewing-Co/Esb</id>
+<beer id="Alaskan-Brewing-Co/Esb">
   <brewery_id>Alaskan-Brewing-Co</brewery_id>
   <name>ESB</name>
-  <description/>
-  <availability/>
-  <ingredients/>
-  <grains/>
-  <grains/>
-  <hops/>
-  <yeast/>
-  <otherings/>
   <styles>
-    <style><name>Extra Special Bitter</name></style>
+    <style>
+      <name>Extra Special Bitter</name>
+    </style>
   </styles>
 </beer>
